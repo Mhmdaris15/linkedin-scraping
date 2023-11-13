@@ -25,6 +25,7 @@ class LinkedInBot:
         self.driver.implicitly_wait(10)
 
     def visit_profile(self, profile_url):
+        print("Hello")
         self.driver.get(profile_url)
 
     def search_job(self, job_name):
