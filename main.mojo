@@ -1,6 +1,8 @@
-import webdriver
-import requests
-from bs4 import BeautifulSoup
+from python import Python
+
+let webdriver = Python.import_module("webdriver")
+let requests = Python.import_module("requests")
+let BeautifulSoup = Python.import_module("BeautifulSoup")
 
 # Initialize Chrome driver
 driver = webdriver.Chrome()
