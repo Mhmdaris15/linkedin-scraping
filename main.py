@@ -1,8 +1,16 @@
 import os
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
-import requests
-from bs4 import BeautifulSoup
+import time
+
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+EMAIL_SYSTEM = os.getenv("EMAIL_SYSTEM")
+PASSWORD_SYSTEM = os.getenv("PASSWORD_SYSTEM")
 
 
 class LinkedInBot:
@@ -78,13 +86,11 @@ class LinkedInBot:
 
 # Example usage
 if __name__ == "__main__":
-    username = "rafinabil39@gmail.com"
-    password = "Z$jptLTvw4jd-&J"
     os.environ["PATH"] += os.pathsep + os.getcwd() + r"\ChromeDriver"
-    # print(os.environ["PATH"].split(";")[-1])
+    print(os.environ["PATH"].split(";")[-1])
     chrome_driver_path = os.environ["PATH"].split(";")[-1]
 
-    linkedin_bot = LinkedInBot(username, password)
+    linkedin_bot = LinkedInBot(EMAIL_SYSTEM, PASSWORD_SYSTEM)
 
     try:
         linkedin_bot.login()
@@ -99,6 +105,7 @@ if __name__ == "__main__":
         linkedin_bot.print_jobs(soup)
     except Exception as e:
         print(e)
+        linkedin_bot.scroll_down()
     finally:
         # linkedin_bot.close()
         input("End of the program!")
