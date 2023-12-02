@@ -48,35 +48,6 @@ class LinkedInBotC:
   def close(self) -> None:
     self.driver.quit()
 
-fn name():
-  let webdriver = Python.import_module("webdriver")
-  let requests = Python.import_module("requests")
-  let BeautifulSoup = Python.import_module("BeautifulSoup")
-
-  # Initialize Chrome driver
-  driver = webdriver.Chrome()
-
-  # Load environment variables
-  let email_system: String = os.getenv("EMAIL_SYSTEM")
-  let password_system: String = os.getenv("PASSWORD_SYSTEM")
-
-  chrome_driver_path = os.getcwd() + r"\ChromeDriver"
-  linkedin_bot = LinkedInBot(email_system, password_system)
-
-  try:
-    linkedin_bot.login()
-    linkedin_bot.search_job("Software Engineer")
-    linkedin_bot.scroll_down(10)
-    soup = linkedin_bot.soup_jobs(linkedin_bot.driver.current_url)
-    print(linkedin_bot.array_jobs(soup))
-    linkedin_bot.print_jobs(soup)
-  except Exception as e:
-    print(e)
-    linkedin_bot.scroll_down()
-
-  finally:
-    input("End of the program!")
-
 
 struct LinkedInBotS:
   var driver: webdriver.Driver
@@ -111,7 +82,7 @@ struct LinkedInBotS:
   fn soup_jobs(self, rhs: LinkedInBotS, endpoint: String) -> BeautifulSoup:
     let response = requests.get(endpoint)
     return BeautifulSoup(response.content, "html.parser")
-
+  
   fn array_jobs(self, rhs: LinkedInBotS, soup: BeautifulSoup) -> list[webdriver.WebElement]:
     let job_cards: list[webdriver.WebElement] = soup.find_all("div", class_="base-card")
     return job_cards
@@ -136,7 +107,7 @@ struct LinkedInBotS:
     self.close()
   
 
-fn main() -> None:
+fn main() raises:
   let webdriver = Python.import_module("webdriver")
   let requests = Python.import_module("requests")
   let BeautifulSoup = Python.import_module("BeautifulSoup")
