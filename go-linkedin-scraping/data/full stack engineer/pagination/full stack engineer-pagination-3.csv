@@ -1,0 +1,722 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,about_the_job
+3776032509,Senior Software Engineer (DevOps) - Engineering Platforms,htthttps://www.linkedin.com/jobs/view/3776032509,Gojek,https://www.linkedin.com/company/gojek/life," ",4 days ago,10,,On-site,,"1,001-5,000 employees · Technology, Information and Internet","About The Role
+
+At Engineering Platform, Gojek; we are looking for passionate engineers to join us in building a scalable platform-as-a-service (PaaS) on Kubernetes. The platform you are building is designed to power diverse applications across Gojek’s many business lines. Your expertise will be crucial in delivering a reliable, cost-effective, and enjoyable experience for the developers using our platform. If you enjoy creating tools for fellow developers and are comfortable dealing with high scale and complex distributed systems - this role will be a great fit.
+
+What You Will Do
+
+Build and manage a highly scalable, reliable and cost effective application infrastructure at Gojek, forming the backbone of our diverse distributed systems
+Be a role model in engineering excellence, helping Gojek engineers deliver top-quality applications without worrying about underlying infrastructure
+Enhance code quality and product performance through continuous improvement, innovation, and automation
+Collaborate and communicate effectively with teams across multiple geographies
+Share your knowledge and expertise to strengthen teams knowledge of the platform so they can support themselves
+Regularly refactor your work to maintain high-quality design and architecture following industry best practices
+
+What You Will Need
+
+At least 3-5 years of experience as an Engineer with exposure to infrastructure space
+Hands-on experience with container orchestration and cloud native infrastructure technologies such as Kubernetes and Docker in a production environment
+Knowledge of SRE, performance engineering tools and practices
+Foundational knowledge of Linux as a production environment and ability to troubleshoot issues
+Understanding of distributed systems fundamentals and ability to troubleshoot issues in a large-scale infrastructure
+Working knowledge of computer networking such as TCP/IP stack, load balancing, and various communication protocols
+Ability to write applications from scratch and effectively work in existing codebase in at least one object oriented or functional programming language (e.g. Java, Golang, Clojure, Python, Ruby etc)
+Familiarity with CI/CD pipelines and Infrastructure as Code tools: Terraform, ArgoCD, Helm etc is a plus.
+
+About The Team
+
+We are the heart of Gojek, the group that owns, improves, and manages Gojek's engineering productivity across the board. We are responsible for the pillars of technology, science, and strategy across engineering, powering over 500+ microservices at gojek. We leverage cutting edge technology in cloud computing managing real time high throughput systems with a wide range of programming stack. At the productivity team, we solve for the happiness of our customers who are Gojek Product Engineers. We do what we do by designing abstractions and automations.
+
+You are directly responsible for improving engineering quality and productivity and experience of engineers driving fundamental business KPI for the company.
+
+Gojek is an equal opportunity workplace that is committed to diversity and inclusion. At Gojek we celebrate our differences, because we believe that diversity not only creates a healthier work environment for our employees, but also helps our business thrive.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3778216972,"Application Developer – Avayas/Genesys (Bangkok-based, relocation provided)",htthttps://www.linkedin.com/jobs/view/3778216972,Agoda,https://www.linkedin.com/company/agoda/life," ",,0,,Full-time,,"5,001-10,000 employees · Software Development","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team: 
+
+The IT Infrastructure team operates all networks, servers, and storage platforms used to deliver services to Agoda’s customers. We support every product within the company, working with a wide range of systems and technology stacks. As part of the IT Infrastructure team, you’ll be working with over 25,000 server instances, one of the largest OpenStack private clouds in Asia, sophisticated Kubernetes-based compute engines, and a data platform capable of transporting and ingesting millions of data messages per second. Each of these opportunities – coupled with an open work environment – are a great way to gain experience on a modern and dynamic platform, constantly evolving to adapt to changes in the business landscape.
+
+The opportunity:
+
+In this role as Application Developer (Sr. System Engineer), you will lead the design, development and maintenance of advanced Contact Center solutions and Telephony Platform (Infrastructure) for a global contact center with approximately 2000 concurrent agents distributed across multiple locations of in-house agents and BPO agents (via VDI) around the world, leveraging your extensive software development expertise. This role involves not only technical proficiency but also leadership and mentoring responsibilities, guiding engineers on a virtual team with members located around the world.
+
+In this Role, You’ll Get to
+
+Lead the design of complex and strategic Contact center solutions, ensuring to align with the organization’s goals and customer experience objectives
+Develop and maintain custom contact center applications, features, integrations and automation
+Mentor and provide technical guidance to engineers, fostering their growth and development with documentation and knowledge sharing
+Ensure contact center solutions adhere to security best practices and compliance with data privacy regulations
+Lead efforts to optimize the performance of contact center systems and proactive monitoring for issues
+Collaborate with cross-functional teams, including network engineers, system administrators, operation teams, external vendors and a notion to business users to deliver integrated contact center solutions that meet business objectives
+Continuous Learning, stay updated with industry trends and emerging technologies related to contact center solution and development practices
+
+What You’ll Need To Succeed
+
+We require at least 5 years of experience in advanced Contact center solutions
+Significant experience in software development and programming, with focus on Contact center technologies
+Proven experience in software development, programming (e.g., Java, JavaScript, .NET) and scripting (eg., Powershell, Shell scripting)
+Strong knowledge of contact center technologies
+Exceptional problem solving and troubleshooting abilities
+Good communication and collaboration in English skills
+Good leadership and mentoring skill
+Attention to detail and commitment to quality
+
+It’s great if you have:
+
+Experience on RPA and AI development for contact center
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #makati #bangalore #gurgaon #pune #gurugram #hyderabad #noida #chennai #mumbai #delhi #newdelhi #kolkata #jaipur
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3684170322,Senior Associate Software Applications Development Engineer,htthttps://www.linkedin.com/jobs/view/3684170322,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",215,,Hybrid,,"10,001+ employees · IT Services and IT Consulting","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based or Internet-related computer programs. Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps or desktop applications products. Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications. Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based or Internet-related computer programs. Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps or desktop applications products. Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications. Completes documentation and procedures for installation and maintenance. May interact with users to define system requirements and/or necessary modifications.
+
+What will make you a good fit for the role?
+
+Standard career level descriptor for job level:
+
+ Develops professional experience
+ Applies policy and procedures to solve variety of issues
+ Problems are moderate in nature
+ Build productive internal and external working relationships
+ Receives general instructions on routine work
+ Receives detailed instructions on new work
+ Typically needs a Bachelor’s or equivalent and entry or basic level experience; or an advanced or equivalent degree without experience; or equivalent work experience."
+3766437213,.NET Developer (Medan),htthttps://www.linkedin.com/jobs/view/3766437213,VLink Inc,https://www.linkedin.com/company/vlink-inc/life," ",2 weeks ago,35,,On-site,,201-500 employees · IT Services and IT Consulting,"Job Requirements:
+Minimum D3 (Diploma) in Computer Engineering/Informatics/Electrical Engineering;
+Minimum 2 (two) years of experience in the field of developing main application systems, primarily ERP (not just website development);
+Proficiency and experience in developing application systems using .Net programming languages (ASP, VB, C#);
+Mastery of SQL Server database and the use of Stored Procedures;
+Proficiency in Crystal Report;
+Proficiency in other programming languages such as PHP or Javascript is a plus but not mandatory;
+Proficiency in other databases such as MySQL, PostgreSQL, SQL lite is a plus but not mandatory;
+Ability to analyze problems and provide solutions, high attention to detail, enthusiasm for learning new technologies, and the ability to work well both in a team and individually.
+Placement in Medan, North Sumatra"
+3759791052,Remote Full-stack JS Developer,htthttps://www.linkedin.com/jobs/view/3759791052,Scopic Software,https://www.linkedin.com/company/scopic-software/life," ",2 weeks ago,119,,Remote,,201-500 employees · Software Development,"Scopic is seeking a Full-stack JavaScript Developer with advanced JavaScript skills to join our team of 250+ professionals across 50 countries. The successful applicant will work with a team of talented PMs, developers, designers, and QAs to provide solutions and for industry-leading applications.
+
+Requirements
+
+ 3+ years of software development experience both backend and frontend
+ 2+ years of hands-on experience with modern frameworks (Angular, React, Vue.js...) and a good grasp of architectural styles and implementation patterns
+ Knowledge of web sockets, particularly socket.io
+ Proficiency in JavaScript is required and Node.js for the backend
+ Experience with TypeScript
+ Experience with build systems and tooling
+ Good knowledge and hands-on experience with HTML5/CSS
+ Knoweledge of at least one major *NIX platform (Linux, macOS, FreeBSD, etc.)
+ Familiarity with Backbone & Marionette.js
+ Proficient in Git
+ Proactive and willing to learn new stuff
+ Bachelor degree or equivalent experience
+
+The Secret Ingredients That Make Us Special
+
+ Your growth is our growth. We invest in your future with paid training and other professional opportunities.
+ We’re industry innovators at the forefront of change. Equipped with the latest technologies and a team of knowledgeable colleagues by your side, you’ll embrace new and interesting challenges.
+ Your location. Your schedule — Pick your time-zone, choose your preferred hours, and work from the place where you feel most at home.
+ Flexibility and freedom are in our DNA! As long as you have a stable internet connection and the drive to thrive, you can travel and work from anywhere you like.
+ A workload you can rely on. We’ll set you enough tasks to keep that mind busy! At Scopic, we’ll ensure you always have a consistent flow of engaging, challenging work to do.
+ Recognition and reward. We acknowledge diligence and hard work through annual pay increases for good performance.
+
+Down to business!
+
+ Rate Range: Negotiable depending on your skills, experience and your performance during our recruiting process.
+ This is a full-time position.
+ Direct communication with the client may be needed.
+
+Our Values
+
+Scopic offers equal opportunity. We value diversity and do not discriminate on the basis of race, religion, color, marital status, national origin, gender, veteran status, sexual orientation, age, or disability status.
+
+Have the skills, the drive, and the passion to join the Scopic family?
+
+Apply today to join our growing team of remote professionals from around the world.
+
+Attention Job Seekers: Please be aware that scammers may be fraudulently using our company's name in hiring scams. To ensure your safety, all legitimate communication regarding job opportunities from our company will only come from email addresses ending with [at]scopicsoftware.com or [at]scopicsoftware.hire.trakstar.com. Please exercise caution and report any suspicious activity to our official channels.
+
+Employment Type: Full-Time"
+3759737700,Senior Backend Engineer,htthttps://www.linkedin.com/jobs/view/3759737700,broom.id,https://www.linkedin.com/company/broom-id/life," ",2 weeks ago,167,,On-site,,51-200 employees · Internet Marketplace Platforms,"Job Description:
+● API design and implementation (REST, GraphQL)
+● API partner integration with SaaS based companies
+● Relational DB design (MySQL, Postgresql) and non relational (MongoDB)
+● Setting up and build & deploying instances on AWS
+● Building automation to help make process more scalable
+● Recommend tech stacks, code reviews & QA
+● Guide and mentor new hires and the existing team through the above, and guide them toward future development.
+● Documenting pre-work & post-work as well as sharing them to the team.
+
+Requirements:
+● 5+ Years experience with development, with 3+ years recently working in NodeJS
+● Proficiency with AWS specifically with Beanstalk, Lambda, Lightsail, EC2, Route 53 (GCP is a bonus)
+● Problem solving skills - have the ability to not only identify the problem but also come up with the creative solutions.
+● Knowledge of the Git version control and branching system.
+● Experience in Agile Scrum workflow
+
+Nice to have
+● Experience with Kafka or queuing service.
+● Experience with JavaScript ES 6 & TypeScript.
+● Experience with NestJS or TypeORM.
+● Experience in unit testing.
+● Experience with CI & CD-like Jenkins or any other tools.
+ Technologies We Use:
+● Languages/Framework: JavaScript, Node, TypeScript, NestJS
+● APIs: REST, GraphQL
+● Cloud-based Service: AWS
+● Deployment Tools: Github Actions, Code Push
+● Software Development Methodologies: Agile Scrum"
+3754443052,Senior Site Reliability Engineer (ShopeePay) - Sea Labs,htthttps://www.linkedin.com/jobs/view/3754443052,Shopee,https://www.linkedin.com/company/shopee/life," "," ",71,,On-site,,"5,001-10,000 employees · Technology, Information and Internet","About The Team
+
+About Sea Labs Indonesia
+
+Sea Labs is at the core of the Sea platforms development, supporting diverse business lines from e-commerce, supply chain, games, payment and finance, among many others. The strong growth and unique positioning of Sea's e-commerce business, Shopee, spurred the launch of Sea Labs Indonesia. Since its inception, the group of passionate engineers have charted the course to drive the best experience for our users in Indonesia, many of which solutions are even adapted to other markets in the region.
+
+Sea's hyper-growing business scale has transformed most ""innocent"" problems into huge technical challenges, and there is no better place to experience world-class projects first-hand if you love technologies as much as we do. Together with our passionate and driven teams, you'll get to develop your skills, build on industry knowledge and collaborate with global teams in a dynamic space. Browse our Sea Labs Indonesia team openings to see how you can make an impact with us.
+
+Job Description
+
+Building, designing, and implementing high-availability system.
+Improve our system reliability by doing performance tests and chaos engineering practices.
+Writing high-quality, clean, and maintainable code to automate operational processes.
+Maintain and improve time to resolve incidents by improving our observability system and incident management process.
+Lead multiple initiatives such as new system integration, platform migration, and compliance requirements.
+Mentor junior members of the SRE team.
+
+Requirements
+
+Bachelor's degree or above in Computer Science, engineering, or related fields
+Having a total of 4+ years working experience, 2+ years as an SRE/DevOps/System Engineer
+Expert in shell scripting and familiar with Python or Go
+In-depth understanding of Operating Systems, computer networking, and system architecture.
+Experienced in CI/CD development and integration. Familiar with Gitlab, Jenkins, etc.
+Familiar with DNS, load balancer, firewall, NAT, etc.
+Familiar with container and container orchestration, such as k8s, including related underlying technology.
+Familiar with other technologies like storage, MQ, cache, elastic search, etc.
+Familiar with commonly used databases, such as MySQL and Oracle.
+Familiar with observability systems such as metrics, logging, tracing, and profiling. Having experience in Prometheus and grafana is a plus point.
+Have a passion for building high availability and performant systems, and care deeply about the end-user experience.
+Able to respond promptly to handle system-related incidents.
+An effective team player with a passion for mentoring junior members.
+Meticulous and attentive to detail with strong critical thinking, data analytics, and problem-solving capabilities.
+Able to communicate effectively in English both verbally and in writing.
+Leadership experience is a plus point.
+Experience in payment-related industries is a plus point."
+3751662175,.NET Developer,htthttps://www.linkedin.com/jobs/view/3751662175,Mitrais,https://www.linkedin.com/company/mitrais/life," ",3 weeks ago,146,,Hybrid,,"501-1,000 employees · IT Services and IT Consulting","Build your Career with Mitrais!
+
+We're looking for Experienced .NET Software Engineers to be part of our team.
+
+What will you be doing?
+Coding high-quality software using distributed computing, messaging, microservices, performance tuning and memory and resource management techniques
+Developing data-driven solutions for a range of clients - frontend as well as backend.
+Collaborating within cross-functional and international agile teams.
+Testing, debugging, re-testing, and coordinating with QA, validating software as ready for shipping
+Reviewing code and acting as a subject matter expert for juniors in the team
+
+What about you?
+You already have 2+ years of experience as a .NET developer.
+You have excellent knowledge of C#.
+You have experience with :
+SOA using WCF or ASP.NET MVC
+ORM such as Entity Framework or NHibernate
+Angular, React or Vue
+SQL Database such as SQL Server, Oracle, MySQL
+You can speak reasonable English
+You are well versed in best practices in OOP, design patterns, SOLID principles, and data driven design
+You are comfortable using git or TFS in a CI/CD environment
+You enjoy working on lean and agile development projects using Scrum & Kanban
+You love clean and beautiful code, with an eye for simplicity and pragmatism.
+
+What else we would like to see?
+You have working experience with cloud platforms such as Azure, AWS or Google.
+You have working experience with Docker and Kubernetes.
+You have working experience developing applications using .Net Core on platforms other than Windows.
+You have working experience on NoSQL databases such as MongoDB.
+
+What can Mitrais offer you?
+A CAREER, not a JOB!
+Competitive salary
+Excellent working environment, with the possibility to relocate to our regional offices and work remotely
+Free English classes, English is our working language
+Lots of opportunities to improve your competencies on our technical boot camps, certification programs and soft skills training courses
+Hackathons with big prizes!
+
+Learn about life at Mitrais from our current team by searching #mitraislife on your social media.
+
+Please note that all activities included in the recruitment processes are free of charge. Beware of online scams such as persons posing to represent the Mitrais Recruitment Team or other recruiting-related personnel by sending unsolicited text messages and emails asking you to provide personal information, transfer money, or do any other specific activities.
+
+To Apply…
+Simply click the apply button, complete the form and upload your latest CV in English ! What are you waiting for?"
+3763867136,DevOps Engineer,htthttps://www.linkedin.com/jobs/view/3763867136,PT Prodia Widyahusada Tbk,https://www.linkedin.com/company/pt-prodia-widyahusada-tbk/life," ",1 week ago,169,,On-site,,"1,001-5,000 employees · Hospitals and Health Care","Qualification:
+Bachelor's Degree in Information Engineer, Computer Engineer, Information System, or related major, min GPA 3.00
+Have min 3 years work experience in DevSecOps (Development, Security, and Operation)
+Possess in AWS Cloud and Kubernetes / Openshift
+Good understanding of Software development and delivery processes and frameworks.
+Have good experience in Linux and networks administration and troubleshooting.
+Familiar with at least one modern scripting language (Java, PHP, Native).
+Good knowledge on NetDevOps and GitOps (Argocd / Codefresh).
+
+Requirements:
+Ensure the pipeline is working and segmented between product and non product environment.
+Design and manage pipeline workflow.
+Response to emergencies and other related team to restore or patching service.
+Manage the rules of branching rules, user management of the repository.
+Manage all tools related to connection with DevOps Process.
+Creating rollback scenario and responsible on execute it safely and with target time.
+Make sure all of the related reports can be accessed with the related team to ensure transparency of the process.
+Release deployment production."
+3772970860,"Back End Developer, Trilogy (Remote) - $100,000/year USD",htthttps://www.linkedin.com/jobs/view/3772970860,Crossover ,https://www.linkedin.com/company/crossover/life," ",,80,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a software engineer that thrives on complex challenges and is eager to make a real impact? Join our team where you'll be contributing to our strategic product line, that’s looking to reshape industries and change the way people work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent. We're breaking down geographical barriers and making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students to learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, synchronization, modeling divergences and data inconsistencies.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are reshaping industries and making a difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 120-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Developing cloud-native backends and implementing data processing algorithms using the latest serverless cloud patterns, including AWS.
+Review code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Back End Developer key responsibilities
+
+At least 4 years of experience writing production code for the server side of web applications.
+At least 2 years of experience being the primary technical contributor for a development team OR software product.
+At least 1 year of hands-on experience developing using cloud patterns (any cloud vendor).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4358-ID-Jakarta-BackEndDevelop.064"
+3770794113,Web Backend Developer,htthttps://www.linkedin.com/jobs/view/3770794113,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,1,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting","Job Description
+
+A U.S.-based company, listed on NASDAQ, known for its innovative approach and commitment to delivering cutting-edge solutions, is currently seeking a talented Web Backend Developer. This company is a trailblazer in the tech industry, constantly pushing boundaries and setting new standards. As a Web Backend Developer, you will have a crucial role in the development and maintenance of various applications, contributing to the ongoing success and growth of this esteemed organization.
+
+Responsibilities:
+
+Develop and maintain efficient, reusable, and reliable code.
+Integrate user-facing elements developed by front-end developers with server-side logic.
+Optimize applications for maximum speed and scalability.
+Implement security and data protection measures.
+Design and implement data storage solutions.
+Stay updated on the latest industry trends and technologies to ensure application relevance.
+
+Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience).
+Minimum of 11 years of overall experience in web development.
+At least 2 years of experience with GraphQL and React, and 6 years of experience with Spring Boot.
+Strong understanding of code versioning tools, such as Git.
+Familiarity with continuous integration.
+Excellent problem-solving skills and attention to detail.
+Fluency in English and strong communication skills."
+3764008293,Software Engineer Lead,htthttps://www.linkedin.com/jobs/view/3764008293,PT Esensi Solusi Buana (ESB),https://www.linkedin.com/company/pt-esensi-solusi-buana-esb/life," ",3 weeks ago,247,,On-site,,201-500 employees · IT Services and IT Consulting,"About the role:
+IT Technical Supervisor / Squad Supervisor is responsible for providing technical leadership and direction to a team of IT professionals, ensuring the efficient operation of the organization's IT systems. This role involves overseeing day-to-day IT activities, project management, technical support, and the maintenance of IT infrastructure to meet the organization's goals and requirements.
+
+What you’ll do (Responsibilities):
+Actively monitor and manage code repository, code reviews, and managing software rollout.
+Determining project requirements and developing work schedules for the team.
+Delegating tasks and achieving daily, weekly, and monthly goals.
+Identifying risks and forming contingency plans as soon as possible.
+Liaising with team members, management, and clients to ensure projects are completed to standard.
+Monitor and ensure the performance and availability of the software currently in production.
+Monitor and setup development & production environments with Software Engineer managers.
+Writing progress reports and delivering presentations to the relevant stakeholders.
+
+What capabilities you’ll need (Requirements):
+Bachelor’s degree in information technology, computer science, or a related field.
+Minimum 2 years of experience in IT Supervisor or related field.
+Experience with multiple programming languages and libraries (e.g. PHP, Typescript, Flutter)
+Good knowledge of Windows/Linux Server and Database.
+Experience with Agile & Scrum development methodologies.
+Excellent communication, problem-solving, and decision-making skills.
+
+Bonus points if you have the following skills:
+Experience managing cloud services ex. Alibaba Cloud, AWS, GCP, etc.
+Experience handling projects with substantial levels of traffic or user engagement.
+
+We are waiting for you!
+Our team will review your application and will be in touch if your application is shortlisted for the next stage. If you do not hear from us in 30 days, we will keep your resume on file in case a relevant opportunity opens up. Best of luck!"
+3767559178,Java Backend Engineer,htthttps://www.linkedin.com/jobs/view/3767559178,Sapphire Skyscraper Financial Technology (SSSPER),https://www.linkedin.com/company/sapphire-skyscraper-financial-technology/life," ",6 days ago,46,,Full-time,,"11-50 employees · Technology, Information and Internet","We are seeking a skilled and experienced Java Developer to join our team and work on developing and maintaining our risk control systems. The ideal candidate must be experienced in designing and developing enterprise-level applications using Java, have excellent analytical and problem-solving skills, and possess good communication and teamwork abilities. 
+
+Job Responsibilities: 
+• Developing, testing, and deploying Java-based risk control systems using standard development tools 
+• Designing and implementing scalable and secure software solutions using Java, Spring Framework, and other related technologies 
+• Performing code reviews, debugging, and troubleshooting software issues to ensure software quality and maintainability 
+• Working with other developers to identify and implement new or improved features essential to our software products’ success 
+• Contributing to the continuous improvement of our software development processes and methodologies 
+
+Qualifications: 
+• Hands-on experience designing, developing, and deploying JVM-based systems 
+• Deep knowledge of Java SE, Java EE, Spring Framework, MBatis, SpringMVC, netty, and related technologies, as well as Linux operation system; 
+• Good understanding of software development methodologies, proficiency in object-oriented programming thinking; 
+• Strong problem-solving and analytical skills with the ability to diagnose and troubleshoot issues quickly and effectively; 
+• Good communication and collaboration skills with a focus on teamwork."
+3775801769,Sharepoint Developer,htthttps://www.linkedin.com/jobs/view/3775801769,PT. Intikom Berlian Mustika,https://www.linkedin.com/company/pt-intikom-berlian-mustika/life," ",4 days ago,22,,On-site,,201-500 employees · IT Services and IT Consulting,"INTIKOM is hiring for Sharepoint Developer - Full WFO at BSD Area
+
+Responsibility :
+Design team to review website and application requirements.
+Develop new web components using .NET and Java
+Testing and debugging code
+Maintain and update SharePoint applications
+
+
+Qualification :
+Age maximum 35 year old
+Candidate must possess at least Diploma, Bachelor's Degree or Master's Degree Degree in Engineering (Computer/Telecommunication), Computer Science/Information Technology or equivalent.
+At least 3 year(s) of working experience in the related field is required for this position.
+Experience using power application and power automate 
+Experience using Java and .Net 
+Willing be placement at BSD"
+3747625315,Data Engineer,htthttps://www.linkedin.com/jobs/view/3747625315,SeaMoney,https://www.linkedin.com/company/seamoney/life," "," ",237,,On-site,,201-500 employees · Financial Services,"Job Description
+
+Work closely with Data PM, Business Intelligence Analyst, & other Engineers to turn data into information that can be used to make sound business decisions.
+Build and maintain data pipelines, data warehouses, and data marts that support business intelligence and data analytics initiatives and based on the requirements of accuracy, timeliness, reliability, and scalability.
+Develop and implement best practices for data management, including data quality, data security, and data privacy.
+Build and maintain analytics tools that utilize the data pipeline to provide actionable insights into operational efficiency and other key business performance metrics.
+Being responsible for the full life cycle development, implementation, and support of self-serve data products.
+Adhere to software development best practices, including test-driven development
+
+Requirements
+
+Master’s or bachelor’s degree in Computer Science/Information Systems or any related fields.
+2+ years of relevant experience working in Data Engineering or related fields.
+Expert in SQL, Spark, HDFS, Kafka, Airflow, and other data processing/engineering tools.
+Expertise working with Python is essential.
+Experience working in a UNIX environment is preferred.
+Proficient in data modeling concepts, batch processing, and lambda architecture.
+Proficient in Software Development Life Cycle (SDLC) including code version control, test driven development, and technical documentation.
+Solid software engineering skills with experience in scripting, APIs, and computational automation.
+Ability to translate complex technical concepts to non-technical stakeholders.
+Excellent problem-solving skills with the ability to troubleshoot and resolve data-related issues.
+Comfortable working with a variety of languages, frameworks, and technologies, adapting to the most suitable tool for the task at hand.
+Ability to converse in English is strongly preferred as we are deeply working with regional teams."
+3768774704,Android Engineer (Yogyakarta),htthttps://www.linkedin.com/jobs/view/3768774704,Privy,https://www.linkedin.com/company/privy-id/life," ",5 days ago,95,,On-site,,201-500 employees · IT Services and IT Consulting,"About Privy
+Privy is Indonesia's market leader in Digital Signature and Digital Identity, with more than 40 million verified users and more than 2.600 enterprise clients. Our Digital Signature is acknowledged by the Ministry of Communication and Informatics. We have just closed our Series C funding led by KKR on November 2022. We are growing more rapidly than ever, and would love to have talented and enthusiastic individuals onboard.
+
+Together explore and learn new mobile technology in Privy. Your ideas are valuable to us.
+
+Job Descriptions:
+Released Android application on Play store
+Implement reactive programming
+Implement analytic tools
+Implement clean code in application
+Create software architecture documentation for project
+Perform scheduled application releases
+Manage applications regularly at the production stage
+
+Job Qualifications:
+Strong knowledge about programming language (Kotlin)
+Strong knowledge about Android application life cycle
+Strong knowledge about Android application SDK and can create one
+Strong knowledge about Android architecture pattern (MVVM)
+Strong knowledge about Android local database (SQLite)
+Strong knowledge about push notification (Firebase)
+Git knowledge and implementation
+Strong communication and teamwork abilities
+Min. 2 Years Experience of experiences as an Android Developer"
+3770798119,Web Back-end Developer,htthttps://www.linkedin.com/jobs/view/3770798119,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting","A renowned U.S.-based company, known for its innovative approach and unwavering commitment to delivering cutting-edge solutions, is currently in search of a talented Web Backend Developer. This company is a prominent player in the industry, constantly pushing boundaries and setting new standards through technological advancements. The available role presents an exhilarating opportunity for an ambitious and dynamic professional to contribute to the company's continuing success and growth.
+
+As a Web Backend Developer, your primary responsibility will involve the development and maintenance of robust backend systems, utilizing your skills in GraphQL, React, and Spring Boot. You will be expected to proficiently debug, test, and troubleshoot multiple applications, ensuring their efficiency, speed, and scalability.
+
+Job Responsibilities:
+
+Develop and maintain robust backend systems using GraphQL, React, and Spring Boot.
+Debug, test, and troubleshoot multiple applications to ensure efficiency, speed, and scalability.
+Collaborate closely with a team of highly skilled designers and engineers to develop user-friendly UIs.
+Perform code analysis and provide recommendations for enhancing code quality.
+Stay up-to-date with market trends and innovative problem-solving strategies through thorough research.
+Contribute to the continuous improvement of the company's products and services.
+
+Job Requirements:
+
+Bachelor's/Master's degree in Engineering, Computer Science, or equivalent experience.
+A minimum of 8-10 years of overall experience in the field.
+At least 1+ years of experience with GraphQL and React, and 1+ years of experience with Spring Boot.
+Demonstrated experience in developing and maintaining robust backend systems.
+Strong understanding of the software development life cycle (SDLC) and agile methodologies.
+Excellent problem-solving skills and meticulous attention to detail.
+Fluent in English with exceptional communication skills."
+3769066512,Cloud Engineer,htthttps://www.linkedin.com/jobs/view/3769066512,Home Credit Indonesia,https://www.linkedin.com/company/homecreditindonesia/life," ",4 days ago,102,,Hybrid,,"10,001+ employees · Financial Services","Responsibilities :
+
+Design and build infrastructure at scale and elastic
+Investigate of nature problem with focus on system efficiency and reliability at scale.
+Research and plan on each service that offer by cloud provider to be implemented on application used case.
+Performing technical evaluations by refer into the service performance metrics and resource performance metric to make sure service/resource that used is comparable between price and the performance.
+Cooperate with local or Group network, security and architect to alignment the cloud environment (policy, network topology and security) within the on-premise environment.
+Review the resource usage of application and analyze the performance with day to day usage.
+
+
+Requirements :
+
+Experience at least 2 years as system engineer
+Have strong knowledge on deployment strategy, Linux environments, automation, from simple shell/python scripts to more complex software engineering solutions.
+Understanding of common system engineering design principles, e.g. how virtualization works, load balancing patterns, computer networking, and is aware of basic security and CI/CD Process
+Experience with container orchestration such as Kubernetes.
+Have basic knowledge with any programming language (Python is refereable)"
+3756603500,Senior Backend Engineer,htthttps://www.linkedin.com/jobs/view/3756603500,Rukita,https://www.linkedin.com/company/rukita/life," ",3 weeks ago,331,,On-site,,"501-1,000 employees · Real Estate","About Rukita:
+Rukita is a property technology (proptech) company that empowers its customers by providing a hassle-free end-to-end housing solution. The company provides a holistic ecosystem for landlords, tenants, and buyers. It assists landlords, buyers in transforming their assets into high-yield rental properties. For tenants, it elevates the living experience through our end-to-end platform that makes their life hassle-free. Through RuFinance, the company also facilitates the financing process to empower our customers on the expansion of their property business, from renovation to property acquisition.
+
+The Rukita family (Rukita Tribe) is made out of a motley crew of real estate professionals, engineers, community builders, designers, marketers, happiness officers, and so much more. As a family, we work cohesively and collaboratively, value entrepreneurship, and do whatever it takes to deliver happiness in a living space.
+
+Main Responsibilities:
+Back-End Development of Web applications and system.
+Architect, Develop & Extend APIs
+Able to create or extend Architecture & System Flow Diagrams
+
+Requirements:
+4+ years of professional experience in Backend - Software Engineering
+Comprehensive knowledge and experience with Python / NodeJS / GO
+Working knowledge of databases technology such as MongoDB, PostgreSQL or MySQL
+Able to Design, Develop and extend API and other backend interfaces
+Experience with web server technologies like Apache, NGINX
+Experience with message brokers such as RabbitMQ
+Familiarity with MACH and/or Hexagonal Architecture
+Experience in creating API contract
+Code Versioning (git)
+Hands-on experience with Elasticsearch, Redis, and at least one cloud-based CDN such as AWS Cloudfront or GCP CDN
+
+What we expect to see:
+Ability to make technical decisions about infrastructure and architecture.
+Ability to work in an Agile environment.
+Ability to collaborate with other engineering and design teammates and work cross-functionally.
+Passion for solving complex problems and implementing algorithms.
+Clean, test-driven, performant code development"
+3770807625,Back End Developer - Go (Mid to Senior),htthttps://www.linkedin.com/jobs/view/3770807625,Evermos,https://www.linkedin.com/company/evermos/life," ",1 week ago,385,,Hybrid,,"501-1,000 employees · Technology, Information and Internet","Job Description
+Grade / level will be depending on your skills
+Work with product managers and other stakeholders to conceptualize well-designed and well-defined software products, as well as estimate the time and effort needed to build those software products.
+Design, develop, optimize, and maintain the software products as highly-concurrent high-performance high-availability distributed systems.
+Diagnose and troubleshoot existing systems, and ensure that they perform well under load.
+Provide support during the deployment of new features and systems.
+Write and maintain supporting documentation for the software product.
+Define coding standards, conventions, and best practices with other engineers.
+Willing to be based in Bandung, Yogyakarta, or Jakarta
+
+Job Requirements
+Vast Experience in Go as main programming language and/or PHP (Yii2)/ Java/ Python
+Experienced in SQL and NoSQL databases.
+Good understanding of data structures & algorithm concepts.
+Experience in highly-concurrent high-performance high-availability distributed systems.
+Able to work in a Linux environment and use the command-line interface.
+Able to break down large tasks into smaller, more manageable subtasks.
+Able to effectively communicate problems and solutions to team members and stakeholders.
+Able to debug non-trivial application code.
+Able to write clear, concise, and well-documented code, along with unit and integration tests.
+Able to consider not just code but also system architecture and user experience.
+Proficiency in Git.
+
+Evermos is committed to providing an inclusive environment where equal opportunities are available to all applicants regardless of race, color, religion, gender, national origin, disability, age, genetic information, marital status, pregnancy or related condition. We will not tolerate discrimination or harassment based on any of these characteristics.
+
+We also emphasize the importance of diversity in all aspects of employment including recruitment, hiring, promotions, training, and organization operations."
+3773648572,Information Technology Service Engineer,htthttps://www.linkedin.com/jobs/view/3773648572,Saint-Gobain Indonesia,https://www.linkedin.com/company/saint-gobain-indonesia/life," ",1 week ago,205,,On-site,,"501-1,000 employees · Wholesale Building Materials","Responsibilities
+User onsite and remote Support based on assignment
+Execute and record Incident Management.
+Execute and record Problem Management.
+Execute and record Request Management.
+Execute and record Change Management.
+Execute and record Access (Permission) Management.
+Facilities Management - support for specific collaborative tools.
+IT Training and Documentation in their scope.
+Execute End-user Hardware Lifecycle Management based on assignment.
+Housekeeping and Maintenance of Data Rooms and onsite infrastructure.
+Manage IT service Project has been assigned.
+
+Qualifications
+Formal education: Bachelor’s degree in computer science, information technology, or a similar field.
+Work experience: Minimum 2+ years in IT Service and Infrastructure
+Good in IT technical skill, troubleshooting IT equipment and manage documentation, able to work under pressure, understand company organizational and IT management, have experience handling IT customer complain, understand with company’s business, have the ability to manage IT facilities and infrastructure, understand the design of infrastructure, networks, and desktop applications.
+Demonstrates flexibility and capacity to adapt and learn in a dynamic work environment.
+Manages time effectively, is punctual and regularly attends work."
+3763948924,Principal Software Engineer,htthttps://www.linkedin.com/jobs/view/3763948924,Briix,https://www.linkedin.com/company/briixgroup/life," "," ",122,,On-site,,51-200 employees · Financial Services,"Requirements:
+8+ years total experience in end-to-end development of customer-facing applications.
+Working knowledge of popular cloud platforms, preferably GCP.
+Familiarity with Git and CI/CD.
+Expertise in at least two of these technologies: Java, Flutter, and JavaScript.
+
+Job Description:
+To collaborate and make proposals across several teams on their engineering work, and help their team members make informed decisions in alignment with strategic plans.
+To proactively identify opportunities to reuse or generalize existing services and product features. Avoid duplication of effort by encouraging collaboration.
+To teach, mentor, grow, and provide advice to other domain experts, and individual contributors, across several teams.
+To plan improvements and features with a 6-month view.
+To solve technical problems of the highest scope, complexity, and ambiguity.
+To propose an initial technical implementation that supports architectural changes that solve scaling and performance problems.
+To ensure that OKR-level goals are aligned across several teams.
+To interact with Business Users and external stakeholders as a consultant and spokesperson.
+To be knowledgeable in all specialties practiced within the company."
+3762067551,Web Back-end Developer,htthttps://www.linkedin.com/jobs/view/3762067551,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting","A renowned U.S.-based company, known for its innovative approach and unwavering commitment to delivering cutting-edge solutions, is currently in search of a talented Web Backend Developer. This company is a prominent player in the industry, constantly pushing boundaries and setting new standards through technological advancements. The available role presents an exhilarating opportunity for an ambitious and dynamic professional to contribute to the company's continuing success and growth.
+
+As a Web Backend Developer, your primary responsibility will involve the development and maintenance of robust backend systems, utilizing your skills in GraphQL, React, and Spring Boot. You will be expected to proficiently debug, test, and troubleshoot multiple applications, ensuring their efficiency, speed, and scalability.
+
+Job Responsibilities:
+
+Develop and maintain robust backend systems using GraphQL, React, and Spring Boot.
+Debug, test, and troubleshoot multiple applications to ensure efficiency, speed, and scalability.
+Collaborate closely with a team of highly skilled designers and engineers to develop user-friendly UIs.
+Perform code analysis and provide recommendations for enhancing code quality.
+Stay up-to-date with market trends and innovative problem-solving strategies through thorough research.
+Contribute to the continuous improvement of the company's products and services.
+
+Job Requirements:
+
+Bachelor's/Master's degree in Engineering, Computer Science, or equivalent experience.
+A minimum of 8-10 years of overall experience in the field.
+At least 1+ years of experience with GraphQL and React, and 1+ years of experience with Spring Boot.
+Demonstrated experience in developing and maintaining robust backend systems.
+Strong understanding of the software development life cycle (SDLC) and agile methodologies.
+Excellent problem-solving skills and meticulous attention to detail.
+Fluent in English with exceptional communication skills."
+3772944460,"Senior Full Stack Engineer, Events",htthttps://www.linkedin.com/jobs/view/3772944460,Hearst,https://www.linkedin.com/company/hearst/life," ",5 days ago,64,,Remote,,"10,001+ employees · Media Production","Job Description
+
+About the Team (Hearst E-Commerce)
+
+Hearst is a leading global, diversified media, information, and services company. Its major interests include: a large consumer media portfolio, including 300 magazines, 24 daily and 42 weekly newspapers, 33 broadcast TV stations, content production services, and ownership interests in ESPN and A&E; the global financial services company Fitch Group; Hearst Health, a provider of decision support data and software supporting healthcare; and Hearst Transportation, an industry leader in fleet and repair data.
+
+Hearst E-commerce is a recently formed organization focused on developing and supporting E-Commerce across Hearst’s consumer media portfolio. Our goal is to make it easier to buy all the goods and services our thousands of journalists research every day. We work across a range of focus areas, including building and operating marketplaces, creating performance advertising tools, to helping develop editorial tools to simplify content creation workflows. This breadth helps give our team unique perspectives into the needs of Hearst’s reader and viewership across the globe.
+
+As a member of the larger Hearst community, our team is focused on developing a supportive, inclusive culture, and giving back to our communities. Hearst employees have access to extensive training and development opportunities, ranging from robust internship, mentorship, and sponsorship programs to unique opportunities to partner with emerging women-led startups in media, technology and data funded through HearstLab, one of our venture investment groups. Our community support includes the Hearst Foundation, which has overseen more than $1.3 billion in grants to build healthy, productive, and inspiriting opportunities, to our corporate donation matching.
+
+Your Impact
+
+The E-Commerce organization develops tools for use by Hearst’s collection of publications, ranging from marketplace platforms to local business and service discovery tools. Our team is focused on prototyping and testing new commerce ideas, primarily within our regionally focused media properties (Newspapers and TV.) Your role will be within our Events team, which works as a cross-disciplinary practice (product, engineering, editorial, and sales/marketing) to prototype and deploy new product concepts within the Local Events space. The intent of these experiments is to test which concepts resonate with our readership as well as our advertising clients. Successful work will then be scaled to our broader media portfolio.
+
+Our team is focused on rapid experimentation: some concepts go from whiteboard to website in the same week, followed by iteration to improve the idea based on behavioral data and feedback. As a senior engineer, you will contribute significantly to shaping our roadmap to deliver world-class, high-performance, innovative experiences. You will own Search and Recommendations, and also work closely with the front-end side of our team to ensure we deliver high performing (fast, light) sites that make it easy to browse on low bandwidth connections. You will also work on ML and LLM R&D to enrich our users' journey, starting from product discovery and research all the way through to purchase.
+
+We welcome folks with a curious spirit, who enjoy a mix of small-scale experimentation and high-scale systems development. Our roles involve a mix of design, development, and support, and provide a unique cross-organization opportunity to work across print, digital, and broadcast media. Our systems are developed in React and Django. Elastic/OpenSearch expertise is essential to be successful from the start.
+
+Your Day-To-Day
+
+Architect and design new features and systems with the support of our product and design teams using a combination of internally developed and third-party solutions. 
+Build the designs you’ve created! 
+Partner with our operations teams to deploy and scale services we build across Hearst. 
+Collaborate with product managers and engineers across Hearst to define product roadmaps and technical investments. 
+Be both a mentor and a mentee for your peers and the extended engineering team at Hearst. 
+
+About You
+
+No two projects are alike, nor are two candidates. The following experiences are common within your peer group, but not strict requirements.
+
+5 years of experience building at-scale backend systems in a language of your choice. (Python or JavaScript/NodeJS are preferred, but not required.) 
+A knowledge of how to scale a small experiment (hundreds of concurrent users) to web-scale audiences (hundreds of thousands of concurrent users). 
+A curiosity and willingness to work with frontend teams to design more effective APIs and resolve client-side performance issues. 
+Knowledge of best practices for observability and instrumentation in a complex microservice environment. 
+Experience working with data engineering teams to help stream data to off-application analytical tools. 
+An interest in creating and fostering mentorship cultures, including mentoring, and being mentored. 
+Design, development, and/or operating experience with an at-scale (>$500MM GMV annually) E-commerce site (marketplace or retailer) that sells directly to consumers, an at-scale E-commerce infrastructure or platform services that support, but do not provide, a marketplace or retail store directly, or a mix of the two. 
+A bachelor’s degree in a technical field or equivalent real-life experience. 
+
+This position is fully remote and is available to applicants in the contiguous United States.
+
+In accordance with applicable law, Hearst is required to include a reasonable estimate of the compensation for this role if hired in California. The reasonable estimate, if hired in California, is $178,000-$220,000. Please note this information is specific to those hired in California. If this role is open to candidates outside of California, the salary range would be aligned to that specific location. A final decision on the successful candidate’s starting salary will be based on a number of permissible, non-discriminatory factors, including but not limited to skills and experience, training, certifications, and education. Hearst provides a competitive benefits package, including medical, dental, vision, disability and life insurance, 401(k), paid time off (including 10 paid holidays, 15 days paid vacation, three personal days, and seven days of paid sick time), employee assistance programs, and more.
+
+In accordance with applicable law, Hearst is required to include a reasonable estimate of the compensation for this role if hired in Colorado. The reasonable estimate, if hired in Colorado, is $178,000-$220,000. Please note this information is specific to those hired in Colorado. If this role is open to candidates outside of Colorado, the salary range would be aligned to that specific location. A final decision on the successful candidate’s starting salary will be based on a number of permissible, non-discriminatory factors, including but not limited to skills and experience, training, certifications, and education. Hearst provides a competitive benefits package, including medical, dental, vision, disability and life insurance, 401(k), paid holidays and paid time off, employee assistance programs, and more.
+
+In accordance with applicable law, Hearst is required to include a reasonable estimate of the compensation for this role if hired in New York City. The reasonable estimate, if hired in New York City, is $178,000-$220,000. Please note this information is specific to those hired in New York City. If this role is open to candidates outside of New York City, the salary range would be aligned to that specific location. A final decision on the successful candidate’s starting salary will be based on a number of permissible, non-discriminatory factors, including but not limited to skills and experience, training, certifications, and education. Hearst provides a competitive benefits package, including medical, dental, vision, disability, and life insurance, 401(k), paid holidays and paid time off, employee assistance programs, and more.
+
+In accordance with applicable law, Hearst is required to include a reasonable estimate of the compensation for this role if hired in New York State. The reasonable estimate, if hired in New York State, is $178,000-$220,000. Please note this information is specific to those hired in New York State. If this role is open to candidates outside of New York State, the salary range would be aligned to that specific location. A final decision on the successful candidate’s starting salary will be based on a number of permissible, non-discriminatory factors, including but not limited to skills and experience, training, certifications, and education. Hearst provides a competitive benefits package, including medical, dental, vision, disability, and life insurance, 401(k), paid holidays and paid time off, employee assistance programs, and more.
+
+In accordance with applicable law, Hearst is required to include a reasonable estimate of the compensation for this role if hired in Washington. The reasonable estimate, if hired in Washington, is $178,000-$220,000. Please note this information is specific to those hired in Washington. If this role is open to candidates outside of Washington, the salary range would be aligned to that specific location. A final decision on the successful candidate’s starting salary will be based on a number of permissible, non-discriminatory factors, including but not limited to skills and experience, training, certifications, and education. Hearst provides a competitive benefits package, including medical, dental, vision, disability and life insurance, 401(k), paid time off (including 10 paid holidays, 15 days paid vacation, three personal days, and seven days of paid sick time), employee assistance programs, and more.
+
+About Us
+
+Hearst is a leading global, diversified media, information and services company with more than 360 businesses. Its major interests include ownership in cable television networks such as A&E, HISTORY, Lifetime and ESPN; global financial services leader Fitch Group; Hearst Health, a group of medical information and services businesses; transportation assets including CAMP Systems International, a major provider of software-as-a-service solutions for managing maintenance of jets and helicopters; 33 television stations such as WCVB-TV in Boston and KCRA-TV in Sacramento, California, which reach a combined 19% of U.S. viewers; newspapers such as the Houston Chronicle, San Francisco Chronicle and Times Union (Albany, New York); more than 300 magazines around the world, including Cosmopolitan, ELLE, Men's Health and Car and Driver, and digital services businesses such as iCrossing and KUBRA; and investments in emerging digital entertainment companies such as Complex Networks. To learn more about Hearst, visit hearst.com.
+
+Hearst is an Equal Employment Opportunity employer. We do not discriminate in hiring on the basis of race, color, national origin, religion, creed, sex or gender, gender identity, gender expression, sexual orientation, age, physical or mental disability, military or veteran status, or any other characteristic protected by federal, state, or local law."
+3761851428,Senior .NET Developer,htthttps://www.linkedin.com/jobs/view/3761851428,The Software Practice Pte Ltd,https://www.linkedin.com/company/the-software-practice-pte-ltd/life," ",2 weeks ago,127,,Remote,,51-200 employees · Software Development,"The Software Practice is a Singapore based technology development firm that builds software for clients and its own business. Our core strength is in developing large and complex web and mobile applications by architecting and implementing robust, scalable and performant software.
+
+We started our firm working with entrepreneurs who brought expertise in specific industry verticals but required a technical team that could help them realize their product ideas. We partnered with them as their product teams helping them build their MVP, talk to customers and refine the product, raise money, and even hire their in-house tech teams while remaining as consultants.
+
+Now, our work spans across both public and private sectors where we've done several CTO-for-hire and product-team-for-hire gigs for entrepreneurs and enterprises looking to move fast. Our clients range from small start-ups looking to build and launch their product from scratch, to large enterprises (e.g. Government Agencies in Singapore such as DSTA, NEA, A*STAR and PUB) requiring innovative solutions in critical business workflows. Our enterprise clientele includes some of the largest SE Asian banks, Fortune 500 IT firms and one of Asia’s largest airports.
+We're trying to find exceptionally smart people with strong development skills in .NET C# and an avid interest in web development. You should be able to learn quickly and work independently - we'll help you as best as we can, but you must be tenacious and resourceful enough to figure out things you don't know how to do. 
+Our culture is results-driven that values execution and creativity. You'll get a lot of ownership over your deliverables, and we trust you to ship high quality products on time. You will be part of a high performing cross functional team where you get to witness the direct impact of your work - seeing applications go live and seeing real-world usage.
+
+Requirements
+Solid programming ability and at least 3 years of experience (preferably over 5 years of experience) in building web applications using .NET C# 
+Designing, documenting, and implementing efficient API endpoints
+Implementing security and data-protection best practices
+Drive key technical and architectural designs with a close eye on maintainability, performance and security
+Conduct code reviews
+Clear and precise written communication. A large part of our team works remotely and it's vital that you are able to document ideas, progress and problems with clarity so everyone can work asynchronously.
+You must be happy to work independently (remote welcome) and be able to structure timelines, take ownership and responsibility and communicate clearly.
+
+ Any experience in the one or more of the following is a definite plus:
+Experience with AWS, Azure or any other cloud platforms 
+Experience with microservices, Dapr is a plus.
+Worked on non-trivial Javascript applications (and experience in VueJS) 
+
+If you've built something in the past, do let us know. Github and/or StackOverflow profiles are welcome.
+
+You'll get to work in a fast-paced environment, with a great team of full-stack engineers who have a lot of experience in building large software applications from scratch."

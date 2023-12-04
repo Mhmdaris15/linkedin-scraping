@@ -11,11 +11,12 @@ import (
 
 func main() {
 	// initialize a Chrome browser instance on port 4444
-	service, err := selenium.NewChromeDriverService("./ChromeDriver/chromedriver", 4444)
+	service, err := selenium.NewChromeDriverService("./chromedriver-win64/chromedriver.exe", 4444)
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
-	defer service.Stop()
+	// defer service.Stop()
+	defer EndTheProgram(service)
 
 	// proxyServerURL := "36.37.86.60"
 	customUserAgent := "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
@@ -30,33 +31,30 @@ func main() {
 
 	// create a new remote client with the specified options
 	driver, err := selenium.NewRemote(caps, "")
-
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
 
 	// maximize the current window to avoid responsive rendering
-	err = driver.MaximizeWindow("")
-	if err != nil {
+	if err := driver.MaximizeWindow(""); err != nil {
 		log.Fatal("Error:", err)
 	}
 
 	// navigate to the login page
-	err = driver.Get("https://www.linkedin.com/home")
-	if err != nil {
+	if err := driver.Get("https://www.linkedin.com/home"); err != nil {
 		log.Fatal("Error:", err)
 	}
 
-	driver, err = utils.LoginLinkedIn(driver)
-	if err != nil {
+	if err := utils.LoginLinkedIn(&driver); err != nil {
 		log.Fatal("Error:", err)
 	}
 
-	time.Sleep(30 * time.Second)
+	time.Sleep(3 * time.Second)
+
+	jobName := "full stack engineer"
 
 	// navigate to the search page
-	driver, err = utils.SearchJob(driver, "full stack engineer")
-	if err != nil {
+	if err := utils.SearchJob(&driver, jobName); err != nil {
 		log.Fatal("Error:", err)
 	}
 
@@ -80,18 +78,25 @@ func main() {
 
 	time.Sleep(3 * time.Second)
 	// Scroll container with class "jobs-search-results-list" to the bottom to load all the jobs
-	err = utils.ScrollToBottom(driver, "jobs-search-results-list")
+	err = utils.ScrollToBottom(&driver, "jobs-search-results-list")
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
 
+	log.Printf("First Scrolling to bottom...")
+
 	// Click the first job
-	_, err = utils.ClickJob(driver)
-	if err != nil {
+	if err := utils.ClickJob(&driver, jobName); err != nil {
 		log.Fatal("Error:", err)
 	}
 
 	// Wait untill the job page is loaded
 
 	time.Sleep(15 * time.Second)
+}
+
+func EndTheProgram(service *selenium.Service) {
+	if err := service.Stop(); err != nil {
+		log.Fatal("Error:", err)
+	}
 }

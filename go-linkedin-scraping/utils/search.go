@@ -6,11 +6,11 @@ import (
 	"github.com/tebeka/selenium"
 )
 
-func SearchJob(driver selenium.WebDriver, job string) (selenium.WebDriver, error) {
+func SearchJob(driver *selenium.WebDriver, job string) error {
 	// Navigate to the search page
-	if err := driver.Get(fmt.Sprintf("https://www.linkedin.com/jobs/search/?keywords=%s", job)); err != nil {
-		return nil, err
+	if err := (*driver).Get(fmt.Sprintf("https://www.linkedin.com/jobs/search/?keywords=%s", job)); err != nil {
+		return err
 	}
 
-	return driver, nil
+	return nil
 }

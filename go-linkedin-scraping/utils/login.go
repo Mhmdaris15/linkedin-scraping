@@ -6,24 +6,24 @@ import (
 	"github.com/tebeka/selenium"
 )
 
-func LoginLinkedIn(driver selenium.WebDriver) (selenium.WebDriver, error) {
+func LoginLinkedIn(driver *selenium.WebDriver) error {
 	// navigate to the login page
-	err := driver.Get("https://www.linkedin.com/home")
+	err := (*driver).Get("https://www.linkedin.com/home")
 	if err != nil {
 		log.Fatal("Error:", err)
-		return driver, err
+		return err
 	}
 
 	// find the username and password fields
-	username, err := driver.FindElement(selenium.ByID, "session_key")
+	username, err := (*driver).FindElement(selenium.ByID, "session_key")
 	if err != nil {
 		log.Fatal("Error:", err)
-		return driver, err
+		return err
 	}
-	password, err := driver.FindElement(selenium.ByID, "session_password")
+	password, err := (*driver).FindElement(selenium.ByID, "session_password")
 	if err != nil {
 		log.Fatal("Error:", err)
-		return driver, err
+		return err
 
 	}
 
@@ -32,14 +32,14 @@ func LoginLinkedIn(driver selenium.WebDriver) (selenium.WebDriver, error) {
 	password.SendKeys(GoDotEnvVariable("PASSWORD_SYSTEM"))
 
 	// find the login button
-	login, err := driver.FindElement(selenium.ByCSSSelector, ".sign-in-form__submit-btn--full-width")
+	login, err := (*driver).FindElement(selenium.ByCSSSelector, ".sign-in-form__submit-btn--full-width")
 	if err != nil {
 		log.Fatal("Error:", err)
-		return driver, err
+		return err
 	}
 
 	// click the login button
 	login.Click()
 
-	return driver, nil
+	return nil
 }
