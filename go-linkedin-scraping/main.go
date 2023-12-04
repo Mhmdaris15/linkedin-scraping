@@ -52,8 +52,10 @@ func main() {
 		log.Fatal("Error:", err)
 	}
 
+	time.Sleep(30 * time.Second)
+
 	// navigate to the search page
-	driver, err = utils.SearchJob(driver, "business development")
+	driver, err = utils.SearchJob(driver, "full stack engineer")
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
@@ -82,6 +84,14 @@ func main() {
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
+
+	// Click the first job
+	_, err = utils.ClickJob(driver)
+	if err != nil {
+		log.Fatal("Error:", err)
+	}
+
+	// Wait untill the job page is loaded
 
 	time.Sleep(15 * time.Second)
 }
