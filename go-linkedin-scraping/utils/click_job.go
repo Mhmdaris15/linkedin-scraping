@@ -193,6 +193,8 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 		log.Print("Error: ", err)
 	}
 
+	// Insert to database
+
 	// Save to csv file
 	if err := SaveToCSV(&jobsThisProfession, jobName, fmt.Sprintf("./data/%s", jobName)); err != nil {
 		return err

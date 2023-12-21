@@ -3,6 +3,7 @@ package main
 import (
 	"go-linkedin-scraping/utils"
 	"log"
+	"sync"
 	"time"
 
 	"github.com/tebeka/selenium"
@@ -10,8 +11,44 @@ import (
 )
 
 func main() {
+	// Number of instances/drivers you want to run concurrently
+	numInstances := 3
+
+	// Create 3 array of job name to search
+	jobNames := [3]string{"full stack engineer", "graphic designer", "data scientist"}
+
+	// Create a WaitGroup to wait for all Goroutines to finish
+	var wg sync.WaitGroup
+
+	// Connect to MongoDB with goroutine
+	wg.Add(1)
+	go func() {
+		defer wg.Done()
+		utils.ConnectDB()
+	}()
+
+	// Loop to create and run the specified number of instances
+	for i := 0; i < numInstances; i++ {
+		wg.Add(1) // Increment the WaitGroup counter for each Goroutine
+
+		// Goroutine to run each instance
+		go func(instanceID int) {
+			// Defer the WaitGroup Done method to decrement the counter when the Goroutine completes
+			defer wg.Done()
+
+			// Your scraping code for each instance
+			Scrape(instanceID, jobNames[instanceID])
+		}(i)
+	}
+
+	// Wait for all Goroutines to finish
+	wg.Wait()
+}
+
+func Scrape(instanceID int, jobName string) {
 	// initialize a Chrome browser instance on port 4444
-	service, err := selenium.NewChromeDriverService("./chromedriver-win64/chromedriver.exe", 4444)
+	port := 4444 + instanceID
+	service, err := selenium.NewChromeDriverService("./chromedriver-win64/chromedriver.exe", port)
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
@@ -51,7 +88,7 @@ func main() {
 
 	time.Sleep(3 * time.Second)
 
-	jobName := "full stack engineer"
+	// jobName := "full stack engineer"
 
 	// navigate to the search page
 	if err := utils.SearchJob(&driver, jobName); err != nil {
