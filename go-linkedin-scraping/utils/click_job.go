@@ -9,12 +9,15 @@ import (
 	"time"
 
 	"github.com/tebeka/selenium"
+	"go.mongodb.org/mongo-driver/bson"
+	"go.mongodb.org/mongo-driver/mongo"
 )
 
 func ClickJob(driver *selenium.WebDriver, jobName string) error {
 	// find the job
 	var jobsThisProfession []types.Job
 	var numJobsInt int
+	jobCollection := GetCollection(DB, "Jobs")
 
 	// Get number of jobs
 	numJobs, err := (*driver).FindElement(selenium.ByCSSSelector, "#main > div > div.scaffold-layout__list > header > div.jobs-search-results-list__title-heading > small > div > span")
@@ -176,6 +179,12 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 		if os.Mkdir(fmt.Sprintf("./data/%s", jobName), 0777); err != nil {
 			log.Print("Error: ", err)
 		}
+		// Convert jobsThisTab to []interface{}
+		var jobsInterface []interface{}
+		for _, job := range jobsThisTab {
+			jobsInterface = append(jobsInterface, job)
+		}
+
 		if os.Mkdir(fmt.Sprintf("./data/%s/pagination", jobName), 0777); err != nil {
 			log.Print("Error: ", err)
 		}
@@ -185,6 +194,27 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 			return err
 		}
 
+		// Insert to database
+		if _, err := jobCollection.InsertMany(ctx, jobsInterface); err != nil {
+			if writeException, ok := err.(mongo.BulkWriteException); ok {
+				for _, writeError := range writeException.WriteErrors {
+					index := writeError.Index
+					duplicateJob := jobsInterface[index].(types.Job) // Assert the type of duplicateJob to the appropriate struct type
+					filter := bson.M{"_id": duplicateJob.ID}
+
+					_, updateErr := jobCollection.ReplaceOne(ctx, filter, duplicateJob)
+					if updateErr != nil {
+						// Handle the update error appropriately, e.g., return it or log it with more context
+						return fmt.Errorf("failed to update duplicate document: %w", updateErr)
+					}
+				}
+			} else {
+				// Handle other errors
+				log.Print("Error: ", err)
+				return err // Return the error for further handling
+			}
+		}
+
 		jobsThisProfession = append(jobsThisProfession, jobsThisTab...)
 
 	}
@@ -192,8 +222,6 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 	if os.Mkdir(fmt.Sprintf("./data/%s", jobName), 0777); err != nil {
 		log.Print("Error: ", err)
 	}
-
-	// Insert to database
 
 	// Save to csv file
 	if err := SaveToCSV(&jobsThisProfession, jobName, fmt.Sprintf("./data/%s", jobName)); err != nil {

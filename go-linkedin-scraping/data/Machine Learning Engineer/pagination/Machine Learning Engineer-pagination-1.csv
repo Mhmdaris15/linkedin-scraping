@@ -1,0 +1,992 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,about_the_job
+3780360980,"Senior Machine Learning Engineer (Bangkok based, relocation provided)",htthttps://www.linkedin.com/jobs/view/3780360980,Agoda,https://www.linkedin.com/company/agoda/life," ",2 weeks ago,5,,Full-time,,"5,001-10,000 employees · Software Development","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+Why Agoda Engineering Team (ML role)?
+
+Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to:
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+ Build, administer and scale ML processing pipelines.
+ Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+ Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+ Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+ Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks.
+ We believe in end-to-end ownership; this role will involve taking ML models to production at a scale.
+
+What You’ll need to Succeed:
+
+ Bachelor’s degree in computer science /information systems/engineering/related field
+ 8+ years of experience in software engineering with a minimum of 4+ years in ML
+ Good experience in Pyspark
+ Expert level understanding of Python with design patterns and object-oriented programming.
+ Experience debugging and reasoning about production issues is desirable.
+ A good understanding of data architecture principles preferred.
+ Any other experience with Big Data technologies / tools
+ SQL experience
+ Analytical problem-solving capabilities & experience.
+ Systems administration skills in Linux
+ A strong engineering driven mindset will be required to succeed in this role.
+
+It’s great if you have:
+
+ Good understanding of Hadoop ecosystems
+ Experience working with Open-source products
+ Experience with Scala development
+ Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3773091658,Sr. Python Engineer,htthttps://www.linkedin.com/jobs/view/3773091658,Nikel,https://www.linkedin.com/company/nikel-embedded/life," ",2 weeks ago,115,,On-site,,11-50 employees,"Background
+
+Nikel is a financial technology company that enables small business lending in Southeast Asia. We combine deep expertise in alternative lending with best-in-class technology solutions to bridge international capital markets with underserved communities in Southeast Asia. Website: https://nikel.com/
+
+Role
+To support our growth, we are looking for a Software Development Engineer to join our team in Jakarta. This is a unique opportunity to get exposure to modern core banking solutions and build exciting, impactful financial products that scale. We are seeking a candidate with experience in financial services products, Python expertise and test-driven development practices.
+
+Key Responsibilities: 
+Implement credit products in Python using existing frameworks (e.g. Flask and Bottle) and systems
+Drive implementation and incremental optimization of existing products 
+Build ad-hoc solutions in support of the rest of the engineering function
+Write clean, well-documented code that passes tests 
+Provide technical leadership and expertise to the rest of the engineering function as Python Subject Matter Expert.
+
+Qualifications Required: 
+Bachelor’s/Master’s degree in any related field 
+6+ years of relevant working experience 
+3+ years of direct experience in Python software development 
+Proficiency in financial services products (esp. credit & lending) 
+Familiar with modern architectural patterns and development practices 
+Strong quantitative and analytical skills; strong problem-solving skills 
+Fluency in English 
+Extreme attention to detail 
+Enthusiastic and quick learner 
+Ability to thrive in an environment with a high degree of volatility and uncertainty 
+Can work unsupervised and prioritize, and accomplish tasks accurately and on a timely basis
+
+Benefits
+Challenging role in a startup environment with strong growth ambitions
+Meaningful work toward the Company’s social impact mission and vision
+Competitive compensation and benefits
+
+At Nikel, we are committed to diversity and equitable access to employment opportunities based on ability. Interested candidates can send their applications to sitti@nikel.com. We thank all applicants for their interest but will only contact candidates selected to advance in the hiring process."
+3784198639,Senior Data Engineer,htthttps://www.linkedin.com/jobs/view/3784198639,Grab,https://www.linkedin.com/company/grabapp/life," ",1 week ago,108,,On-site,,"5,001-10,000 employees · Software Development","Job Description
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Get to know the Team
+
+The Fulfillment tech family is one of the pillars enabling Grab to out-serve our customers and partners in different businesses and marketplaces across Southeast Asia. We are working on high throughput, real-time distributed systems that use advanced software engineering techniques to solve hundreds of millions of requests per day. We are a distributed team in 4 different locations: Singapore, Beijing, Indonesia, and Malaysia. Our communication is in English, both in spoken and written form.
+
+Our mission is to offer the best-in-class products and experiences to our driver partners as to increase adoption and engagement of our services. Improve driver partner opportunities and efficiency in order to fulfill customer orders without fail, rain or shine. And to create efficient marketplaces by determining an optimal price that is both sustainable and loved by our partners and customers.
+
+Get to know the Role
+
+As the Data engineer in the Fulfillment Data Engineering team, you will work closely with data modelers, product analytics, product managers, software engineers and business stakeholders across the SEA in understanding the business and data requirements. You will be responsible for building and managing the data asset, including acquisition, storage, processing and consumption channels, and using some of the most scalable and resilient open source big data technologies like Flink, Airflow, Spark, Kafka and more on cloud infrastructure. You are encouraged to think out of the box and have fun exploring the latest patterns and designs.
+
+The Day-to-Day Activities
+
+Developing scalable and reliable ETL pipelines and processes to ingest data from a large number and variety of data sources
+Developing a deep understanding of real-time data productions availability to inform on the real time metric definitions
+Maintaining and optimizing the performance of our data analytics infrastructure to ensure accurate, reliable and timely delivery of key insights for decision making
+Design and deliver the next-gen data lifecycle management suite of tools/frameworks, including ingestion and consumption on the top of the data lake to support real-time, API-based and serverless use-cases, along with batch as relevant
+
+The Must-Haves
+
+At least 5+ years of relevant experience in developing scalable, secured, distributed, fault tolerant, resilient & mission-critical Big Data platforms.
+Proficiency in at least one of the programming languages Python, Scala or Java.
+Strong understanding of big data and related technologies like Flink, Spark, Airflow, Kafka etc.
+Experience with different databases – NoSQL, Columnar, Relational.
+You have a hunger for consuming data, new data technologies, and discovering new and innovative solutions to the company's data needs
+You are organized, insightful and can communicate your observations well, both written and verbally to your stakeholders to share updates and coordinate the development of data pipelines
+
+The Nice-to-Haves
+
+You have a degree or higher in Computer Science, Electronics or Electrical Engineering, Software Engineering, Information Technology or other related technical disciplines.
+You have a good understanding of Data Structure or Algorithms or Machine Learning models.
+
+Our Commitment
+
+We recognize that with these individual attributes come different workplace challenges, and we will work with Grabbers to address them in our journey towards creating inclusion at Grab for all Grabbers."
+3787664807,DevOps Engineer,htthttps://www.linkedin.com/jobs/view/3787664807,AJARI TECHNOLOGIES,https://www.linkedin.com/company/ajari/life," ",3 days ago,59,,On-site,,51-200 employees,"Company Description
+AJARI Technologies is an AI Solutions Company based in Jakarta Metropolitan Area. We are dedicated to leveraging AI technology to optimize processes, enhance decision-making, and improve outcomes across various industries, with a primary focus on High-Level Education Technology. Our team of experts deploys state-of-the-art machine learning algorithms to drive innovation and efficiency in developing our customized AI capabilities.
+
+Role Description
+This is a full-time on-site role for a DevOps Engineer at AJARI Technologies. The DevOps Engineer will be responsible for Infrastructure as code (IaC), Software Development, Continuous Integration, System Administration, and working with Linux-based systems. They will work closely with the development team to ensure efficient and reliable operation of the infrastructure, and will be responsible for optimizing and scaling the infrastructure to support growing customer demand.
+
+Qualifications
+Hands-on experience with Infrastructure as Code (IaC) tools such as Terraform, Ansible, or CloudFormation
+Proficiency in one or more software development languages such as Python, Java, or Go
+Experience with Continuous Integration using tools such as Jenkins or GitLab CI/CD
+Highly skilled in working on Linux-based OS and open source IDLE
+Have working experience in developing, testing, debugging, and troubleshooting system-level scripts in Python or Bash
+Experience working with cloud-based platforms such as AWS, Azure, or GCP is a plus
+Highly skilled in all kinds of infrastructure tools that turns source code in a text file to infrastructure resource in production, including but not limited to : Linux, Git, Ansible, Docker, Kubernetes, Alibaba Cloud, Google Cloud Platform, On-Promise Server.
+Min 2 Years of DevOps Engineer and 2 year cloud infrastructure experience and team
+Practical problem solver, highly analytical, great team player, have excellent work ethic, and have strong security ethics
+Can communicate clearly, timely, and professionally
+With technical and non technical users
+With individual contributors
+Expert in multi-tasking, both in planning, executing, and managing projects thoroughly in issue tracking tools
+Bachelor's degree or higher in Computer Science, IT, or a related field
+Proficient in English are preferrable"
+3747625315,Data Engineer,htthttps://www.linkedin.com/jobs/view/3747625315,SeaMoney,https://www.linkedin.com/company/seamoney/life," ",,297,,On-site,,201-500 employees · Financial Services,"Job Description
+
+Work closely with Data PM, Business Intelligence Analyst, & other Engineers to turn data into information that can be used to make sound business decisions.
+Build and maintain data pipelines, data warehouses, and data marts that support business intelligence and data analytics initiatives and based on the requirements of accuracy, timeliness, reliability, and scalability.
+Develop and implement best practices for data management, including data quality, data security, and data privacy.
+Build and maintain analytics tools that utilize the data pipeline to provide actionable insights into operational efficiency and other key business performance metrics.
+Being responsible for the full life cycle development, implementation, and support of self-serve data products.
+Adhere to software development best practices, including test-driven development
+
+Requirements
+
+Master’s or bachelor’s degree in Computer Science/Information Systems or any related fields.
+2+ years of relevant experience working in Data Engineering or related fields.
+Expert in SQL, Spark, HDFS, Kafka, Airflow, and other data processing/engineering tools.
+Expertise working with Python is essential.
+Experience working in a UNIX environment is preferred.
+Proficient in data modeling concepts, batch processing, and lambda architecture.
+Proficient in Software Development Life Cycle (SDLC) including code version control, test driven development, and technical documentation.
+Solid software engineering skills with experience in scripting, APIs, and computational automation.
+Ability to translate complex technical concepts to non-technical stakeholders.
+Excellent problem-solving skills with the ability to troubleshoot and resolve data-related issues.
+Comfortable working with a variety of languages, frameworks, and technologies, adapting to the most suitable tool for the task at hand.
+Ability to converse in English is strongly preferred as we are deeply working with regional teams."
+3778798363,Senior Data Engineer,htthttps://www.linkedin.com/jobs/view/3778798363,JULO,https://www.linkedin.com/company/juloindonesia/life," ",2 weeks ago,103,,,,"501-1,000 employees · Financial Services","Roles and Responsibilities:
+As part of the analytics team you will design, develop and implement data products and tools together for our business analysts and data scientists.
+You will be responsible for the reliability, scalability, and usability of all of our all of our data elements, whether in databases or in raw form.
+You will maintain and manage data storage, workflows and pipelines and work closely with our backend engineers to put these solutions into production.
+Automate manual processes, optimize data delivery, re-design infrastructure for greater scalability
+Build the infrastructure required for optimal extraction, transformation and loading of data from a wide variety of data sources using SQL and other technologies.
+You research new technologies and solutions in the realm of data analytics and data science that can increase the performance, reliability and quality of our data assets.
+You will collaborate with internal teams (engineering, analytics, and operations) to bring our products from design to delivery
+
+You should have:
+Exceptional CAN-DO ATTITUDE
+Bachelor’s degree in Engineering, Computer Science, or similar advanced degree
+3+ years working experience developing ETL solutions, data workflows, pipelines and products in
+Python, R, Scala or equivalent
+Familiarity with Test Driven Development
+Solid communication skills (Bahasa Indonesia and English)
+Attention to detail and high-quality standards
+You are resourceful, flexible and self-motivated to explore new technologies to solve the problem at hand
+Able to write basic to advanced SQL queries
+Familiar with launching and managing in at least one of the major cloud services (AWS, GCP, Azure or AliCloud)
+
+Nice-to-have experience in any of the following:
+Knowledge about machine learning and the python data stack: Numpy, Pandas, Scipy, Scikit-learn etc.
+Stream and batch processing
+Familiar with other data technologies: e.g. Airflow, Spark, Elastic Search, Kafka, PubSub
+Master’s Degree in Engineering or Computer Science"
+3777063644,DevOps Engineer,htthttps://www.linkedin.com/jobs/view/3777063644,MIMS Pte Ltd,https://www.linkedin.com/company/mims-pte-ltd/life," ",2 weeks ago,153,,Remote,,"501-1,000 employees · Hospitals and Health Care","Who We Are:
+MIMS is Asia-Pacific’s leading multi-channel provider of trusted, quality medical information, medical education, and knowledge services connecting healthcare communities. Our work empowers healthcare professionals to improve patient outcomes by facilitating knowledge exchange and better decision-making. Today, MIMS has a strong regional presence in 17 countries and regions across Asia-Pacific with approximately two million healthcare professionals subscribed to its drug & resource portal, digital and print publications. We provide solutions to leading pharmaceutical companies and established healthcare institutions across the world. 
+
+Who We are Looking For:
+We are looking for a talented, motivated, and passionate engineer with a strong technical background to join the Marketing Platform Team. 
+ As a DevOps Engineer, you will be a significant contributor to the Product team as you design, build, enhance, and maintain highly scalable and innovative solutions for MIMS.
+
+Roles & Responsibilities:
+Design and implement Microsoft DevOps Solutions.
+Design, implement, and maintain CI/CD pipelines in Azure DevOps.
+Integrate pipelines with external tools, including dependency scanning, security scanning, and code coverage.
+Design and implement quality and release gates, including security and governance.
+Plan and implement branching strategies for the source code.
+Design and implement a package management strategy.
+Design and implement a dependency versioning strategy for code assets and packages, including semantic versioning and date-based.
+Develop complex pipeline scenarios, such as containerized agents and hybrid.
+Design a deployment strategy, including blue/green, canary, ring, progressive exposure, feature flags, and A/B testing.
+Define an IaC strategy, including source control and automation of testing and deployment.
+Monitor pipeline health, including failure rate, duration, and flaky tests.
+Optimize pipelines for cost, time, performance, and reliability.
+Implement continuous monitoring with Azure Monitor and Application Insights.
+Implement continuous testing solutions with Dev and QC teams.
+
+What Skills and Experience You will Bring:
+Degree in Computer Science/Information Technology or any related
+Must have at least 3 years work experience with Azure DevOps or GitHub Actions.
+Must have at least 2 years software development with C# and .NET eco-system.
+Must have been experienced in implementing CI/CD pipelines for automating software releases for Microsoft Azure cloud services such as Web App Service, WebJobs, Azure Functions, Azure Container Apps.
+Programming and scripting languages required: Azure CLI, PowerShell, C#, YAML
+Knowledge working with RESTful APIs, distributed microservices based architecture.
+Strong analytical and problem-solving skills, self-motivated, team player with a proactive approach.
+Possess good communication skills and a strong team player working in a multi-culture environment.
+Organized and familiar with technical documentations, building workflows and diagrams.
+Must be able to work independently on a given project as well as within a team.
+Demonstrate understanding or keen interest in latest technologies.
+AZ-900: Microsoft Azure Fundamentals certificate is required.
+AZ-400: Designing and Implementing Microsoft DevOps Solutions certified, will be a plus.
+
+Why Work with Us:
+You will be part of huge in-house IT team with multi-cultural environment.
+You will be directly involved in developing the products with vast opportunity to experience cloud technology.
+We offer a vast opportunity for continuous improvement involving latest technologies.
+Excellent career growth opportunity."
+3779349269,Cloud Engineer,htthttps://www.linkedin.com/jobs/view/3779349269,iZeno,https://www.linkedin.com/company/izeno-pte-ltd/life," ",1 week ago,121,,Hybrid,,51-200 employees · IT Services and IT Consulting,"iZeno was founded in 2003 to provide enterprises with custom-built technology solutions they need to keep their business running seamlessly. Logicalis Asia, part of the Logicalis Group, a leading international IT solutions and managed services provider, has acquired a majority stake in iZeno, a company specialising in digital transformation, application modernisation, DevOps, customer experience and hybrid cloud solutions.
+
+With a team of 120+ in-house innovators, we have delivered over 500 Enterprise Solutions, implemented, and optimized to enable smarter insights. Our team draws on industry experiences in accomplishing a portfolio of mission-critical applications, integrating Cloud, CRM, Data Analytics, and other leading technologies with our clients' existing IT frameworks.
+With leading presence in the region, headquartered in Singapore and operation in Malaysia, Indonesia, Thailand and Philippines, no project is too complex for us, and our team is always ready for a new challenge.
+
+About the role:
+Perform administrative tasks related to install Linux (RedHat) servers from scratch, configure, patching, and has good troubleshooting skills.
+Performance monitoring for all Linux servers (OS, CPU, Memory, Network, Disk and Process), detect, diagnose, report and resolve Linux server related hardware and OS problems.
+Perform hardening and security configuration of Linux (RedHat) servers.
+Establish and maintain documentation and standards.
+Works as part a team and provide the support when required.
+
+What we are looking for:
+Bachelor's degree or Diploma in Computer Science, related technical field, or equivalent practical experience.
+RedHat certifications is preferred.
+Knowledge of best practice especially for RedHat OpenShift Container Platform, RedHat OS, and IT operations in an always-up, always-available service.
+Hands-on experience with Linux (RedHat) environment, managing, troubleshooting and configuring servers will be advantageous.
+Working experience and knowledge with automation/configuration management using ansible.
+Working experience in scripting, Bash, Shell, and basic DevOps.
+Working experience with applications such as web/proxy servers, LDAP, database (Cassandra, PostgreSQL), Kafka, etc.
+Work effectively in a fast-paced implementation environment.
+Good analytical and problem solving attitude, work independently and as part of a team.
+Understand and willing to adapt with new technology (cloud computing, container, or configuration and automation management).
+
+What we have to offer:
+An exciting job with latest technology.
+Continuous training & development of soft and hard skills.
+A competitive salary, in line with your profile.
+A package of benefits including healthcare insurance.
+An awesome team of colleagues & regular team building activities.
+The ability to work with the world’s leading companies in technology and innovation.
+An environment where we embrace openness, transparency and grab every opportunity to have fun, while always doing what is right for our customers and partners.
+
+Posting Code: #LI-RD1"
+3782202950,Embedded Software Engineer,htthttps://www.linkedin.com/jobs/view/3782202950,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",1 week ago,68,,Remote,,1-10 employees · Staffing and Recruiting,"Job Responsibilities:
+● Proficient in C and C++ programming languages.
+● Familiarity with embedded programming concepts and bare metal programming.
+● Knowledgeable about I2C, UART, SPI, and CAN protocols.
+● Desirable understanding of RTOS concepts.
+● Experience of at least 2-3 years with ARM-based processors such as Ti DSP Controllers, NXP, ST, etc.
+● Capable of identifying and resolving hardware and software technical issues.
+● Competent in MCU Peripheral driver usage for SPI, I2C, UART, CAN.
+● Familiarity with Automotive firmware development and using test tools for CAN/I2C/SPI module verification.
+● Proficient in using JTAG/SWD debugger.
+● Understanding of ASIL and AutoSAR-based product development.
+● Strong analytical and problem-solving skills.
+● Desirable familiarity with agile concepts.
+● Proficient in utilizing test and measurement equipment like oscilloscopes, logic analyzers, multimeters, etc.
+● Basic understanding of wireless technologies such as Zigbee, Bluetooth, and WIFI products.
+● Quick learner with the ability to adapt.
+● Basic knowledge of Microsoft tools, Jira, or any project management tools.
+● Basic familiarity with code management tools like Bitbucket, SVN, etc.
+● Excellent verbal and written communication skills.
+Qualifications:
+● Bachelor’s/Master’s degree in Engineering.
+● 3-6 years’ experience in firmware development (automotive/industrial products) with at least 3 years in development and testing.
+● Minimum 2 years’ experience in developing low-level MCU peripheral drivers for UART, SPI, I2C, CAN.
+● Minimum 2 years’ experience in developing embedded applications for bare metal (Non-RTOS) based systems.
+● Ability to interpret schematics and datasheets.
+● Responsible for writing modular code while adhering strictly to coding standards.
+● Proficient in debugging and problem-solving with minimal support.
+● Capable of performing unit testing for completed features.
+● Effective communication skills.
+● Knowledge of Automotive firmware development and understanding of ASIL and AutoSAR-based product development."
+3783345728,Cloud Engineer,htthttps://www.linkedin.com/jobs/view/3783345728,Packet Systems Indonesia ,https://www.linkedin.com/company/packet-systems-indonesia/life," ",5 days ago,39,,On-site,,201-500 employees · IT Services and IT Consulting,"Job Specification: 
+Requirement : 
+Hold a bachelor's degree (S-1 degree) in Information Technology Computer Engineering or Telecommunication from a reputable university with a minimum IPK of 3.0.
+5 years of working experience as ·engineer is a plus.
+Deep knowledge of the Cloud environments (Azure, AWS, etc) is a must.
+Having Cloud Certification is a must ·
+Deep knowledge of Virtualization, server, storage & backup technology such as VMWare, Cisco UCS, DELL, Pure Storage, Netapp & Veeam. 
+Preferably having Experienced in administering physical and virtual environments.
+Preferably have Experienced in Linux Administration.
+Minimum 5 years of relevant experience operating in a similar role. 
+Have a passion for technology and wants to make a difference with technology solutions. 
+Strong analytical and troubleshooting skills.
+Excellent interpersonal & communication skills.
+Fluent in English, good communication skills.
+Competent with Microsoft Office applications i.e. Microsoft Visio, Word, Excel, and PowerPoint.
+Ability to perform under pressure and tight time constraints; be able to work under limited guidance in line with a broad plan, or strategy. 
+Leadership, teamwork, commitment, and service excellence are personal qualities.
+
+Job Description: 
+The role shall cover the following: 
+For Project based: 
+Support for a new installation, integration into the existing system, migration, and monitoring. Including all documentation related to the project (Site Survey, MoP, UAT, as build documentation).
+ For Maintenance based: 
+Support for troubleshooting problems in all PSI customers. Also, support for change requests in the customer network. Including reporting, documentation, and standby monitoring. 
+Support for Onsite Resident Engineer on PSI Customer Site.
+Provide server and system operation support, problem isolation, and troubleshooting for incidents. Proactively maintain and develop infrastructure technology for backend services."
+3781528690,Machine Learning Engineer (Product),htthttps://www.linkedin.com/jobs/view/3781528690,Traveloka,https://www.linkedin.com/company/traveloka/life," ",2 weeks ago,90,,On-site,,"1,001-5,000 employees · Software Development","It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+
+
+
+
+Job Description
+
+Our machine learning team is responsible for solving complex problems and optimizing various aspects of Traveloka’s business. You will get a wide range of exciting opportunities to bring impact by helping to make decisions at scale across various domains. Join us in revolutionizing the travel industry through data!
+
+Key Responsibilities:
+
+Work with Data Scientists/Data Engineers/Software Engineers in building robust ML solutions at scale.
+Design, build, and maintain high performing systems built on top of our inhouse machine learning platforms and tools.
+Oversee and manage multiple ML system projects across domains (Recommendation, LLMs, Optimization, to name some), ensuring they meet the business objectives and are delivered on time.
+
+
+
+Requirements
+
+Qualifications
+
+Bachelor’s degree in Computer Science, Data Science, Statistics, or a related field. Master's degree or higher preferred.
+Minimum of 3 years experience in Machine learning engineering or a related role.
+Experience with Cloud-based tech stack and Docker/Kubernetes deployment. GCP will be preferred.
+Excellent ability to translate business requirements into technical specifications.
+Strong expertise in Python and experience with deploying ML/Stats libraries (scikit-learn, LGBM, XGBoost to name a few).
+Proven experience in deploying and maintaining multiple Machine Learning systems.
+Exceptional interpersonal and communication skills
+Proactive, self-motivated, and able to work independently.
+
+Good to Have
+
+Experience in deploying deep learning frameworks like PyTorch or TensorFlow.
+Experience with ML Lifecycle tools (eg. mlflow).
+
+
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!"
+3763122844,"Systems Engineer - Commercial, Indonesia",htthttps://www.linkedin.com/jobs/view/3763122844,Palo Alto Networks,https://www.linkedin.com/company/palo-alto-networks/life," "," ",142,,On-site,,"10,001+ employees · Computer and Network Security","Company Description
+
+Our Mission
+
+At Palo Alto Networks® everything starts and ends with our mission:
+
+Being the cybersecurity partner of choice, protecting our digital way of life.
+
+Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.
+
+Our Approach to Work
+
+We lead with flexibility and choice in all of our people programs. We have disrupted the traditional view that all employees have the same needs and wants. We offer personalization and offer our employees the opportunity to choose what works best for them as often as possible - from your wellbeing support to your growth and development, and beyond!
+
+Job Description
+
+Your Career
+
+As a Pre-Sales Systems Engineer, you are an important member of our technical sales team, identifying complex security challenges in your customers’ networks and driving solutions with our market-leading security products and services.
+
+You are the technical sales representative of the company and focus on customer satisfaction with all that you do. You and your sales partner own the customer relationship and your goal is to help them detect and prevent advanced cyberattacks and breaches while safely enabling applications by deploying the full Palo Alto Networks platform so that they can confidently pursue network, cloud, and mobile technology initiatives.
+
+Your Impact
+
+Understand and effectively present our security platform and solutions
+Work closely with Commercial customers & partners in Indonesia
+Create and deliver compelling demonstrations of Palo Alto Networks products and solutions
+Educate customers and partners on the modern network security landscape
+Identify and qualify new opportunities and support technical pre-sales activities to opportunity closure
+Expand the Palo Alto Networks install base within existing accounts
+Enable and leverage channel partners and work successfully in a channel-driven sales model
+Create evaluation test plans with customers and lead the evaluation process to a successful conclusion
+Differentiate from industry technologies and solution
+Assist customers through the support escalation process
+Continuous self-improvement and learning to maintain current technical knowledge and participate in technical communities of interest
+Identify problems in customer environments - effectively engages customers at the technical field and technical management levels
+Effective in customer-facing engagement, in writing, presentation, and creative problem-solving skills
+
+Qualifications
+
+Your Experience
+
+BSCS or equivalent or equivalent military experience required and 6+ years of experience as a Pre-Sales Systems Engineer or Solution Consultant or Sales Engineer or Systems Integrator
+Pre-sales experience handling Commercial customers & partners in Indonesia
+Demonstrable experience with systems installation, configuration, and administration of routers/switches, UNIX/Linux and Windows-based systems (prior Active Directory/LDAP experience desirable)
+Experience emphasizing L2-L4 Networking (L2 Switching architectures including Spanning Tree, IP routing including OSPF and BGP, L4 Load-balancing)
+Industry knowledge of security and network product and technology trends
+Experience selling, demonstrating, installing and/or solving network infrastructure security products
+Extensive domestic travel within the territory is often required, and international travel may be required as necessary
+Experience selling network infrastructure based security appliances including, but not limited to - Firewalls, SSL/IPSec VPNs, Security Proxies and Caches
+Practical experience working with routing and switching products that will be installed adjacent to our appliances
+Strong communication and presentation skills, both written and verbal
+Strong analytical skills, ability to analyze complex multivariate problems and use a systematic approach to gain quick resolution
+
+Additional Information
+
+The Team
+
+As part of our Systems Engineering team, you’ll support the sales team with technical expertise and guidance when establishing trust with key clients. You won’t find someone at Palo Alto Networks that isn’t committed to your success – with everyone pitching in to assist when it comes to solutions selling, learning, and development. As a member of our systems engineering team, you are motivated by a solutions-focused sales environment and find fulfillment in working with clients to resolve incredible complex cyberthreats.
+
+Our Commitment
+
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.
+
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+
+All your information will be kept confidential according to EEO guidelines."
+3777876893,Senior Site Reliability Engineer,htthttps://www.linkedin.com/jobs/view/3777876893,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",1 week ago,37,,Remote,,201-500 employees · IT Services and IT Consulting,"About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3785638889,DevOps Engineer,htthttps://www.linkedin.com/jobs/view/3785638889,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",2 days ago,27,,On-site,,201-500 employees · IT Services and IT Consulting,"Binar Academy aims to unlock and channel human potential so we can help the world turn into a better place. One of the ways we strive to do that is to channel potential talents to impactful opportunities using our very own job connector, Binar Job Connect.
+
+Binar Job Connect has connected up to 250 talents and candidates; whether it be young and aspirational fresh graduates to tech-savvy team leaders, individuals who decided to start from scratch, and junior engineers to skilled product manager.
+
+
+Key Responsibilities:
+Infrastructure Automation:
+Develop and maintain scripts and tools for infrastructure automation.
+Implement and manage configuration management solutions (e.g., Ansible, Puppet, Chef).
+Orchestrate and automate deployment processes.
+Continuous Integration/Continuous Deployment (CI/CD):
+Design, implement, and manage CI/CD pipelines for software delivery.
+Integrate automated testing to ensure code quality.
+Collaboration:
+Facilitate communication and collaboration between development, testing, and operations teams.
+Work closely with developers to understand project requirements and ensure proper integration with the deployment pipeline.
+Monitoring and Logging:
+Implement monitoring solutions to track system performance and identify issues.
+Set up logging and alerting systems to proactively address potential problems.
+Security:
+Collaborate with security teams to implement and maintain security best practices.
+Ensure compliance with security policies and standards.
+Infrastructure as Code (IaC):
+Implement and manage Infrastructure as Code tools (e.g., Terraform) to define and provision infrastructure.
+Version Control:
+Manage version control systems (e.g., Git) and enforce branching and merging strategies.
+Release Management:
+Coordinate and manage releases, including rollbacks and hotfixes.
+Cloud Services:
+Work with cloud providers (e.g., AWS, Azure, GCP) to deploy and manage applications.
+Qualifications:
+
+Bachelor's degree in Computer Science, Information Technology, or related field.
+Proven experience as a DevOps Engineer or similar role.
+Strong scripting and coding skills (e.g., Python, Shell, Ruby).
+Experience with CI/CD tools (e.g., Jenkins, Travis CI, GitLab CI).
+Knowledge of containerization and orchestration tools (e.g., Docker, Kubernetes).
+Familiarity with infrastructure automation tools (e.g., Ansible, Puppet, Chef).
+Understanding of networking concepts and security best practices.
+Excellent problem-solving and communication skills.
+Ability to work in a collaborative team environment."
+3784946959,SE Asia Utility Transition Associate,htthttps://www.linkedin.com/jobs/view/3784946959,RMI,https://www.linkedin.com/company/rocky-mountain-institute/life," ",1 week ago,29,,Remote,,201-500 employees · Non-profit Organizations,"Job Description
+
+Do you love solving challenging problems, thinking in numbers, and working in groups? Do you also have the self-motivation, curiosity, creativity, and ability to persuade others toward meaningful results? Are you passionate about the clean energy transition? If yes, then join our growing SEA team!
+
+Background
+
+RMI is an independent nonprofit founded in 1982 transforming the global energy system to secure a clean, prosperous, zero-carbon future for all. It engages businesses, communities, institutions, and entrepreneurs to accelerate the adoption of market-based solutions that cost-effectively shift from fossil fuels to efficiency and renewable.
+
+With an independent, objective, and fact-based approach, RMI’s SEA Energy Program, working within the umbrella Global South Program, brings experience gained from engagements with regional governments, utilities, corporations, financial institutions, project developers, technology companies, and industry experts to solve the toughest energy challenges. RMI is currently working with select country partners to an energy transition that supports development goals, transitions away from fossil fuels and enables a dramatic increase in access to affordable renewable energy and energy efficiency that will bring benefits to all.
+
+Capturing the promise of the new energy economy requires a fundamental change in how governments, regulators, utilities, funding entities, and the private sector approach energy infrastructure design, development, and operation. We use our expertise in distributed energy systems, utility business models, finance, and technology to create a robust technical and economic analysis that determines the costs and opportunities of clean, renewable, and efficient technologies.
+
+The SEA Energy Program is focused on four complementary components: 1) electric utility transition and innovation; 2) clean energy project development; 3) transmission grid planning and market integration; and 4) the just transition of Indonesia, the Philippines, and Vietnam.
+
+RMI is seeking an Associate reporting to the Utility Transition Manager (working within the SEA Energy Program) to support program implementation in Indonesia, Vietnam, and the Philippines.
+
+We strongly encourage individuals from underrepresented groups to apply!
+
+Position Overview
+
+RMI is seeking an experienced and motivated Associate to help drive our on-the-ground activities in Indonesia, Vietnam, and the Philippines. The role will focus on conducting technical, financial, project development, and regulatory analysis on the just transition of the utilities from fossil fuels to renewable energy, as well as stakeholder engagement to implement tangible utility transition projects. A significant focus of the Utility Transition Associate’s tasks is to help the Utility Transition Manager and the wider RMI teams assess the technical, commercial, and legal/regulatory feasibility of utility transition efforts, support the project parties execute deals, and advance the development of renewable energy and storage projects in the aforementioned countries. RMI’s SEA Energy Program is growing, and this role offers an opportunity to play a key role in delivering groundbreaking utility transition analysis, establishing new partnerships, and developing innovative solutions in the SEA region.
+
+This role reports to the Utility Transition Manager with whom you will collaborate closely on advancing RMI’s scope of work and strategy in Indonesia, Vietnam, and the Philippines. These currently include but are not limited to, analyzing and facilitating development of innovative regulatory, technical, and financial mechanisms for utility transition (including carbon credit); supporting utilities, governmental authorities, and the private sector establish bankable frameworks for energy storage solutions; project finance modeling of utility refinancing and renewable energy plus storage projects; analyzing key commercial and bankability aspects of power purchase agreements (PPAs) or wholesale market energy trading system; market sizing and scaling strategies for renewable energy projects; and capacity development for relevant stakeholders to support the just energy transition.
+
+As an Associate, you are a creative problem solver who uses your quantitative, qualitative, technical, and analytical abilities to help stakeholders deliver tangible utility transition projects from analysis/research phase. You will collaborate with team members to craft visionary yet practical solutions for our stakeholders and clients. You will be an independent contributor and work closely with colleagues on projects under the direction of the Utility Transition Manager and other senior team leaders.
+
+Your Key Responsibilities As An Associate Primarily Include
+
+Closely work with partners, clients, and stakeholders to meet planned deliverables.
+Assist in the due diligence process across a broad range of topics related to utility transition, energy storage, and/or renewable energy plus storage on an asset level.
+Identify key challenges and opportunities present in utility transition, energy storage, and/or renewable energy plus storage projects/initiatives.
+Create innovative problem-solving approaches to drive project insights.
+Support the outreach to financial institutions and actively provide input to the discussions.
+Collect, track, and manage reliable data and analyze policies that present challenges and/or opportunities in driving the clean and inclusive energy transition in SEA. 
+Provide quantitative analysis and modeling activities within specific scopes of support for different projects and effectively address key questions and challenges posed by our funders or partners.
+Synthesize recommendations into clear and compelling presentations and written reports.
+Present quantitative information in a clear and visual format.
+Stay abreast of the developments in global, regional (SEA) and national approaches to clean energy transition.
+Engage with external experts, stakeholders and partners via phone interviews, conferences, in-person meetings and on occasion, respond to outreach requests.
+Support the organization of workshops, stakeholder meetings, and other events.
+
+Minimum Qualifications
+
+A graduate degree or equivalent experience in an applicable field such as engineering (mechanical, electrical, civil, energy), business (marketing, finance, international), policy, economics, computer science, mathematics, architecture, physical and social sciences OR undergraduate degree with additional 3-5 years of cumulative work experience in Indonesia related to energy.
+Excellent work references.
+Proficiency in Word processor.
+Ability to design, create, and run Excel-based models.
+Ability to create clear, structured, and illustrative PowerPoint presentations.
+Existing relationships with relevant energy sector stakeholders in Indonesia. Those in other countries in SEA is a plus.
+Effective communication and exceptional writing capabilities.
+A high degree of professionalism, thoughtfulness, and respect across interpersonal interactions.
+Demonstrated initiative and accomplishment in previous work and demonstrated ability to work in varied cultural environments.
+Fluent in English and Bahasa. Ability in another SEA language (e.g., Vietnamese and/or Tagalog) is a plus.
+
+Preferred Qualifications
+
+3-5 years of cumulative work experience in the power OR clean energy sector.
+Familiarity with initiating, bidding, financing, constructing, and/or commissioning thermal and/or renewable energy projects.
+Prior experience in project finance, consulting, project management, utility, independent power producer (IPP) development, or other related fields.
+Experience working with utility/IPP/think-tank/development organization with a good understanding of the power sector, including utility and regulatory models.
+Adaptable to working in complex, multi-stakeholder environment and uncertainty.
+Able to perform effectively in projects/initiatives across various teams in the SEA region and beyond, if required
+Understand the distinct terms of thermal and renewable energy PPAs and be able to pinpoint key bankability and commercial issues and suggest potential solutions.
+Have a basic understanding of the wholesale energy market and virtual PPAs/contract for difference.
+Understand project financing principles, processes, stakeholders, and key financing agreement terms.
+Able to interpret and/or calculate power supply/demand curves, operational data/parameters of thermal and/or renewable energy plus storage plants, energy resources reports, key project financing parameters, NPV/IRR, tariff components, and carbon credit valuations.
+Basic understanding of SEA’s energy issues.
+Understanding of company incorporation, shareholding, financing, permitting, and governance mechanisms/processes.
+Ability to demonstrate in-depth overview and understanding of the energy transition landscape in SEA and globally.
+Proven track record of delivering against deadlines in complex projects involving multiple stakeholders.
+Ability to stick with a problem through resolution but also knowing when to ask for help.
+Ability to listen actively, be diplomatic and professional, and share knowledge and information well.
+Willingness to plunge into unfamiliar disciplines and take risks by exploring and testing new ideas.
+Experience working among diverse groups with varying perspectives and/or facilitating challenging conversations. 
+Ability to see a “helicopter view” of the various workstreams and envision a structured and logical path to achieve the objectives on the ground.
+
+We are a remote-ready organization with team members around the globe. Our beautiful and welcoming offices are available for meetings or focused work, whether you are traveling through or living nearby.
+
+Please note that this position requires you to be based in Indonesia with travel requirements across SEA depending on the projects/initiatives.
+
+We provide you with the essential IT equipment plus a one-time home technology payment and monthly work from home/commuter allowance to ensure you have a comfortable home office set up and necessary supplies.
+
+We love seeing each other in person! We occasionally gather for shared time together like retreats and learning experiences. Be ready to travel for occasional in-person meetings (and of course, we cover travel costs). Some roles may require more travel, which will be discussed during the hiring process.
+
+Important Note: As a U.S. federal contractor, RMI must comply with requirements outlined in Executive Order Ensuring Adequate COVID Safety Protocols for Federal Contractors. This Executive Order requires that all federal contractors and subcontractors mandate and verify that all U.S. based employees are fully vaccinated against COVID-19. If you are based in the U.S., you will be required to provide proof of full vaccination status as a condition of employment. You may request accommodation for medical or religious reasons. If you are based outside of the U.S., this requirement does not apply.
+
+Compensation
+
+RMI compensates based on the level and requirements of the role. Salary within our ranges may also be determined by your education, experience, knowledge, skills, and abilities, as required by the role, as well as internal equity and alignment with market data. Typically, the starting Associate level salary is $70,939. You would also have an additional 5% bonus target!
+
+Benefits
+
+RMI provides a comprehensive benefits package that will be based upon the statutory benefits per country of residence.
+
+Diversity
+
+Increasing the diversity of thought, perspectives, ideas, and opinions within RMI is a critical change element supporting our long-term sustainability and mission to build a clean, prosperous, and secure energy future.
+
+Education
+
+We strive for a level of diversity that reflects the communities we serve. Achieving this—regardless of ability, race, ethnicity, ancestry, age, gender, sexual orientation, religion, veteran status, socioeconomic class, educational attainment, or other social identities—is critical to the success of each RMIer and collectively as an organization. This ensures that we:
+
+Have the different array of thinking that comes from diverse backgrounds and cultures, enabling us to solve some of the world’s greatest challenges. 
+Strive for a culture of inclusion and belonging by treating others with dignity, respect and appreciation enabling them to feel welcomed, supported and valued. 
+Effectively connect, communicate and build long-lasting relationships with decision makers, stakeholders and constituents within diverse communities. 
+
+Rocky Mountain Institute is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+About Rocky Mountain Institute
+
+Rocky Mountain Institute transforms global energy use to create a clean, prosperous, and secure low-carbon future. That is our mission. That is our passion. And every day, every member of our team of nearly 250 works relentlessly to achieve it. We are driving the global energy transition from fossil fuels to efficiency and renewable by working in partnership with businesses, communities, institutions, and entrepreneurs to advance market-based solutions. We achieve this by developing breakthrough ideas, testing and refining them, reshaping markets, and bringing solutions to scale. RMI is an independent 501(c)(3) nonprofit organization with an annual budget of $70 million and offices in Basalt and Boulder, Colorado; New York City; Oakland, California; Washington, D.C.; and Beijing, China.
+
+RMI is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees."
+3775966972,Artificial Intelligence Engineer,htthttps://www.linkedin.com/jobs/view/3775966972,SuperKiosk,https://www.linkedin.com/company/super-kiosk/life," ",2 weeks ago,218,,Hybrid,,11-50 employees · Consumer Goods Rental,"We are on the lookout for an experienced Artificial Intelligence Engineer to play a pivotal role in reshaping our company's business model through innovative AI solutions. As we embark on this transformative journey, we seek an individual with a minimum of 3 years of proven expertise in AI, particularly within a marketplace setting.
+
+Responsibilities:
+
+1) Strategic AI Implementation:
+a. Collaborate closely with cross-functional teams to understand the nuances of our marketplace business model.
+b. Strategically design and implement AI solutions that align with the goals of transforming our business model.
+
+2) Marketplace Insight:
+a. Leverage your marketplace experience to gain deep insights into user behavior, trends, and preferences.
+b. Identify opportunities where AI can enhance user experience, increase efficiency, and drive business growth.
+
+3) Algorithmic Enhancements:
+a. Develop and enhance machine learning algorithms tailored to the dynamics of our marketplace.
+b. Optimize algorithms to address challenges unique to our industry and marketplace ecosystem.
+
+4) Data-Driven Decision-Making:
+a. Work with extensive datasets from our marketplace to make informed decisions.
+b. Apply data analysis to uncover patterns, optimize processes, and drive data-driven decision-making.
+
+5) Model Evaluation in a Marketplace Context:
+a. Evaluate and fine-tune machine learning models with a focus on their real-world applicability within the marketplace.
+b) Implement measures to ensure the effectiveness and relevance of models within the marketplace setting.
+
+6) Deployment and Integration:
+a. Lead the integration of AI models into our existing marketplace systems.
+b. Ensure seamless deployment and continuous monitoring of AI solutions in a live marketplace environment.
+
+7) Continuous Innovation:
+a. Stay abreast of emerging AI trends and technologies within the marketplace landscape.
+b. Propose and implement novel AI solutions that give us a competitive edge.
+
+
+Qualifications:
+1) Educational Background:
+Bachelor’s degree or higher in computer science, engineering, or a related field.
+
+2) Experience:
+Minimum of 3 years of hands-on experience in developing and implementing AI solutions, preferably within a marketplace or e-commerce setting.
+
+3) Technical Skills:
+Proficiency in Python, TensorFlow, PyTorch, or other relevant AI frameworks.
+In-depth knowledge of machine learning, natural language processing, or computer vision.
+
+4) Marketplace Acumen:
+Demonstrated understanding of the dynamics and challenges specific to marketplace environments.
+
+5) Problem-Solving Ability:
+Proven ability to creatively solve complex problems and address challenges in a marketplace context.
+
+6) Communication Skills:
+Excellent communication skills with the ability to articulate technical concepts to both technical and non-technical stakeholders.
+
+How to Apply:
+If you have a passion for leveraging AI to transform marketplace dynamics and possess the experience we are looking for, we invite you to apply. Please submit your resume and a cover letter detailing your relevant experience to gabriella@super-kiosk.com . Join us in reshaping the future of our company through the power of AI innovation!"
+3782003001,Python FS Developer,htthttps://www.linkedin.com/jobs/view/3782003001,Elitely Group,https://www.linkedin.com/company/elitely-group/life," ",1 week ago,144,,"$12,000/yr - $15,600/yr",,"1-10 employees · Technology, Information and Internet","We are novel, a crossover between dating apps and social media that aims to bridge missed connections -- both for dating and influencer-fan interaction.
+
+The Role
+
+We are looking for a Python Full Stack Developer to produce scalable software solutions.
+
+Your Responsibilities Will Include
+
+You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment.
+As a FS Developer, you should be comfortable around both front-end and back-end coding languages, development frameworks, and third-party libraries.
+Pre-requisites: Knowledge of python-based code using python Django, AWS services, Stripe payment gateway, typescript. Only apply if you have these skillsets.
+Work with the product manager to ideate software solutions. Managing the complete software development process from conception to deployment.
+Build the front-end of applications through appealing visual design
+Develop and manage well-functioning databases and applications
+Integrating our front-end UI with the constructed API
+Test software to ensure responsiveness and efficiency
+
+Ideal Profile
+
+Skills Required
+
+Solid experience as Python Developer
+Experience with Python frameworks (e.g. Django, Flask, Bottle)
+Familiarity with Amazon Web Services (AWS) and REST API
+Understanding of databases and SQL
+Knowledge of JavaScript and the AngularJS framework is a plus
+Attention to detail
+Leadership skills
+BSc in Computer Science, Engineering or relevant field
+
+What's on Offer?
+
+Leadership Role
+Great work environment
+Attractive salary & benefits"
+3766914716,Data Engineer (Cloud Data Engineer),htthttps://www.linkedin.com/jobs/view/3766914716,ABeam Consulting Indonesia | Data Management and Analytics Sector,https://www.linkedin.com/company/abeam-data-management-analytics/life," ",3 weeks ago,172,,Hybrid,,201-500 employees · Information Technology & Services,"Job Descriptions:
+Design, build and implement data pipelines in a cloud environment (e.g., AWS, Azure, Google Cloud)
+Collaborate with cross-functional teams to gather and understand data requirements.
+Develop and optimize ETL processes to ingest, transform, and load data from various sources into our data lake or warehouse.
+Ensure data quality and consistency by implementing data validation and cleansing processes.
+Troubleshoot and resolve data-related issues in a timely manner
+Document data engineering processes, architecture, and best practices
+Interfacing on-site directly with customers, working with clients’ personnel and our consultants.
+Stay up to date with the latest technologies and best practices in data engineering and cloud computing.
+ Job Requirements:
+Graduated from a reputable University majoring in Information Technology, computer science or related fields.
+4 years working experience in IT systems / projects and involved in user requirement analysis, system analysis and system design including document preparation (such as functional specification, data mapping specification, etc.)
+Proven experience as a Data Engineer with a focus on cloud implementation (AWS, Azure, or Google Cloud).
+Strong proficiency in programming languages like Python, Java, or Scala.
+Experience with data pipeline orchestration tools (e.g., Apache Airflow, AWS Step Functions).
+Proficiency in SQL and data modeling concepts.
+Familiarity with data warehousing and data lake solutions (e.g., Redshift, BigQuery, S3).
+Knowledge of data integration and ETL tools (e.g., Apache NiFi, Talend, Informatica).
+Understanding of data security, encryption, and access control best practices.
+Excellent problem-solving and effective communication skills.
+Strong teamwork and collaboration skills.
+Able to work independently with minimum supervision.
+Able to perform in a demanding, changing, and fast-paced environment."
+3784824888,Lead Python Developer - AI Chatbot Innovation,htthttps://www.linkedin.com/jobs/view/3784824888,Turing,https://www.linkedin.com/company/turingcom/life," ",1 week ago,26,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting","A reputable company with rapid growth that specializes in creating conversational AI chatbots or companions that are individualized through the use of language models and deep learning algorithms, is looking for a Python Developer. The developer will be in charge of optimizing the program to run as quickly and as scalable as possible. The company provides a distinctive and customized engagement experience by providing a range of services, including education, entertainment, and customer care. This is an innovative opportunity for candidates who are eager to learn in a fast-paced environment. 
+ Job Responsibilities:
+
+Write code that is clear, reusable, and maintainable.
+Take part in code reviews to uphold the requirements for code quality
+Possess the ability to code in Python
+In the responses, provide well-structured, accurate, and easily annotated/classifiable code that is straightforward and clean
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a software developer
+Extensive experience working with Python and Python for Data Science 
+Familiarity with SQL and QA is desirable
+Nice to have some Software Quality Assurance and Test Planning experience
+Proficiency with the language syntax and conventions
+Previous experience tackling algorithmic problems
+Extensive data science or data engineering is desirable
+Strong background in application engineering 
+Excellent spoken and written English communication skills"
+3784401500,Software Engineer - Devops / ML Engineer,htthttps://www.linkedin.com/jobs/view/3784401500,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",3 days ago,49,,Hybrid,,"1,001-5,000 employees · Financial Services","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3769066512,Cloud Engineer,htthttps://www.linkedin.com/jobs/view/3769066512,Home Credit Indonesia,https://www.linkedin.com/company/homecreditindonesia/life," ",3 weeks ago,223,,Hybrid,,"10,001+ employees · Financial Services","Responsibilities :
+
+Design and build infrastructure at scale and elastic
+Investigate of nature problem with focus on system efficiency and reliability at scale.
+Research and plan on each service that offer by cloud provider to be implemented on application used case.
+Performing technical evaluations by refer into the service performance metrics and resource performance metric to make sure service/resource that used is comparable between price and the performance.
+Cooperate with local or Group network, security and architect to alignment the cloud environment (policy, network topology and security) within the on-premise environment.
+Review the resource usage of application and analyze the performance with day to day usage.
+
+
+Requirements :
+
+Experience at least 2 years as system engineer
+Have strong knowledge on deployment strategy, Linux environments, automation, from simple shell/python scripts to more complex software engineering solutions.
+Understanding of common system engineering design principles, e.g. how virtualization works, load balancing patterns, computer networking, and is aware of basic security and CI/CD Process
+Experience with container orchestration such as Kubernetes.
+Have basic knowledge with any programming language (Python is refereable)"
+3788883049,Infrastructure Engineer - Open for Referral Program,htthttps://www.linkedin.com/jobs/view/3788883049,PT INEOS Aromatics Indonesia,https://www.linkedin.com/company/pt-ineos-aromatics-indonesia/life," ",5 days ago,123,,On-site,,201-500 employees · Chemical Manufacturing,"This job includes REFERRAL PROGRAM, please help to make sure Candidate and INEOS Aromatics Employee access and submit required data entry in the following Forms
+https://forms.office.com/e/p8tY5z7qay
+  
+Purpose of the role
+As an Infrastructure Engineer, you will establish, maintain, and provide the engineering support needed to connect and configure Microsoft servers and enterprise networks. Additionally, Installs, configures, monitors, troubleshoots, and manages networking equipment (switches, routers, wireless access points, servers) for data, voice, wireless, video, virtual server, and virtual desktop network infrastructures and services inside offices, within buildings, between buildings, and at remote locations.
+Contributes to the development and continual improvement of the change management process. Follows documented change management processes to complete all changes. Documents accurately all changes including adjusting monitoring tools and alerts, production systems, test systems, and others.
+
+
+
+Key results/Accountabilities expected from the role
+Essentials duties and responsibilities
+Supports both operational and engineering functions across the site, concurrently.
+Works with technicians and network support partners
+Prepares and maintains operational and technical documentation.
+Troubleshoots and maintains infrastructures 24/7
+Performs other duties and assists with special projects as needed.
+Management and installation of the Storage Area Network
+Design and management of the virtual environment
+Administration of virtual servers and storage
+Administration of daily backups
+Management and testing of the Disaster Recovery Plan
+Maintaining all SDWAN devices, firewalls, WAPs, and VPN appliances
+Switch configuration and management
+Network monitoring resolution of network issues
+Administration of Active Directory, DNS and Group Policy
+Management of Windows patching for servers and workstations
+Management and Administration of infrastructure related to the LAN and WAN
+Ensure Change Management processes are adhered to for all major infrastructure changes.
+Oversee network security and implement security policies.
+Engage vendors as needed for specific software, hardware, or project needs relating to infrastructure.
+Oversee projects related to areas of responsibility.
+Other duties as assigned.
+
+Solid working knowledge
+Azure
+Network Devices
+In-depth knowledge and experience with VMware
+Familiarity with Linux operating systems
+
+
+
+Any Other Relevant Information
+We are currently going through a process of moving from a fully out-sourced service delivery to an in-house delivery team. This role is key in setting up the in-house team along with processes and systems to meet the IT demands of the businesses on the site.
+While this role has primary responsibility for the Americas and Asia regions the expectation is that the Infrastructure Engineer operate as a virtual team and provide out of hours coverage for requests in other time zones.
+
+
+
+Experience & Expertise
+Level of Education & Experience in general
+Bachelor's degree in an IT-related field. Equivalent experience will be considered in lieu of education.
+
+Experience in Chemicals/Manufacturing industry preferred.
+7+ years’ work experience in Windows/VMware systems management in a moderate environment, with knowledge in clustering, NAS, SAN, and low latency technologies
+Sound understanding of the impact of IT on the INEOS business, or similar organization.
+Ability to structure and restructure network infrastructure based on enterprise requirements.
+CCNA (Routing and Switching/Security/Data Centre)
+
+
+Technical Skills
+Strong network trouble shooting
+Experience with Cisco Routers and Switches preferred.
+Strong hands-on support, deployment, and Disaster Recovery procedures
+Possess a strong understanding of IT concepts including network structures, operating system capabilities and application architecture requirements.
+Strong understanding of core infrastructure technologies required by the enterprise that will be supported.
+
+Behavioral Skills
+Ability to manage multiple tasks and conflicting priorities and work under pressure to tight timescales.
+Excellent customer service and communication skills with strong emphasis on telephone skills
+Ability to break down complex problems, evaluate technical processes and apply appropriate operations for specific tasks.
+The ability to think creatively and apply brainstorming techniques for developing projects, initiatives and solutions are also highly important for working effectively as an infrastructure engineer.
+Ability to effectively prioritize & execute tasks in a high-pressure environment.
+Self-reliant and demonstrates a flexible approach.
+Excellent analytical and problem-solving abilities.
+Experience working in a team-oriented, collaborative environment.
+
+
+
+
+ Economic dimensions associated with role
+Support Americas Region: number of users around 900 users.
+Number of peripherals to support: more than 300 (network switches, router, core switches, firewalls, servers, etc.).
+Number of Third Parties: 6 to 10."
+3789711042,Back End Engineer (Credit) - Sea Labs,htthttps://www.linkedin.com/jobs/view/3789711042,Shopee,https://www.linkedin.com/company/shopee/life," "," ",65,,On-site,,"5,001-10,000 employees · Technology, Information and Internet","About The Team
+
+The SeaMoney team enables and drives innovation by providing a range of financial products and services, including its mobile wallet, ShopeePay, to both individuals and SMEs. Its mission is to better the lives of individuals and businesses in the region with financial services through technology. SeaMoney is a part of Sea Limited, a leading global consumer internet company. In addition to SeaMoney, Sea’s other core businesses include leading e-commerce platform, Shopee and digital entertainment arm, Garena.
+
+Join the dynamic and rapidly evolving team at SeaMoney, a leading force in the digital financing landscape, as part of our Credit Business division. This role offers a unique opportunity to be at the forefront of financial innovation, where you will contribute to the growth and development of our SPinjam services and other credit offerings.
+
+Job Description
+
+Design and implement backend services with Golang and other programming languages
+Writing high-quality, clean, and maintainable code using engineering best practices (unit testing, source control, continuous integration, automation, design patterns, etc.)
+Analyze requirements, designing, and developing features
+Understand and optimize our products, identifying and fixing problems, improving stability, and user experience
+Design and implement distributed systems that are optimized for performance, scalability, and availability
+Build reusable code and libraries
+Collaborate with fellow developers, product managers, user experience designers, and operation engineers to build products with cutting-edge technologies
+
+Requirements
+
+Bachelor's degree or above in Computer Science or related fields
+Relevant experience in Web / Backend development
+Proven experience as a Backend Developer with expertise in Golang.
+Passionate about coding and programming, innovation, and solving challenging problems
+Familiar with performance tuning, massive concurrency handling, and caching mechanisms
+In-depth understanding of Data Structures, Database and other computer science fundamentals
+Familiar with Linux development environments
+Hands-on experiences and knowledge on relational databases such as MySQL will be an advantage
+Experience with Docker and Kubernetes is a plus."
+3768784226,Cloud Devops Engineer,htthttps://www.linkedin.com/jobs/view/3768784226,Searce Inc,https://www.linkedin.com/company/searceinc/life," ",3 weeks ago,208,,Hybrid,,"1,001-5,000 employees · Business Consulting and Services","About Searce
+Searce is a modern tech consulting firm that empowers clients to futurify their businesses, leveraging Cloud, AI & Analytics.
+We are a category-defining niche’ cloud-native technology consulting company, specializing in modernizing (improve, automate & transforming) the full-scope of infra, app, process & work.
+We partner with clients in their ‘beyond x’ journey to drive intelligent, impactful & futuristic business outcomes.
+We are the most preferred tech partner of choice when it comes to ‘solving for better’ for the new-age tech startups & digital enterprises, leading disruption in their industries.
+Our Service Offerings: We offer Advanced Cloud, Data & App Modernization, Cloud Consulting, Management & Improvement (DevOps, SysOps & Cloud Managed Services), Applied AI & Analytics services.
+As one of the top 5 niche’ full scope global partners for Google Cloud & a preferred partner for AWS, we are the most preferred ‘engineering-led’ tech company of choice when it comes to solving complex business problems.
+
+Website: www.searce.com
+
+Location: Jakarta
+
+Job Responsibilities
+Selecting appropriate Cloud services to design and deploy an application based on given requirements.
+Migrating complex, multi-tier applications on Cloud Platforms. Designing and deploying enterprise-wide scalable operations on Cloud Platforms.
+Relevant years of experience in Cloud Infrastructure and Operations domains
+Experience with Linux systems and / OR Windows servers
+Specialize in one or two cloud deployment platforms: AWS, GCP.
+Hands-on experience with AWS services (EKS, ECS, EC2, VPC, RDS, Lambda, GKE, Compute Engine).
+Experience with one or more programming languages (Python, JavaScript, Ruby, Java,.Net)
+Skills for developing, deploying & debugging cloud applications.
+Logging and Monitoring tools (ELK, Stackdriver, CloudWatch) effectively.
+Skilled in DevOps Technologies.
+Knowledge of Configuration Management tools such as Ansible, Terraform, Puppet, Chef.
+Experience working with deployment and orchestration technologies (such as Docker, Kubernetes, and Mesos)
+
+Qualification
+Passion to tech-awesome, an insatiable desire to learn the latest of the new-age cloud tech, highly analytical aptitude, and a strong ‘desire to deliver’ outlives those fancy degrees!
+Relevant years of experience with hands-on experience in Cloud Computing (AWS/GCP) and IT operational experience in a global enterprise environment.
+Good analytical, communication, problem-solving, and learning skills."
+3769594400,Solution Engineer,htthttps://www.linkedin.com/jobs/view/3769594400,H3C,https://www.linkedin.com/company/h3c-technologies-co-ltd/life," ",3 weeks ago,164,,On-site,,"10,001+ employees · Computer and Network Security","About H3C:
+
+H3C is an industry leader in the provision of Digital Solutions and is committed to becoming the most trusted partner of its customers in their quest for business innovation and digital transformation. We offer a full portfolio of Digital Infrastructure products, spanning across compute, storage, networking, 5G, security and related domains, and provide a comprehensive one-stop digital platform that includes cloud computing, big data, artificial intelligence (AI), industrial internet, information security, intelligent connectivity, AI vision, and edge computing, as well as end-to-end technical services. We are also the exclusive provider of HPE® servers, storage and associated technical services in China.
+
+""Shaping the Digital Future for a Better Life” is the corporate vision of H3C. We are aiming to drive the development of the digital economy, and together with customers and partners, to create a better life for all to enjoy.
+
+Purpose of the Role: As a Solution Engineer (Presales), you will be responsible for interacting and to determine prospective clients’ needs and explain the value of our product’s technological capabilities and business value with the client. The ideal candidate should be able to clearly articulate highly technical concepts to all prospective clients.
+
+Responsibilities:-
+Clearly articulate technical capabilities and give technical demonstrations.
+Partner with the sales team to generate leads, follow-up all projects related technical matters.
+Prepare presentation for Projects, Proposals and Bill Of Materials (BOM).
+Prepare of PoC documents to guide customer requirements.
+Prepare of SoC for customer reference of tender bidding.
+Support the constant communication with prospective clients.
+Provide general technical support to partners and clients.
+Involve in project implementation and roll-out process.
+As a technology Prime of a specific technology of solution from the company.
+
+Qualifications:-
+Ability to discuss highly technical concepts with prospective leads.
+Willingness to travel.
+Strong verbal, written, and interpersonal skills.
+Excellent presentation skill.
+3 - 5 years’ experience in working as a Solution Engineer or Presales or related technical role.
+Familiar of part of the Internet Services Providers (ISP) technology listed with evidence, Campus Network, Data Center Network, WAN, WiFi, HCI, Server and Storage, Cloud, Security or 5G.
+Experience in VMware, Nutanix or server related Network design.
+Successful sizeable project deployment experience."

@@ -12,10 +12,10 @@ import (
 
 func main() {
 	// Number of instances/drivers you want to run concurrently
-	numInstances := 3
+	numInstances := 1
 
 	// Create 3 array of job name to search
-	jobNames := [3]string{"full stack engineer", "graphic designer", "data scientist"}
+	jobNames := [1]string{"Digital Marketing Manager"}
 
 	// Create a WaitGroup to wait for all Goroutines to finish
 	var wg sync.WaitGroup
@@ -82,11 +82,21 @@ func Scrape(instanceID int, jobName string) {
 		log.Fatal("Error:", err)
 	}
 
-	if err := utils.LoginLinkedIn(&driver); err != nil {
+	// if err := utils.LoginLinkedIn(&driver); err != nil {
+	// 	log.Fatal("Error:", err)
+	// }
+
+	// Load cookies from JSON file
+	if err := utils.LoadCookiesFromJSON(&driver, "cookies", "./data"); err != nil {
 		log.Fatal("Error:", err)
 	}
 
 	time.Sleep(3 * time.Second)
+
+	// Save cookies to JSON file
+	// if err := utils.SaveCookiesToJSON(&driver, "cookies", "./data"); err != nil {
+	// 	log.Fatal("Error:", err)
+	// }
 
 	// jobName := "full stack engineer"
 
