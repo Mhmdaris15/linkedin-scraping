@@ -13,5 +13,7 @@ type Job struct {
 	WorkLocationType          string `json:"work_location_type" csv:"work_location_type" bson:"work_location_type,omitempty"`
 	WorkExperienceLevel       string `json:"work_experience_level" csv:"work_experience_level" bson:"work_experience_level,omitempty"`
 	CompanyType               string `json:"company_type" csv:"company_type" bson:"company_type,omitempty"`
+	CompanyLogo               string `json:"company_logo" csv:"company_logo" bson:"company_logo,omitempty"`
+	CompanyDescription        string `json:"company_description" csv:"company_description" bson:"company_description,omitempty"`
 	AboutTheJob               string `json:"about_the_job" csv:"about_the_job" bson:"about_the_job,omitempty"`
 }

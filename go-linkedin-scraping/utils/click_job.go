@@ -173,6 +173,20 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 				}
 			}
 
+			if companyLogo, err := (*driver).FindElement(selenium.ByCSSSelector, "div.jobs-company__box > div.display-flex.align-items-center.mt5 > div > div > a > img"); err == nil {
+				if companyLogoText, err := companyLogo.GetAttribute("src"); err == nil {
+					newJob.CompanyLogo = companyLogoText
+					log.Print("Company logo: ", companyLogoText)
+				}
+			}
+
+			if companyDescription, err := (*driver).FindElement(selenium.ByCSSSelector, "div.jobs-company__box > p > div"); err == nil {
+				if companyDescriptionText, err := companyDescription.Text(); err == nil {
+					newJob.CompanyDescription = companyDescriptionText
+					log.Print("Company description: ", companyDescriptionText)
+				}
+			}
+
 			jobsThisTab = append(jobsThisTab, newJob)
 		}
 

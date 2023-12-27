@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"go-linkedin-scraping/utils"
 	"log"
 	"sync"
@@ -10,12 +11,29 @@ import (
 	"github.com/tebeka/selenium/chrome"
 )
 
+var isLogin bool
+
 func main() {
 	// Number of instances/drivers you want to run concurrently
 	numInstances := 1
 
 	// Create 3 array of job name to search
-	jobNames := [1]string{"Digital Marketing Manager"}
+	jobNames := [1]string{"Backend Engineer"}
+
+	// Ask driver to login or use existing cookies
+	var loginOrUseExistingCookies string
+	log.Print("Login or use existing cookies? (y for login, n for use existing cookies): ")
+	_, err := fmt.Scanln(&loginOrUseExistingCookies)
+	if err != nil {
+		log.Fatal("Error:", err)
+	}
+
+	if loginOrUseExistingCookies == "y" {
+		isLogin = true
+	} else {
+		// Load cookies from JSON file
+		isLogin = false
+	}
 
 	// Create a WaitGroup to wait for all Goroutines to finish
 	var wg sync.WaitGroup
@@ -82,13 +100,14 @@ func Scrape(instanceID int, jobName string) {
 		log.Fatal("Error:", err)
 	}
 
-	// if err := utils.LoginLinkedIn(&driver); err != nil {
-	// 	log.Fatal("Error:", err)
-	// }
-
-	// Load cookies from JSON file
-	if err := utils.LoadCookiesFromJSON(&driver, "cookies", "./data"); err != nil {
-		log.Fatal("Error:", err)
+	if isLogin {
+		if err := utils.LoginLinkedIn(&driver); err != nil {
+			log.Fatal("Error:", err)
+		}
+	} else {
+		if err := utils.LoadCookiesFromJSON(&driver, "cookies", "./data"); err != nil {
+			log.Fatal("Error:", err)
+		}
 	}
 
 	time.Sleep(3 * time.Second)
