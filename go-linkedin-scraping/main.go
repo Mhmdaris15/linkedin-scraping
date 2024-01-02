@@ -125,26 +125,14 @@ func Scrape(instanceID int, jobName string) {
 	}
 
 	// Wait untill the last job list is loaded
-	err = driver.WaitWithTimeout(func(wd selenium.WebDriver) (bool, error) {
-		lastJobList, _ := wd.FindElements(selenium.ByCSSSelector, ".jobs-search-results__list-item:nth-child(25)")
-
-		if lastJobList != nil {
-			// Scroll container with class "jobs-search-results-list" to the bottom to load all the jobs
-
-			return true, nil
-		}
-
-		log.Print("Waiting for the last job list to load...")
-
-		return false, nil
-	}, 10*time.Second)
+	err = utils.WaitForJobsAndClickFirst(&driver, jobName)
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
 
 	time.Sleep(3 * time.Second)
 	// Scroll container with class "jobs-search-results-list" to the bottom to load all the jobs
-	err = utils.ScrollToBottom(&driver, "jobs-search-results-list")
+	err = utils.ScrollToBottom(&driver, ".jobs-search-results-list")
 	if err != nil {
 		log.Fatal("Error:", err)
 	}

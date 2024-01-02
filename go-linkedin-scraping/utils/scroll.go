@@ -8,7 +8,7 @@ import (
 
 func ScrollToBottom(driver *selenium.WebDriver, containerClass string) error {
 	scrollingScript := `
-		var container = document.getElementsByClassName("%s")[0];
+		var container = document.querySelector("%s");
 		options = {
 			left: 0,
 			top: container.scrollHeight,
@@ -29,7 +29,7 @@ func ScrollToBottom(driver *selenium.WebDriver, containerClass string) error {
 
 func ScrollToTop(driver *selenium.WebDriver, containerClass string) error {
 	scrollingScript := `
-		var container = document.getElementsByClassName("%s")[0];
+		var container = document.querySelector("%s");
 		options = {
 			left: 0,
 			top: 0,

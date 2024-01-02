@@ -58,6 +58,27 @@ func SaveToCSV(jobs *[]types.Job, filename string, directory string) error {
 	return nil
 }
 
+func SaveToJSON(jobs *[]types.Job) error {
+	jsonData, err := json.MarshalIndent(jobs, "", "    ")
+	if err != nil {
+		return err
+	}
+
+	file, err := os.Create("jobs.json")
+	if err != nil {
+		return err
+	}
+
+	defer file.Close()
+
+	_, err = file.Write(jsonData)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
 // func SaveCookiesToJSON(driver *selenium.WebDriver, filename string, directory string) error {
 // 	cookies, err := (*driver).GetCookies()
 // 	if err != nil {

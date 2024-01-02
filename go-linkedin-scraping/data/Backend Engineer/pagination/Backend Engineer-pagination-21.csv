@@ -1,0 +1,1017 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3620759678,Lead / Staff Software Engineer Back End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3620759678,Agoda,https://www.linkedin.com/company/agoda/life," "," ",146,,Hybrid,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1712188800&v=beta&t=Uch6o32VIVJnqd5pOyN6ISz8TvEijuYR_vC1w3EK8HQ,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, FinTech and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Spark, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity
+
+You might call yourself “full stack” or “back end” or you might consider yourself an authority in a certain field, but you have a keen interest in how the different systems work together.
+
+We’d love to hear from you if you are skilled in any of the technologies we work with (note – we are not looking for you to have them all). We are interested in speaking to persons of any level from individuals just starting their IT careers to experts in their field, although this particular position is better suitable to veteran engineers, with expertise in certain technologies, and especially those that had lead projects, initiatives and/or teams.
+
+In This Role, You’ll Get to
+
+Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring
+Design, develop and maintain platforms across the back end area
+Improve scalability, stability, and efficiency of our existing systems
+Write great code and help others write great code
+Collaborate with other teams and departments
+
+What You’ll Need To Succeed
+
+7+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala, Java or C#
+Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved
+Data platforms like SQL, Cassandra or Hadoop. You understand that different applications have different data requirements
+Good understanding of algorithms and data structures
+Strong coding ability
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+Excellent verbal and written English communication skills
+
+It’s Great If You Have
+
+Experience with Scrum/Agile development methodologies
+Experience building large-scale distributed products
+Core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration and Puppet for deployment
+Hands-on experience working with technology like queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), Spark, Hadoop, NoSQL (Cassandra, MongoDB), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3796887815,Lead Software Development Engineer in Test,https://www.linkedin.com/jobs/view/3796887815,,,,,0,,On-site,,See recent hiring trends for Moladin Digital Indonesia. Upgrade my plan,,,"Responsibilities
+
+Collaborate with TechLead to support the achievement of quality engineering OKR.
+Provide hands-on support to SDET members in squads to resolve any blockers.
+Regularly monitor test progress, test coverage, and related quality metrics to develop a plan for improving competencies of team members.
+Ensure the successful implementation of company testing tools within squads.
+Participate in discussions to determine changes in the company's quality process.
+Demonstrate problem-solving skills and the ability to be a technical resource while also being involved in managerial activities.
+Align and prioritize between product delivery and quality engineering OKR.
+
+Requirements
+
+Preferred experience in financial services, Payment, Loyalty services and Industrial with OpenAPI features.
+More than 2 years of experience in software testing, with at least 1 year in software test automation.
+Have a minimum of 1 year of experience leading a team in a related field.
+Able to fluently use SQL queries.
+Demonstrate ability to do separation of API Tests and UI Tests.
+Experience in web and mobile application testing using test automation frameworks such as Cypress, WebdriverIO, Playwright or any Javascript Test Automation Tools.
+Familiar with test management tools such as Allure TestOps, JIRA, or TestRail.
+Exposure to the Agile development process, CI/CD tools such as Jenkins, and cloud infrastructure on Amazon Web Services or Google Cloud Platform.
+Knowledge of software performance and security testing is a plus.
+Knowledge of basic Kubernetes, docker, Firebase, and NoSQL is a plus.
+
+Apply for this job"
+3783522671,Full Stack Developer (React/Spring Boot),https://www.linkedin.com/jobs/view/3783522671,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,1,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A Silicon Valley-based company, renowned for its innovative approach and dynamic work environment, is seeking a Web Back-End Developer. This company is at the forefront of technological advancements, consistently pushing boundaries and setting new industry standards. The successful candidate will play a pivotal role in the development and maintenance of various applications, contributing to the company's ongoing success and growth.
+
+Job Responsibilities:
+
+Developing and maintaining robust back-end systems using GraphQL, React, and Spring Boot
+Collaborating with a team of skilled developers to design, build, and implement scalable applications
+Debugging, testing, and troubleshooting applications to ensure optimal performance and user experience
+Keeping abreast of the latest industry trends and technologies to ensure our applications remain current and competitive
+Contributing to the overall success of the team through active participation in team meetings and collaborative projects
+Continuously improving code quality through writing unit tests, automation, and performing code reviews
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+A minimum of 6-7 years of overall experience in the field of Web Back-End Development
+At least 2+ years of experience with GraphQL and React, and 6+ years of experience with Spring Boot
+Proven experience in developing and maintaining robust back-end systems
+Strong understanding of software development life cycle (SDLC) and agile methodologies
+Excellent problem-solving skills and attention to detail
+Must be fluent in English and possess strong communication skills
+
+This is an exciting opportunity to join a company that values innovation, collaboration, and personal growth. We are committed to fostering a diverse and inclusive work environment where everyone feels valued and empowered to contribute their unique perspectives and ideas."
+3796697338,NET Developer (Medan),https://www.linkedin.com/jobs/view/3796697338,VLink Inc,https://www.linkedin.com/company/vlink-inc/life," ",,13,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQHAMUYx5jqZ1w/company-logo_100_100-alternative/0/1630643463375/vlink_inc_logo?e=1712188800&v=beta&t=WLhr_Wt5-dRVCiaFHGC92H_YO4qHYUhlR2dv1b-osN0,"VLink Inc. is a global software engineering and IT staffing partner, delivering innovative solutions with the most highly vetted expert software development teams. We leverage the latest technologies and the best IT talent to drive business growth for Fortune-500, Large and SMB clients by delivering a customized, personal approach, to ensure their unique technology needs are met.
+Founded in 2006, VLink takes pride in our highly revered workforce whose productivity, tech agility, and expertise produce transformative customer success stories year-after-year.
+
+Why Choose VLink?
+- 98% Customer Satisfaction
+- 5+ Delivery Locations with Onshore/Offshore/Nearshore IT Talent
+- 17+ Years of Software Engineering Excellence
+- 500+ Software Engineers & Consultants
+- 150+ Global Fortune-500, Large & SMB Clients Served
+- 2 days TAT for Presenting Candidates on New Hiring Requests
+
+
+Our core competencies and global service offerings include:
+*DIGITAL TRANSFORMATION & CONSULTING*
+(Data & Analytics| DevOps & Automation| Blockchain, AI/ML, IoT| Re-engineering Legacy Apps | Enterprise Portal Upgrades & Migrations)
+
+*CUSTOM SOFTWARE DEVELOPMENT & MAINTENANCE*
+(Web & Mobile Apps| Product Engineering| Maintenance & Support| QA & Testing)
+
+*DEDICATED TEAMS & IT STAFF AUGMENTATION*
+(Delivery Centers Onshore, Offshore & Nearshore| Short & Long-term Assignments| 24x7 Time Zone Alignment| Attrition Management| Speedy delivery)
+
+
+**AWARD-WINNING WORKFORCE**
+- Inc Magazine 500/5000 Fastest Growing Privately Owned Companies
+- Connecticut’s 40 Fastest-Growing Tech Companies by Connecticut Technology Council’s Marcum TT 40
+- Consistent Top Five Winner of Hartford Business Journal’s Best Places to Work in CT (2023)
+- Great Place to Work® Certified™ 2023
+- 2023 Best Software Development Companies in Hartford CT, by Expertise.com
+
+***OUR INTELLECTUAL PROPERTIES***
+- SimplyEDI
+- VLinkCare
+…
+show more","Responsibilities:
+Develop web-based applications (using .NET and SQL Server Stored Procedures) based on user requirements.
+Continuously enhance and upgrade existing applications.
+Troubleshoot and resolve user issues.
+
+Qualifications:
+Minimum D3 in Computer Engineering/Informatics/Electrical Engineering.
+Minimum 1 year of application development experience, ERP exposure is a plus (Fresh Graduates are welcome).
+Proficient in .NET programming languages (ASP, VB, C#) for creating application systems.
+Skilled in SQL Server database and Stored Procedures usage.
+Familiarity with Crystal Report.
+Optional proficiency in PHP or Javascript.
+Optional exposure to other databases like MySQL, PostgreSQL, SQL Lite.
+Strong problem-solving, detail-oriented, eager to learn, and good teamwork.
+Willing to fully work in office at Medan area."
+3792862227,Java Developer (Kubernetes & MongoDB),https://www.linkedin.com/jobs/view/3792862227,Turing,https://www.linkedin.com/company/turingcom/life," ",2 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A U.S.-based company, renowned for its innovative approach and commitment to delivering cutting-edge solutions, is seeking a Web Back-End Developer. This company is at the forefront of technological advancements, consistently pushing boundaries and setting new industry standards. The role on offer is an exciting opportunity for a seasoned professional to contribute to the development and maintenance of various applications.
+
+As a Web Back-End Developer, your role will be pivotal in the development and maintenance of back-end services. You will be responsible for designing and implementing robust, scalable solutions using Java, Kubernetes, and MongoDB. You will also be expected to debug, test, and troubleshoot various applications to ensure optimal performance. This role is an excellent opportunity to work in a dynamic, fast-paced environment that encourages innovation and values quality.
+
+Job Responsibilities:
+
+Design, develop, and maintain robust, scalable back-end services using Java, Kubernetes, and MongoDB
+Debug, test, and troubleshoot various applications to ensure optimal performance
+Collaborate with cross-functional teams to define, design, and ship new features
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+Ensure the best possible performance, quality, and responsiveness of applications
+Identify and correct bottlenecks and fix bugs
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+A minimum of 6-7 years of overall experience in the field of Web Back-End Development
+At least 6 years of experience with Java, 5 years with Kubernetes, and 5 years with MongoDB
+Proven experience in developing and maintaining robust back-end systems
+Strong understanding of software development life cycle (SDLC) and agile methodologies
+Excellent problem-solving skills and attention to detail
+Must be fluent in English and possess strong communication skills"
+3779457318,Full Stack Developer (.Net) - 6 Months Contract,https://www.linkedin.com/jobs/view/3779457318,Paramatech Indonesia,https://www.linkedin.com/company/paramatech-indonesia/life," ",4 weeks ago,9,,"IDR20,000,000/yr - IDR30,000,000/yr",,51-200 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQHs1Rtjp2RO8g/company-logo_100_100/0/1630636879574?e=1712188800&v=beta&t=ulLmXv0ALJ30UuOXOgdnph0iqleH3vaRKqw_Aa0nvPI,"Delivering specialized staff outsourcing services to all types of organizations, from startups to globally established brands. Our principal solution is to provide skilled professional staffs outsourced to companies in Indonesia to meet short, medium or long term hiring needs.
+…
+show more","Requirements
+
+ Expert experience with C# using .NET core framework
+ Expert with JavaScript, ES5, E6 and TypeScript
+ Being precise and detailed, but also pragmatic when looking for solutions to get things done given the constraints
+ Experience with building robust, performant, secure, testable and maintainable web applications and RESTful or SOAP-based web services with the extensive experience consuming RESTful APIs
+ Has excellent proficiency in the English language."
+3791733687,Java Software Engineer,https://www.linkedin.com/jobs/view/3791733687,PT Kulego Tiga Kreasi,https://www.linkedin.com/company/pt-kulegotigakreasi/life," ",,8,,On-site,,201-500 employees,https://media.licdn.com/dms/image/C4D0BAQG2uhNQEpLoSg/company-logo_100_100/0/1630451158433?e=1712188800&v=beta&t=oeLnX9rH0YuoMH57EQQ3cuLiJcuGqnX8W_7O11KDH1U,"Kulego Tekno is a member of Kulego Group, Kulego Tekno’s main business in IT development based in Bandung Founded in 2015 and established as PT Kulego Tiga Kreasi in 2020. Our team has an expertise in custom software development, mobile app development, website development, web app development and UI/UX Design.
+
+Kulego Tekno provides IT resources to many companies that need to improve their IT system. Kulego Tekno has many skill sets to fulfill your company such as Programmer, Designer, Business Analyst, Project Manager, Scrum Master, Dev Ops, Quality Assurance, etc.
+…
+show more","midel/Senior Java Developer
+At least 2 year experience in Java 8 and above
+Familiar with Spring, Hibernate/ORM
+Familiar with messaging concept using Kafka or similar application
+Famililiar in either Oracle or PostgreSQL is an advantage
+Familiar with microservice concept and application
+Familiar in financial industry is an advantage
+Onsite in Bandung"
+3783520951,Kafka Microservices Application Developer,https://www.linkedin.com/jobs/view/3783520951,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,3,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A NASDAQ-listed company, celebrated for its forward-thinking approach and commitment to technological advancement, is in search of an accomplished Web Backend Developer. This Silicon Valley-based company is at the forefront of its industry, consistently pushing boundaries and setting new standards. The selected candidate will have the opportunity to contribute to various projects, playing a pivotal role in the ongoing success and expansion of the organization.
+
+As a Web Backend Developer, your primary responsibility will be to develop and maintain robust backend systems, leveraging your expertise in Apache Kafka, Microservices, and Spring Boot. This role offers a dynamic and collaborative environment, where innovation and creativity are highly valued.
+
+The company culture fosters a commitment to continuous learning and development, with a strong emphasis on innovation and creativity. As part of a dedicated technology team, you will have the chance to make a significant impact on the industry.
+
+Job Responsibilities:
+
+Develop and maintain robust backend systems using Apache Kafka, Microservices, and Spring Boot.
+Collaborate with cross-functional teams to define, design, and implement new features.
+Contribute to bug fixing and application performance improvement.
+Continuously explore, evaluate, and implement new technologies to enhance development efficiency.
+Ensure optimal performance, quality, and responsiveness of applications.
+Identify and rectify bottlenecks and troubleshoot bugs.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience).
+A minimum of 8-10 years of overall experience in the field.
+At least 1+ years of experience with Apache Kafka, 1+ years with Microservices, and 1+ years with Spring Boot.
+Proven experience in developing and maintaining robust backend systems.
+Strong understanding of the software development life cycle (SDLC) and agile methodologies.
+Excellent problem-solving skills and meticulous attention to detail.
+Fluent in English with strong communication skills"
+3784653475,.Net Developer,https://www.linkedin.com/jobs/view/3784653475,NawaData,https://www.linkedin.com/company/nawadatasolutions/life," ",2 weeks ago,5,,Hybrid,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/D560BAQEswMUFwhV5kQ/company-logo_100_100/0/1694481936830/nawadatasolutions_logo?e=1712188800&v=beta&t=4SBqkujoiMwN0gvuj7pbMR-tQ3n1zvrFdQom8fkp8OI,NawaData firmly believe in building technology should be an enabler that makes things simpler rather than an obstacle. Our application strives to allow our customer to focus on what truly matters – goals and vision for the future.,"Mengambil task di DevOps dan memastikan sampai state Done Alpha Test 
+Membangun dan mengembangkan aplikasi web sesuai fungsionalitas yang diharapkan, Membuat schema database sesuai kebutuhan aplikasi. (dengan ruang lingkup parameter, transactional module sederhana,Reporting tools, Integration Tools, Web Services).
+Memastikan aplikasi yang akan di release berjalan dengan baik secara end to end dan sesuai dengan acceptance criteria.
+Membuat, dan memelihara aplikasi
+Melakukan development sesuai dengan coding guideline yang berlaku diperusahaan
+Melakukan bug fixing terhadap defect log internal test (development phase) yang ditemukan dengan target waktu yang sudah ditentukan.
+Membuat dan menguji aplikasi yang dihasilkan menggunakan automation test.
+Melakukan performance test untuk memastikan aplikasi berjalan dengan optimal sebelum di release berdasarkan acceptance criteria.
+Melakukan testing berdasarkan testing guideline yang berlaku diperusahaan
+
+Minimum Qualifications
+
+Minimal D3 Sistem Informatika / Teknik Informatika
+Memahami konsep web aplikasi
+Memiliki pengetahuan programing khususnya OOP
+Memiliki pengetahuan bahasa pemograman .Net
+Memiliki pengetahuan Database Query
+Memiliki pengetahuan bekerja sama dalam tim
+Bersedia bekerja dengan sistem WFO
+Bersedia ditempatkan di Jakarta Barat"
+3796416812,Frontend Developer,https://www.linkedin.com/jobs/view/3796416812,PT Sahabat Mikro Fintek,https://www.linkedin.com/company/sahabatmikrofintek/life," ",1 day ago,266,,On-site,,201-500 employees · Financial Services,https://media.licdn.com/dms/image/C510BAQFBInhji0QlRg/company-logo_100_100/0/1630627059029?e=1712188800&v=beta&t=ZXV4i-XDv4MrWKImV8f0ewQAmm7o-bWkPgRCaVhX1nI,"PT Sahabat Mikro Fintech is a leading financial technology company that leverages cutting-edge technology to provide innovative financial solutions to Society.
+
+Vision :
+""To become a fintech company that can have an impact on the economy and the welfare of society.""
+
+Mission :
+""Increasing the welfare of society by making it easier for people to access the financial world.""
+…
+show more","Primary Job Role :
+As an IT Front End Staff, you will be responsible for designing and developing the user interface of our digital products. You will work closely with the IT team to ensure that our products are visually appealing, easy to use, and accessible across various platforms.
+
+Job Qualifications :
+Bachelor's degree in Computer Science or a related field.
+Strong knowledge of front-end programming language JavaScript. 
+Experience with front-end development frameworks such as Vue.js
+Knowledge of web design principles and user interface design.
+Familiarity with accessibility standards and guidelines.
+Strong problem-solving and troubleshooting skills.
+
+Job Description :
+Collaborate with designers and IT team members to create and maintain the user interface of our digital products, including web and mobile applications.
+Use front-end programming language JavaScript to develop user-friendly interfaces.
+Develop and maintain coding standards and guidelines for user interface development.
+Conduct user research to understand user behavior and preferences to inform interface design decisions.
+Ensure that the user interface is accessible to all users, including those with disabilities.
+Troubleshoot and debug issues with the user interface as needed."
+3782765992,Lead Full-Stack Developer,https://www.linkedin.com/jobs/view/3782765992,Turing,https://www.linkedin.com/company/turingcom/life," ",1 month ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A fast-growing company that is leveraging the power of modern, advanced AI technology to revolutionize the financial industry and services, is looking for a Lead Full-Stack Developer. The developer will be responsible for ensuring that the program is secure, scalable, and performance-optimized. The company's state-of-the-art AI automation powers organizations by providing them with smooth and effective solutions. This is an amazing opportunity for candidates to sharpen their skills and improve their career prospects.
+
+Job Responsibilities:
+
+Create and manage the front-end and back-end parts of our automation software driven by AI
+Work together with the design and product management teams to develop a streamlined and intuitive user experience for our financial advisory clients
+To facilitate easy access to client data for automated paperwork procedures, integrate CRM APIs
+Use ChatGPT/Claude2 technology in the app to assign and complete tasks
+Investigate and fix any technological problems that may come up during deployment and development
+Keep abreast of emerging technology and market trends to guarantee that our product stays cutting-edge and competitive
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 5+ years of relevant experience as a full-stack developer
+Solid, demonstrable portfolio of accomplished projects
+Extensive background working with front-end technologies, including JavaScript, HTML, and CSS
+Extensive exposure to more recent front-end frameworks, such as React, Angular, or Vue.js
+Strong back-end development abilities and knowledge of server-side programming languages such as Node, Python, or Ruby.js
+Solid understanding of AI integration and CRM systems
+In-depth knowledge of database systems such as PostgreSQL, MongoDB, or SQL
+Extensive knowledge of integrating AI, particularly with ChatGPT/Claude2 or other comparable natural language processing tools
+Familiarity with CRM systems and API integration; ideally, prior experience working with software products that integrate CRM APIs
+Outstanding problem-solving abilities and the ability to function both individually and together
+Ability to communicate technical ideas to stakeholders who are not technical and work well in a team
+Nice to have some prior experience in the financial advisory sector or a thorough awareness of its standards and procedures
+Some experience with cloud-based deployment and hosting systems like AWS, Azure, or Google Cloud Platform is preferred
+Prior experience working in an Agile setting and understanding Agile development processes is desirable
+Fluent in English communication, both conversational and written"
+3783529105,Java Microservices Engineer with NoSQL,https://www.linkedin.com/jobs/view/3783529105,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,4,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A prominent NASDAQ-listed tech company, renowned for its remarkable innovations and steadfast commitment to pioneering solutions, is actively seeking a Web Back-End Developer. This opportunity is ideal for candidates who aspire to contribute significantly to the development and maintenance of various applications.
+
+As a Web Back-End Developer, you will have a crucial role in the development and implementation of server-side logic. Your responsibilities encompass managing data exchange between the server and users, ensuring high performance, and responsiveness to front-end requests.
+
+Job Responsibilities:
+
+Develop and maintain robust, scalable, and secure back-end services using Java, Microservices, and NoSQL.
+Collaborate closely with front-end developers to seamlessly integrate user-facing elements with server-side logic.
+Ensure high performance, reliability, and efficiency of applications.
+Conduct debugging, testing, and troubleshooting to ensure optimal performance.
+Stay updated on emerging technologies and propose the adoption of suitable ones.
+Contribute across the entire application lifecycle, with a strong emphasis on coding, debugging, and testing.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science, or equivalent experience.
+A minimum of 6-7 years of overall experience in the field of Web Back-End Development.
+At least 1+ year of experience with Java, Microservices, and NoSQL.
+Proven expertise in developing and maintaining robust back-end systems.
+A strong understanding of the software development life cycle (SDLC) and agile methodologies.
+Exceptional problem-solving skills and meticulous attention to detail.
+Proficiency in English and strong communication skills."
+3784488540,Programmer,https://www.linkedin.com/jobs/view/3784488540,Fundo Indonesia,https://www.linkedin.com/company/fundo-indonesia/life," ",1 week ago,269,,On-site,,11-50 employees,https://media.licdn.com/dms/image/C560BAQGyBdf4bWKblQ/company-logo_100_100/0/1631863849024/fundo_indonesia_logo?e=1712188800&v=beta&t=wgALxeM1gbwKqGnNvl9lEzMqAwZkEVJwjoJW-JQHIGU,"Fundo is Asia’s first and largest Securities Papers auction financial technology platform in Indonesia to help develop your capital in the sale/purchase of Securities Papers.
+
+Fundo helps Sellers who need funds to grow their business and achieve their missions and helps Buyers who want to put their funds to achieve their financial goals and future aspirations.
+
+Officially licensed and regulated by the Ministry of Finance, Directorate General of State Assets (DJKN).
+…
+show more","Responsibilities:
+Develop high quality Banking Application and do unit test before delivered to quality assurance team
+Analyze Requirement and Construct them to PHP Coding
+Strategy for Application Structure, Architecture, Development and Implementation
+Develop in HTML and PHP
+Teamwork and proper workflow with SDLC Oriented or Agile Project Management
+
+Requirements:
+Bachelor degree of Computer Science
+Minimum work experience 3 years as a Programmer
+Strong of PHP Language and MySQL Database
+Having knowledge of HTML5, ReactJS, CSS Bootstrap will be an advantage
+Having knowledge of Laminas is plus value
+Having knowledge Zend Framework will be an advantage
+Willing to learn new technologies and approaches
+Ability to work well both individually and in a team environment
+Good time management and work consistently even when under pressure
+
+For those who are interested you can click easy apply or send your updated CV to jobs@fundo.id"
+3791731794,Java Software Engineer,https://www.linkedin.com/jobs/view/3791731794,"LanceSoft, Inc.",https://www.linkedin.com/company/lancesoft/life," ",,21,,On-site,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C560BAQGdL6NTOB2wbw/company-logo_100_100/0/1630644159622/lancesoft_logo?e=1712188800&v=beta&t=0FV60g_COxnm7bs3_vRPGxEjc6PvbvZYGuFMdW8dmZY,"Established in 2000, LanceSoft is a Certified MBE and Woman-Owned organization, and a pioneer in providing premium end-to-end Global Workforce Solutions and IT Services to diverse clients across various domains.
+
+LanceSoft’s mission is to establish global cross-culture human connections that further the careers of our employees and strengthen the businesses of our clients. We are driven to use the power of our global network to connect businesses with the right people, and people with the right businesses without bias. We provide Global Workforce Solutions with a human touch.
+
+We offer a gamut of services across diverse domains, categories, skill sets with varying lengths of assignments including:
+- Temporary Staffing
+- Permanent Staffing
+- SOW
+- Payrolling
+- Recruitment Process Outsourcing (RPO)
+- Application Design and Development
+- Program/Project Management
+- Engineering Solutions
+
+With currently over 5,000+ staff serving over 110+ enterprise clients worldwide including “Fortune” companies, LanceSoft serves a wide array of industries including Banking & Financial Services, Semiconductor/VLSI, Technology, Healthcare & Life Sciences, Government, Telecom & Media, Retail & Distribution, Oil & Gas and Energy & Utilities.
+
+LanceSoft is headquartered in Herndon, VA with 27 regional offices across the U.S. & 21 offices around the globe and five delivery centers in India - Bangalore, Indore, Noida, Baroda and Hyderabad to further serve our clients.
+
+Our awards and accolades in the US Contingent Workforce space:
+Accredited by the Better Business Bureau (BBB).
+Best of Staffing Client Satisfaction 2022, 2021, 2020, 2019
+Best of Staffing Talent Satisfaction 2022, 2021, 2020
+2021 Guidant Global Outstanding Performer Client Partner
+2020 Workforce Logiq Proven Performer
+2020 SIA Largest Staffing Firms in the US
+2020 SIA List of Diversity Staffing Firms
+2022, 2021, 2020 SIA Fastest Growing US Staffing Firms
+2020 SIA Largest Life Sciences Staffing Firms in the US
+…
+show more","API Developer
+
+Requirements
+ - Experienced in software development at least 2 years
+ - Strong knowledge of Java
+ - Familiar with Spring Boot Framework
+ - Has good knowledge of Object Oriented Programming
+ - Understand and some hand experience with RDBMS(PostgreSQL, MySQL)
+ - Possess good analytical and problem solving skills
+ - Good communication and interpersonal skills 
+ 
+Job Desc:
+- Developing APIs
+ - Testing and debugging APIs
+ - Documenting APIs
+ - Collaborating with other developers"
+3783526143,Kafka Microservices Application Developer,https://www.linkedin.com/jobs/view/3783526143,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,1,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A NASDAQ-listed company, celebrated for its forward-thinking approach and commitment to technological advancement, is in search of an accomplished Web Backend Developer. This Silicon Valley-based company is at the forefront of its industry, consistently pushing boundaries and setting new standards. The selected candidate will have the opportunity to contribute to various projects, playing a pivotal role in the ongoing success and expansion of the organization.
+
+As a Web Backend Developer, your primary responsibility will be to develop and maintain robust backend systems, leveraging your expertise in Apache Kafka, Microservices, and Spring Boot. This role offers a dynamic and collaborative environment, where innovation and creativity are highly valued.
+
+The company culture fosters a commitment to continuous learning and development, with a strong emphasis on innovation and creativity. As part of a dedicated technology team, you will have the chance to make a significant impact on the industry.
+
+Job Responsibilities:
+
+Develop and maintain robust backend systems using Apache Kafka, Microservices, and Spring Boot.
+Collaborate with cross-functional teams to define, design, and implement new features.
+Contribute to bug fixing and application performance improvement.
+Continuously explore, evaluate, and implement new technologies to enhance development efficiency.
+Ensure optimal performance, quality, and responsiveness of applications.
+Identify and rectify bottlenecks and troubleshoot bugs.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience).
+A minimum of 8-10 years of overall experience in the field.
+At least 1+ years of experience with Apache Kafka, 1+ years with Microservices, and 1+ years with Spring Boot.
+Proven experience in developing and maintaining robust backend systems.
+Strong understanding of the software development life cycle (SDLC) and agile methodologies.
+Excellent problem-solving skills and meticulous attention to detail.
+Fluent in English with strong communication skills"
+3783521903,Software Developer in Java (CI/CD and Mockito),https://www.linkedin.com/jobs/view/3783521903,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","Job Description:
+
+A well-established U.S.-based company, known for its innovative solutions, is in search of a Web Back-End Developer. Your role will involve managing the interchange of data between servers and users, ensuring high performance and responsiveness. The company's commitment to innovation and next-generation technology presents an exciting opportunity to be part of their dynamic team.
+
+Job Responsibilities:
+
+Develop and maintain server-side logic for high-performance and responsive systems.
+Collaborate with front-end developers to seamlessly integrate user-facing elements with server-side logic.
+Implement stringent security and data protection measures.
+Design and implement efficient data storage solutions.
+Utilize Java, Jenkins, and Mockito for back-end service development, testing, and deployment.
+Collaborate with the team to identify and resolve system issues.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science, or equivalent.
+A minimum of 6-7 years of experience in web back-end development.
+At least 1+ year/s of experience with Java.
+1+ year/s of hands-on experience with Jenkins and Mockito.
+Strong understanding of server-side templating languages and user authentication and authorization across multiple systems.
+Proficiency with code versioning tools, such as Git.
+Strong communication skills and fluency in English."
+3783525601,Data Engineer with Java and Kafka,https://www.linkedin.com/jobs/view/3783525601,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,2,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A U.S.-based company, renowned for its innovative approach and commitment to revolutionizing the tech industry, is seeking a Data Engineer. The company is known for its dynamic work environment and its dedication to staying at the forefront of technological advancements. The Data Engineer will play a crucial role in developing and maintaining data pipelines, ensuring the smooth operation of data systems, and contributing to the company's ongoing success.
+
+Job Responsibilities:
+
+Design, construct, install, test, and maintain highly scalable data management systems
+Ensure systems meet business requirements and industry practices
+Integrate new data management technologies and software engineering tools into existing structures
+Create custom software components and analytics applications
+Employ a variety of languages and tools to marry systems together
+Recommend ways to improve data reliability, efficiency, and quality
+Collaborate with data architects, modelers, and IT team members on project goals
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+A minimum of 3-5 years of experience in a Data Engineering role
+At least 2 years of experience with Apache Kafka, 5 years of experience with Java, and 5 years of experience with React
+Proven ability to build and maintain data pipelines, architectures, and data sets
+Strong understanding of data structure development for business reporting
+Excellent problem-solving skills and attention to detail
+Must be fluent in English and possess strong communication skills"
+3773734762,Senior Backend Java Engineer,https://www.linkedin.com/jobs/view/3773734762,PT Appfuxion Consulting Indonesia,https://www.linkedin.com/company/pt-appfuxion-consulting-indonesia/life," ",1 month ago,0,,IDR1/yr,,51-200 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBkn6MTgVqsw/company-logo_100_100/0/1643376045510?e=1712188800&v=beta&t=AopZmI3qQaa_tGLHAMtrNMqMEwP2boQp8vB5-OPDOXI,"The company incorporated in 2013, AppFuxion Consulting is a leading provider of digital solutions and software testing services to Banking, Insurance, Retail, Telecommunication and Hospitality clients across the Asia-Pacific Region mainly in Malaysia, Thailand, Indonesia, Singapore and Philippine for regional project. We offer a comprehensive range of value-added digital solutions that are of the highest quality and innovation as part of our commitment to produce the right business outcome for our clients.
+
+AppFuxion Consulting has approximately 250 skilled and experienced digital solution professionals from software blueprint, architecture, process automation, quality assurance to project management. We bring years of experience in delivering digital solutions tailored to your business requirements.
+
+Our specialists are industry proven consultants that can architect the right solution, devise a practical delivery plan and deliver customer-centric services to meet our client’s requirements. To further emphasize on our customer-centric approach, we ensure that we are a natural extension of our client’s team; reducing cost, duration, and complexity of our client’s projects while delivering the right digital solutions all within the required timeline.
+…
+show more","Responsibilities
+
+Responsible for product launches, delivery customization and rollout of system enhancement.
+The Application Developer will be responsible for understanding the Business Requirements, defining and documenting gap analysis, appropriate logical and physical designs. 
+To produce the functional and technical specifications. 
+In order to complete the requirements of this role, the Application Developer will need to develop a good understanding of the application system design and data model. 
+The scope of designs will include system development, static data/product configuration, correspondence production, interfaces to other applications, and reports.
+Perform System Testing/SIT and provide necessary support for UAT 
+In dept programming knowledge and hand on is required to support current application model and enhancement. 
+Able to perform daily production system application support, investigation and resolution. 
+Able to perform Development/UAT batch support.
+
+Requirements
+
+Bachelor's Degree in Information Technology or a related field 
+At least 3-4 years of working experience in system design and development 
+Experience and knowledge in SQL Language and Java programming is a must. Knowledge of Java Eclipse SDK/ Web application development tools, Apache Java Tomcat web server, Java Web Application, Jboss, Jasper Report, Configuration JDBC Connection, and SVN Versioning Control management tools will be an advantage. 
+Hands-on experience on web-based programming technologies & framework (Example: Spring MVC, Spring Boot, Struts, Hibernate, HTML5, AJAX, JSP, web services, NodeJS, .NET) 
+Proficient in at least one commercial RDBMS (E.g. IBM DB2, Oracle, MS SQL) 
+Preferable with Life insurance knowledge background. 
+Good team player and able to communicate effectively at all levels 
+Able to demonstrate good logical thinking and problem-solving techniques in a business and/or technical environment. 
+Possess outstanding professionalism with pleasant attitude and personality"
+3783523633,Software Developer in Java (CI/CD and Mockito),https://www.linkedin.com/jobs/view/3783523633,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,1,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","Job Description:
+
+A well-established U.S.-based company, known for its innovative solutions, is in search of a Web Back-End Developer. Your role will involve managing the interchange of data between servers and users, ensuring high performance and responsiveness. The company's commitment to innovation and next-generation technology presents an exciting opportunity to be part of their dynamic team.
+
+Job Responsibilities:
+
+Develop and maintain server-side logic for high-performance and responsive systems.
+Collaborate with front-end developers to seamlessly integrate user-facing elements with server-side logic.
+Implement stringent security and data protection measures.
+Design and implement efficient data storage solutions.
+Utilize Java, Jenkins, and Mockito for back-end service development, testing, and deployment.
+Collaborate with the team to identify and resolve system issues.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science, or equivalent.
+A minimum of 6-7 years of experience in web back-end development.
+At least 1+ year/s of experience with Java.
+1+ year/s of hands-on experience with Jenkins and Mockito.
+Strong understanding of server-side templating languages and user authentication and authorization across multiple systems.
+Proficiency with code versioning tools, such as Git.
+Strong communication skills and fluency in English."
+3774597952,Java Developer - Financial Company,https://www.linkedin.com/jobs/view/3774597952,SIGMATECH,https://www.linkedin.com/company/sigmatechnology/life," ",1 month ago,3,,"IDR15,000,000/yr - IDR20,000,000/yr",,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQHagndm4nW8zA/company-logo_100_100/0/1630651289082/sigmatechnology_logo?e=1712188800&v=beta&t=0tvybsVfuBKEAgLB7lz-h5ta1-k5471Zo3FUaRtGpKU,"SIGMATECH is the enterprise technology partner of choice for software development, delivering a broad range of web, mobile, and desktop controls coupled with a service-oriented approach throughout the entire application life cycle.
+
+
+SIGMATECH consists of highly skilled developers specializing in agile development methodology, focusing on Mobile & Web Solution, IT Services and business enterprise, utilizing modern programming languages as our platform. SigmaTech has established itself as the trusted partner for use in mission-critical applications and service clientele from global insurance company, government agencies and large consumer product manufacturer.
+…
+show more","Requirements
+
+ More than 3 years of Java development experience, proficient in Java EE related technologies.
+ Familiar with SpringBoot, SpringCloud, and Mybatis, and have a certain understanding of their principles.
+ Familiar with middleware such as MQ framework (Rabbit, Rocket, Kafka), Redis, ElasticSearch, database framework (RDBMS or NoSQL), zookeeper, etc.
+ Familiar with the Java concurrency framework and libraries, and understand the Java memory model.
+ Familiar with the use of Linux operating system and common Linux operating commands.
+ Have a good skills in requirement analysis; clear thinking and good language expression skills.
+ Applicants with working experience in securities companies are preferred.
+ Those who can speak Chinese are preferred; English is a must.
+ Pursue the excellence, being radical truthful, open-minded and smart."
+3783523672,Java Cloud Engineer with Kubernetes & MongoDB,https://www.linkedin.com/jobs/view/3783523672,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A well-established U.S.-based company, known for its innovative approach and dedication to delivering cutting-edge solutions, is currently in search of a Web Back-End Developer. This company stands at the forefront of technological advancements, continuously pushing boundaries and setting new industry standards. This role presents an exciting opportunity for an experienced professional to contribute to the development and maintenance of various applications.
+
+As a Web Back-End Developer, your role will be pivotal in designing and maintaining back-end services. You'll be tasked with creating and implementing robust, scalable solutions using Java, Kubernetes, and MongoDB. Your responsibilities also include debugging, testing, and troubleshooting various applications to ensure optimal performance. This role is an excellent opportunity to work in a dynamic, fast-paced environment that encourages innovation and places a high value on quality.
+
+Job Responsibilities:
+
+Design, develop, and maintain robust, scalable back-end services using Java, Kubernetes, and MongoDB
+Debug, test, and troubleshoot various applications to ensure optimal performance
+Collaborate with cross-functional teams to define, design, and deploy new features
+Stay current by continuously exploring, evaluating, and implementing new technologies to enhance development efficiency
+Ensure applications perform at their best, emphasizing quality and responsiveness
+Identify and address bottlenecks and bugs in the system
+
+Job Requirements:
+
+Hold a Bachelor’s or Master’s degree in Engineering, Computer Science, or equivalent
+Bring to the table a minimum of 6-7 years of comprehensive experience in the field of Web Back-End Development
+Demonstrate a minimum of 1+ years of expertise in Java, Kubernetes, and MongoDB
+Prove your experience in developing and maintaining robust back-end systems
+Possess a strong understanding of the software development life cycle (SDLC) and agile methodologies
+Exhibit excellent problem-solving skills and a keen attention to detail
+Communicate fluently in English and possess strong communication skills"
+3793202584,Senior Java Developer (Containerization Specialist),https://www.linkedin.com/jobs/view/3793202584,Turing,https://www.linkedin.com/company/turingcom/life," ",2 weeks ago,1,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","An innovative and fast-scaling startup, leading the way in technological advancements, is currently seeking a skilled Web Backend Developer. In this role, you will play a crucial part in managing the exchange of data between the server and the users. Joining this dynamic and forward-thinking team presents an incredible opportunity to make a real impact and contribute to the company's growth and success.
+
+Job Responsibilities:
+
+Develop and maintain high-performance server-side logic, ensuring swift responsiveness to front-end requests.
+Collaborate closely with front-end developers to seamlessly integrate user-facing elements with server-side logic.
+Implement robust security measures and ensure data protection.
+Create and implement efficient data storage solutions using NoSQL databases.
+Optimize and manage applications for maximum speed and scalability.
+Utilize Kubernetes to automate deployment, scaling, and management of containerized applications.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience).
+A minimum of 6 years of experience as a Web Backend Developer.
+Proficiency in Java with a minimum of 1+ years of experience.
+Minimum of 1+ years of experience with Kubernetes.
+Minimum of 1+ years of experience with NoSQL databases.
+Strong understanding of code versioning tools, such as Git.
+Excellent problem-solving skills and keen attention to detail.
+Fluency in English and excellent communication skills."
+3792859612,Cloud-Ready Java Engineer (Kubernetes Proficient),https://www.linkedin.com/jobs/view/3792859612,Turing,https://www.linkedin.com/company/turingcom/life," ",2 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","Job Description:
+
+A fast-expanding company, spearheading technological advancements, is in search of a Web Back-End Developer to oversee the exchange of data between servers and users. This company is renowned for its use of cutting-edge technology to drive industry growth and success. Join this dynamic and forward-thinking team for the opportunity to create a tangible impact.
+
+Job Responsibilities:
+
+Develop and maintain server-side logic to ensure high performance and responsiveness to front-end requests.
+Collaborate closely with front-end developers to seamlessly integrate user-facing elements with server-side logic.
+Implement robust security and data protection measures.
+Design and deploy data storage solutions using NoSQL databases.
+Efficiently manage and optimize applications for maximum speed and scalability.
+Leverage Kubernetes for automated deployment, scaling, and containerized application management.
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science, or equivalent experience.
+A minimum of 6 years of experience as a Web Back-End Developer.
+Proficiency in Java with at least 1+ year of experience.
+Minimum of 1+ year of experience with Kubernetes and NoSQL databases.
+Strong understanding of Git and code versioning tools.
+Excellent problem-solving skills and meticulous attention to detail.
+Fluent in English with outstanding communication skills."
+3780362852,Principal Software Engineer Back End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3780362852,Agoda,https://www.linkedin.com/company/agoda/life," "," ",15,,Hybrid,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1712188800&v=beta&t=Uch6o32VIVJnqd5pOyN6ISz8TvEijuYR_vC1w3EK8HQ,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, FinTech and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Spark, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity
+
+You might call yourself “full stack” or “back end” or you might consider yourself an authority in a certain field, but you have a keen interest in how the different systems work together.
+
+We’d love to hear from you if you are skilled in any of the technologies we work with (note – we are not looking for you to have them all). We are interested in speaking to persons of any level from individuals just starting their IT careers to experts in their field, although this particular position is better suitable to veteran engineers, with expertise in certain technologies, and especially those that had lead projects, initiatives and/or teams.
+
+In This Role, You’ll Get to
+
+Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring
+Design, develop and maintain platforms across the back end area
+Improve scalability, stability, and efficiency of our existing systems
+Write great code and help others write great code
+Collaborate with other teams and departments
+
+What You’ll Need To Succeed
+
+12+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala, Java or C#
+Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved
+Data platforms like SQL, Cassandra or Hadoop. You understand that different applications have different data requirements
+Good understanding of algorithms and data structures
+Strong coding ability
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+Excellent verbal and written English communication skills
+
+It’s Great If You Have
+
+Experience with Scrum/Agile development methodologies
+Experience building large-scale distributed products
+Core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration and Puppet for deployment
+Hands-on experience working with technology like queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), Spark, Hadoop, NoSQL (Cassandra, MongoDB), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3783530209,Data Engineer with Java Expertise,https://www.linkedin.com/jobs/view/3783530209,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,2,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","A U.S.-based company, renowned for its innovative approach and commitment to delivering cutting-edge solutions, is seeking a Data Engineer. This company has made a significant impact in the industry, leveraging modern technology to drive business growth and efficiency. The role offers an exciting opportunity for candidates who are passionate about data engineering and are eager to contribute to a dynamic and forward-thinking team.
+
+As a Data Engineer, you will be responsible for designing, building, and managing the company's data infrastructure. You will work closely with various teams to ensure the accuracy and consistency of data and develop strategies to optimize data flow and collection. The company fosters a collaborative and inclusive culture, where innovation and creativity are encouraged.
+
+Job Responsibilities:
+
+Design, construct, install, test, and maintain highly scalable data management systems
+Collaborate with data scientists and architects on several projects
+Develop set processes for data mining, data modeling, and data production
+Translate complex functional and technical requirements into detailed architecture and design
+Ensure systems meet business requirements and industry practices
+Integrate new data management technologies and software engineering tools into existing structures
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+A minimum of 3-5 years of experience in a Data Engineering role
+At least 2 years of experience in Java and Data Engineering
+Strong understanding of databases and best engineering practices, including data structures, data modeling, and data access patterns
+Ability to work in a team and independently as per the requirements
+Must be fluent in English and possess strong communication skills"

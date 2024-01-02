@@ -1,26 +1,1061 @@
 id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
-3681939946,"Senior Software Engineer (C++, Unix)",htthttps://www.linkedin.com/jobs/view/3681939946,,,,,0,,,,,,,
-3788875237,Oracle Developer,htthttps://www.linkedin.com/jobs/view/3788875237,,,,,0,,,,,,,
-3781782041,Principal Software Engineer,htthttps://www.linkedin.com/jobs/view/3781782041,,,,,0,,,,,,,
-3748144221,Senior Solution Engineer - Mulesoft,htthttps://www.linkedin.com/jobs/view/3748144221,,,,,0,,,,,,,
-3782362077,Senior Backend Engineer - Web3,htthttps://www.linkedin.com/jobs/view/3782362077,,,,,0,,,,,,,
-3792496178,System Engineer,htthttps://www.linkedin.com/jobs/view/3792496178,,,,,0,,,,,,,
-3785638889,DevOps Engineer,htthttps://www.linkedin.com/jobs/view/3785638889,,,,,0,,,,,,,
-3745872767,"Senior Solutions Engineer, Indonesia",htthttps://www.linkedin.com/jobs/view/3745872767,,,,,0,,,,,,,
-3787635308,Data Engineer,htthttps://www.linkedin.com/jobs/view/3787635308,,,,,0,,,,,,,
-3789838567,Senior Fullstack Engineer,htthttps://www.linkedin.com/jobs/view/3789838567,,,,,0,,,,,,,
-3736910037,Senior Backend Engineer,htthttps://www.linkedin.com/jobs/view/3736910037,,,,,0,,,,,,,
-3748566969,Software Engineer - Android [Pilot Team],htthttps://www.linkedin.com/jobs/view/3748566969,,,,,0,,,,,,,
-3775601975,Data Engineer,htthttps://www.linkedin.com/jobs/view/3775601975,,,,,0,,,,,,,
-3767930301,Site Reliability Engineer,htthttps://www.linkedin.com/jobs/view/3767930301,,,,,0,,,,,,,
-3766914716,Data Engineer (Cloud Data Engineer),htthttps://www.linkedin.com/jobs/view/3766914716,,,,,0,,,,,,,
-3789151526,Data Engineer,htthttps://www.linkedin.com/jobs/view/3789151526,,,,,0,,,,,,,
-3730894991,Software Engineer,htthttps://www.linkedin.com/jobs/view/3730894991,,,,,0,,,,,,,
-3773617172,Data Engineer,htthttps://www.linkedin.com/jobs/view/3773617172,,,,,0,,,,,,,
-3784059231,Senior Software Engineer - Bandung,htthttps://www.linkedin.com/jobs/view/3784059231,,,,,0,,,,,,,
-3784198639,Senior Data Engineer,htthttps://www.linkedin.com/jobs/view/3784198639,,,,,0,,,,,,,
-3781819067,DevOps Engineer,htthttps://www.linkedin.com/jobs/view/3781819067,,,,,0,,,,,,,
-3611205740,"Data Engineer (Data Warehouse), Business Intelligence",htthttps://www.linkedin.com/jobs/view/3611205740,,,,,0,,,,,,,
-3792133303,Backend Engineer,htthttps://www.linkedin.com/jobs/view/3792133303,,,,,0,,,,,,,
-3783658682,Backend Developer,htthttps://www.linkedin.com/jobs/view/3783658682,,,,,0,,,,,,,
-3788883049,Infrastructure Engineer - Open for Referral Program,htthttps://www.linkedin.com/jobs/view/3788883049,,,,,0,,,,,,,
+3774137205,Salesforce Developer,https://www.linkedin.com/jobs/view/3774137205,VISEO ASIA,https://www.linkedin.com/company/viseo-asia/life," ",4 weeks ago,46,,Hybrid,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4D0BAQF_BZ7Gh27COw/company-logo_100_100/0/1641308441397/viseo_asia_logo?e=1712188800&v=beta&t=MJcdIaoQC_nQfMMz8Zm4yBL9jpvELbfcYhB2CdrOMhs,"VISEO is a global technology company with HQ located in France. The Singapore office serves as VISEO Asia Pacific Japan (APJ) headquarters, with offices in Australia (Melbourne – Sydney – Brisbane), Japan (Tokyo), China (Shanghai – Beijing – Shenzhen), Hong Kong, Philippines (Manila – Cebu), Indonesia (Surabaya), India, and Malaysia (Kuala Lumpur).
+
+VISEO uses technology as a powerful lever of transformation and innovation to help its clients take advantage of digital opportunities, address new uses and compete with new players who change the rules of the game. With more than 3,000 employees globally, our worldwide presence best meets clients' needs through supporting global roll-outs.
+
+If you are interested in joining us, VISEO ensures the development of your skills by having regular exchanges with peers, coaching by a technical mentor, and official certification with our partners, such as but not limited to Salesforce, Mulesoft, Anaplan, SAP, Azure, AWS, Cegid, Shopify, etc. In addition, you will have fun while challenging yourself, participating in agile projects, external events and conferences, and internal technical communities, which will contribute to your career growth!
+
+For more information please visit: http://viseo.com/en/apac/
+…
+show more","The Senior Salesforce Developer supports the implementation from proposal to delivery. This includes:
+
+Design and implement business technology solutions in Salesforce.com
+Design and develop custom solutions on the force.com platform including significant work in Apex, Visual Force, Lightning web components, application integration, and data migration
+Actively supporting the functional team during the construction of the solution.
+Ensuring that optimal coding standards are adhered to throughout project delivery.
+Participating in code reviews
+Producing client deliverables such as detailed design documentation, unit test plans and well documented code.
+Plan and execute internal unit testing and integration testing.
+Release management includes metadata deployment, data migration, environment comparison, and version control.
+
+ Qualifications:
+Minimum Bachelor's degree in IT
+Good analysis and solution design skills.
+8+ years of experience in a hands-on technical/development role.
+6+ years of hands-on in designing, developing, and implementing Salesforce applications including Visual Force and Apex, Lightning Web Component, Trigger, and Flow.
+Current Salesforce Platform Developer 1 or 2 certification
+One or more current Salesforce certifications such as Administrator/Advanced Administrator, App Builder, Sales/Service Cloud)
+Knowledge of Salesforce Best Practices using Apex and Visualforce
+Exposure to Git based tools like BitBucket
+Exposure to VSCode, Salesforce DX, Tooling, Metadata APIs
+
+ Personal Attributes:
+Proven success in contributing to a team-oriented environment,
+Proven ability to work creatively and analytically in a problem-solving environment,
+Excellent communication (written and oral) and interpersonal skills,
+Proven experience in a similar role.
+Experience with agile / scrum and waterfall development methodologies"
+3777876893,Senior Site Reliability Engineer,https://www.linkedin.com/jobs/view/3777876893,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",3 weeks ago,50,,Remote,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1712188800&v=beta&t=KiMK5dldtc5f2TmwzCeVEw2RrHLUW1qYX7yx2XLVTMI,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.
+…
+show more","About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3785643480,Senior Data Engineer,https://www.linkedin.com/jobs/view/3785643480,iZeno,https://www.linkedin.com/company/izeno-pte-ltd/life," ",1 week ago,60,,Hybrid,,51-200 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQGLSFkDunzJiA/company-logo_100_100/0/1630650207516/izeno_pte_ltd_logo?e=1712188800&v=beta&t=ijbdE4oQmiJaRA0eHmek8GSVq0rF6PjPDnAcGFzXgGA,"iZeno was founded in 2003 to provide enterprises with the best-in-class technology solutions they need to keep their business running seamlessly. With a team of 150+ in-house innovators, iZeno has delivered, implemented, and optimised over 500 Enterprise Solutions to enable smarter insights and better business outcomes.
+
+iZeno’s team draws on industry experiences in delivering a portfolio of mission-critical applications, integrating AI & machine learning, DevOps, ITSM, cloud, CRM & CX, data analytics, and other leading technologies within its clients existing IT frameworks.
+
+With a leading presence in the region, the business is headquartered in Singapore and has operations in Malaysia, Indonesia, Thailand, and the Philippines.
+
+In the year 2023, iZeno Singapore achieved the certification as a Great Place To Work.
+
+Visit our website to learn more about iZeno and discover how we can collaborate with you to expedite your Digital Transformation journey.
+
+Please also take note that iZeno will never request recruitment fees from candidates under any circumstances. Please be cautioned that individuals or organizations are misusing the iZeno brand name to demand money in exchange for interviews or employment opportunities with iZeno. Please note that these fraudulent entities are unlawfully using iZeno's brand and copyright on fake job advertisements and emails to deceive innocent victims.
+
+As a responsible organization, iZeno places great importance on conducting ethical and transparent recruitment processes. We advise all potential candidates to remain vigilant and report any suspicious activity encountered during their job search. Our commitment is to protect the interests of our candidates and our organization, and we will remain vigilant against these fraudulent attempts.
+…
+show more","iZeno was founded in 2003 to provide enterprises with custom-built technology solutions they need to keep their business running seamlessly. Logicalis Asia, part of the Logicalis Group, a leading international IT solutions and managed services provider, has acquired a majority stake in iZeno, a company specializing in digital transformation, application modernization, DevOps, customer experience and hybrid cloud solutions.
+
+With a team of 120+ in-house innovators, we have delivered over 500 Enterprise Solutions, implemented, and optimized to enable smarter insights. Our team draws on industry experiences in accomplishing a portfolio of mission-critical applications, integrating Cloud, CRM, Data Analytics, and other leading technologies with our clients' existing IT frameworks.
+
+With a leading presence in the region, headquartered in Singapore and operations in Malaysia, Indonesia, Thailand and Philippines, no project is too complex for us, and our team is always ready for a new challenge.
+
+
+The Role:
+
+Analyze, design and implement solutions related to Data Warehouse, Data Lake, Big Data, Data Analytics.
+Collaboratively work with customers, project team members and partners in defining business & technical requirements and specifications
+Work with the project team to translate requirements into project deliverables & prioritization.
+Planning and executing both client and internal projects, following through entire software development lifecycle
+Lead functional discussions and leverage your knowledge of best practices.
+Perform project implementation offsite and onsite.
+Maintain and support new and/or existing customers.
+Manage customers’ requirements and expectations.
+Participate in presales activities, propose solutions to potential customers in the form of Solution Proposal or Scope-of-Work (SOW) and deliver presentations/demonstrations when needed.
+Research & development of relevant knowledge and skillset
+
+What we are looking for:
+
+Candidate must possess at least a Diploma, Advanced/Higher/Graduate Diploma, bachelor’s degree, Post Graduate Diploma, Professional Degree, Computer Science/Information Technology/Information Systems or equivalent.
+At least 5 years of experience in the area of Data Warehouse/Data Lake/Big Data/Data Analytics with client-facing roles.
+Hands-on and successful project delivery experience in related space is preferable.
+Good logical and analytical thinking
+Adaptable, meticulous, innovative, independent and self-motivated, with excellent problem-solving skills
+Experience in operating in Linux/Unix environment will be an added advantage.
+Required skills: Java, Advanced SQL; Added advantage with Python, R
+Added advantage with knowledge or hands-on experience in Talend, Confluent, MongoDB, Snowflake, Dataiku, TIBCO Jasper soft or Spotfire.
+
+What we have to offer
+
+An exciting job with latest technology
+Continuous training & development of soft and hard skills
+A competitive salary commensurate with your profile
+A package of benefits including healthcare insurance
+Hybrid working arrangement
+An awesome team of colleagues & regular team building activities
+The ability to work with the world’s leading companies in technology and innovation
+An environment where we embrace openness, transparency and grab every opportunity to have fun, while always doing what is right for our customers and partners."
+3790100167,Site Reliability Engineer (Marketplace) - Sea Labs,https://www.linkedin.com/jobs/view/3790100167,Sea,https://www.linkedin.com/company/seagrp/life," ",1 week ago,39,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQEAIrDkWI_p6g/company-logo_100_100/0/1631341864429?e=1712188800&v=beta&t=q5PtqxHTULCm_RRHjMUU1kfmqgOWmmSNQexyV6NsVG4,"Sea is the leading consumer internet company in Southeast Asia and Taiwan. Our mission is to better the lives of the consumers and small businesses of our region with technology.
+
+Our businesses include:
+
+Shopee, our region’s largest and most popular e-commerce platform. Launched in 2015, Shopee was designed to be mobile-first and highly social, offering buyers and sellers a trusted and enjoyable shopping experience. In 2018, Shopee recorded over 603 million orders, and GMV of $10.3 billion. Shopee was also the most downloaded shopping app in Southeast Asia and in Taiwan.
+
+Garena, a global leading games company. Garena is the developer of Free Fire, the global smash hit mobile battle royale game with over 450 million registered users and 50 million peak daily active users as of May 2019, making it one of the most popular games in the world. Garena is also the largest games publisher in the region, bringing AAA mobile and PC titles such as Arena of Valor, League of Legends, and Speed Drifters to gamers in Southeast Asia. Garena also leads the growth of esports in our region. Its annual flagship event, Garena World, is the largest and most influential esports event in Southeast Asia.
+
+SeaMoney, a leading digital payments and financial services provider in Southeast Asia. SeaMoney’s offerings include mobile wallet services, under the AirPay and ShopeePay brands, which provide users with easy access to digital payment services.
+
+Sea is headquartered in Singapore, and listed on the New York Stock Exchange under the ticker symbol ‘SE’. Our IPO in October 2017 was the largest US public listing ever by a Southeast Asian technology company.
+…
+show more","Job Description:
+
+Deep dive into development lines, learn and understand the mechanism of every application component, and promote product scalability, stability, and performance
+Set up, manage, and maintain Shopee product/middleware/big-data applications and services
+Perform regular and ad-hoc server-side deployments, make improvements of the performance, and troubleshoot
+Design and develop automated technical operation platform
+Manage Capacity and Resource
+Responsible for the full-chain stress test to enhance the performance and remove redundancy of applications
+Prepare routine operation documentation
+
+
+Requirements:
+
+Bachelor's degree or above in Computer Science, Engineering, Information Systems or related fields
+More than 2 years of relevant experience (candidates with no working experience are welcomed to apply)
+Extensive and hands-on knowledge with Linux operating systems (Ubuntu, CentOS, etc.)
+Highly familiar with Computer Network (TCP/IP, DNS, etc.), Computer Organisations, and OS
+Hands-on experience with at least one of the programming languages: Bash, Python, Go
+Strong analytical and problem-solving skills with the ability to thrive in a dynamic work environment
+Passionate and possess a strong sense of responsibility
+Fast learning ability and a good team player
+Agile and detail-oriented
+
+
+Skills below are optional but preferred:
+
+Experience with automation tools like Ansible, SaltStack
+Experience with monitoring tools like Prometheus, Zabbix, Grafana etc 
+Experience with load balancing tools like LVS, Nginx, Openresty or HAProxy 
+Experience with container technology such as Docker, Kubernetes
+Experience with High Availability system design and Server Deployment Process
+Experience with SRE
+Experience with Ops Paas platform or Ops automation platform (ie:CMDB)"
+3792133303,Backend Engineer,https://www.linkedin.com/jobs/view/3792133303,,,,,0,,On-site,,See how you compare to 4 applicants. Upgrade my plan,,,"Planning and design system architecture according to project requirements;
+Write system architecture, API and other technical documentation;
+Responsible for coding quality and ensure it meets business logic;
+Participate in the formulation of the system’s overall technical standards and specifications and the examination of their implementation;
+Test, optimize and maintain the project to ensure its stability and reliability.
+
+Minimum Qualifications
+
+More than 2 years’ experience in large-scale software system development and design and experience in independent analysis and design of system as part of a software project are needed;
+More than 2 years experience in Java Springboot development, have in-depth experience in using and optimizing various open source frameworks such as Spring, Springcloud, SpringBoot, SpringMVC, Mybatis;
+Proficient in using at least one of mysql\postgresql databases, familiar with database design and tuning, and familiar with mainstream middleware and NoSQL databases, such as Redis, Memcache;
+Familiar with distributed, cache, message, load balancing and other mechanisms and their implementation;
+Familiarity with finance and loan business is preferred."
+3789563381,Senior Software Engineer,https://www.linkedin.com/jobs/view/3789563381,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",4 days ago,27,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
+
+At Staffing Ninja, we are committed to building long-term relationships with our clients and candidates. Our goal, among other industry experts, is to help our clients achieve their business objectives by providing them with the best talent available through our headhunting service and to help our candidates take their careers to the next level with the best AI jobs.
+
+Find your next career opportunity in the AI space, contact us today!
+…
+show more","(JavaScript - Nodejs, Express, Typescript)
+
+Job Responsibilities:
+Lead and actively participate in designing, developing, testing, and maintaining software applications and systems.
+Provide technical leadership and mentorship to junior team members, guiding them in best practices and fostering their professional growth.
+Write high-quality, efficient, and maintainable code, often focusing on resolving complex technical challenges.
+Lead or actively participate in code reviews to ensure code quality, consistency, and adherence to coding standards.
+Identify and address performance bottlenecks, optimizing code and systems for improved speed and efficiency.
+Maintain comprehensive technical documentation, including system architecture, code comments, and documentation to aid in understanding and maintaining the software.
+Collaborate closely with cross-functional teams, such as product managers, designers, and quality assurance, to deliver software products that meet business requirements.
+Ensure software is developed with security best practices in mind, addressing vulnerabilities, and safeguarding user data.
+Provide ongoing support, maintenance, and bug fixes for released software, addressing technical debt and legacy code.
+Effectively communicate technical concepts and project status to non-technical stakeholders.
+
+Experience and Knowledge:
+Typically requires a Bachelor’s degree in a relevant field and a minimum of 8 years of related experience; or an advanced degree with 6+ years of experience; or equivalent related work experience.
+Web development experience (Javascript - Nodejs, Express, Typescript).
+Development experience, including proficiency in at least one programming language (preferably Python, Go) and scripting. Database expertise, particularly in SQL.
+Familiarity with DevOps practices, including CI/CD and pipelines.
+Knowledge of cloud platforms, such as AWS, as well as containerization and HashiCorp tools like Nomad and Terraform.
+Strong experience debugging complex web application issues through code review and detailed logs.
+Excellent communication and teamwork skills, especially with highly technical team members."
+3795329271,AI-Powered Dialogue System Python Developer,https://www.linkedin.com/jobs/view/3795329271,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,3,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","Dive into a world where code meets creativity and each line you write has the potential to spark digital life into the most advanced AIs. We're not just a company, we're a global tech phenomenon, piecing together the future of engrossing chatbots straight out of science fiction. We're on the hunt for a Python Developer — a sharp coder with a taste for agility, scalability, and all things AI. If you’re a modern-day tech artisan eager to embark on projects peppered with AI, ML, and collaborative innovation, you've found your arena.
+
+Your Adventure Awaits:
+
+Craft high-caliber, resilient code that adapts like AI and scales like cloud infrastructure.
+Engage in rigorous code reviews keeping an eye out for the pristine standard of clean and efficient codebases.
+Deploy cutting-edge Python libraries to deconstruct and streamline complex challenges with grace.
+Be the guardian of your code, ensuring it's not just functional but is a beacon of industry best practices for data-driven AI development.
+
+Your Toolkit and Talents:
+
+Proudly holding a tech decree, supplemented by continuous skill upgrades in the tech sphere.
+With 3+ years as a software sage, Python is your staff of power with which you weave backend magic.
+You've got fine-tuned expertise in Python, firing up data models, machine learning wizardry, and seamless API concoctions.
+Adept in SQL with the QA acumen that places you at the heart of the DevSecOps revolution.
+Familiarity with CI/CD, unit testing, and a history of conquered bugs will set you apart as a candidate of legend.
+You thrive on solving algorithmic puzzles, transforming towering data sets into digestible insights.
+If cloud platforms and container orchestration sing your song, consider us already charmed.
+Your software development achievements aren't just noted; they echo in the valleys of tech lore.
+You're so well-versed in English, you're unofficially the Rosetta Stone between geeks and mortals.
+
+Unique Perks and Opportunities:
+
+Collaborate with illustrious researchers and innovators from every corner of the globe, building a network that’s as expansive as your ambitions.
+This is more than a job; it’s a digital nomad's dream with full remote flexibility. Work where you thrive.
+Enjoy a competitive salary paid in USD, ensuring you benefit from a global standard.
+Work on breakthrough projects that bend the boundaries of tech, consistently pushing you to the vanguard of industry innovation.
+Rise with Us: Answer the call to invent the intelligence that will define tomorrow’s conversational AI. Let's turn what if into what is together! 🚀
+
+Apply Now: Send us a snippet of your genius, and let's revolutionize the tech-scape, one conversation at a time!"
+3755068373,Senior / Software Engineer,https://www.linkedin.com/jobs/view/3755068373,Diebold Nixdorf,https://www.linkedin.com/company/diebold/life," "," ",86,,On-site,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4D0BAQEusIoAmZqYhg/company-logo_100_100/0/1630557068049/diebold_logo?e=1712188800&v=beta&t=QhU5sx31XW3N9W00Mkb2IHLvFaD6QMsXITL7vUOfAHU,"We automate, digitize and transform the way people bank and shop. We offer proven expertise and comprehensive portfolios in cutting-edge product technology, multi-vendor software and service excellence for financial and retail customers.
+
+Consumer behavior is changing rapidly; people are empowered and connected and expect unprecedented service and convenience. The world is “always on” – a digital era requiring us to orchestrate touchpoints in ways that meet and exceed the 24/7 automation needs of the banking and retail worlds.
+
+Diebold Nixdorf employs approximately 21,000 employees in more than 130 countries worldwide. We are publicly traded on the New York Stock Exchange under the symbol “DBD.”
+
+Specialties: financial and retail self-service solutions, services, security solutions, software, cash management, branch and store transformation
+…
+show more","Job Description
+
+Expect more. Connect more. Be more at Diebold Nixdorf. Our teams automate, digitize, and transform the way more than 75 million people around the globe bank and shop in this hyper-connected, consumer-centric world. Join us in connecting people to commerce in this vital, rewarding role.
+
+Position Overview
+
+We are looking for a Software Engineer that will be an active member of an international professional service team, involve in the project delivery, providing technical support for system integration project both for Switching solution and ATM client software into customer environment with comprehensive Diebold Nixdorf product knowledge and customer requirement.
+
+You are responsible for
+
+Work on software development, implementation and / or configuration in Professional Services projects.
+Capable to work in the Project Delivery as Developer, DevOp or System Integrator depend on the team requirement.
+Work with commercial and corporate developed products.
+Interface directly with customers or field personnel in developing customer specifications, requirements, and support.
+Improve software engineering methods and processes within his / her local area.
+Individual must be able to work in a team environment and deal well with customer support issues.
+Customize, integrate and/or develop complex SW components and systems. 
+Utilize standard DN solution elements and development procedures and develop re-usable solution elements if required.
+Conduct code reviews and troubleshoot problems for other developers.
+Produce, update, review and modify implementation and operating documentation of SW solutions and changes according to DN SW documentation guidelines and in line with customer needs.
+
+
+Qualifications
+
+Bachelor’s Degree in BS in Computer Science, Computer Engineering, Information Services, Mathematics, or equivalent experience. 
+4 to 7 years’ experience in software development.
+Have 3 to 5 years of experiences on Java Programming language
+Strong hands on for Java enterprise framework such as JEE, Spring, or any server based java framework.
+Strong hands on for Application server such as Jboss, IBM Websphere, etc.
+Strong hands on with Database Server such as PostgreSQL, Oracle, DB2, etc.
+Experience in C++ is an advantage.
+Experience in Application Virtualization using Docker, Kubernetes, Openshift, or other related products is an advantage.
+Fluent English communication skills and comfortable interfacing with external clients.
+Readiness to work onsite in the DN office or remotely in the customer office, depending on project demands.
+Experience in banking project and or ATM industry will be an advantage.
+Understanding of ISO8583 protocol, NDC/DDC, and TCP/IP concept will be an advantage
+
+
+About Us
+
+ Why should you join Diebold Nixdorf? 
+
+ Brightest minds + technology and innovation + business transformation The people of Diebold Nixdorf are 23,000+ teammates of diverse talents and expertise in more than 130 countries, harnessing future technologies to deliver personalized, secure consumer experiences that connect people to commerce. Our culture is fueled by our values of collaboration, decisiveness, urgency, willingness to change, and accountability. 
+
+ –Diebold Nixdorf is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status. 
+
+ To all recruitment agencies: Diebold Nixdorf does not accept agency resumes. Please do not forward resumes to our jobs alias, Diebold Nixdorf employees or any other organization location. Diebold Nixdorf is not responsible for any fees related to unsolicited resumes** 
+
+
+ We are a global Company operating in multiple Locations and Entities. As we are keen to find the best solution for our candidates several legal entities might be applicable for a Job offer. A List of our operating entities can be found  here -  https://www.dieboldnixdorf.com/en-us/about-us/global-locations"
+3750255577,DevOps Engineer,https://www.linkedin.com/jobs/view/3750255577,Logicalis Asia,https://www.linkedin.com/company/logicalis-asia/life," "," ",171,,Hybrid,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D560BAQHsdumSvmnbGQ/company-logo_100_100/0/1688541605950/logicalis_asia_logo?e=1712188800&v=beta&t=cLU-uBIOd8N5OVEZzRGp-MA-Znlr7-r6IWk-sTIDjVU,"Logicalis is an international solutions provider of digital services currently accelerating the digital transformation of its 10,000 customers around the world.
+
+Through a globally connected network of specialist hubs, sector-leading experts (in education, financial services, government, healthcare, manufacturing, professional services, retail and telecommunications) and strategic partnerships (including Cisco, Microsoft, HPE, IBM, NetApp, Oracle, ServiceNow, and VMware), Logicalis has more than 6,500 employees focused on understanding customer priorities and enhancing their experience.
+
+As Architects of ChangeTM, Logicalis’ focus is to design, support, and execute customers’ digital transformation by bringing together their vision with its technological expertise and industry insights. The company, through its deep knowledge in key IT industry drivers such as Security, Cloud, Data Management and IoT, can address customer priorities such as revenue and business growth, operational efficiency, innovation, risk and compliance, data governance and sustainability.
+
+The Logicalis Group has annualised revenues of $1.7 billion, from operations in Europe, North America, Latin America, Asia Pacific, and Africa. It is a division of Datatec Limited, listed on the Johannesburg Stock Exchange, with revenues of over $4.3 billion.
+
+For more information, please visit www.ap.logicalis.com.
+…
+show more","Why choose iZeno?
+
+iZeno was founded in 2003 to provide enterprises with custom-built technology solutions they need to keep their business running seamlessly. Logicalis Asia, part of the Logicalis Group, a leading international IT solutions and managed services provider, has acquired a majority stake in iZeno, a company specialising in digital transformation, application modernisation, DevOps, customer experience and hybrid cloud solutions.
+
+With a team of 120+ in-house innovators, we have delivered over 500 Enterprise Solutions, implemented, and optimized to enable smarter insights. Our team draws on industry experiences in accomplishing a portfolio of mission-critical applications, integrating Cloud, CRM, Data Analytics, and other leading technologies with our clients' existing IT frameworks.
+
+With leading presence in the region, headquartered in Singapore and operation in Malaysia, Indonesia, Thailand and Philippines, no project is too complex for us, and our team is always ready for a new challenge. 
+
+The Role:
+
+Executing delivery of both client projects and internal projects
+Follow through the entire Software Development Life Cycle
+Interpret systems specifications to develop, maintain and support application implementation
+Configure system settings and options and execute acceptance testing
+Delivery codes based on Principal Architect and Senior Java Engineer solution designs
+Analysis, development and implementation using JAVA. 
+
+What we are looking for:
+
+Minimum 1 year of relevant experience. 
+Ability to interact and communicate effectively with all levels of management, users and vendors
+Familiarity with one or more of the following: JAVA Framework, Middleware, Springboot, Apache Camel, MQ
+Willing to pick up and learn new software and technologies
+Strong documentation and solution design skills would be an added advantage. 
+Analytical with good problem-solving skills
+Familiarity with RedHat, Containers, and DevOps will be advantageous."
+3783451805,Software Engineer (Java),https://www.linkedin.com/jobs/view/3783451805,VLink Inc,https://www.linkedin.com/company/vlink-inc/life," ",3 weeks ago,77,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQHAMUYx5jqZ1w/company-logo_100_100-alternative/0/1630643463375/vlink_inc_logo?e=1712188800&v=beta&t=WLhr_Wt5-dRVCiaFHGC92H_YO4qHYUhlR2dv1b-osN0,"VLink Inc. is a global software engineering and IT staffing partner, delivering innovative solutions with the most highly vetted expert software development teams. We leverage the latest technologies and the best IT talent to drive business growth for Fortune-500, Large and SMB clients by delivering a customized, personal approach, to ensure their unique technology needs are met.
+Founded in 2006, VLink takes pride in our highly revered workforce whose productivity, tech agility, and expertise produce transformative customer success stories year-after-year.
+
+Why Choose VLink?
+- 98% Customer Satisfaction
+- 5+ Delivery Locations with Onshore/Offshore/Nearshore IT Talent
+- 17+ Years of Software Engineering Excellence
+- 500+ Software Engineers & Consultants
+- 150+ Global Fortune-500, Large & SMB Clients Served
+- 2 days TAT for Presenting Candidates on New Hiring Requests
+
+
+Our core competencies and global service offerings include:
+*DIGITAL TRANSFORMATION & CONSULTING*
+(Data & Analytics| DevOps & Automation| Blockchain, AI/ML, IoT| Re-engineering Legacy Apps | Enterprise Portal Upgrades & Migrations)
+
+*CUSTOM SOFTWARE DEVELOPMENT & MAINTENANCE*
+(Web & Mobile Apps| Product Engineering| Maintenance & Support| QA & Testing)
+
+*DEDICATED TEAMS & IT STAFF AUGMENTATION*
+(Delivery Centers Onshore, Offshore & Nearshore| Short & Long-term Assignments| 24x7 Time Zone Alignment| Attrition Management| Speedy delivery)
+
+
+**AWARD-WINNING WORKFORCE**
+- Inc Magazine 500/5000 Fastest Growing Privately Owned Companies
+- Connecticut’s 40 Fastest-Growing Tech Companies by Connecticut Technology Council’s Marcum TT 40
+- Consistent Top Five Winner of Hartford Business Journal’s Best Places to Work in CT (2023)
+- Great Place to Work® Certified™ 2023
+- 2023 Best Software Development Companies in Hartford CT, by Expertise.com
+
+***OUR INTELLECTUAL PROPERTIES***
+- SimplyEDI
+- VLinkCare
+…
+show more","Job Requirements:
+Individuals must have at least 3 years of experience as a Java Software Developer experience. 
+Must have hands-on experience with Java & Spring
+Must have strong experience with Microservices architecture
+Experience of designing RESTful APIs, OAuth 2, Swagger
+Understanding of Microservices architectures, prior hands-on experience in developing and deploying Microservices solutions
+Familiar with popular databases with hands-on experience in MySQL and PostgreSQL
+Deep understanding of cache technology (Redis)
+
+Job Description:
+Building an elegant RESTful API with high reliability and security
+Discuss architecture and best practices with your teammates and leaders
+Collaborate with other team members and stakeholders"
+3648567322,"Junior Software Engineer, Backend",https://www.linkedin.com/jobs/view/3648567322,tiket.com,https://www.linkedin.com/company/pt-global-tiket-network/life," ",6 months ago,2,,Hybrid,,"1,001-5,000 employees · Software Development",https://media.licdn.com/dms/image/C560BAQFN5mZsxgIpwQ/company-logo_100_100/0/1631340861726?e=1712188800&v=beta&t=p8ZsSnupSvp-PPcbm0adEmtk_P00Kaa3NhNucyPodKQ,"As we are striving to be the most loved Online Travel Agent (OTA) & lifestyle app, we invest in continuous innovation to simplify and revolutionize tourism using the technology that we build for more than 17 million of our growing users globally. We are the go-to online marketplace for product and services that covers flight, hotel, car rental, event and attractions, train, and airport transfer bookings. In 2019, we were announced as the fastest growing Online Travel Agent (OTA) in the world by SABRE. Globally, we are currently partnering with 85 airlines, more than 2.7 million hotel inventories (including 400+ exclusives across Hotels, Villas & Apartments), and more than 10,000 things to do (attractions, tours, etc) and events.
+
+Mau ke mana? Semua ada tiketnya!
+…
+show more","We think you also hate when travel app is giving you a headache, right? A slight misinformation can ruin the trip.
+
+That is exactly what we are tackling as t-fam! Making sure that our 17+ million users have the best experience in crafting their own adventure.
+
+Your main duties in flying with us
+
+Build and extend our backend code based on SOLID Principle and Clean Code
+Build APIs that serve our frontend apps – Benchmark and improve performance
+Maintain and extend our test suite
+Refactor and improve existing code to incorporate better patterns
+Document and write about the work
+Create unit test and implement self test to make sure the code is running well
+Assist technical lead to review and follow up code that have been developed
+
+Mandatory belongings that you must prepare
+
+Bachelor degree or equivalent, preferably in Computer Science/Information Technology
+Experienced in using Golang and Java
+Experience working with RDBMS or NoSQL is a plus
+Experience working with Redis and Memcached is a plus
+Experience with Elastic Search
+Experience with CI/CD, TDD, Refactor/Rewrite system
+Experience with Event-Driven Architecture such as Kafka or RabbitMQ
+Experience with Git Flow
+Experience with Kubernetes is a plus
+Knows how to analyze log
+Experience with pair programming is a plus
+Experience with Linux syntax, Docker is a plus
+Good sense of prioritization and product knowledge/product ownership
+Critical thinking, fast learner, and excellent communication skills
+Well-motivated, responsible for the deadline, and can work under pressure
+
+In the event that you haven’t received any updates after 3 weeks, your data will be kept and we may contact you for another career destination. Meanwhile, discover more about tiket.com on Instagram, LinkedIn, or YouTube."
+3788931811,Senior IT Infrastructure Engineer,https://www.linkedin.com/jobs/view/3788931811,CBI Credit Bureau Indonesia,https://www.linkedin.com/company/creditbureauindonesia/life," ",5 days ago,87,,On-site,,11-50 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQE0mO_nJ6yIFw/company-logo_100_100/0/1661219442104/creditbureauindonesia_logo?e=1712188800&v=beta&t=6_EIhVuz6sO49aYcetOlznPmnlRJrLK9ZSeNz_w7YJ4,"A Private Credit Bureau licensed by OJK that provides Comprehensive, Accurate, Wider Coverage, Customizable Insights & Real-Time Credit Data Information.","Who We Are:
+PT Kredit Biro Indonesia Jaya (Credit Bureau Indonesia, “CBI”) as one of the private credit bureaus in Indonesia has been established since 2014 and obtained an operational license from Otoritas Jasa Keuangan (OJK) as Lembaga Pengelola Informasi Perkreditan (LPIP) in 2015.
+
+In November 2021, after obtaining approval from OJK, CBI received additional capital from shareholders and appointed a new management team, which aims to provide new and leading-edge services and products. This new identity will also strengthen CBI's position as the ""best-in-class, modern and innovative"" credit bureau in Indonesia.
+
+CBI is a trailblazer in the credit bureau industry, dedicated to fostering a culture of excellence and innovation. We believe in the power of a talented and diverse team to bring cutting-edge solutions to our clients and contribute to the overall success of the financial landscape in Indonesia.
+
+Why Join Us:
+Innovative Environment: Continuously investing in cutting-edge technologies, including the powerful realm of artificial intelligence, your role becomes a pivotal part of our journey into the dynamic and evolving landscape of financial services. Being part of our innovative environment is your gateway to an exciting and forward-thinking career
+Impactful Work: We offer more than just a job; we provide an opportunity to play a crucial role in shaping the financial future of individuals and businesses across the nation. As a licensed credit bureau, our commitment to accuracy, reliability, and timeliness sets the stage for impactful work
+Professional Development: We are committed to the growth of our employees. Join a team that encourages continuous learning and offers opportunities for career advancement.
+Collaborative Culture: Work in a collaborative and inclusive environment where your ideas are valued, and teamwork is key to achieving our goals.
+
+Current Opportunities:
+We are currently seeking talented and motivated individuals to join our team as Senior IT Infrastructure Engineer, who will be responsible for the strategic planning, implementation, and ongoing management of an organization's IT infrastructure. This role requires a combination of technical expertise, leadership skills, and the ability to adapt to evolving technologies and business needs.
+
+Responsibilities
+Manage on premise IT Infrastructure, especially on Hyper-Converged Infrastructure, IT Infrastructure Networks, and Security Appliances to meet standard of IT Infrastructure Operations
+Overseeing the design, implementation, and maintenance of IT infrastructure
+Manage system monitoring, backup and disaster recovery
+Ensuring that the organization's IT infrastructure is secure and compliant with all applicable regulations
+Managing the organization's security operations center (SOC)
+Developing and implementing security policies and procedures
+Developing and managing the organization's incident response plan
+Working with other departments to ensure that security is integrated into all aspects of the organization's operations.
+
+Requirements
+Bachelor's degree in computer science, information technology, or a related field
+5+ years of experience in IT infrastructure and security
+Strong knowledge of security principles and best practices
+Experience with security operations tools and technologies
+Experience in 'on-premises' deployment methodologies and tools
+Has knowledge and experience in networking, virtualization, Hyper-Converged Infrastructure and database systems
+Excellent analytical and problem-solving skills
+Ability to work independently and as part of a team
+Strong communication and presentation skills
+
+Perks & Benefits:
+Competitive compensation package
+Private medical insurance
+Free lunch provided with amazing choices
+Work within an international environment that is both dynamic and forward-thinking
+Promising career growth opportunities
+Office situated near MRT station"
+3785635776,Senior Software Engineer,https://www.linkedin.com/jobs/view/3785635776,Photon,https://www.linkedin.com/company/photon-interactive/life," ",1 week ago,52,,On-site,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4D0BAQGdkIvXUdQMEA/company-logo_100_100/0/1672822694984/photon_interactive_logo?e=1712188800&v=beta&t=Ua0IhetReZQvgVmO6w2kEupoB6DyMrHX_V1dz2yAnQY,"Photon.com has emerged as one of the world’s largest and fastest-growing Digital Agencies. We work with 40% of the Fortune 100 on their Digital initiatives and are known for our ability to integrate Strategy Consulting, Creative Design, and Technology at scale. Please visit www.photon.com to learn more about us, how we work, and our customer case studies.
+
+Digital Transformation Starts Here.
+…
+show more","Key Responsibilities and Duties
+Conducts requirements gathering and analysis to understand the domain of the software problem and/or functionality, the interfaces between hardware and software, and the overall software characteristics.
+Consults with systems engineers and architects on developing IT standards for the business while facilitating the translation of client requirements into technical designs for large IT solutions.
+Uses programming, scripting, and/or database languages to write the software code.
+Models key business processes and critical paths while assessing the impact of technology on business processes.
+Supports software testing, deployment, maintenance, and evolves activities by correcting programming errors, responding to scope changes, and coding software enhancements.
+Maintains records for the documentation of systems development and revisions.
+Coaches and reviews the work of lower-level professionals.
+
+Required Skills:
+Experience with Full Stack Design and Coding, specifically Java technologies
+Understanding of API design and experience developing APIs from scratch
+Experience with API Gateway tools or middleware technologies
+Understand API securities and best practices.
+Experience with Spring, Spring Integration and Spring Framework (Core, JDBC, JMS, Messaging, Web, MVC)
+Experience developing with service-oriented architecture and REST, JSON, XML, SOAP
+Experience in Software Development Life Cycle and how the API fits into
+Excellent team player with good organizational, communicational, analytical and logical skills
+
+Preferred Skills:
+Experience with ExpressJS, NextJS, ReactJS and NodeJS
+Development experience in UI frameworks (ReactJS, NodeJS, HTML, Java Script, HTML5, JSP, Ajax)
+Experience writing unit tests
+Experience with DevOps tools: Gradle, Jenkins, SonarQube, Junit, Splunk, Openshift Cloud Platform.
+Excellent English communication skills (C1 level)"
+3775947107,Java Developer,https://www.linkedin.com/jobs/view/3775947107,Mitrais,https://www.linkedin.com/company/mitrais/life," ",3 weeks ago,133,,Hybrid,,"501-1,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C510BAQEhZsUjQpb1jg/company-logo_100_100/0/1630620031684/mitrais_logo?e=1712188800&v=beta&t=llazfjJ4SFlmGFtfqGAMC7cGHvWtJEFZTfbOFw9Zbgk,"Mitrais is a Software Company and is a member of CAC Holdings Group with offices in Indonesia and Singapore. We have a full range of software development capabilities including NodeJS, Flutter, ReactJS, Microsoft, Java, mobile, web, PHP, and Low Code, while our product services cover the deployment and support of leading software products targeting the mining and healthcare sectors. These activities are backed by best-in-class human capital management systems and an integrated engagement model. Since 1991, we have helped over 500 clients to achieve their goals.
+…
+show more","Mitrais, a member of CAC Holdings Group, is an international Information Technology company with offices in Indonesia, Singapore, and Australia. We have two lines of business – Software Development Services and Software Product Services. We provide a full range of Software Development capabilities including Microsoft, Mobile, Web, Java, etc. Our Software Product Services cover the deployment and support of leading Software Products.
+
+Build your Career with Mitrais!
+
+We have clients that urgently looking for Experienced Java Developers to be part of our team for an immediate start.
+
+What will you be doing?
+Coding high-quality software using distributed computing, messaging, microservices, performance tuning and memory and resource management techniques
+Developing data-driven solutions for a range of clients - frontend as well as backend.
+Collaborating within cross-functional and international agile teams.
+Testing, debugging, re-testing, and coordinating with QA, validating software as ready for shipping
+Reviewing code and acting as a subject matter expert for juniors in the team
+
+What about you? 
+You have 2+ years of experience in Java development with Springboot 
+You are familiar with RDBMS 
+You can speak reasonable English 
+You are well versed in best practices in OOP, design patterns, SOLID principles, and data driven design 
+You are comfortable using git or TFS in a CI/CD environment 
+You enjoy working on lean and agile development projects using Scrum & Kanban 
+You love clean and beautiful code, with an eye for simplicity and pragmatism. 
+Additional value  
+Experience on microservice, Kafka and Redis 
+SQL and hands-on experience with ORM frameworks such as Hibernate 
+Common Basic Web technologies such as: HTML, JQuery 
+Java unit-test frameworks such as: Junit 
+Java 8 features such as: Time API, Lambda, Functional Programming Style, Stream API 
+You have experience in Java reporting tools such as: Jasper Report, Apache POI 
+You have working knowledge and experience with: 
+Cloud Computing such as: AWS, Azure, Google Cloud 
+You are well versed in best practices in OOP, design patterns and SOLID principles 
+What can Mitrais offer you?
+A CAREER, not a JOB!
+Competitive salary
+Excellent working environment, with the possibility to relocate to our regional offices and work remotely
+Free English classes, English is our working language
+Lots of opportunities to improve your competencies on our technical boot camps, certification programs and soft skills training courses
+Hackathons with big prizes!
+
+Learn about life at Mitrais from our current team by searching #mitraislife on your social media.
+
+Please note that all activities included in the recruitment processes are free of charge. Beware of online scams such as persons posing to represent the Mitrais Recruitment Team or other recruiting-related personnel by sending unsolicited text messages and emails asking you to provide personal information, transfer money, or do any other specific activities.
+
+To Apply…
+Simply click the apply button, complete the form and upload your latest CV in English! What are you waiting for?"
+3784193918,"Lead Engineer, Android-Growth",https://www.linkedin.com/jobs/view/3784193918,Grab,https://www.linkedin.com/company/grabapp/life," ",,40,,On-site,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_100_100/0/1630575649647/grabapp_logo?e=1712188800&v=beta&t=LiVprA_nhthcshlCZ9nefFuRlvv-7yPlWzXhmwynrW0,"Grab is Southeast Asia’s leading superapp, offering a suite of services consisting of deliveries, mobility, financial services, enterprise and others. Grabbers come from all over the world, and we are united by a common mission: to drive Southeast Asia forward by creating economic empowerment for everyone.
+
+At Grab, every Grabber is guided by The Grab Way, which explains our mission and the operating principles on how we can achieve it together. We call these principles the 4Hs:
+
+Heart
+We work together as OneGrab to serve communities in Southeast Asia
+
+Hunger
+We work to understand ground truths and drive improvements, big and small
+
+Honour
+We keep our word and steward our resources wisely to build and sustain trust
+
+Humility
+We are a constant work-in-progress, and we never stop learning to get better
+…
+show more","Job Description
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Get to know the Team
+
+Come join the Consumer Experience (CX) Growth Engineering team - we work on a diverse set of consumer problems spanning across core experiences that power the UX navigation and transaction funnels, search and discovery of content and services, User lifecycle covering user growth, engagement and loyalty and the critical platform mission of mobile application developer experience. We are on an exciting mission to connect consumers to Grab’s marketplace by enabling them to seamlessly discover and engage with Grab’s services and partners.
+
+Get to know the Role
+
+As a leader in an exciting and dynamic industry that is evolving daily, we are seeking talented Lead Android Engineers to join our team! As part of this role, you will be responsible for designing and building app authentication experiences that are secure and as frictionless as possible for our users. You will be working on world class authentication and authorization systems that are regionally compliant, and adhere to stringent security, fintech and other regulatory standards
+
+As a Lead Mobile Engineer you will play a significant role in deciding the components of the SDK to be built for a specific problem space and how these components will interact with the underlying platforms. Also, you will be leading and guiding the team to design the platform level solution with others teams at Grab while championing the best practices for mobile engineering. You will be driving the SDK design for the problem space, as well as guiding other engineers on best practices for mobile engineering.
+
+The Day-to-Day Activities
+
+Translate high-level business requirements into detailed technical specifications and implementation plans.
+Collaborate with the product, business, and program management team to be on top of your deliverable.
+Participate in technical and product review meetings.
+Create well defined and clear technical specifications and RFCs.
+Focus on timely delivery of high-quality, maintainable, and operationally excellent code and test code using Java/Kotlin for Android.
+Participate in code review and design reviews, be the subject matter expert and bar raiser in the discussions.
+Be part of on-call rotation and support the application in production, lead by hands on contribution and advising other engineers if an outage or app crash occurs. - You make an impact by delivering a fault free and secure experience to millions of daily users of the platform, also enabling our partners to earn their business income through the app.
+
+The Must-Haves
+
+6+ years of experience in building large-scale, highly available mobile applications
+Strong Computer Science fundamentals in algorithms, data structures and generic programming/system design.
+Familiarity with architecting significant parts of a large scale Android mobile app with API based backends. (Millions of daily active users)
+Expert level understanding of the Android OS fundamentals and the security architecture of the OS.
+Excellent knowledge of performance tuning of apps.
+Experience with one of the following design patterns: MVVM, MVC, RxJava, Retrofit, OkHttp, Gson, etc
+Experience in working with Mobile SDK development and NDKs
+Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system in terms of growth and stability
+History of effectively working with and growing geo-distributed partner teams. - BS/MS degree in Computer Science, Engineering or a related subject
+
+The Nice-to-Haves
+
+Experience with TEE, TPM would be a plus.
+Prior knowledge and exposure to application security, encryption algorithms, hashing schemes, experience building security products would be a plus
+Knowledge of authentication and authorization standards and protocols like SAML, OAuth2, OIDC, FIDO, etc., would be a plus.
+
+Our Commitment
+
+We recognize that with these individual attributes come different workplace challenges, and we will work with Grabbers to address them in our journey towards creating inclusion at Grab for all Grabbers."
+3783351042,Senior System Engineer,https://www.linkedin.com/jobs/view/3783351042,Packet Systems Indonesia ,https://www.linkedin.com/company/packet-systems-indonesia/life," ",2 weeks ago,87,,Hybrid,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/D560BAQEQsAok1DKdjg/company-logo_100_100/0/1703351063449/packet_systems_indonesia_logo?e=1712188800&v=beta&t=YcrFvFoFTh-d3QyCFQQvh8qPv-b490uzpojDfhqhE5U,"Packet Systems Indonesia (PSI), which commenced operations in 2004, is a leading ICT systems integrator and service company in Indonesia focusing in the area of Data Center/Virtualization, Collaboration, Service Provider & Enterprise Network Infrastructure, Information Security, and Software Solution. Its spectrum of advanced services include assessment; technical advisory; planning & design; project management, deployment, integration; and maintenance.
+
+PSI has partnerships with some of the most advanced technology companies in the world, such as Cisco Systems where it is certified as a Gold Partner. PSI is headquartered in Jakarta and has presence in Surabaya.
+
+In September 2017, PSI has become a Logicalis-Metrodata company.
+
+Logicalis (www.logicalis.com) is an international multi-skilled solution provider providing digital enablement services to help customers harness digital technology and innovative services to deliver powerful business outcomes. Its customers span industries and geographical regions; and our focus is to engage in the dynamics of our customers’ vertical markets; including financial services, TMT (telecommunications, media and technology), education, healthcare, retail, government, manufacturing and professional services, and apply the skills of our 4,000 employees in modernising key digital pillars; data centre and cloud services, security and network infrastructure, workspace communications and collaboration, data and information strategies, and IT operation modernisation.
+
+P.T. Metrodata Electronics, Tbk (“Metrodata”; www. metrodata.co.id)— is a public company listed at PT. Bursa Efek Indonesia since 1990 (IDX: MTDL) and is one of the leading Information Communications Technology (ICT) companies in Indonesia. It has built strategic alliances with world-class information technology companies. Metrodata has four main business lines, operating through its subsidiaries: Distribution Business Unit handles distribution to dealer partners, warranty, and ICT solution company; Solution Business Unit provides Information and Communication Technology total solutions from design, implementation, IT managed services, consultation and training; Consulting Business Unit which offers innovative business solutions from conceptualizing, defining, commissioning and implementation, and supporting for business transformation; and E-Commerce Business Unit covering modern IT Retail E-Commerce.
+…
+show more","Job Requirement:
+Hold bachelor's degree (S-1 degree) in Information Technology or Computer Engineering or Telecommunication from a reputable university with a minimum GPA of 3.0
+Excellent written & verbal communication skills
+Deep understanding of Data Center technology (servers, storage, san switches, VMWare, Backup, etc)
+Having professional-related certification, preferably Cisco CCNP DC.
+Having experience in managing Data Center devices (servers, storage, san switches, VMWare, Backup, etc)
+Having CCNP DC or CCIE DC certification is a plus
+Having HPE, Dell, PureStorage, and VMWare certifications is a plus
+Having Azure, and AWS certification is a plus
+Understand Routing and Switching and/or Cisco ACI technology is a plus
+Good and effective communication and leadership skills.
+Willing to do domestic travel as part of job role
+Good interpersonal skills to be able to relate with people or personnel from different units of the company
+Excellent numerical, analytical, and problem-solving skills
+Ability to perform under pressure and tight time constraints; be able to work under limited guidance in line with a broad plan, or strategy
+
+Job Description
+The role shall cover:
+Monitor, diagnose, and resolve complex data center, network, and computer system issues
+Manage and administer data center devices like servers, storage, SAN switches, VMWare, backup, etc
+Install, configure, and maintain data center devices
+Troubleshoot network systems to identify and fix performance issues
+Provide solutions to complex problems on the integration of various technologies
+Maintain an up-to-date knowledge of network administration and firmware integration
+Monitor the environmental conditions of a network to ensure they are optimum for data center devices
+Perform system repairs and update software/operating systems
+Resolve operational, infrastructure, or hardware incidents in a data center.
+Updating customer equipment inventory including support from the principal
+Understand client requirements and build an effective technology stack/deployment unique to their needs based on LLD
+Diagnose and highlight performance bottlenecks, and single points of failure and propose solutions to efficiently correct these issues based on best practices
+Document and organize architectural and procedural aspects of network deployments
+Configure network, system, and security components of network deployments using industry best practices
+Communicate frequently with clients to ensure the delivery of solutions that meet their needs entirely
+Develop team member’s technical skills to support complex customer network
+Report to Team Lead and/or PM and SDM"
+3779662075,Back End Engineer (Fullstack - Phyton),https://www.linkedin.com/jobs/view/3779662075,JULO,https://www.linkedin.com/company/juloindonesia/life," ",3 weeks ago,46,,Remote,,"501-1,000 employees · Financial Services",https://media.licdn.com/dms/image/D560BAQFGscu0EgUFQw/company-logo_100_100/0/1689054749601/juloindonesia_logo?e=1712188800&v=beta&t=O5H-0B8e7SVA9dY7G9pTVppKZTZGbRbwqfQV4JwpgTA,"JULO is a financial technology company that is working on a financial super app.
+
+We started off with the lending arm and have excelled at it. Hundreds of thousands of Indonesians now use JULO apps to get access to a decent credit product. It's our mission to help millions of Indonesians get a better life. That's how we'll build a company future generations will be proud of.
+
+We have just closed our Series B round and are now tapping into other financial territories, to eventually provide a one stop financial solution to all Indonesians.
+
+Watch it happen or be a part of it - come join us!
+https://lnkd.in/gKyjajf6
+…
+show more","Responsibilities
+
+A highly motivated, Senior Backend Engineer to build systems that leverage massive amount of data to drive JULO financial products ready for nationwide scale.
+
+Requirements
+
+Have Engineering/Computer/IT degree with 4 years of diverse software development experience and teams
+Highly skilled in developing, testing, debugging, and troubleshooting with any programming language, especially Python.
+Great team player, have excellent work ethics, and have solid technical communication skills (Indonesian and English)
+Highly skilled in analyzing and systematically approach requirements, always coming up with practical short term and long term solutions that minimize complexity and maximize value
+Highly skilled in designing and building modular components and services using various suitable tools, services, and applications to transport massive data inflow smoothly
+Highly skilled in designing complex real world database structures and storing, managing, and analyzing large amount of data in SQL
+Highly skilled in including security, maintainability, reusability, and testability when developing software solutions
+Highly skilled in factoring Linux/Unix OS system internals, storage, computing resources, network settings in the produced software solutions
+Highly skilled in all kinds of development tools that brings source code in a text file to running code in production
+Highly skilled in agile development process and applications such as Slack, Trello, etc
+Highly skilled in identifying things that can go wrong early and investigating bugs
+Highly skilled in applying and tailoring software development concepts and best practices
+Highly skilled in automating infrastructure provisioning, configuration, and monitoring"
+3788937735,Software QA Engineer (Yogyakarta),https://www.linkedin.com/jobs/view/3788937735,Privy,https://www.linkedin.com/company/privy-id/life," ",5 days ago,202,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/D560BAQF4wC2_rkTOng/company-logo_100_100/0/1687255620299?e=1712188800&v=beta&t=TBea_kCQg1b0MZd5OY_PPHEAdCBKyrHlCYn9psJM9Kw,"Privy, formerly PrivyID, is revolutionizing the way people are identified in cyberspace and the way the online transaction is carried out. We believe that Trusted Identity and Digital Signature are the foundations of a healthy online transaction ecosystem. Led by Marshall Pribadi as the CEO who is listed in Forbes 30 Under 30 Asia and an Endeavor Entrepreneur, Privy is growing so fast by having 40 million users and 2.600 enterprise customers in six years.
+
+Privy is listed as a Certification Authority (CA) under Indonesia's Ministry of Communication and Information Technology to issue electronic certificates with the highest level of verification (level 4). Privy has a Cooperation Agreement with the Directorate General of Population & Civil Registration to support identity verification services in issuing and using electronic certificates and is listed in OJK as Digital Financial Services Innovation, e-KYC cluster.
+
+Privy obtained ISO 27001:2013 certification in Information Security Management Systems and has gained numerous accolades such as Forbes Asia 100 to watch 2021, part of Google for Startup Accelerator: Indonesia 2021 cohort, The Most Promising Fintech 2017 by Danamon Bank, and the winner of fintech category at 2017 Echelon Asia Summit Singapore.
+
+Privy has raised US$ 48 million from Series C financing round led by a leading global investment firm KKR & Co. Inc. and our other notable investors are Singtel Innov8, MDI Ventures, GGV Capital, Telkomsel Mitra Indonesia (TMI), Bank Mandiri, Gunung Sewu Group, Mahanusa Capital. We have a very energetic and healthy working cultures with surprising and fun working place. We have our private badminton court, basketball court, mini theatre, coffee bar with trained baristas, and super cool 84-inch Surface Hub. We provide an exceptional supports and rewards to your innovation in which sky is not even the limit.
+…
+show more","About us
+Privy is Indonesia's market leader in Digital Signature and Digital Identity, with more than 40 million verified users and more than 2.600 enterprise clients. Our Digital Signature is acknowledged by the Ministry of Communication and Informatics. We have just closed our Series C funding led by KKR on November 2022. We are growing more rapidly than ever, and would love to have talented and enthusiastic individuals onboard.
+
+Job Descriptions :
+As a Software Quality Assurance (SQA) Engineer, you will work with some of the most talented minds, collaborating with fellow Product Managers, Engineers, User Experience Designers, test and safeguard availability, performance and usability of our business-critical functionalities that delight both internal businesses and external end-users.
+
+- Be involved in whole development life cycle and technical design review
+- Test case design and planning
+- Functional testing via grey-box and white-box methodologies
+- Perform Application Program Interface (API) testing, and API automation testing
+- Performance, security, and integration testing for system, module, API, and other tools
+- Bug analysis and tracking
+- Setting up and maintenance of testing environment
+- Development and maintenance of testing tools, automation of testing tools and scripts
+- Continuous improvement and research of testing process, skills, techniques, quality, and efficiency
+- Define and execute test plans, test cases, and test scripts to ensure comprehensive test coverage
+- Collaborate with stakeholders to understand project requirements and develop test strategies accordingly
+- Establish and maintain test environments, test data, and test automation frameworks
+
+Job Qualifications :
+- Bachelor's degree in Computer Science, Engineering or related fields
+- Familiar with at least of the following programming languages: Python, Java, or Golang
+- Familiar with at least one API/Unit testing framework
+- Strong sense of project ownership and result-oriented
+- Good sense of quality, teamwork, and innovation
+- Experience with Database querying, using SQL
+- Experience in microservices contract testing
+- Able to work independently
+- Able to list down test cases/scenarios to test any application using the test case design techniques
+- Coding experience with automated testing frameworks, tools, services, and physical devices
+- Good experience with SDLC practices of Agile or Test-Driven Development (Lean, Scrum, or similar)
+- Good CS fundamentals, including good working knowledge of classic algorithms and data structures
+- Experience on Automation tools like selenium and Rest Assured
+- Excellent communication, collaboration, reporting, analytical and problem solving skills"
+3790454774,Senior Web Application Developer,https://www.linkedin.com/jobs/view/3790454774,Pacific Garden,https://www.linkedin.com/company/pacific-garden/life," ",1 week ago,245,,On-site,,201-500 employees · Real Estate,https://media.licdn.com/dms/image/C560BAQEj43EuinhCvQ/company-logo_100_100/0/1646127741974/pacific_garden_logo?e=1712188800&v=beta&t=e4wQefqH_bpqo7XvBj-NAlKDt755aKVC80REXkB5RXs,"𝗣𝗮𝗰𝗶𝗳𝗶𝗰 𝗚𝗮𝗿𝗱𝗲𝗻 𝗖𝗮𝗺𝗽𝘂𝘀 𝗧𝗼𝘄𝗻
+
+Terletak di kawasan kota mandiri CBD Alam Sutera, kota Tangerang. #selangkahkekampus 𝟯 𝘂𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝗮𝘀 𝗕𝗜𝗡𝗨𝗦, 𝗦𝗚𝗨, 𝗱𝗮𝗻 𝗨𝗕𝗠 yang memiliki potensi sewa dari 12.000 mahasiswa. Terletak di seberang Mall Alam Sutera dan hanya 3 menit dari pintu tol Alam Sutera.
+
+Dalam radius 5 menit terdapat fasilitas pendukung mulai dari Mall Alam Sutera, IKEA, Mall Living World, Pasar 8, Flavor Bliss, Omni Hospital, dan fasilitas lainnya.
+
+Penghuni dimanjakan dengan fasilitas dari Pacific Garden Campus Town mulai dari berolahraga di Jogging Track sepanjang 1,5 km yang mengelilingi Downtown Lake, Kolam renang sepanjang 100m, menyantap berbagai macam makanan dari Food Court, Kios Makanan, Alfresco, Cafe, hingga berpesta Barbeque. Tidak hanya itu, Pacific Garden juga menyediakan fasilitas lainnya seperti Mini Market, Salon & Beauty, ATM, Laundromat, dan lainnya.
+
+Pembangunan Pacific Garden berjalan lancar sesuai komitmen kami ""𝗢𝗻 𝗧𝗶𝗺𝗲 𝗢𝗻 𝗤𝘂𝗮𝗹𝗶𝘁𝘆"". Pacific Garden Campus Town Tower C sudah terjual lebih dari 90% dan 𝘀𝗶𝗮𝗽 𝘀𝗲𝗿𝗮𝗵 𝘁𝗲𝗿𝗶𝗺𝗮 𝗺𝘂𝗹𝗮𝗶 𝗠𝗲𝗶 𝟮𝟬𝟮𝟭.
+
+Info lebih Lanjut? Hubungi Kami Segera!
+Hotline: (021) 2977 9555
+Whatsapp: 0811 881 808
+Website: www.pacificgarden.co.id
+Marketing Gallery: Jalan Jalur Sutera Barat Kav 19B, Alam Sutera, Tangerang.
+…
+show more","We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment.
+
+Who We Are Looking For
+Experience in developing modern web application and mobile application.
+Familiar and good knowledge with front end language (HTML5, CSS, Javascrip).
+Familiar and good knowledge with PHP Framework (Codeigniter,Laravel,etc).
+Familiar and good knowledge with mobile application (Flutter, React,etc).
+Familiar and good knowledge with REST API.
+Proficiency with database technology such as PostgreSQL/MySQL.
+Great attention to detail
+Organizational skills
+An analytical mind
+good leadership
+
+What You'll Be Doing
+Design, develop, test and maintain web applications.
+Work in cross functional team with product owner, UI/UX, QA.
+Deliver web applications with high quality and on time delivery.
+Ensuring responsiveness of application.
+Responsible for the application from the process of design creation until the implementation 
+
+Website : https://pacificgarden.co.id/"
+3796271275,Site Reliability Engineer (Marketplace) - Sea Labs,https://www.linkedin.com/jobs/view/3796271275,Shopee,https://www.linkedin.com/company/shopee/life," "," ",27,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQE0iX_dgdH7nA/company-logo_100_100/0/1672279162763/shopee_logo?e=1712188800&v=beta&t=YOOfP8buLRx8UmTaRks5zte1XLjE_Srdn7i45b-zmOU,"Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. It is a platform tailored for the region, providing customers with an easy, secure and fast online shopping experience through strong payment and logistical support.
+
+Shopee aims to continually enhance its platform and become the region’s e-commerce destination of choice via ongoing product optimisation and localised user-centered strategies.
+
+Shopee, a Sea company, was first launched in Singapore in 2015, and has since expanded its reach to Malaysia, Thailand, Taiwan, Indonesia, Vietnam and the Philippines. Sea is a leader in digital entertainment, e-commerce and digital financial services across Greater Southeast Asia. Sea's mission is to better the lives of consumers and small businesses with technology, and is listed on the NYSE under the symbol SE.
+
+The Shopee team is rapidly expanding across the region and we are constantly on the lookout for talents who have the passion and drive to become part of a fast-moving and dynamic team. Do check out our career website http://careers.shopee.sg/ for our available positions!
+…
+show more","About The Team
+
+The Engineering and Technology team is at the core of the Shopee platform development. The team is made up of a group of passionate engineers from all over the world, striving to build the best systems with the most suitable technologies. Our engineers do not merely solve problems at hand; We build foundations for a long-lasting future. We don't limit ourselves on what we can or can't do; we take matters into our own hands even if it means drilling down to the bottom layer of the computing platform. Shopee's hyper-growing business scale has transformed most ""innocent"" problems into huge technical challenges, and there is no better place to experience it first-hand if you love technologies as much as we do.
+
+About Team
+
+The mission of SRE (Site Reliability Engineer) team is to ensure the efficient and sustainable operation of Shopee 24x7, as well as to build and maintain large-scale, highly available, high-performance distributed systems based on system availability and performance. It is formed by combining traditional software engineering and technical operation. The SRE team needs to dive deep into the Shopee development lines to ensure that the system is highly scalable under rapid evolution of the System. From the perspective of stability and performance, it includes the design of business development, components of the basic platform (middleware, container scheduling, caching, object storage, etc.), OS optimization, data center and network optimisation. We optimise the inefficient and complicated operation in the traditional operation and maintenance mode through engineering and service means, and are committed to building a sound monitoring system to improve the efficiency of incident handling.
+
+Job Description
+
+Deep dive into development lines, learn and understand the mechanism of every application component, and promote product scalability, stability, and performance
+Set up, manage, and maintain Shopee product/middleware/big-data applications and services
+Perform regular and ad-hoc server-side deployments, make improvements of the performance, and troubleshoot
+Design and develop automated technical operation platform
+Manage Capacity and Resource
+Responsible for the full-chain stress test to enhance the performance and remove redundancy of applications
+Prepare routine operation documentation
+
+Requirements
+
+Bachelor's degree or above in Computer Science, Engineering, Information Systems or related fields
+More than 2 years of relevant experience (candidates with no working experience are welcomed to apply)
+Extensive and hands-on knowledge with Linux operating systems (Ubuntu, CentOS, etc.)
+Highly familiar with Computer Network (TCP/IP, DNS, etc.), Computer Organisations, and OS
+Hands-on experience with at least one of the programming languages: Bash, Python, Go
+Strong analytical and problem-solving skills with the ability to thrive in a dynamic work environment
+Passionate and possess a strong sense of responsibility
+Fast learning ability and a good team player
+Agile and detail-oriented
+
+Skills Below Are Optional But Preferred
+
+Experience with automation tools like Ansible, SaltStack
+Experience with monitoring tools like Prometheus, Zabbix, Grafana etc
+Experience with load balancing tools like LVS, Nginx, Openresty or HAProxy
+Experience with container technology such as Docker, Kubernetes
+Experience with High Availability system design and Server Deployment Process
+Experience with SRE
+Experience with Ops Paas platform or Ops automation platform (ie:CMDB)"
+3783351019,Senior Laravel and React Developer,https://www.linkedin.com/jobs/view/3783351019,Hyqoo ,https://www.linkedin.com/company/hyqoocom/life," ",2 weeks ago,396,,Remote,,51-200 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQFLznwNHr5srA/company-logo_100_100/0/1649855301268/cliksource_logo?e=1712188800&v=beta&t=rkrJKAO_iGTidXh4c189iD8JVV1WG1QGhLMwr8WP-X4,"Hyqoo (Hi-Q) is a Talent Cloud Platform providing global, remote, vetted talent on demand across Data, Cloud, Cybersecurity, Software, and Product Engineering.
+To learn more about Hyqoo, please visit https://www.hyqoo.com.","Job Title: Senior Laravel and React Developer
+Duration: 6 months to start
+Location: Remote
+Working Hours: Some overlap to US timing and Indonesia timing
+Years of exp - 6 yrs+
+
+Mandatory Skills:
+(Backend Dev) PHP & Laravel, (FrontEnd) React (Javascript/TypeScript)
+Must have experience in leading the team and
+Who has worked with the Architect team closely.
+
+Desired Skills:
+Postgres, AWS
+
+About Hyqoo:
+Hyqoo is an on-demand talent cloud platform connecting companies with remote and vetted talent across the globe. Set to upend the on-demand talent industry, Hyqoo is the world's leading source of vetted talent in data, software engineering, and product. Our clients engage with us to get high-performing talent for remote positions. Featuring the fastest-growing global talent network, Hyqoo empowers leading organizations and startups with their global hiring needs at any scale. At the heart of its operation Hyqoo’s propriety AI engine revolutionizes the talent vetting and matching process, providing engaged and qualified talent faster than any service on the market.
+
+At Hyqoo, we understand how challenging, time-consuming, and costly it is to hire the best talent in technology. That is why we have created a Global Talent-as-a-Service Platform, which provides companies all over the world access to highly skilled, on-demand, and fully vetted talent in Software Development, Design, Product and Project Management.
+
+The main benefits of Hyqoo are our ‘Why’, large global footprint of over 14 million experts, guaranteed quality, technology at the forefront, and hyper-personalized and proactive approach."
+3737228048,Senior Software Engineer - Android,https://www.linkedin.com/jobs/view/3737228048,Gojek,https://www.linkedin.com/company/gojek/life," "," ",404,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C4D0BAQHCmfKRtPXKDg/company-logo_100_100/0/1658813682786/gojek_logo?e=1712188800&v=beta&t=yQB9vj7jakbwBeSRhOKn8GWhuk_iW5If25yWvnke33A,"Gojek is Southeast Asia’s leading on-demand platform and a pioneer of the multi-service ecosystem model, providing access to a wide range of services including transportation, food delivery, logistics and more. Gojek is founded on the principle of leveraging technology to remove life's daily frictions by connecting consumers to the best providers of goods and services in the market.
+
+The company was first established in 2010 focusing on courier and motorcycle ride-hailing services, before launching its app in January 2015 in Indonesia. Since then, Gojek has grown to become the leading on-demand platform in Indonesia, with additional operations in Vietnam and Singapore. The Gojek platform now comprises over 2.5 million driver partners across the region. Gojek is part of the GoTo Group, the largest digital ecosystem in Indonesia, consisting of Gojek, Tokopedia and GoTo Financial.
+
+Gojek is dedicated to solving the daily challenges faced by consumers, while improving the quality of life for millions of people across Southeast Asia, especially those in the informal sector and micro, small and medium enterprises (MSMEs).
+
+The Gojek application is available for download via iOS and Android.
+.........
+
+*IMPORTANT*
+Gojek is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by Gojek can ONLY be accessed via our official channels -- Gojek on LinkedIn, Gojek Tech on LinkedIn, Gojek on Glassdoor, and https://www.gojek.io/careers. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid Gojek domain - *****@gojek.com. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+We are seeking a Senior Android Engineer who has a passion for solving engineering challenges such as enhancing the build system, optimizing app performance, refining platform tools, and creating internal frameworks for reusable code. We are looking for someone with experience in collaborating within distributed teams of at least three Android developers and who enjoys advocating for innovative engineering concepts. This engineer will be part of a mobile platform team responsible for setting engineering direction and developing foundational components for over 100+ Android engineers.
+
+Initially, your focus will be improving the mobile build system currently using Gradle. Your tasks will include enhancing build performance, implementing automation to streamline the development process for product developers, and working on automation for code analysis, various test frameworks, and enhancements to the CI pipeline, among other responsibilities.
+
+What You Will Do
+Work closely with product engineers across multiple Android apps, to unify the build standards
+Continue pushing the limits to make sure engineers have better experience with Android Studio
+Measure and Identify bottlenecks in the current build system and fix them over time
+Forecast and work towards future-proofing Android platform engineering services
+Resolves disputes and makes tradeoffs keeping a balance between delivery and tech
+Define and drive best engineering practices in alignment with all product groups.
+
+
+What You Will Need
+
+3+ years of mobile engineering experience with Android as primary expertise
+Hands-on engineer with a focus on writing easy-to-read code than over-engineering
+Should have worked on projects (preferably Frameworks/SDKs) that involve collaborating with multiple teams 
+Well-versed in architectural approaches, testing, and performance when it comes to building mobile apps
+Passion for building scalable and composable systems that would last long
+Participating and ability to make decisions in the architecture design review
+Prioritizes and values work that is underrated but increases the predictability, quality & throughput of delivery
+Escalates challenges that are outside their control but affect the squad’s delivery
+Prioritize work based on understanding the trade-off between quality, tech-debt, and delivery.
+About The Team
+
+MxT(Mobile Excellence and Tooling) is the mobile platform team at Gojek. We build small tools and standardize processes, SDKs so that product engineers can focus on Product Features. The team acts as a Center of Excellence for app performance and mobile security along with improving mobile engineers' developer experience and productivity (working in teams like GoRide, GoFood, Transport, GoPartner, etc).
+
+Core areas that we focus on - 
+
+Developer Experience and Tooling: We are a super app consisting of 22 products, each big enough to be a startup on its own. Apart from this, we have equally feature-rich driver and merchant apps. This pod is on a mission to evaluate build systems and migrate to them to get granular control on how we build our apps and the time required for the same. Reliability of CI infra for mobile apps and automated PR feedback are also the responsibilities of this team.
+
+Foundation and Building Blocks: This team works on creating common frameworks, as in NetworkSDK, Clickstream, etc, which internal products use to build upon and code generators for boilerplates. The team also takes care of making sure the Gojek app performance is top-notch and industry-leading!
+
+App Excellence and Insights Tooling: The purpose of the App Excellence and Insights Team is to drive the success of our mobile applications by enabling teams to better monitor, maintain, and improve performance and providing data-driven insights to inform decision-making. We will identify areas for improvement, and provide recommendations to enhance app performance and ultimately user satisfaction.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3782140026,Global Software Engineer (C++),https://www.linkedin.com/jobs/view/3782140026,Samsung Electronics Southeast Asia & Oceania,https://www.linkedin.com/company/samsung-electronics-seao/life," ",3 weeks ago,35,,On-site,,"10,001+ employees · Computers and Electronics Manufacturing",https://media.licdn.com/dms/image/D560BAQGN903ViJqXSA/company-logo_100_100/0/1690965002552/samsung_electronics_seao_logo?e=1712188800&v=beta&t=qoDIpYwNE9YqmjX5JoLg1WddhoSTjQvFy2AZmS8VHes,"Samsung Electronics is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, we are transforming the worlds of smartphones, TVs, wearable devices, tablets, digital appliances, network systems, medical devices, semiconductors, LED solutions and Internet of Things.
+
+We have grown into one of the world’s leading technology companies, and become recognized as one of the top 10 global brands. Our network now extends across the world, and Samsung takes great pride in the creativity and diversity of its talented people who drive our growth.
+
+In the diverse and vibrant Southeast Asia and Oceania region, our offices are present in Singapore, Malaysia, Indonesia, Thailand, Myanmar, Cambodia, Laos, Philippines, Vietnam, Australia and New Zealand. We support the digital ambitions of the region by working closely with local partners as part of our commitment to give back to the communities we operate in.
+
+Visit www.samsung.com to learn more about our business, and www.samsung.com/careers to learn more about career opportunities. Join us as we Reimagine Your Future.
+…
+show more","Position Summary
+
+ Understand and implement software-related requirement accurately in order to provide software that meets its purpose.
+ Develop software effectively based on understanding of Web standard and device environment(hardware/software).
+
+
+Role And Responsibilities
+
+ [Designing Web application] Participate in designing optimal Web application that meets requirement.
+ [Implementation of Web application] Implement Web application based on specification.
+ [Securing application quality] Participate in solving issues coming from verification department or market and improving quality of application.
+
+
+Skills And Qualifications
+
+ Bachelor's Degree with Computer Science / Electrical Engineering or related major
+ Familiar with Java script-based web application developer operating on Web Engine
+ Familiar or experience with C / C ++ development experience
+ Experience in object-oriented design and API design
+ C# .NET development experience is a plus
+ Candidates are required to pass Samsung technical test to be offered as Regular employment. Contract position is also available for candidates who are unable to pass the test but considered high potential.
+Samsung has a strict policy on trade secrets. In applying to Samsung and progressing through the recruitment process, you must not disclose any trade secrets of a current or previous employer
+ Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here."
+3680687869,Web Front End Developer,https://www.linkedin.com/jobs/view/3680687869,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",1,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3707593845,Backend Software Engineer,https://www.linkedin.com/jobs/view/3707593845,ION Mobility,https://www.linkedin.com/company/ionmobility/life," ",3 months ago,88,,On-site,,11-50 employees · Motor Vehicle Manufacturing,https://media.licdn.com/dms/image/D560BAQFA16Yx1-_rWw/company-logo_100_100/0/1699247663901/ionmobility_logo?e=1712188800&v=beta&t=Wxbfn3JkHFJQH3nGohn-mWNwh4Bivnf41p9jQZhWHls,"ION Mobility’s mission is to create affordable, desirable, and sustainable mobility for everyone. We are committed to creating great products and seamless user experiences for our customers.","We are seeking a talented Backend Engineer with expertise in Manufacturing Execution Systems (MES) to play a pivotal role in designing, developing, and maintaining our MES platform. As a Backend Engineer at Ion Mobility, you will have the opportunity to work on innovative projects that will drive efficiency, quality, and productivity in manufacturing processes.
+
+What You Will Do
+
+Collaborate closely with cross-functional teams, including manufacturing, operations, and IT, to understand system requirements. 
+Design, develop, and maintain scalable and efficient backend systems for our MES platform. 
+Implement data collection, analysis, and reporting features to improve manufacturing processes. 
+Optimize system performance and ensure high availability and reliability. 
+Collaborate on database design and optimization for manufacturing data storage and retrieval. 
+Troubleshoot and resolve technical issues, ensuring minimal downtime. 
+Stay current with industry trends and best practices in MES development. 
+
+Who You Are
+
+Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent work experience). 
+Proven experience as a Backend Engineer with a focus on MES or manufacturing systems. 
+Strong proficiency in programming languages commonly used in MES development. 
+Experience with database technologies (SQL, NoSQL) and data modeling for manufacturing data. 
+Familiarity with manufacturing processes and workflows. 
+Experience with IoT technologies and sensor integration. 
+Previous work on projects involving process optimization and automation in manufacturing. 
+Understanding of security best practices in manufacturing system development. 
+Knowledge of real-time data processing and integration with shop floor equipment. 
+Excellent problem-solving and debugging skills. 
+Strong communication and collaboration abilities. 
+
+About ION Mobility
+
+We are pushing the frontiers of what is possible by developing desirable products as clean alternatives for urban users, to alleviate urban air pollution, and to lead the inevitable transition to EVs across Southeast Asia. Our team is constantly pushing the boundaries of innovation and design to create an electric riding experience that doesn't compromise on quality or style.
+
+Join the team to bring about the future of mobility with us today!"

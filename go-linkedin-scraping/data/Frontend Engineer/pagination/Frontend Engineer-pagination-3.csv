@@ -1,0 +1,304 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3785266587,"Lead Software Engineer, Fullstack",https://www.linkedin.com/jobs/view/3785266587,Grab,https://www.linkedin.com/company/grabapp/life," ",2 weeks ago,44,,On-site,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_100_100/0/1630575649647/grabapp_logo?e=1712188800&v=beta&t=LiVprA_nhthcshlCZ9nefFuRlvv-7yPlWzXhmwynrW0,"Grab is Southeast Asia’s leading superapp, offering a suite of services consisting of deliveries, mobility, financial services, enterprise and others. Grabbers come from all over the world, and we are united by a common mission: to drive Southeast Asia forward by creating economic empowerment for everyone.
+
+At Grab, every Grabber is guided by The Grab Way, which explains our mission and the operating principles on how we can achieve it together. We call these principles the 4Hs:
+
+Heart
+We work together as OneGrab to serve communities in Southeast Asia
+
+Hunger
+We work to understand ground truths and drive improvements, big and small
+
+Honour
+We keep our word and steward our resources wisely to build and sustain trust
+
+Humility
+We are a constant work-in-progress, and we never stop learning to get better
+…
+show more","Company Description
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Job Description
+
+Get to know our Team:
+
+The Fulfillment tech family is one of the pillars enabling Grab to out-serve our customers and partners in different businesses and marketplaces across Southeast Asia. We are working on high throughput, real-time distributed systems that use sophisticated machine learning techniques to solve hundreds of millions of requests per day.
+
+Our mission is to offer the best-in-class products and experiences to our driver partners as to increase adoption and engagement of our services. Improve driver partner opportunities and efficiency in order to fulfill customer orders without fail, rain or shine. And to create efficient marketplaces by determining an optimal price that is both sustainable and loved by our partners and customers.
+
+We are a distributed team with two thirds in Indonesia, and third in Singapore. Our communication is in English, both in spoken and written form. Our team has direct end-user contact, and impact on the bottom line for merchants and thus, Grab.
+
+Get To Know The Role
+
+We are seeking talented & passionate Engineers to join our team, you will have opportunities to work on both web frontend and multiple backend services as well as participating in driver immersions, talking directly to the end-users, identifying their challenges and how we can help them in their work life. It is very important that our team members take initiatives to identify problems, and have the right mindset and skill sets to solve them.
+
+The Day-to-Day Activities
+
+You are a significant and autonomous contributor to your team who is trusted with designing, creating, delivering, and operating your team’s software systems in a consistently high quality manner.
+
+When working on the systems within your team’s domain, you take into account the appropriate architectural patterns, code design, and infrastructure options, ensuring that you deliver a system that is secure, reliable, maintainable, extensible and very well tested.
+
+Beyond delivery to the production system, engineers will be responsible for post deployment monitoring as well. Senior engineers will also look for opportunities to improve processes within one’s own team.
+
+In addition to being trusted to operate independently, you also maintain a good partnership with your technical and non-technical stakeholders for projects that you are involved in.
+
+You take an active role in your projects as a team member involved in product design to rollout, taking ownership of your work and constantly focusing on moving these projects forward.
+
+Being a lead engineer in the team, you are also expected to continuously help the team grow and improve by mentoring junior members, introducing process improvements, and having a strong influence to the team roadmap to ensure maximal impact.
+
+Qualifications
+
+The Must-Haves:
+
+7+ years of professional software development experience
+Deep understanding of the JavaScript programming language, familiar with various UI components and UI development, and have deep understanding of the Javascript language
+Writes extensible code for complex projects and picks the right abstractions that adhere to SOLID principles. Understands more complex data structures and algorithms, and recognizes when to use them.
+You can work on both web frontend as well as backend development with Go lang.
+Experience with defect tracking tools and version control
+A good understanding of clean architecture principles
+Strong Computer Science fundamentals in algorithms and data structures
+Experience with web frameworks such as React.js preferred.
+Experience with leading a project with cross-functional team members from end to end.
+Experience with mentoring junior engineers and pushing for engineering excellence.
+
+Additional Information
+
+Our Commitment
+
+We recognize that with these individual attributes come different workplace challenges, and we will work with Grabbers to address them in our journey towards creating inclusion at Grab for all Grabbers."
+3782207391,Senior Frontend Developer,https://www.linkedin.com/jobs/view/3782207391,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",2 weeks ago,181,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
+
+At Staffing Ninja, we are committed to building long-term relationships with our clients and candidates. Our goal, among other industry experts, is to help our clients achieve their business objectives by providing them with the best talent available through our headhunting service and to help our candidates take their careers to the next level with the best AI jobs.
+
+Find your next career opportunity in the AI space, contact us today!
+…
+show more","Responsibilities:
+● Implement standards and best practices encompassing performance, security, scalability, and maintainability.
+● Develop, maintain, and ensure the quality of code to meet specified requirements, delivering efficient and effective performance for an exceptional customer experience.
+● Tasks include requirement analysis, design mapping, technical specification, programming, code review, job scheduling, unit testing, supporting UAT, deploying to production, offering post-implementation support, and creating technical documentation.
+● Serve as an experienced developer specializing in system integration and interfacing.
+● Typically assigned to specific projects and expected to assist the Application Delivery Manager (ADM) in all relevant technical aspects throughout the project's lifecycle.
+● Responsibilities may encompass coding, scripting, constructing new systems (as needed), and interfaces. For new system development, support during SIT/UAT may be required.
+
+Requirements:
+● 8-10 years of front-end development experience.
+● Proficiency in HTML, CSS, Javascript, Typescript, ES6, and React JS.
+● Familiarity with React Libraries, including Redux.
+● Experience in Source Control using Bitbucket/GIT.
+● Ability to translate wireframes into high-quality code.
+● Capacity to design components for reusability and optimal performance.
+● Capability to create responsive designs.
+● Developing and maintaining code that meets standards, ensuring high quality, efficiency, and an exceptional customer experience.
+● Writing production-quality, rigorously tested code."
+3697917856,[HoldCo] Software Engineer - Web Platform,https://www.linkedin.com/jobs/view/3697917856,Gojek,https://www.linkedin.com/company/gojek/life," "," ",1,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C4D0BAQHCmfKRtPXKDg/company-logo_100_100/0/1658813682786/gojek_logo?e=1712188800&v=beta&t=yQB9vj7jakbwBeSRhOKn8GWhuk_iW5If25yWvnke33A,"Gojek is Southeast Asia’s leading on-demand platform and a pioneer of the multi-service ecosystem model, providing access to a wide range of services including transportation, food delivery, logistics and more. Gojek is founded on the principle of leveraging technology to remove life's daily frictions by connecting consumers to the best providers of goods and services in the market.
+
+The company was first established in 2010 focusing on courier and motorcycle ride-hailing services, before launching its app in January 2015 in Indonesia. Since then, Gojek has grown to become the leading on-demand platform in Indonesia, with additional operations in Vietnam and Singapore. The Gojek platform now comprises over 2.5 million driver partners across the region. Gojek is part of the GoTo Group, the largest digital ecosystem in Indonesia, consisting of Gojek, Tokopedia and GoTo Financial.
+
+Gojek is dedicated to solving the daily challenges faced by consumers, while improving the quality of life for millions of people across Southeast Asia, especially those in the informal sector and micro, small and medium enterprises (MSMEs).
+
+The Gojek application is available for download via iOS and Android.
+.........
+
+*IMPORTANT*
+Gojek is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by Gojek can ONLY be accessed via our official channels -- Gojek on LinkedIn, Gojek Tech on LinkedIn, Gojek on Glassdoor, and https://www.gojek.io/careers. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid Gojek domain - *****@gojek.com. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","What You Will Do
+
+Design improvements to our existing product in the mobile web platform by utilizing core Computer Science thought processes and focusing on our customer's needs. 
+Provide mobile web functionality for innovation 
+Developing the front end mobile web platform for tokopedia 
+Write well formatted modular code, complete programming, and perform testing and debugging of applications using current programming languages and technologies 
+Complete documentation and procedures for testing and maintenance 
+Compile and integrate changes with the project Implement unit tests and functional tests for their tasks 
+Convert given high level software design to low level software design 
+Use suitable data structures Perform, debug and fix bugs
+
+What You Will Need
+
+Bachelor's' degree in Computer science or equivalent degree. 
+1 year experience in software engineering for mobile web development 
+Outstanding verbal and written communication skills to technical and non-technical audiences of various levels in the organization 
+Proficiency in NodeJS, React or other JavaScript Library/Framework Experience with the mobile web platform is necessary 
+In-depth understanding of design patterns and their application 
+Fluency in developing and understanding sequence diagrams, class models, etc. 
+Excellent analytical, decision-making, problem-solving, team work, and time management skills 
+Positive outlook, strong work ethic, and responsive to internal and external clients and contacts 
+Possess strong debugging skills.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3789845591,Data Engineer Expert,https://www.linkedin.com/jobs/view/3789845591,Asia Pulp & Paper,https://www.linkedin.com/company/asiapulppaper/life," ",1 week ago,200,,On-site,,"10,001+ employees · Paper and Forest Product Manufacturing",https://media.licdn.com/dms/image/D560BAQGErFgMw4Vs3Q/company-logo_100_100/0/1698113094507/asiapulppaper_logo?e=1712188800&v=beta&t=09bEWkb8TemHyqT8daSle82gBAGAO3cm65G6dA-aCwc,"PT APP Purinusa Ekapersada (APP) and its group companies manage several pulp and paper manufacturing and forestry operation that deliver quality products to meet the growing global demand for paper, packaging and tissue.
+
+Following the growing industry and market dynamic, APP will continue growing further to be the global player and global brand, to acquire new customers across markets. APP's products are marketed in more than 150 countries across six continents.
+
+As a sustainable and responsible business, we create products and operate with care for our employees, society and the environment. We do this by leveraging technology and innovation, partnering the community and adhering to international business and operating standards across our production and supply chain.
+
+We subscribe to the Environmental, Social, and Governance (ESG) principles and our Sustainability Roadmap Vision 2030 guides us in fulfilling our commitment to protect forests, support communities, conserve biodiversity and as we work towards achieving carbon neutrality across our operations.
+…
+show more","We are looking for Data Engineer Expert to be part of our IT Business Insight and Analytics.
+This position will handle data lake implementation and comply with business requirement.
+
+Job Requirements:
+Minimum Bachelor Degree with any major such as Information Technology, Computer Science, etc
+Have at least 3 years of experience in data lake implementation
+Experience on design & setup data lake architecture, topology, and infrastructure
+Experience with ETL and ELT data pipeline hands-on & implementation
+Proficient with data lake related skills, such as : Object Storage, Hadoop, Cloudera, Spark, Kafka, Airflow, Dremio, Python, R, Docker, Kubernetes, Iceberg/HUDI, etc
+Work Location: Serpong"
+3686203687,Software Engineer,https://www.linkedin.com/jobs/view/3686203687,Traveloka,https://www.linkedin.com/company/traveloka/life," ",5 months ago,592,,Full-time,,"1,001-5,000 employees · Software Development",https://media.licdn.com/dms/image/D560BAQGe_izwxvj_SQ/company-logo_100_100/0/1700635813325/traveloka_logo?e=1712188800&v=beta&t=VKJUx8BZomGFW6QdHfexYEryZ1npU3aI597TfFvWhNo,"We don’t innovate for the sake of innovation, we utilize technology to simplify people’s lives so they can enjoy their lives better. That belief is what brought Traveloka to be the leading travel platform in Southeast Asia. Traveloka serves 20+ products that include comprehensive travel services. From transportations to accommodations, discovering nearby attractions, and insurance products to financial services, including the groundbreaking ‘Buy Now Pay Later’.
+
+With 100+ millions downloads in six countries across the SEA region, we aim to keep exploring for better innovations — all to fulfill our users’ travel aspirations so they can enjoy their lives, their way.
+…
+show more","It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+
+
+Job Description
+
+Build, maintain, and document customer facing and non-customer facing features and functionalities in the Financial Services domain
+Write well-designed, maintainable, reliable, and testable code in Java, Kotlin
+Build and maintain web tools using javascript, react, html and css
+Build and maintain the product infrastructure
+Integrate with internal or external systems
+Follow and ensure best engineering practices and the direction of our technical environment
+Work with stakeholders across variety of business functions and teams
+Share on-call rotation together with engineering team and be escalation contact for service incident
+
+
+
+Requirements
+
+Minimum 1 year of relevant industry experience as a Full stack/backend software engineer
+Experience in object-oriented programming language (Java/Kotlin is preferable)
+Experience in back-end web development
+Experience in unit testing and integration testing
+Understanding of building and maintaining high-performance web applications
+Have good problem solving skill and critical thinking
+Have good communication skill (Should be able to communicate with remote team members in English)
+Experience in react framework is a plus
+Experience in optimizing applications for performance is a plus
+Experience in AWS Cloud environment is a plus
+Experience in infrastructure as code is a plus
+
+
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!"
+3779356039,Frontend Developer,https://www.linkedin.com/jobs/view/3779356039,Packet Systems Indonesia ,https://www.linkedin.com/company/packet-systems-indonesia/life," ",3 weeks ago,346,,Hybrid,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/D560BAQEQsAok1DKdjg/company-logo_100_100/0/1703351063449/packet_systems_indonesia_logo?e=1712188800&v=beta&t=YcrFvFoFTh-d3QyCFQQvh8qPv-b490uzpojDfhqhE5U,"Packet Systems Indonesia (PSI), which commenced operations in 2004, is a leading ICT systems integrator and service company in Indonesia focusing in the area of Data Center/Virtualization, Collaboration, Service Provider & Enterprise Network Infrastructure, Information Security, and Software Solution. Its spectrum of advanced services include assessment; technical advisory; planning & design; project management, deployment, integration; and maintenance.
+
+PSI has partnerships with some of the most advanced technology companies in the world, such as Cisco Systems where it is certified as a Gold Partner. PSI is headquartered in Jakarta and has presence in Surabaya.
+
+In September 2017, PSI has become a Logicalis-Metrodata company.
+
+Logicalis (www.logicalis.com) is an international multi-skilled solution provider providing digital enablement services to help customers harness digital technology and innovative services to deliver powerful business outcomes. Its customers span industries and geographical regions; and our focus is to engage in the dynamics of our customers’ vertical markets; including financial services, TMT (telecommunications, media and technology), education, healthcare, retail, government, manufacturing and professional services, and apply the skills of our 4,000 employees in modernising key digital pillars; data centre and cloud services, security and network infrastructure, workspace communications and collaboration, data and information strategies, and IT operation modernisation.
+
+P.T. Metrodata Electronics, Tbk (“Metrodata”; www. metrodata.co.id)— is a public company listed at PT. Bursa Efek Indonesia since 1990 (IDX: MTDL) and is one of the leading Information Communications Technology (ICT) companies in Indonesia. It has built strategic alliances with world-class information technology companies. Metrodata has four main business lines, operating through its subsidiaries: Distribution Business Unit handles distribution to dealer partners, warranty, and ICT solution company; Solution Business Unit provides Information and Communication Technology total solutions from design, implementation, IT managed services, consultation and training; Consulting Business Unit which offers innovative business solutions from conceptualizing, defining, commissioning and implementation, and supporting for business transformation; and E-Commerce Business Unit covering modern IT Retail E-Commerce.
+…
+show more","Requirement:
+Minimum of 2 years experience on Front-End software development
+Bachelor’s or Master's Degree in Computer Science, MIS, Electrical Engineering, or equivalent
+Skills Required: software development using JavaScript, React, Golang, SQL
+Familiar with DevOps process using Git, Jenkins, SonarQube and/or similar technologies
+Familiar with modern microservices-based development on Docker or Kubernetes platform either running on premise or cloud infrastructure such as Azure, AWS or GCP
+Familiar with agile software development methodology and tools
+Experience in developing AI-based solution is a plus
+Strong problem solving, conceptual and analytical thinking, and desire to learn new technologies
+
+Job Descriptions:
+Design and develop front-end modules for AIOps solution
+Perform software quality testing
+Write software documentation
+Involve in the delivery and support of the software solution
+
+
+
+Posting Code: #LI-IG1"
+3784065191,Software Engineer,https://www.linkedin.com/jobs/view/3784065191,Formulatrix Indonesia,https://www.linkedin.com/company/formulatrix-indonesia/life," ",2 weeks ago,103,,On-site,,"501-1,000 employees · Biotechnology",https://media.licdn.com/dms/image/C510BAQGwCabTI2ithQ/company-logo_100_100/0/1630629599665/pt_formulatrix_indonesia_logo?e=1712188800&v=beta&t=jbnmJMMM1whtpRTyrQTjL-ix1ln6ZHDacWwbUu3rVjg,"FORMULATRIX® collaborates with researchers to simplify the preparation and analysis of proteins and nucleic acids by designing solutions without boundaries and bringing novel cutting-edge technology to the life science industry.
+
+We are committed to researchers, their labs, and to the scientific discoveries that will improve the lives of generations to come.
+
+In 2006 we opened up our manufacturing facility in Indonesia.
+As of now, to meet increased demand, we are quadrupling our manufacturing space from 10,000 to 40,000 square feet.
+…
+show more","Headquartered in Dubai, UAE, FORMULATRIX is fast growing robotic automation equipment manufacturer and software solutions provider to leading pharmaceutical companies and academic research institutions. We cater to clients in the highly specialized life sciences industry with our client base comprised of major Fortune 500 and Fortune 100 companies. The Company has experienced aggressive historic double digit growth with healthy profits because of our industry recognized patented technology and superior software delivery services. The industry recognizes our products and services due to our dedication to producing the ""best breed of products"". Our business operations are international in scope with business units located in the United States, Europe, and Asia.
+Our corporate culture highly rewards dedicated motivation, exceeding client expectations, entrepreneurial spirit, and ""outside the box"" thinking. In return, we offer a rewarding salary and benefits package, young and vibrant ""down to earth"" corporate culture, employee empowerment, and excellent growth opportunities.
+
+Job Descriptions
+Design, develop, and improve robotic systems software from the ground up.
+Use research and development skills to create prototypes which solve challenging problems in areas such as scheduling and synchronization, machine vision, and machine control, among others.
+Analyze challenges and propose options and timelines to get to their resolution.
+Collaborate with a global team of peers in software engineering as well as those in the mechanical and electrical side to devise such solutions in a timely manner.
+Deeply care for our customers by providing them with great support and intuitive applications which hide out all the complexities of the solutions.
+Stay abreast of new technologies in your field and adopt as needed. 
+
+Requirements
+Candidate must possess at least Bachelor's Degree in Computer Science, Information Technology, Electronic Engineering, or equivalent professional experience in software development.
+At least 1 year(s) of experience in software development, software delivery, and post-implementation.
+Demonstrated good experience in any Object Oriented Programming language (C#, C++, Java, Python, etc).
+Strong fundamentals in computer science: object-oriented, model-driven development, algorithms, and others.
+Familiar and used to best practices in programming.
+Committed to writing good quality and high performance code.
+Demonstrated good logical thinking as well as attention to details.
+A passion to build great solutions and impress both colleagues and customers.
+Have a ""Can Do"" attitude.
+Proactive, highly motivated, and strong team player with good ability to multi-task and re-prioritize as necessary.
+Good communication skills in English both oral and written.
+Applicants must be willing to work in Salatiga."
+3789758615,Web Developer,https://www.linkedin.com/jobs/view/3789758615,,,,,0,,,,,,,
+3784070617,Frontend Developer,https://www.linkedin.com/jobs/view/3784070617,,,,,0,,,,,,,
+3789804148,Web Programmer,https://www.linkedin.com/jobs/view/3789804148,,,,,0,,,,,,,
+3780111902,Associate Software Engineer,https://www.linkedin.com/jobs/view/3780111902,,,,,0,,,,,,,
+3785028445,React.js Developer,https://www.linkedin.com/jobs/view/3785028445,,,,,0,,,,,,,
+3780091841,Production Software Engineer,https://www.linkedin.com/jobs/view/3780091841,,,,,0,,,,,,,
+3677044106,SE - Software Developer,https://www.linkedin.com/jobs/view/3677044106,,,,,0,,,,,,,
+3788878077,Frontend Developer,https://www.linkedin.com/jobs/view/3788878077,,,,,0,,,,,,,
+3785004792,Full Stack Developer,https://www.linkedin.com/jobs/view/3785004792,,,,,0,,,,,,,
+3791762693,Software Development Engineer,https://www.linkedin.com/jobs/view/3791762693,,,,,0,,,,,,,
+3788960067,Full Stack Developer,https://www.linkedin.com/jobs/view/3788960067,BitHealth,https://www.linkedin.com/company/bithealth/life," ",5 days ago,148,,Hybrid,,51-200 employees · Information Technology & Services,https://media.licdn.com/dms/image/D4E0BAQEtbeSJkNL14Q/company-logo_100_100/0/1664787920525/bithealth_logo?e=1712188800&v=beta&t=V5Cti4QvrPTTC7l9i1UCCk0UMJcJXSZ0ELARsRGmoCo,"BitHealth is the digital health solution provider company in Indonesia that specializes in digital health technology and transformation partner to healthcare organization.
+
+Established since 2020, we will continue on developing various breakthroughs which could escalate the effectiveness and efficiency of our health industry in the future.
+
+Our Vision is to be the Indonesia Largest Digital Services Provider in Healthcare with the Mission to help our clients transforming patient experience, operation excellence, and clinical outcome through innovative digital technology.
+…
+show more","Job Description:
+Developing and packaging new product/features and user interfaces from wireframe models
+Ensuring the best performance and user experience of the application
+Writing clean, readable, and testable code
+Optimize the application for maximum speed and scalability
+
+Requirements:
+At least 2-3+ years of experience as a Software Developer
+Proficiency in JavaScript language, including its syntax and features
+In-depth knowledge and understanding of Frontend Javascript framework VueJS, Backend Javascript ExpressJS and Adonis (typescript)
+Familiarity with database technology such as Oracle, MYSQL, PosgreSQL, MongoDB, or SQL Server
+Knowledge of Node.js (ES6 or TypeScript) and frameworks available for it (such as Express, GraphQL, AdonisJS)
+Experience with both consuming and designing RESTful APIs
+User authentication and authorization between multiple systems, servers, and environments (ex: using JWT)
+Integration of multiple data sources and databases into one system.
+Understanding differences between multiple delivery platforms, such as mobile vs. desktop, and optimizing output to match the specific platform
+Proficient understanding of code versioning tools, such as Git
+Knowledge of Cloud Server such as GCP/AWS/Azure"
+3735977419,Expert Back End Engineer (ShopeePay) - Sea Labs,https://www.linkedin.com/jobs/view/3735977419,Shopee,https://www.linkedin.com/company/shopee/life," "," ",228,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",,,
+3784488757,Senior Software Engineer,https://www.linkedin.com/jobs/view/3784488757,,,,,0,,,,,,,
+3784401500,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3784401500,,,,,0,,,,,,,
+3776609705,Frontend Developer,https://www.linkedin.com/jobs/view/3776609705,,,,,0,,,,,,,
+3781253099,Global Software Engineer - Product Engineering,https://www.linkedin.com/jobs/view/3781253099,Samsung Electronics Southeast Asia & Oceania,https://www.linkedin.com/company/samsung-electronics-seao/life," ",3 weeks ago,42,,On-site,,"10,001+ employees · Computers and Electronics Manufacturing",,,
+3783369769,Web Developer,https://www.linkedin.com/jobs/view/3783369769,,,,,0,,,,,,,
+3790497521,Software Egineer (NodeJs),https://www.linkedin.com/jobs/view/3790497521,,,,,0,,,,,,,

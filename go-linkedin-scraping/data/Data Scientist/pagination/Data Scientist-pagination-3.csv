@@ -1,0 +1,469 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3751172775,"Lead Data Scientist (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3751172775,Agoda,https://www.linkedin.com/company/agoda/life," "," ",22,,Hybrid,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1712188800&v=beta&t=Uch6o32VIVJnqd5pOyN6ISz8TvEijuYR_vC1w3EK8HQ,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+The Data department , based in Bangkok , oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity
+
+Please note -The role will be based in Bangkok. 
+
+We are looking for ambitious and agile data scientists that would like to seize the opportunity to work on some of the most challenging productive machine learning and big data platforms worldwide, processing some 600B events every day and making some 5B predictions.
+
+As part of the Data Science and Machine Learning (AI/ML) team you will be exposed to real-world challenges such as: dynamic pricing, predicting customer intents in real time, ranking search results to maximize lifetime value, classifying and deep learning content and personalization signals from unstructured data such as images and text, making personalized recommendations, innovating algorithm-supported promotions and products for supply partners, discovering insights from big data, and innovating the user experience. To tackle these challenges, you will have the opportunity to work on one of the world’s largest ML infrastructure employing dozens of GPUs working in parallel, 30K+ CPU cores and 150TB of memory.
+
+In This Role, You’ll Get to
+
+Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness
+Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation
+Work with developers and a variety of business owners to deliver daily results with the best quality
+Research discover and harness new ideas that can make a difference
+
+What You’ll Need To Succeed
+
+4+ years hands-on data science experience
+Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks
+Significant proficiency in SQL and languages like Python, PySpark and/or Scala
+Can lead, work independently as well as play a key role in a team
+Good communication and interpersonal skills for working in a multicultural work environment
+
+It’s Great if You Have
+
+PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+Experience in NLP, image processing and/or recommendation systems
+Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+Experience in data science for e-commerce and/or OTA
+
+We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates.
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3780612276,Data Warehouse Engineer - Fintech,https://www.linkedin.com/jobs/view/3780612276,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,122,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,,"As a Data Warehouse Engineer, you’ll be an instrumental cog in the Data team that impacts the company’s analytical data infrastructure.
+
+Your main objective is to design, develop, and manage our data warehouse and data infrastructure that supports it, which needs to operate reliably at scale using a high degree of automation in many aspects. You will also be managing the single source of truth of data for analytics and partner with product managers, product engineers, data engineers, BI/analytics, and data scientists during this ride. You will also play active roles in ensuring data governance policies and tooling are implemented and adhered to.
+
+Best yet, you’ll have the opportunity to flex your technical and communication skills, helping the team to best utilize the data that we have and deliver beautifully simple and scalable solutions to meet the user needs.
+
+What You Will Do
+
+Handling End to End Data Pipelines from heterogeneous input to Data Warehouse, serving various multiple teams for analytical purposes
+Developing scalable automation/script to handle growing data warehouse tasks
+Become data architect by implementing Data Modeling concept and data governance policies based on data type and use case
+Diagnose and solve data issues in our data pipelines and look for the root cause of problems and envision a long term solution
+Responsible for managing reliable Single Version of Truth and turning Data into critical information and knowledge that can be used to make sound business resolutions
+Work closely with the data stakeholders to come up with a working data solution and accommodate their data needs
+Define clear and well-scoped requirements documents, including specs and workflows, that is easily understood by technical and non-technical audiences
+Consulting with product and data engineers on to ensure the developed data solutions match the business needs
+
+What You Will Need
+
+Have 2-5 years experience in Data Environment as Data Warehouse Developer or Data Engineer
+Deep knowledge related to Data Warehouse concepts, architecture and data modeling
+Advanced level SQL (Query, CRUD operation). Experience in cloud data warehouses (BigQuery, Redshift) is a plus
+Enjoy to write code to solve any data problems, preferably in Python. Experience in Java and Go is a plus
+Experience in wide-range of ETL systems (Apache Airflow, Debezium, etc)
+Basic knowledge in real-time data processing. Experience in Apache Kafka, Apache Flink is a plus
+Basic knowledge of containerization (Docker) and CI/CD (Gitlab CI)
+Analytical and data-driven, you love digging into the data to know what’s happening and define & measure success on every project
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3786187255,Data Scientist,https://www.linkedin.com/jobs/view/3786187255,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",1 week ago,103,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
+
+At Staffing Ninja, we are committed to building long-term relationships with our clients and candidates. Our goal, among other industry experts, is to help our clients achieve their business objectives by providing them with the best talent available through our headhunting service and to help our candidates take their careers to the next level with the best AI jobs.
+
+Find your next career opportunity in the AI space, contact us today!
+…
+show more","Roles and Responsibilities
+Design and develop forecasting, predictive solutions for business, using Machine
+learning algorithms, as per requirement.
+Decide and suggest the right ML algorithms and models for a given solution.
+Ability to guide junior data engineers, software engineers, data scientists on the best
+solution and trouble-shoot on data science related issues.
+Provide expert thought in data analysis in different practical business situations.
+Engage with clients to understand business problems and come up with approaches to solve
+them.
+Ability to articulate Analytics/Data Science solutions in an understandable manner to clients.
+Guide, mentor, and coach junior team members
+
+Requirements:
+Engineering degree in any discipline or a Science graduate
+6+ years in Data science / analytics / Data science project lead
+Proficiency in data science, AI / machine learning techniques, models, and solutions.
+Good understanding of regression (Linear/Non-linear), classification, clustering, Time Series
+analysis, Text and Image analytics
+Good understanding of statistical &amp; data mining techniques
+Hands-on Experience in building Machine Learning models in Python
+Ability to collect, clean, and engineer large amounts of data using SQL and other techniques
+Can make use of statistical tools for data analysis
+Data visualization skills Power BI or Tableau to bring out valuable insights from data
+Experience working in AWS cloud platform
+Experience with microservice architecture
+Knowledge in REST web service development
+Familiarity with Java Script (Node JS etc.), CSS, etc.
+Good to have : Proficiency in - Japanese, Chinese and English in any of the combinations"
+3784198639,Senior Data Engineer,https://www.linkedin.com/jobs/view/3784198639,Grab,https://www.linkedin.com/company/grabapp/life," ",3 weeks ago,138,,On-site,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_100_100/0/1630575649647/grabapp_logo?e=1712188800&v=beta&t=LiVprA_nhthcshlCZ9nefFuRlvv-7yPlWzXhmwynrW0,"Grab is Southeast Asia’s leading superapp, offering a suite of services consisting of deliveries, mobility, financial services, enterprise and others. Grabbers come from all over the world, and we are united by a common mission: to drive Southeast Asia forward by creating economic empowerment for everyone.
+
+At Grab, every Grabber is guided by The Grab Way, which explains our mission and the operating principles on how we can achieve it together. We call these principles the 4Hs:
+
+Heart
+We work together as OneGrab to serve communities in Southeast Asia
+
+Hunger
+We work to understand ground truths and drive improvements, big and small
+
+Honour
+We keep our word and steward our resources wisely to build and sustain trust
+
+Humility
+We are a constant work-in-progress, and we never stop learning to get better
+…
+show more","Job Description
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Get to know the Team
+
+The Fulfillment tech family is one of the pillars enabling Grab to out-serve our customers and partners in different businesses and marketplaces across Southeast Asia. We are working on high throughput, real-time distributed systems that use advanced software engineering techniques to solve hundreds of millions of requests per day. We are a distributed team in 4 different locations: Singapore, Beijing, Indonesia, and Malaysia. Our communication is in English, both in spoken and written form.
+
+Our mission is to offer the best-in-class products and experiences to our driver partners as to increase adoption and engagement of our services. Improve driver partner opportunities and efficiency in order to fulfill customer orders without fail, rain or shine. And to create efficient marketplaces by determining an optimal price that is both sustainable and loved by our partners and customers.
+
+Get to know the Role
+
+As the Data engineer in the Fulfillment Data Engineering team, you will work closely with data modelers, product analytics, product managers, software engineers and business stakeholders across the SEA in understanding the business and data requirements. You will be responsible for building and managing the data asset, including acquisition, storage, processing and consumption channels, and using some of the most scalable and resilient open source big data technologies like Flink, Airflow, Spark, Kafka and more on cloud infrastructure. You are encouraged to think out of the box and have fun exploring the latest patterns and designs.
+
+The Day-to-Day Activities
+
+Developing scalable and reliable ETL pipelines and processes to ingest data from a large number and variety of data sources
+Developing a deep understanding of real-time data productions availability to inform on the real time metric definitions
+Maintaining and optimizing the performance of our data analytics infrastructure to ensure accurate, reliable and timely delivery of key insights for decision making
+Design and deliver the next-gen data lifecycle management suite of tools/frameworks, including ingestion and consumption on the top of the data lake to support real-time, API-based and serverless use-cases, along with batch as relevant
+
+The Must-Haves
+
+At least 5+ years of relevant experience in developing scalable, secured, distributed, fault tolerant, resilient & mission-critical Big Data platforms.
+Proficiency in at least one of the programming languages Python, Scala or Java.
+Strong understanding of big data and related technologies like Flink, Spark, Airflow, Kafka etc.
+Experience with different databases – NoSQL, Columnar, Relational.
+You have a hunger for consuming data, new data technologies, and discovering new and innovative solutions to the company's data needs
+You are organized, insightful and can communicate your observations well, both written and verbally to your stakeholders to share updates and coordinate the development of data pipelines
+
+The Nice-to-Haves
+
+You have a degree or higher in Computer Science, Electronics or Electrical Engineering, Software Engineering, Information Technology or other related technical disciplines.
+You have a good understanding of Data Structure or Algorithms or Machine Learning models.
+
+Our Commitment
+
+We recognize that with these individual attributes come different workplace challenges, and we will work with Grabbers to address them in our journey towards creating inclusion at Grab for all Grabbers."
+3774429187,Data Scientist,https://www.linkedin.com/jobs/view/3774429187,Traveloka,https://www.linkedin.com/company/traveloka/life," ",1 month ago,166,,On-site,,"1,001-5,000 employees · Software Development",https://media.licdn.com/dms/image/D560BAQGe_izwxvj_SQ/company-logo_100_100/0/1700635813325/traveloka_logo?e=1712188800&v=beta&t=VKJUx8BZomGFW6QdHfexYEryZ1npU3aI597TfFvWhNo,"We don’t innovate for the sake of innovation, we utilize technology to simplify people’s lives so they can enjoy their lives better. That belief is what brought Traveloka to be the leading travel platform in Southeast Asia. Traveloka serves 20+ products that include comprehensive travel services. From transportations to accommodations, discovering nearby attractions, and insurance products to financial services, including the groundbreaking ‘Buy Now Pay Later’.
+
+With 100+ millions downloads in six countries across the SEA region, we aim to keep exploring for better innovations — all to fulfill our users’ travel aspirations so they can enjoy their lives, their way.
+…
+show more","It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+
+
+
+
+Job Description
+
+Our data science team is responsible for solving complex problems and optimizing various aspects of Traveloka’s business. You will get a wide range of exciting opportunities to bring impact by helping to make decisions at scale across our various business lines, and get to work with the brightest minds in the industry. Join us in revolutionizing the travel industry through data!
+
+Key Responsibilities:
+
+Collaborate with multiple business units to understand their challenges and goals. Translate business goals into technical requirements and actionable insights Develop, implement, and maintain data-driven solutions and systems Oversee and manage multiple data science projects, ensuring they meet the business objectives and are delivered on time.
+
+
+
+Requirements
+
+Qualifications
+
+Bachelor’s degree in Computer Science, Data Science, Statistics, or a related field. Master's degree or higher preferred.
+Minimum of 5 years experience in data science or a related role.
+Excellent understanding of business operations and the ability to translate business requirements into technical specifications.
+Experience/familiarity with some of the followings:
+Causal Inference
+Econometrics
+Simulation
+Optimization Techniques
+Strong expertise in Python and experience with ML/Stats libraries (scikit-learn, LGBM, XGBoost to name a few).
+Proficient in data manipulation and analysis using SQL.
+Experience with Cloud-based tech stack and Docker. GCP will be preferred.
+Proven experience in managing data projects from inception to completion.
+Exceptional interpersonal and communication skills, including the ability to describe complex technical concepts to non-technical stakeholders.
+Proactive, self-motivated, and able to work independently.
+Good to Have
+
+Experience in deep learning frameworks like PyTorch or TensorFlow.
+
+
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!"
+3784412117,Data Science Lead,https://www.linkedin.com/jobs/view/3784412117,iZeno,https://www.linkedin.com/company/izeno-pte-ltd/life," ",1 week ago,79,,Hybrid,,51-200 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQGLSFkDunzJiA/company-logo_100_100/0/1630650207516/izeno_pte_ltd_logo?e=1712188800&v=beta&t=ijbdE4oQmiJaRA0eHmek8GSVq0rF6PjPDnAcGFzXgGA,"iZeno was founded in 2003 to provide enterprises with the best-in-class technology solutions they need to keep their business running seamlessly. With a team of 150+ in-house innovators, iZeno has delivered, implemented, and optimised over 500 Enterprise Solutions to enable smarter insights and better business outcomes.
+
+iZeno’s team draws on industry experiences in delivering a portfolio of mission-critical applications, integrating AI & machine learning, DevOps, ITSM, cloud, CRM & CX, data analytics, and other leading technologies within its clients existing IT frameworks.
+
+With a leading presence in the region, the business is headquartered in Singapore and has operations in Malaysia, Indonesia, Thailand, and the Philippines.
+
+In the year 2023, iZeno Singapore achieved the certification as a Great Place To Work.
+
+Visit our website to learn more about iZeno and discover how we can collaborate with you to expedite your Digital Transformation journey.
+
+Please also take note that iZeno will never request recruitment fees from candidates under any circumstances. Please be cautioned that individuals or organizations are misusing the iZeno brand name to demand money in exchange for interviews or employment opportunities with iZeno. Please note that these fraudulent entities are unlawfully using iZeno's brand and copyright on fake job advertisements and emails to deceive innocent victims.
+
+As a responsible organization, iZeno places great importance on conducting ethical and transparent recruitment processes. We advise all potential candidates to remain vigilant and report any suspicious activity encountered during their job search. Our commitment is to protect the interests of our candidates and our organization, and we will remain vigilant against these fraudulent attempts.
+…
+show more","Responsibilities:
+Take a leadership role in pre-sales activities of AI projects, including the development and execution of AI POCs, end-user workshops, and RFP responses
+Lead and provide guidance for AI project delivery, from project definition, client management, and communication of key insights.
+Collaborate with the Head of Data Analytics, and project managers to identify skill sets required for successful project delivery.
+Maintain up-to-date knowledge of industry trends, emerging technologies, and competitive landscapes.
+Participate and host events and conferences in Indonesia.
+
+
+What We Look For:
+BS degree or above in a quantitative discipline (e.g., Statistics, Mathematics, CS) or equivalent practical experience.
+Minimum 6+ years in the data industry, with people management experience.
+Proficiency in Python/R, and handling large datasets.
+Strong analytical and problem-solving ability with attention to detail.
+Familiarity with PySpark is a plus.
+Familiarity with leading data science and data warehouse technologies is a plus.
+
+
+As a Data Science Team Lead, you will be responsible for establishing trusted advisor relationships with C-level executives in key accounts across Indonesia. Your role involves shaping executives' perspectives on AI and Machine Learning, aligning solutions with current and future AI needs. Collaborating closely with iZeno’s Indonesia sales teams, you will strategize on pipeline development, go-to-market plans, and execution strategies. You will not only be required in pre-sales activities but also in providing executive coverage and leadership during the post-sales implementation of these AI projects.
+
+Interested applicants please submit your application with your expected salary and notice period to be considered for the role.
+
+We regret that only shortlisted candidates will be notified.
+
+As part of any recruitment process, we collect and processes personal data relating to job applicants. We are committed to being transparent about how we collect and use that data and to meeting our data protection obligations. By applying to this post and sending us your resume, you agree to the collection, use and/or disclosure of your personal data in the manner as set out in our Data Protection Notice for Job Applicants which can be found
+
+Logicalis is committed to protecting your privacy.
+
+Click below to view the data protection notice.
+
+https://ap.logicalis.com/sites/default/files/2022-10/PIMS-A7.3-01%20Attachment%20I%20DP%20Notice%20for%20Job%20Applicants_updated9sept22.pdf.
+
+Posting code :
+
+#LI-JW1"
+3794171097,AI Chatbot Python Developer,https://www.linkedin.com/jobs/view/3794171097,Turing,https://www.linkedin.com/company/turingcom/life," ",5 days ago,19,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
+…
+show more","Python Developer Wanted: Help Us Engineer the Conversational Bots of the Future!
+
+Are you intrigued by the potential of artificial intelligence to unlock new ways we interact with technology? We’re a cutting-edge company on a mission to develop intelligent chatbots that aren't just innovative but are a leap forward in how we experience learning and entertainment through conversation. We're scouting for a talented Python Developer who thrives in an inventive and fast-evolving landscape, someone ready to leave their mark on the AI world.
+
+The Role Awaits:
+
+Develop durable, clear-cut code that will be a backbone for our AI-driven products.
+Take part in detailed code reviews ensuring we uphold the high bar for quality and functionality.
+Leverage Python to devise solutions to intricate challenges, showcasing your coding finesse.
+Produce code that’s not just functional but is carefully documented and constructed with future expansion in focus.
+
+Your Credentials:
+
+Completed a Bachelor's or Master's degree in Engineering or Computer Science, or demonstrate equivalent professional experience.
+Have a minimum of 3 years of shaping software with a focus on Python development.
+Proficient in Python with expertise in its application to data science and machine learning initiatives.
+Adept in SQL and have an understanding of the essentials of QA.
+Bonus points for hands-on experience with software testing strategies and frameworks.
+Known for your aptitude in problem-solving, particularly in crafting algorithms.
+Background in data science or data engineering is massively favorable.
+A proven track record of building sleek, operable software applications.
+The fluent, articulate communicator in English, both verbal and written.
+
+Why You'll Love Working With Us:
+
+Engage and learn from top-tier researchers and developers from every part of the world, all from the comfort of your home.
+Revel in the freedom of remote work — find productivity in your personal haven.
+Receive a competitive salary that matches global standards, with the assurance of US dollars.
+Dive into boundary-pushing projects that will routinely challenge and excite you, keeping you at the cutting edge of tech advancements.
+Join Our Journey: If you’re driven to shape the way we interact with machines and eager to contribute to the next wave of AI advancements, we're waiting for you."
+3782374945,[ODS] Software Engineer - Engineering Platform,https://www.linkedin.com/jobs/view/3782374945,Gojek,https://www.linkedin.com/company/gojek/life," "," ",56,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C4D0BAQHCmfKRtPXKDg/company-logo_100_100/0/1658813682786/gojek_logo?e=1712188800&v=beta&t=yQB9vj7jakbwBeSRhOKn8GWhuk_iW5If25yWvnke33A,"Gojek is Southeast Asia’s leading on-demand platform and a pioneer of the multi-service ecosystem model, providing access to a wide range of services including transportation, food delivery, logistics and more. Gojek is founded on the principle of leveraging technology to remove life's daily frictions by connecting consumers to the best providers of goods and services in the market.
+
+The company was first established in 2010 focusing on courier and motorcycle ride-hailing services, before launching its app in January 2015 in Indonesia. Since then, Gojek has grown to become the leading on-demand platform in Indonesia, with additional operations in Vietnam and Singapore. The Gojek platform now comprises over 2.5 million driver partners across the region. Gojek is part of the GoTo Group, the largest digital ecosystem in Indonesia, consisting of Gojek, Tokopedia and GoTo Financial.
+
+Gojek is dedicated to solving the daily challenges faced by consumers, while improving the quality of life for millions of people across Southeast Asia, especially those in the informal sector and micro, small and medium enterprises (MSMEs).
+
+The Gojek application is available for download via iOS and Android.
+.........
+
+*IMPORTANT*
+Gojek is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by Gojek can ONLY be accessed via our official channels -- Gojek on LinkedIn, Gojek Tech on LinkedIn, Gojek on Glassdoor, and https://www.gojek.io/careers. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid Gojek domain - *****@gojek.com. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+This role is for Platform Engineering team under Data Engineering vertical of Gojek. You’ll have the responsibilities to build, ship and grow Platform products that are core pillars of Data engineering. The roles comprises of responsibilities towards products like Authentication/Authorization, Infrastructure, Observability, orchestration and more.
+
+What You Will Do
+
+Code, Design, prototype, perform reviews and consult in the process of building highly scalable, reliable, and fault-tolerant systems
+Containerization and deployment of microservices on Kubernetes
+Auto scaling and monitoring performance of the streaming Infrastructure and applications by using Prometheus and Grafana or similar tools
+Collaborate with the team to ensure that the service level objectives and agreements are achievedCommunicate and collaborate effectively with product, data science teams
+Continue to stay abreast of the latest technologies in Event processing and Big Data space to inform/suggest new technologies and best practices to trial
+Mentor and guide other engineers in the team
+
+What You Will Need
+
+At least 4 years of software engineering experience
+Experience with containerization, including Docker and Kubernetes
+DevOps experience in implementing large-scale data stacks using Gitlab and Docker
+Must have hands-on experience using any of the cloud platforms (AWS, GCP, Azure), with thorough knowledge of cloud concepts
+Demonstrated ability to take initiative and accountability for achieving results
+Strong interpersonal and communication skills
+Passion for learning new things and solving complex engineering blockers
+
+About The Team
+
+We are a team of developers, designers and product managers with diverse academic, professional and personal backgrounds but united by the passion to enrich Data Platform & Analytics at Gojek through sound methods and ease of use. Working alongside the Product Managers, BI Analytics and Product Engineers, we are predominantly concerned with utilizing and translating data into critical information that can be used to make sound business decisions.
+
+This includes gathering any new data points, and working closely with various business teams to capture, connect, and convert any data changes into useful knowledge in guiding our next steps to create a meaningful business impact.
+
+Combating remote work has brought us even closer, with frequent catch-ups over tea and sharing ways we have been keeping ourselves sane. Along with our desire to utilize smart technology and innovative engineering strategies to make people’s lives easier, our team also bonds over our shared love for reading, gaming, and drinking lots of coffee. We work hard and play hard, and believe it or not, we actually enjoy each other’s company!
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3788281830,Consultant / Senior Consultant - Artificial Intelligence & Data (Data Engineer) - ID 1,https://www.linkedin.com/jobs/view/3788281830,,,,,0,,,,,,,
+3789412145,"Customer Solutions Consultant, Duet AI, Google Cloud",https://www.linkedin.com/jobs/view/3789412145,,,,,0,,,,,,,
+3782768884,Python Data Scientist,https://www.linkedin.com/jobs/view/3782768884,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,23,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",,,
+3787635308,Data Engineer,https://www.linkedin.com/jobs/view/3787635308,,,,,0,,,,,,,
+3786137768,Startup Founder - Data Scientist,https://www.linkedin.com/jobs/view/3786137768,,,,,0,,,,,,,
+3756940997,Data Scientist,https://www.linkedin.com/jobs/view/3756940997,,,,,0,,,,,,,
+3775601975,Data Engineer,https://www.linkedin.com/jobs/view/3775601975,,,,,0,,,,,,,
+3789845591,Data Engineer Expert,https://www.linkedin.com/jobs/view/3789845591,,,,,0,,,,,,,
+3792697560,Data Scientist,https://www.linkedin.com/jobs/view/3792697560,,,,,0,,,,,,,
+3791233172,Data Analyst Risk,https://www.linkedin.com/jobs/view/3791233172,,,,,0,,,,,,,
+3767576333,Data Scientist - Risk Platform,https://www.linkedin.com/jobs/view/3767576333,Cermati.com,https://www.linkedin.com/company/cermati/life," "," ",241,,On-site,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/D560BAQE1jHTV9MYtEA/company-logo_100_100/0/1667277070391/cermati_logo?e=1712188800&v=beta&t=e0jD1ZkG4fKOYPanm0fC7xHT-Vr56w8LS8B0G8zbKOg,"We are a technology startup that engages in the Indonesian financial technology area. We are based in Jakarta and we're founded by ex-silicon valley engineers. Our vision is to use technology to make financial information more available and more useful to everyone. Our mission is to enable people to take control of their financial situation and save a lot of money by doing so. Our products allow people to easily make the best financial decision for their situation. Come join our adventure in transforming Indonesian financial landscape through technology.
+
+We're hiring! Check out our job openings at www.cermati.com/karir
+…
+show more","Job Description
+
+We’re looking for fresh graduates with experience in manipulating datasets and building statistical models for credit risk by leveraging machine learning techniques. You will partner with business, product, and engineering team to explore, determine, analyze, propose, and solve some of the most challenging business problems in lending and reduce risk. You will perform deep-dive exploration and analysis to find improvements in our existing framework. You will be submerged in a fast-paced environment working tightly in a strong team of data scientists and experience firsthand our robust data infrastructure.
+
+Responsibilities
+
+Perform features selection, parameter binning, and optimize custom predictive machine learning models for credit risk scoring
+Query, process, cleanse, and verify the integrity of data used for analysis
+Analyze key metrics to determine risk and explore areas for improvements
+Create reports and dashboards to monitor model impact and performance
+Help build the variety of data ingredients needed to do modelling effectively
+Maintain the credit risk model platform which is utilized by the team
+Provide advice and guidance on potential efficiency gains and new state-of-the-art credit risk modelling methodologies
+
+Qualifications
+
+Bachelor degree in an analytical or quantitative discipline (e.g. math, statistics, engineering, computer science), however other disciplines will be considered
+Experienced in using statistical computer languages such as R, Python SAS, SQL, or advanced MS Excel skills is a plus.
+Have good communication skills and able to work together in a team
+Excellent problem-solving skills and have the drive to learn and master new technologies and techniques
+Willingness to learn new skills independently and have a strong sense of project ownership
+Not afraid to get your hands dirty to explore data and build statistical models"
+3764750035,"Data Science Lead, Visa Consulting & Analytics, Indonesia",https://www.linkedin.com/jobs/view/3764750035,,,,,0,,,,,,,
+3741270100,Analytics Engineer - Business Intelligence,https://www.linkedin.com/jobs/view/3741270100,Shopee,https://www.linkedin.com/company/shopee/life," "," ",835,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQE0iX_dgdH7nA/company-logo_100_100/0/1672279162763/shopee_logo?e=1712188800&v=beta&t=YOOfP8buLRx8UmTaRks5zte1XLjE_Srdn7i45b-zmOU,"Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. It is a platform tailored for the region, providing customers with an easy, secure and fast online shopping experience through strong payment and logistical support.
+
+Shopee aims to continually enhance its platform and become the region’s e-commerce destination of choice via ongoing product optimisation and localised user-centered strategies.
+
+Shopee, a Sea company, was first launched in Singapore in 2015, and has since expanded its reach to Malaysia, Thailand, Taiwan, Indonesia, Vietnam and the Philippines. Sea is a leader in digital entertainment, e-commerce and digital financial services across Greater Southeast Asia. Sea's mission is to better the lives of consumers and small businesses with technology, and is listed on the NYSE under the symbol SE.
+
+The Shopee team is rapidly expanding across the region and we are constantly on the lookout for talents who have the passion and drive to become part of a fast-moving and dynamic team. Do check out our career website http://careers.shopee.sg/ for our available positions!
+…
+show more","Job Description
+
+Design and implement data architecture solutions that are cost effective 
+Work closely with many other Business Intelligence departments on creation centralized key reports
+Develop and maintain self service tools for our key stakeholders
+Provide consultative guidance for data management and governance within our Internal team
+Working closely with Regional data team for the development of our tools and data product
+
+Requirements
+
+Min Bachelor's degree in quantitative fields or a relevant field of study
+Min 2+ years working in analytics or related field
+Experience on advanced SQL manipulation and optimization techniques
+Familiarity with Python is preferred
+Strong experience in handling data modeling and data pipeline"
+3789817292,Data Scientist,https://www.linkedin.com/jobs/view/3789817292,,,,,0,,,,,,,
+3791743442,Data Scientist,https://www.linkedin.com/jobs/view/3791743442,,,,,0,,,,,,,
+3747625316,Business Intelligence & Data Analytics,https://www.linkedin.com/jobs/view/3747625316,,,,,0,,,,,,,
+3789798234,Data Privacy Advisor,https://www.linkedin.com/jobs/view/3789798234,,,,,0,,,,,,,

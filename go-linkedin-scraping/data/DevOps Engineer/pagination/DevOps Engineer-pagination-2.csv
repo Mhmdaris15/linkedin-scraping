@@ -1,0 +1,694 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3779343953,Cloud Engineer (On Site),https://www.linkedin.com/jobs/view/3779343953,,,,,0,,,,,,,
+3781602303,Cloud Engineer,https://www.linkedin.com/jobs/view/3781602303,,,,,0,,,,,,,
+3785266587,"Lead Software Engineer, Fullstack",https://www.linkedin.com/jobs/view/3785266587,,,,,0,,,,,,,
+3776032509,Senior Software Engineer (DevOps) - Engineering Platforms,https://www.linkedin.com/jobs/view/3776032509,,,,,0,,,,,,,
+3794167148,Devops Engineer,https://www.linkedin.com/jobs/view/3794167148,,,,,0,,,,,,,
+3757594810,Cloud Engineer,https://www.linkedin.com/jobs/view/3757594810,,,,,0,,,,,,,
+3794304788,AI Chatbot Python Developer,https://www.linkedin.com/jobs/view/3794304788,,,,,0,,,,,,,
+3779302091,AI Chatbot Python Developer,https://www.linkedin.com/jobs/view/3779302091,,,,,0,,,,,,,
+3783347431,AI Chatbot Python Developer,https://www.linkedin.com/jobs/view/3783347431,,,,,0,,,,,,,
+3787001431,AI Chatbot Python Developer,https://www.linkedin.com/jobs/view/3787001431,,,,,0,,,,,,,
+3783427128,AI Chatbot Python Developer,https://www.linkedin.com/jobs/view/3783427128,,,,,0,,,,,,,
+3792496178,AI Chatbot Python Developer,https://www.linkedin.com/jobs/view/3792496178,,,,,0,,,,,,,
+3784401500,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3784401500,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3747625315,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3747625315,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3786883361,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3786883361,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3787635308,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3787635308,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3789763649,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3789763649,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3767930301,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3767930301,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3768415895,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3768415895,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3784065191,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3784065191,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3775601975,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3775601975,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3788223066,Software Engineer - Devops / ML Engineer,https://www.linkedin.com/jobs/view/3788223066,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life," ",2 weeks ago,78,,Hybrid,,"1,001-5,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1712188800&v=beta&t=WEEtZtw1a4e-2NHhan_EcInm0OaaEe2oMUJZqPZlyjM,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.
+…
+show more","About The Role
+
+Just as Nasi Goreng is a beloved staple for the people of Indonesia, engineers are the lifeblood of GoTo Financial, nurturing and sustaining our business from the inside out. As a Data Science Engineer within our elite team, you'll play a pivotal role. Your mission? Empower our Data Scientists across various GoToFinancial sub-teams with the resources they need to excel. Harnessing your top-notch software engineering skills and infrastructure operations expertise, you'll propel their processes into production. The impact? Directly boosting the performance of our Machine Learning and Data Science models company-wide, enabling data-driven decisions in areas like business growth and risk management.
+
+What You Will Do
+
+Champion data science infrastructure to streamline model development and deployment.
+Vigilantly monitor and provide support for infrastructure and production models.
+Create or configure tools for feature engineering in near real-time models.
+Craft high-quality, scalable, and maintainable code that sets the bar.
+Elevate your teammates through code reviews and knowledge sharing.
+
+What You Will Need
+
+A minimum of 4 years of hands-on DevOps engineering experience, fortified by solid Computer Science fundamentals.
+Proficiency in Agile methodologies, including TDD and Pair Programming.
+Familiarity with programming languages like Java, Python, or similar.
+Experience in the realm of distributed systems and backend systems engineering.
+A deep understanding of distributed system fundamentals, with the ability to troubleshoot issues across a wide-ranging infrastructure – from unit-level (e.g., operating systems, resource management) to systems level (e.g., networking, observability, high-availability).
+Proven expertise with essential technologies used by the team, including Infrastructure as Code tools, configuration management systems, container technologies, container orchestrators, and schedulers (such as Kubernetes and Kubeflow).
+A track record of professional experience exclusively within a Linux/Unix environment.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3796271275,Site Reliability Engineer (Marketplace) - Sea Labs,https://www.linkedin.com/jobs/view/3796271275,Shopee,https://www.linkedin.com/company/shopee/life," "," ",26,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQE0iX_dgdH7nA/company-logo_100_100/0/1672279162763/shopee_logo?e=1712188800&v=beta&t=YOOfP8buLRx8UmTaRks5zte1XLjE_Srdn7i45b-zmOU,"Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. It is a platform tailored for the region, providing customers with an easy, secure and fast online shopping experience through strong payment and logistical support.
+
+Shopee aims to continually enhance its platform and become the region’s e-commerce destination of choice via ongoing product optimisation and localised user-centered strategies.
+
+Shopee, a Sea company, was first launched in Singapore in 2015, and has since expanded its reach to Malaysia, Thailand, Taiwan, Indonesia, Vietnam and the Philippines. Sea is a leader in digital entertainment, e-commerce and digital financial services across Greater Southeast Asia. Sea's mission is to better the lives of consumers and small businesses with technology, and is listed on the NYSE under the symbol SE.
+
+The Shopee team is rapidly expanding across the region and we are constantly on the lookout for talents who have the passion and drive to become part of a fast-moving and dynamic team. Do check out our career website http://careers.shopee.sg/ for our available positions!
+…
+show more","About The Team
+
+The Engineering and Technology team is at the core of the Shopee platform development. The team is made up of a group of passionate engineers from all over the world, striving to build the best systems with the most suitable technologies. Our engineers do not merely solve problems at hand; We build foundations for a long-lasting future. We don't limit ourselves on what we can or can't do; we take matters into our own hands even if it means drilling down to the bottom layer of the computing platform. Shopee's hyper-growing business scale has transformed most ""innocent"" problems into huge technical challenges, and there is no better place to experience it first-hand if you love technologies as much as we do.
+
+About Team
+
+The mission of SRE (Site Reliability Engineer) team is to ensure the efficient and sustainable operation of Shopee 24x7, as well as to build and maintain large-scale, highly available, high-performance distributed systems based on system availability and performance. It is formed by combining traditional software engineering and technical operation. The SRE team needs to dive deep into the Shopee development lines to ensure that the system is highly scalable under rapid evolution of the System. From the perspective of stability and performance, it includes the design of business development, components of the basic platform (middleware, container scheduling, caching, object storage, etc.), OS optimization, data center and network optimisation. We optimise the inefficient and complicated operation in the traditional operation and maintenance mode through engineering and service means, and are committed to building a sound monitoring system to improve the efficiency of incident handling.
+
+Job Description
+
+Deep dive into development lines, learn and understand the mechanism of every application component, and promote product scalability, stability, and performance
+Set up, manage, and maintain Shopee product/middleware/big-data applications and services
+Perform regular and ad-hoc server-side deployments, make improvements of the performance, and troubleshoot
+Design and develop automated technical operation platform
+Manage Capacity and Resource
+Responsible for the full-chain stress test to enhance the performance and remove redundancy of applications
+Prepare routine operation documentation
+
+Requirements
+
+Bachelor's degree or above in Computer Science, Engineering, Information Systems or related fields
+More than 2 years of relevant experience (candidates with no working experience are welcomed to apply)
+Extensive and hands-on knowledge with Linux operating systems (Ubuntu, CentOS, etc.)
+Highly familiar with Computer Network (TCP/IP, DNS, etc.), Computer Organisations, and OS
+Hands-on experience with at least one of the programming languages: Bash, Python, Go
+Strong analytical and problem-solving skills with the ability to thrive in a dynamic work environment
+Passionate and possess a strong sense of responsibility
+Fast learning ability and a good team player
+Agile and detail-oriented
+
+Skills Below Are Optional But Preferred
+
+Experience with automation tools like Ansible, SaltStack
+Experience with monitoring tools like Prometheus, Zabbix, Grafana etc
+Experience with load balancing tools like LVS, Nginx, Openresty or HAProxy
+Experience with container technology such as Docker, Kubernetes
+Experience with High Availability system design and Server Deployment Process
+Experience with SRE
+Experience with Ops Paas platform or Ops automation platform (ie:CMDB)"
+3779358042,Site Reliability Engineer (Marketplace) - Sea Labs,https://www.linkedin.com/jobs/view/3779358042,Shopee,https://www.linkedin.com/company/shopee/life," "," ",26,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQE0iX_dgdH7nA/company-logo_100_100/0/1672279162763/shopee_logo?e=1712188800&v=beta&t=YOOfP8buLRx8UmTaRks5zte1XLjE_Srdn7i45b-zmOU,"Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. It is a platform tailored for the region, providing customers with an easy, secure and fast online shopping experience through strong payment and logistical support.
+
+Shopee aims to continually enhance its platform and become the region’s e-commerce destination of choice via ongoing product optimisation and localised user-centered strategies.
+
+Shopee, a Sea company, was first launched in Singapore in 2015, and has since expanded its reach to Malaysia, Thailand, Taiwan, Indonesia, Vietnam and the Philippines. Sea is a leader in digital entertainment, e-commerce and digital financial services across Greater Southeast Asia. Sea's mission is to better the lives of consumers and small businesses with technology, and is listed on the NYSE under the symbol SE.
+
+The Shopee team is rapidly expanding across the region and we are constantly on the lookout for talents who have the passion and drive to become part of a fast-moving and dynamic team. Do check out our career website http://careers.shopee.sg/ for our available positions!
+…
+show more","About The Team
+
+The Engineering and Technology team is at the core of the Shopee platform development. The team is made up of a group of passionate engineers from all over the world, striving to build the best systems with the most suitable technologies. Our engineers do not merely solve problems at hand; We build foundations for a long-lasting future. We don't limit ourselves on what we can or can't do; we take matters into our own hands even if it means drilling down to the bottom layer of the computing platform. Shopee's hyper-growing business scale has transformed most ""innocent"" problems into huge technical challenges, and there is no better place to experience it first-hand if you love technologies as much as we do.
+
+About Team
+
+The mission of SRE (Site Reliability Engineer) team is to ensure the efficient and sustainable operation of Shopee 24x7, as well as to build and maintain large-scale, highly available, high-performance distributed systems based on system availability and performance. It is formed by combining traditional software engineering and technical operation. The SRE team needs to dive deep into the Shopee development lines to ensure that the system is highly scalable under rapid evolution of the System. From the perspective of stability and performance, it includes the design of business development, components of the basic platform (middleware, container scheduling, caching, object storage, etc.), OS optimization, data center and network optimisation. We optimise the inefficient and complicated operation in the traditional operation and maintenance mode through engineering and service means, and are committed to building a sound monitoring system to improve the efficiency of incident handling.
+
+Job Description
+
+Deep dive into development lines, learn and understand the mechanism of every application component, and promote product scalability, stability, and performance
+Set up, manage, and maintain Shopee product/middleware/big-data applications and services
+Perform regular and ad-hoc server-side deployments, make improvements of the performance, and troubleshoot
+Design and develop automated technical operation platform
+Manage Capacity and Resource
+Responsible for the full-chain stress test to enhance the performance and remove redundancy of applications
+Prepare routine operation documentation
+
+Requirements
+
+Bachelor's degree or above in Computer Science, Engineering, Information Systems or related fields
+More than 2 years of relevant experience (candidates with no working experience are welcomed to apply)
+Extensive and hands-on knowledge with Linux operating systems (Ubuntu, CentOS, etc.)
+Highly familiar with Computer Network (TCP/IP, DNS, etc.), Computer Organisations, and OS
+Hands-on experience with at least one of the programming languages: Bash, Python, Go
+Strong analytical and problem-solving skills with the ability to thrive in a dynamic work environment
+Passionate and possess a strong sense of responsibility
+Fast learning ability and a good team player
+Agile and detail-oriented
+
+Skills Below Are Optional But Preferred
+
+Experience with automation tools like Ansible, SaltStack
+Experience with monitoring tools like Prometheus, Zabbix, Grafana etc
+Experience with load balancing tools like LVS, Nginx, Openresty or HAProxy
+Experience with container technology such as Docker, Kubernetes
+Experience with High Availability system design and Server Deployment Process
+Experience with SRE
+Experience with Ops Paas platform or Ops automation platform (ie:CMDB)"
+3784057584,Site Reliability Engineer (Marketplace) - Sea Labs,https://www.linkedin.com/jobs/view/3784057584,Shopee,https://www.linkedin.com/company/shopee/life," "," ",26,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQE0iX_dgdH7nA/company-logo_100_100/0/1672279162763/shopee_logo?e=1712188800&v=beta&t=YOOfP8buLRx8UmTaRks5zte1XLjE_Srdn7i45b-zmOU,"Shopee is the leading e-commerce platform in Southeast Asia and Taiwan. It is a platform tailored for the region, providing customers with an easy, secure and fast online shopping experience through strong payment and logistical support.
+
+Shopee aims to continually enhance its platform and become the region’s e-commerce destination of choice via ongoing product optimisation and localised user-centered strategies.
+
+Shopee, a Sea company, was first launched in Singapore in 2015, and has since expanded its reach to Malaysia, Thailand, Taiwan, Indonesia, Vietnam and the Philippines. Sea is a leader in digital entertainment, e-commerce and digital financial services across Greater Southeast Asia. Sea's mission is to better the lives of consumers and small businesses with technology, and is listed on the NYSE under the symbol SE.
+
+The Shopee team is rapidly expanding across the region and we are constantly on the lookout for talents who have the passion and drive to become part of a fast-moving and dynamic team. Do check out our career website http://careers.shopee.sg/ for our available positions!
+…
+show more","About The Team
+
+The Engineering and Technology team is at the core of the Shopee platform development. The team is made up of a group of passionate engineers from all over the world, striving to build the best systems with the most suitable technologies. Our engineers do not merely solve problems at hand; We build foundations for a long-lasting future. We don't limit ourselves on what we can or can't do; we take matters into our own hands even if it means drilling down to the bottom layer of the computing platform. Shopee's hyper-growing business scale has transformed most ""innocent"" problems into huge technical challenges, and there is no better place to experience it first-hand if you love technologies as much as we do.
+
+About Team
+
+The mission of SRE (Site Reliability Engineer) team is to ensure the efficient and sustainable operation of Shopee 24x7, as well as to build and maintain large-scale, highly available, high-performance distributed systems based on system availability and performance. It is formed by combining traditional software engineering and technical operation. The SRE team needs to dive deep into the Shopee development lines to ensure that the system is highly scalable under rapid evolution of the System. From the perspective of stability and performance, it includes the design of business development, components of the basic platform (middleware, container scheduling, caching, object storage, etc.), OS optimization, data center and network optimisation. We optimise the inefficient and complicated operation in the traditional operation and maintenance mode through engineering and service means, and are committed to building a sound monitoring system to improve the efficiency of incident handling.
+
+Job Description
+
+Deep dive into development lines, learn and understand the mechanism of every application component, and promote product scalability, stability, and performance
+Set up, manage, and maintain Shopee product/middleware/big-data applications and services
+Perform regular and ad-hoc server-side deployments, make improvements of the performance, and troubleshoot
+Design and develop automated technical operation platform
+Manage Capacity and Resource
+Responsible for the full-chain stress test to enhance the performance and remove redundancy of applications
+Prepare routine operation documentation
+
+Requirements
+
+Bachelor's degree or above in Computer Science, Engineering, Information Systems or related fields
+More than 2 years of relevant experience (candidates with no working experience are welcomed to apply)
+Extensive and hands-on knowledge with Linux operating systems (Ubuntu, CentOS, etc.)
+Highly familiar with Computer Network (TCP/IP, DNS, etc.), Computer Organisations, and OS
+Hands-on experience with at least one of the programming languages: Bash, Python, Go
+Strong analytical and problem-solving skills with the ability to thrive in a dynamic work environment
+Passionate and possess a strong sense of responsibility
+Fast learning ability and a good team player
+Agile and detail-oriented
+
+Skills Below Are Optional But Preferred
+
+Experience with automation tools like Ansible, SaltStack
+Experience with monitoring tools like Prometheus, Zabbix, Grafana etc
+Experience with load balancing tools like LVS, Nginx, Openresty or HAProxy
+Experience with container technology such as Docker, Kubernetes
+Experience with High Availability system design and Server Deployment Process
+Experience with SRE
+Experience with Ops Paas platform or Ops automation platform (ie:CMDB)"

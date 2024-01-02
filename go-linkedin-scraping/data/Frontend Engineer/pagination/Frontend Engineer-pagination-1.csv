@@ -1,0 +1,1384 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3633367937,Lead/Staff Software Engineer – Front End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3633367937,Agoda,https://www.linkedin.com/company/agoda/life," "," ",209,,Full-time,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1712188800&v=beta&t=Uch6o32VIVJnqd5pOyN6ISz8TvEijuYR_vC1w3EK8HQ,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team
+
+Agoda ha s several teams in front-end focusing on different aspects of our products including accommodations, flights, payments, marketing, post-booking services, and more. Agoda’s marketplace is the world. We build localized and optimized user experiences at scale on every major internet platform . These include our mobile websites, native apps, and desktop sites. We hire people from around the world who have a passion for using technology to create and implement the best user experiences. Our front-end teams work on building user interfaces and integrating them with our back – end services to provide a seamless user experience. Our products are always evolving and under experimentation ; w e accomplish this by having a modularized approach, a utomating everything we can and optimizing our continuous delivery processes . By embracing data-driven practices and measuring our results, we foster a culture of innovation and constant improvement in our work.
+
+We are looking for technical leaders like you who are passionate about their craft, thrive in a collaborative environment, and are driven to deliver high-quality solutions with a strong sense of ownership to push the boundaries of technology. Join our team and be part of a company that values innovation, encourages professional growth, and fosters a supportive and inclusive work culture.
+
+The Opportunity
+
+Lead / Staff engineer is the key role in our technology organization working together with individual contributors and senior leadership. Our lead engineers are heavily involved in the hiring and mentoring process and are the go-to people who design and implement new systems and components. We are looking for people who are passionate to take on more responsibility and driving major architectural changes in Agoda. It’s expected from you in this role as Lead / Staff engineer to push Agoda forward technically by adopting new technologies and setting higher standards.
+
+In this Role, you’ll get to:
+
+ Maintain ownership and responsibility of mission critical systems. 
+ Be hands on – build high volume platforms using cutting-edge technologies like React , C# and Kotlin 
+ Mentor and coach other software engineers 
+ Be a major contributor to our agile and scrum practices and perform code reviews on the systems your teams own 
+ Design and lead crucial technical projects and initiatives cross teams and departments 
+Stay on the leading edge of technical know-how , industry trends and drive technical 
+
+ What you’ll Need to Succeed: 
+
+ Ove rall 5+ years of experience in front-end development. At least 3 + years of experience in developing web applications in client-side frameworks such as React, Angular, VueJS, etc. 
+ B.S. in Computer Science or quantitative field; M.S. optional 
+ Working experience with agile, analytics, A/B testing, GIT Flow 
+ Excellent HTML/CSS skills – you understand not only how to build the data, but how to make it look great too 
+ 3 + years’ experience developing performance-critical applications that run in a production environment using one of the backend languages/frameworks such as .NET, Java, Scala, Kotlin, Rust, NodeJS, Go or Python 
+ Excellent understanding of the JavaScript language and ecosystem including front-end build tools (Webpack, Babel) and package managers (npm, Yarn) 
+ Experience in all aspects of client-side performance optimization 
+Ability to guide the team on best frontend practices 
+ Experience mentoring junior engineers to help them unleash their full potential 
+ Great communication and coordination skills 
+Excellent analytical thinking and problem-solving skills
+You have a good command of the English language
+
+It’s Great if you have:
+
+ Knowledge in physical architecture at scale, building resilient, no single point of failures, highly available solutions 
+ Strong experience in all aspects of client-side performance optimization 
+ Proficiency in modern coding and design practices. For example, Clean Code, SOLID principals, and TDD 
+ Working Experience with Containers and Dockerization , also K8S is a plus 
+ Experience working on an app or internet company that is at scale with large numbers of users and transactions per second 
+ E xperience working in a data driven company with experience analyzing and working with Big Data 
+ Experience leading teams and greenfield projects solving large system problems 
+ Experience working on global projects serving world markets with distributed data centers and localization of the front end and data 
+
+This position is based in Bangkok, Thailand (Relocation Provided)
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #ENG #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3759247352,Quality Assurance Automation Engineer,https://www.linkedin.com/jobs/view/3759247352,VLink Inc,https://www.linkedin.com/company/vlink-inc/life," ",2 weeks ago,175,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQHAMUYx5jqZ1w/company-logo_100_100-alternative/0/1630643463375/vlink_inc_logo?e=1712188800&v=beta&t=WLhr_Wt5-dRVCiaFHGC92H_YO4qHYUhlR2dv1b-osN0,"VLink Inc. is a global software engineering and IT staffing partner, delivering innovative solutions with the most highly vetted expert software development teams. We leverage the latest technologies and the best IT talent to drive business growth for Fortune-500, Large and SMB clients by delivering a customized, personal approach, to ensure their unique technology needs are met.
+Founded in 2006, VLink takes pride in our highly revered workforce whose productivity, tech agility, and expertise produce transformative customer success stories year-after-year.
+
+Why Choose VLink?
+- 98% Customer Satisfaction
+- 5+ Delivery Locations with Onshore/Offshore/Nearshore IT Talent
+- 17+ Years of Software Engineering Excellence
+- 500+ Software Engineers & Consultants
+- 150+ Global Fortune-500, Large & SMB Clients Served
+- 2 days TAT for Presenting Candidates on New Hiring Requests
+
+
+Our core competencies and global service offerings include:
+*DIGITAL TRANSFORMATION & CONSULTING*
+(Data & Analytics| DevOps & Automation| Blockchain, AI/ML, IoT| Re-engineering Legacy Apps | Enterprise Portal Upgrades & Migrations)
+
+*CUSTOM SOFTWARE DEVELOPMENT & MAINTENANCE*
+(Web & Mobile Apps| Product Engineering| Maintenance & Support| QA & Testing)
+
+*DEDICATED TEAMS & IT STAFF AUGMENTATION*
+(Delivery Centers Onshore, Offshore & Nearshore| Short & Long-term Assignments| 24x7 Time Zone Alignment| Attrition Management| Speedy delivery)
+
+
+**AWARD-WINNING WORKFORCE**
+- Inc Magazine 500/5000 Fastest Growing Privately Owned Companies
+- Connecticut’s 40 Fastest-Growing Tech Companies by Connecticut Technology Council’s Marcum TT 40
+- Consistent Top Five Winner of Hartford Business Journal’s Best Places to Work in CT (2023)
+- Great Place to Work® Certified™ 2023
+- 2023 Best Software Development Companies in Hartford CT, by Expertise.com
+
+***OUR INTELLECTUAL PROPERTIES***
+- SimplyEDI
+- VLinkCare
+…
+show more","Job Description
+Designing and developing test automation scripts.
+Using test automation guidelines.
+Researching issues in software through testing.
+Collaborating with QA Analysts and Software Developers to develop solutions.
+Keeping updated with the latest industry developments
+Prepare data and configure automation testing tool according to test scenario
+Minimum Qualifications
+Bachelor's degree in computer science, software development, or a related field.
+Previous experience as a test automation engineer (Selenium, Appium, Katalon Studio), webdriver.io
+Performance Testing using tools e.g : Jmeter,
+Proficiency in programming languages such as C# and Java.
+Excellent mathematical and problem-solving skills.
+Highly accurate and detail-oriented.
+Strong analytical and planning skills;
+Good communication and presentation skills;
+Excellent problem-solving skills;"
+3763122844,"Systems Engineer - Commercial, Indonesia",https://www.linkedin.com/jobs/view/3763122844,Palo Alto Networks,https://www.linkedin.com/company/palo-alto-networks/life," "," ",157,,On-site,,"10,001+ employees · Computer and Network Security",https://media.licdn.com/dms/image/C560BAQFZg72Sfni4SA/company-logo_100_100/0/1657225156841/palo_alto_networks_logo?e=1712188800&v=beta&t=v58xlvr1E1lc_6YrGkG2oof3TRX0m1C5RMJ4HEAYZdc,"Palo Alto Networks, the global cybersecurity leader, is shaping the cloud-centric future with technology that is transforming the way people and organizations operate. Our mission is to be the cybersecurity partner of choice, protecting our digital way of life. We help address the world's greatest security challenges with continuous innovation that seizes the latest breakthroughs in artificial intelligence, analytics, automation, and orchestration. By delivering an integrated platform and empowering a growing ecosystem of partners, we are at the forefront of protecting tens of thousands of organizations across clouds, networks, and mobile devices. Our vision is a world where each day is safer and more secure than the one before. For more information, visit www.paloaltonetworks.com.
+…
+show more","Company Description
+
+Our Mission
+
+At Palo Alto Networks® everything starts and ends with our mission:
+
+Being the cybersecurity partner of choice, protecting our digital way of life.
+
+Our vision is a world where each day is safer and more secure than the one before. We are a company built on the foundation of challenging and disrupting the way things are done, and we’re looking for innovators who are as committed to shaping the future of cybersecurity as we are.
+
+Our Approach to Work
+
+We lead with flexibility and choice in all of our people programs. We have disrupted the traditional view that all employees have the same needs and wants. We offer personalization and offer our employees the opportunity to choose what works best for them as often as possible - from your wellbeing support to your growth and development, and beyond!
+
+Job Description
+
+Your Career
+
+As a Pre-Sales Systems Engineer, you are an important member of our technical sales team, identifying complex security challenges in your customers’ networks and driving solutions with our market-leading security products and services.
+
+You are the technical sales representative of the company and focus on customer satisfaction with all that you do. You and your sales partner own the customer relationship and your goal is to help them detect and prevent advanced cyberattacks and breaches while safely enabling applications by deploying the full Palo Alto Networks platform so that they can confidently pursue network, cloud, and mobile technology initiatives.
+
+Your Impact
+
+Understand and effectively present our security platform and solutions
+Work closely with Commercial customers & partners in Indonesia
+Create and deliver compelling demonstrations of Palo Alto Networks products and solutions
+Educate customers and partners on the modern network security landscape
+Identify and qualify new opportunities and support technical pre-sales activities to opportunity closure
+Expand the Palo Alto Networks install base within existing accounts
+Enable and leverage channel partners and work successfully in a channel-driven sales model
+Create evaluation test plans with customers and lead the evaluation process to a successful conclusion
+Differentiate from industry technologies and solution
+Assist customers through the support escalation process
+Continuous self-improvement and learning to maintain current technical knowledge and participate in technical communities of interest
+Identify problems in customer environments - effectively engages customers at the technical field and technical management levels
+Effective in customer-facing engagement, in writing, presentation, and creative problem-solving skills
+
+Qualifications
+
+Your Experience
+
+BSCS or equivalent or equivalent military experience required and 6+ years of experience as a Pre-Sales Systems Engineer or Solution Consultant or Sales Engineer or Systems Integrator
+Pre-sales experience handling Commercial customers & partners in Indonesia
+Demonstrable experience with systems installation, configuration, and administration of routers/switches, UNIX/Linux and Windows-based systems (prior Active Directory/LDAP experience desirable)
+Experience emphasizing L2-L4 Networking (L2 Switching architectures including Spanning Tree, IP routing including OSPF and BGP, L4 Load-balancing)
+Industry knowledge of security and network product and technology trends
+Experience selling, demonstrating, installing and/or solving network infrastructure security products
+Extensive domestic travel within the territory is often required, and international travel may be required as necessary
+Experience selling network infrastructure based security appliances including, but not limited to - Firewalls, SSL/IPSec VPNs, Security Proxies and Caches
+Practical experience working with routing and switching products that will be installed adjacent to our appliances
+Strong communication and presentation skills, both written and verbal
+Strong analytical skills, ability to analyze complex multivariate problems and use a systematic approach to gain quick resolution
+
+Additional Information
+
+The Team
+
+As part of our Systems Engineering team, you’ll support the sales team with technical expertise and guidance when establishing trust with key clients. You won’t find someone at Palo Alto Networks that isn’t committed to your success – with everyone pitching in to assist when it comes to solutions selling, learning, and development. As a member of our systems engineering team, you are motivated by a solutions-focused sales environment and find fulfillment in working with clients to resolve incredible complex cyberthreats.
+
+Our Commitment
+
+We’re trailblazers that dream big, take risks, and challenge cybersecurity’s status quo. It’s simple: we can’t accomplish our mission without diverse teams innovating, together.
+
+We are committed to providing reasonable accommodations for all qualified individuals with a disability. If you require assistance or accommodation due to a disability or special need, please contact us at accommodations@paloaltonetworks.com.
+
+Palo Alto Networks is an equal opportunity employer. We celebrate diversity in our workplace, and all qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or other legally protected characteristics.
+
+All your information will be kept confidential according to EEO guidelines."
+3785276921,"Senior Software Engineer, Fullstack",https://www.linkedin.com/jobs/view/3785276921,Grab,https://www.linkedin.com/company/grabapp/life," ",2 weeks ago,52,,On-site,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_100_100/0/1630575649647/grabapp_logo?e=1712188800&v=beta&t=LiVprA_nhthcshlCZ9nefFuRlvv-7yPlWzXhmwynrW0,"Grab is Southeast Asia’s leading superapp, offering a suite of services consisting of deliveries, mobility, financial services, enterprise and others. Grabbers come from all over the world, and we are united by a common mission: to drive Southeast Asia forward by creating economic empowerment for everyone.
+
+At Grab, every Grabber is guided by The Grab Way, which explains our mission and the operating principles on how we can achieve it together. We call these principles the 4Hs:
+
+Heart
+We work together as OneGrab to serve communities in Southeast Asia
+
+Hunger
+We work to understand ground truths and drive improvements, big and small
+
+Honour
+We keep our word and steward our resources wisely to build and sustain trust
+
+Humility
+We are a constant work-in-progress, and we never stop learning to get better
+…
+show more","Company Description
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Job Description
+
+Get to know the Team
+
+The Nexus team is part of the Automation and Platform Excellence (APEX) family and works on building services to improve developer productivity. The team is currently working on building a platform to enable a unified user experience for tools and documentation utilized by engineers to develop and operate the software ecosystem within Grab.
+
+Get to know the Role
+
+Our work has a direct impact on the productivity and the culture of our company. You will have visibility into every other engineering team and their systems, and you will engage in helping them.
+
+The Day-to-Day Activities
+
+Lead project development as engineering owner, working closely with product managers to understand the requirements, propose solutions and coordinate dependencies
+Design and write with NodeJS, Typescript, Golang, Python and other languages to write code that build on the unified platform for internal tools.
+Build and deploy performant cloud based backend services.
+Engage in service capacity and demand planning, software performance analysis, tuning and optimization
+Collaborate with designer and stakeholders to finalize feature specifications, build prototypes
+Participate in code and design reviews to maintain our high development standards
+Join on-call rotations to debug production issues and improve system stability.
+Write high quality, bug-free, reusable, maintainable code both in frontend and backend
+End-to-end development of your team’s products including ownership of the team’s infrastructure using Terraform, building and scaling back-end services, building intuitive and performant web applications as well as performing root cause analysis investigations.
+
+Qualifications
+
+The Must-Haves
+
+Working experience on backend development for 5+ years
+Strong computer science fundamentals in algorithms and data structures
+Familiarity with both backend and frontend programming
+Hands-on familiarity with databases and at least one data query language like MySQL or Presto
+Strong understanding of system performance and ability to do profiling to find system bottlenecks
+Strong understanding of testing frameworks for unit testing
+Hands-on familiarity with CI/CD pipelines for system development and deployment
+Familiarity with containerization (Kubernetes and Dockerfile)
+You can be a good coder in any language (C++, C, Java, Scala, Rust, Haskell, OCaml, Erlang, Python, Ruby, PHP, Node.JS, C#, etc.), but willing to work on Golang and NodeJs, Typescript
+Fluent in spoken and written English
+Good communication skills, and a proactive mindset
+Able to think critically of the current system in terms of growth and stability
+
+The Nice-to-Haves
+
+Hands-on experience with React/Redux
+Hands-on experience with Go programming language
+Hands-on experience with AWS/Azure
+
+Additional Information
+
+Our Commitment
+
+We recognize that with these individual attributes come different workplace challenges, and we will work with Grabbers to address them in our journey towards creating inclusion at Grab for all Grabbers"
+3791742682,Software Engineer (Web) (Ukirama),https://www.linkedin.com/jobs/view/3791742682,Dealls – Jobs & Mentoring (YC W22),https://www.linkedin.com/company/dealls/life," ",,6,,On-site,,201-500 employees,https://media.licdn.com/dms/image/D560BAQHWQbrRd1zJSw/company-logo_100_100/0/1681113001266/deall_logo?e=1712188800&v=beta&t=bfIKi87gyFPKPX92SaBJW0H7Ea7HN7QOKK8G-t9IZ9s,"Dealls – Jobs & Mentoring (YC W22) is the fastest way for professionals to get job offers from top companies. Simply drop your CV, sit back, and wait for offers from 450+ companies to come to you. Experience the new way of job-seeking with 3 unique features from Dealls:
+• #cvAnalyzer. Know your CV ranking compared to other candidates
+• #jobAssistant. Dealls' automatic service finds you relevant jobs, best suited to your experience & career preferences
+• #antiGhosting. You are guaranteed to receive a response to your job application within max. 14 days
+
+Bukalapak, TikTok, Kapal Api Group, Telkom, Bank BTPN Jenius, IDN Media, and 450+ others have already started using us to hire. We are Indonesia's #1 Best App of Google 2021.
+…
+show more","🙌🏻 About Us
+UKIRAMA is a company with a bunch of passionate and humble professionals who are continuously striving to provide the best business solution utilizing state-of-the-art software to solve real world business problems. We provide Enterprise Resource Planning (ERP) for companies. 
+
+💰Salary
+Very competitive
+
+👑 Job Role
+Develop end-to-end features and functionality for the company's B2B SaaS platform
+Collaborate with business analysts, UI UX designers, and CTO to translate user requirements into technical specifications
+Build and maintain scalable databases and optimize queries for performance
+Implement front-end interfaces using JavaScript, HTML, CSS, and relevant frameworks
+Write efficient and modular code that adheres to best practices and coding standards
+Conduct thorough testing and debugging to ensure high-quality software delivery
+Ensure seamless deployment and ongoing maintenance of the application
+Stay updated with emerging technologies and industry trends, suggesting improvements and enhancements to the platform
+Participate in software development processes, including task planning and retrospectives
+
+⛩️ Requirements
+Bachelor's degree in Computer Science, Engineering, Information System, or a related field
+Have 3-5 years of experience as a Software Engineer / Ruby on Rails Developer or equivalent work experience
+Strong proficiency in Ruby on Rails development, including experience with Ruby language and Rails framework
+Solid understanding of front-end technologies, such as JavaScript, HTML, CSS, and relevant frameworks (e.g., Angular, Vue.js)
+Familiarity with database systems like PostgreSQL or MySQL and experience with query optimization and performance tuning
+Knowledge of version control systems, such as Git
+Experience with test-driven development (TDD) and writing automated tests
+Strong problem-solving and analytical skills
+Excellent communication and collaboration abilities
+
+🎁 Perks
+THR / Bonus system
+Period Leave
+Casual Dress Code
+Competitive Salary
+Medical Insurance
+Free Food / Snacks
+Team Building Activity
+Company Outings"
+3792496178,System Engineer,https://www.linkedin.com/jobs/view/3792496178,Tech Data APAC,https://www.linkedin.com/company/techdata-apac/life," ",1 week ago,61,,On-site,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D560BAQEjJjN96Had0A/company-logo_100_100/0/1666642604340/innovixdistribution_logo?e=1712188800&v=beta&t=MfZ_rSiOpGJQunjwICQ9CDi7GLmDQhu2JrTwHjaL6uA,"We’re Tech Data, A TD SYNNEX Company, a leading distributor and solutions aggregator for the IT ecosystem.
+We are part of 22,000 of the IT industry’s best and brightest, who share an unwavering passion for bringing compelling technology products, services and solutions to the world. We’re an innovative partner that helps our customers maximize the value of IT investments, demonstrate business outcomes and unlock growth opportunities.
+At our core, we’re a company that cares. We care about our partners, our co-workers, our investors and the world around us. And we’re committed to being a diverse, inclusive employer of choice and a good corporate citizen.
+…
+show more","Responsibilities:
+
+ Determine the scope based on requirements, including stating the scope of work, calculating the resources required in delivering the service and advising the senior system engineer preparing the quotation
+ Install and configure services as per the approved implementation plan
+ Carry out technology, professional and maintenance support services as per scope within the stipulated duration/ timeline
+ Provide level 1 support (basic hardware break-fix & troubleshooting of hardware and software issues ) for installed services
+ Provide technical deliverables such as high level design document, user acceptance test (UAT) doc and as-built documentation
+ Provide outstanding quality of service and meet predefined customer service level agreement (SLAs)
+ Undergo technical trainings and obtain technical certifications that are required to meet suppliers’ mandatory technical requirements
+ Conduct knowledge transfer training (where required)
+
+Knowledge, Skills and Experience:
+
+ Minimum 3 years of relevant experience
+ Certified in at least one of the technology domain (Infrastructure hardware and software, hyperconvergence, network, security, cloud and/or end user computing)
+ Strong technical knowledge on the assigned solution domain/product
+ Knowledge of product portfolio in other technology domain is desirable
+ Expertise in enterprise products implementation, migration and support.
+ Strong interpersonal skills with a customer-centric attitude
+ Strong oral and written communication skills
+ Strong attention to technical details, priority management and planning skills
+ Ability to work independently with little to no supervision
+ Results-oriented
+ Strong documentation skills
+
+What’s In It For You?
+
+Elective Benefits: Our programs are tailored to your country to best accommodate your lifestyle.
+Grow Your Career: Accelerate your path to success (and keep up with the future) with formal programs on leadership and professional development, and many more on-demand courses.
+Elevate Your Personal Well-Being: Boost your financial, physical, and mental well-being through seminars, events, and our global Life Empowerment Assistance Program.
+Diversity, Equity & Inclusion: It’s not just a phrase to us; valuing every voice is how we succeed. Join us in celebrating our global diversity through inclusive education, meaningful peer-to-peer conversations, and equitable growth and development opportunities.
+Make the Most of our Global Organization: Network with other new co-workers within your first 30 days through our onboarding program.
+Connect with Your Community: Participate in internal, peer-led inclusive communities and activities, including business resource groups, local volunteering events, and more environmental and social initiatives.
+
+Don’t meet every single requirement? Apply anyway. 
+
+At Tech Data, a TD SYNNEX Company, we’re proud to be recognized as a great place to work and a leader in the promotion and practice of diversity, equity and inclusion. If you’re excited about working for our company and believe you’re a good fit for this role, we encourage you to apply. You may be exactly the person we’re looking for!"
+3777876893,Senior Site Reliability Engineer,https://www.linkedin.com/jobs/view/3777876893,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",3 weeks ago,50,,Remote,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1712188800&v=beta&t=KiMK5dldtc5f2TmwzCeVEw2RrHLUW1qYX7yx2XLVTMI,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.
+…
+show more","About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3786182985,Senior Site Reliability Engineer,https://www.linkedin.com/jobs/view/3786182985,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",3 weeks ago,50,,Remote,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1712188800&v=beta&t=KiMK5dldtc5f2TmwzCeVEw2RrHLUW1qYX7yx2XLVTMI,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.
+…
+show more","About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3710124081,Senior Site Reliability Engineer,https://www.linkedin.com/jobs/view/3710124081,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",3 weeks ago,50,,Remote,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1712188800&v=beta&t=KiMK5dldtc5f2TmwzCeVEw2RrHLUW1qYX7yx2XLVTMI,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.
+…
+show more","About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3771282430,Senior Site Reliability Engineer,https://www.linkedin.com/jobs/view/3771282430,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",3 weeks ago,50,,Remote,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1712188800&v=beta&t=KiMK5dldtc5f2TmwzCeVEw2RrHLUW1qYX7yx2XLVTMI,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.
+…
+show more","About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3680687869,Senior Site Reliability Engineer,https://www.linkedin.com/jobs/view/3680687869,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",3 weeks ago,50,,Remote,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1712188800&v=beta&t=KiMK5dldtc5f2TmwzCeVEw2RrHLUW1qYX7yx2XLVTMI,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.
+…
+show more","About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3780612276,Senior Site Reliability Engineer,https://www.linkedin.com/jobs/view/3780612276,DKATALIS,https://www.linkedin.com/company/dkatalis/life," ",3 weeks ago,50,,Remote,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1712188800&v=beta&t=KiMK5dldtc5f2TmwzCeVEw2RrHLUW1qYX7yx2XLVTMI,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.
+…
+show more","About DKatalis
+
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+
+
+About the role
+The SRE Team at DKatalis is a 24/7 operation in charge of maintaining the digital platform that serves Bank Jago’s system and services. You'll experience a mix of activities from optimizing Kubernetes to maintaining systems uptime, to debugging production issues and running runbooks to mitigate potential production issues. One of the key objectives of the SRE teams is to constantly improve and uphold the reliability of our digital platform, our software release such as deployment processes and automation of recurring tasks. You should have a strong software engineering background and have the opportunity to collaborate with various software squads in building up a reliable digital platform.
+
+Technologies We Use:
+Cloudflare, Google Cloud - GKE, Kubernetes, Tyk API Gateway
+Gitlab, Terraform
+NodeJS, Java, Redis, Mongo, Kafka, Kotlin
+Dynatrace, Pagerduty
+
+Role and Responsibilities:
+Participate in SRE software engineering, writing code for the continuing reduction of human intervention in operational tasks and automation of processes.
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience with good coding practice.
+You have an analytical approach to identifying problem components based on data points. Reliability of systems & applications is your core passion.
+The team will be responsible for analyzing systems based on data points to identify workloads that are critical to the business.
+Comfortable working cross-functionally to ensure success of the system’s operation. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Contribute to prioritization of reliability features and contribute to the design, development and delivery of effective tooling, alerts, and automated responses to identify and address reliability risks.
+Contribute to proactive technical communication of reliability, stability and efficiency results (based on Service Level Objectives), service health (via dashboards) key reliability risks and issues to senior business and technology stakeholders – to prioritize activity (based on trend analysis) and direct investment and action.
+
+Requirements:
+You are either a Software Engineer with real interest, and ideally some experience in Linux systems, networking, monitoring and automation; or an experienced sysadmin or systems engineer with professional skills in Linux, preferably on distributed systems at scale, and a demonstrable interest and experience in using software engineering to solve operational problems.
+Comfortable writing software to automate API-driven tasks at scale. Cloud Tooling engineers primarily use NodeJS and /or Java and Go are also key languages in our environment.
+Experience automating the build and deployment of software products, and understand the related challenges in distributed systems.
+Excellent communication (both verbal and written). The ability to communicate confidently and clearly on conference calls, in meetings, via email, etc. at all levels of the organization is essential.
+Ability to quickly and clearly communicate incident status via email in business friendly language
+8+ years experience in software development and/or SRE functions with at least 3 years in a senior/lead capacity
+Degree in Computer Science, Engineering, or equivalent experience.
+Experience and advanced understanding of Observability, CI/CD and release management.
+Well-rounded broad knowledge of OS platforms (Linux/UNIX), Networking, Web Systems and Dev Ops
+Experience working with large-scale distributed systems with understanding of microservices architecture concepts
+Strong organizational skills and the ability to effectively manage multiple tasks simultaneously
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3680691214,Web Senior Developer,https://www.linkedin.com/jobs/view/3680691214,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3777544536,Web Senior Developer,https://www.linkedin.com/jobs/view/3777544536,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3790100167,Web Senior Developer,https://www.linkedin.com/jobs/view/3790100167,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3788217807,Web Senior Developer,https://www.linkedin.com/jobs/view/3788217807,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3791123732,Web Senior Developer,https://www.linkedin.com/jobs/view/3791123732,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3786883361,Web Senior Developer,https://www.linkedin.com/jobs/view/3786883361,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3783351042,Web Senior Developer,https://www.linkedin.com/jobs/view/3783351042,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3783351019,Web Senior Developer,https://www.linkedin.com/jobs/view/3783351019,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",346,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products used in local, networked, cloud-based, or Internet-related computer programs.
+
+Code may be used in commercial or end-user applications, such as materials management, financial management, HRIS, mobile apps, or desktop applications products.
+
+Using current programming language and technologies, writes code, completes programming, and performs testing and debugging of applications.
+
+Completes documentation and procedures for installation and maintenance.
+
+May interact with users to define system requirements and/or necessary modifications.
+
+Working at NTT
+
+The primary responsibility of the Software Applications Development Engineer is to develop new applications and improve upon existing ones that will our client and business needs.
+
+Key Roles and Responsibilities:
+
+Develop applications that effectively accomplish client objectives and user needs.
+
+Design and write code for applications and maintain applications databases.
+
+Analyze and edit existing software applications to improve and optimize functionality, fix problems, and enable their use on new hardware platforms.
+
+Remodel and adapt applications as needed to optimize performance.
+
+Identify specific customer and client needs and preferences related to the application.
+
+Test applications extensively to ensure they are error and bug-free.
+
+Install applications and act as technical advisor.
+
+Communicate with relevant internal technical stakeholders to obtain information on project limitations, performance requirements, and interfaces.
+
+Consult with clients in the design phase to determine client needs.
+
+Produce software documentation following company software process and templates.
+
+Participates in software product review meetings and team meetings.
+
+Knowledge, Skills, and Attributes:
+
+Broad understanding of computer science, with specific knowledge of computer programming, application design, and user-focused features
+Creative problem solvers
+Good interpersonal, communication, and organizational skills
+Good team players and maintain the integrity and display good attention to detail
+Ability to understand and analyze complex systems
+Proficient in writing software using the Java Programming Language and a standard object library
+Sound knowledge of software development process
+Familiarity with agile development such as Scrum
+Knowledge of software integrated development environments
+Extensive knowledge in various programming languages (Java, Perl, Python, C++, etc.)
+Demonstrated analytical, organizational, and project management skills, using relevant information to make timely and critical decisions that affect cross-functional teams
+Ability to handle client and customer issues tactfully and professionally
+
+Academic Qualifications and Certifications:
+
+Bachelor's degree in computer science or software engineering
+Relevant certifications
+
+Required Experience:
+
+Software Applications Engineering, Software Development experience, or related work experience
+Experience with Programming Languages such as C, C++, Java, Python, etc. 
+Experienced with Linux or Unix and Windows operating systems
+Experience working with SQL
+Project management experience and/or experience working in an Agile environment
+
+What will make you a good fit for the role?"
+3788883049,Infrastructure Engineer - Open for Referral Program,https://www.linkedin.com/jobs/view/3788883049,PT INEOS Aromatics Indonesia,https://www.linkedin.com/company/pt-ineos-aromatics-indonesia/life," ",2 weeks ago,206,,On-site,,201-500 employees · Chemical Manufacturing,,,"This job includes REFERRAL PROGRAM, please help to make sure Candidate and INEOS Aromatics Employee access and submit required data entry in the following Forms
+https://forms.office.com/e/p8tY5z7qay
+  
+Purpose of the role
+As an Infrastructure Engineer, you will establish, maintain, and provide the engineering support needed to connect and configure Microsoft servers and enterprise networks. Additionally, Installs, configures, monitors, troubleshoots, and manages networking equipment (switches, routers, wireless access points, servers) for data, voice, wireless, video, virtual server, and virtual desktop network infrastructures and services inside offices, within buildings, between buildings, and at remote locations.
+Contributes to the development and continual improvement of the change management process. Follows documented change management processes to complete all changes. Documents accurately all changes including adjusting monitoring tools and alerts, production systems, test systems, and others.
+
+
+
+Key results/Accountabilities expected from the role
+Essentials duties and responsibilities
+Supports both operational and engineering functions across the site, concurrently.
+Works with technicians and network support partners
+Prepares and maintains operational and technical documentation.
+Troubleshoots and maintains infrastructures 24/7
+Performs other duties and assists with special projects as needed.
+Management and installation of the Storage Area Network
+Design and management of the virtual environment
+Administration of virtual servers and storage
+Administration of daily backups
+Management and testing of the Disaster Recovery Plan
+Maintaining all SDWAN devices, firewalls, WAPs, and VPN appliances
+Switch configuration and management
+Network monitoring resolution of network issues
+Administration of Active Directory, DNS and Group Policy
+Management of Windows patching for servers and workstations
+Management and Administration of infrastructure related to the LAN and WAN
+Ensure Change Management processes are adhered to for all major infrastructure changes.
+Oversee network security and implement security policies.
+Engage vendors as needed for specific software, hardware, or project needs relating to infrastructure.
+Oversee projects related to areas of responsibility.
+Other duties as assigned.
+
+Solid working knowledge
+Azure
+Network Devices
+In-depth knowledge and experience with VMware
+Familiarity with Linux operating systems
+
+
+
+Any Other Relevant Information
+We are currently going through a process of moving from a fully out-sourced service delivery to an in-house delivery team. This role is key in setting up the in-house team along with processes and systems to meet the IT demands of the businesses on the site.
+While this role has primary responsibility for the Americas and Asia regions the expectation is that the Infrastructure Engineer operate as a virtual team and provide out of hours coverage for requests in other time zones.
+
+
+
+Experience & Expertise
+Level of Education & Experience in general
+Bachelor's degree in an IT-related field. Equivalent experience will be considered in lieu of education.
+
+Experience in Chemicals/Manufacturing industry preferred.
+7+ years’ work experience in Windows/VMware systems management in a moderate environment, with knowledge in clustering, NAS, SAN, and low latency technologies
+Sound understanding of the impact of IT on the INEOS business, or similar organization.
+Ability to structure and restructure network infrastructure based on enterprise requirements.
+CCNA (Routing and Switching/Security/Data Centre)
+
+
+Technical Skills
+Strong network trouble shooting
+Experience with Cisco Routers and Switches preferred.
+Strong hands-on support, deployment, and Disaster Recovery procedures
+Possess a strong understanding of IT concepts including network structures, operating system capabilities and application architecture requirements.
+Strong understanding of core infrastructure technologies required by the enterprise that will be supported.
+
+Behavioral Skills
+Ability to manage multiple tasks and conflicting priorities and work under pressure to tight timescales.
+Excellent customer service and communication skills with strong emphasis on telephone skills
+Ability to break down complex problems, evaluate technical processes and apply appropriate operations for specific tasks.
+The ability to think creatively and apply brainstorming techniques for developing projects, initiatives and solutions are also highly important for working effectively as an infrastructure engineer.
+Ability to effectively prioritize & execute tasks in a high-pressure environment.
+Self-reliant and demonstrates a flexible approach.
+Excellent analytical and problem-solving abilities.
+Experience working in a team-oriented, collaborative environment.
+
+
+
+
+ Economic dimensions associated with role
+Support Americas Region: number of users around 900 users.
+Number of peripherals to support: more than 300 (network switches, router, core switches, firewalls, servers, etc.).
+Number of Third Parties: 6 to 10."
+3784492941,Web Developer Back End,https://www.linkedin.com/jobs/view/3784492941,FTL Gym,https://www.linkedin.com/company/ftl-gym/life," ",1 week ago,327,,On-site,,51-200 employees · Wellness and Fitness Services,,,"Kandidat yang ideal adalah pemecah masalah kreatif yang akan bekerja dalam koordinasi dengan tim lintas fungsi untuk merancang, mengembangkan, dan memelihara situs web dan alat web generasi berikutnya. Anda harus merasa nyaman bekerja sebagai bagian dari tim sambil mengambil inisiatif untuk memimpin inovasi dan proyek baru.
+
+TANGGUNG JAWAB
+Ubah desain web kode khusus PHP.
+Buat kode sumber yang dirancang dengan baik dan sesuai dengan standar web yang diterima.
+Memperbaiki website yang ada sesuai dengan kebutuhan perusahaan.
+Kemampuan untuk bekerja dengan baik di bawah tekanan dan mengatur waktu secara efektif.
+Kemampuan untuk bekerja secara mandiri atau dalam tim.
+
+KUALIFIKASI
+Pendidikan minimal S1 Ilmu Komputer atau setara.
+Pengalaman kerja minimal 1-2 tahun di bidang web developer.
+Pemahaman yang Diperlukan tentang integrasi API, PHP/MySQL, Javascript, CMS, CodeIgniter, XHTML, CSS, Payment Gateway.
+Berpengalaman dalam Istirahat API Penuh.
+Konsumsi API Bangunan Berpengalaman.
+Pahami CI/CD yang Digunakan.
+Berpengalaman dalam membuat website seperti ERP/CRM.
+Pemahaman tentang RDBMS (qlserver, mysql).
+WFO Senin – Jumat di Kantor Pusat, Bendungan Hilir, Jakarta Pusat."
+3733184519,[ODS] Software Engineer - Backend,https://www.linkedin.com/jobs/view/3733184519,Gojek,https://www.linkedin.com/company/gojek/life," "," ",748,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",,,"About The Role
+
+At Gojek, engineering is central to everything we do to bring cheer to the lives of millions. In this role, you will be part of Gojek’s transport engineering team, building some of the most critical products for our consumers. Your ownership, drive, and passion would help provide for a world-class user experience and stability of Transport products for mobility or people and packages.
+
+The person should be passionate about maintaining a clean and maintainable codebase. Your primary focus will be the development of distributed systems and services that are fault-tolerant, highly performant, and responsive to high throughput client requests.
+
+What You Will Do
+
+Own product development on functional and non-functional requirements, OKRs, and improvements to code quality across the team
+Develop low latency, high throughput systems with minimal guidance
+Be responsible for ensuring the quality and timeliness of deliverables for the team
+Be a motivated learner when it comes to technology and share learning with wider audiences
+Own the entire lifecycle of feature development, test, deployment, fixes and improvements
+Work with tech leads, product managers and other stakeholders to continuously work towards progressing on the group’s and organization’s goals
+Write code that is clear, concise, performant, tested and easily understood by others
+Communicate, collaborate and work effectively across cross-functional teams in a global environment
+
+What You Will Need
+
+Strong understanding around computer science fundamentals like operating systems, networking and databases 
+Understanding and having working knowledge of any object oriented programming language, common data structures, algorithms and design patterns
+Ability to pick up new technologies
+Strong understanding of linux concepts 
+Past work on any of golang, ruby, python, java or similar is appreciated
+Having an attitude of questioning the current why things work the way they do and interest in deep diving into internals will really help a lot
+Providing and accepting positive criticism and feedback
+Basic understanding of cluster orchestrators and schedulers such as Kubernetes will be a strong plus 
+Ability to understand and implement Continuous Integration and Continuous Delivery will be a bonus as well
+Contribution in open source projects, GSOC, MWOS or hands on exposure in other open source / CNCF related projects will help set you apart. 
+
+About The Team
+
+Our Transport team is a big family of 100+ members made up of engineers and product managers spread out across Jakarta, Bangalore, Singapore, and Vietnam. We run Southeast Asia’s leading and fastest-growing ride-hailing business and oversee all things related to our riders and driver-partners' needs in daily transport and work daily to create solutions to these issues. It’s our job to ensure that our Transport services run seamlessly from the inside out.
+
+You get to work with an insanely driven and proud team of engineers who deliver fundamental functionality to enable multiple products within Gojek Mobility organization dealing with scenarios at a really interesting combination of scale and complexity. We are at the heart of mobility engineering R&D - at one hand the team takes big bets that can entirely change the way the rest of the engineering team does product development; on the other hand you are also responsible and get to get your hands dirty on the foundational infrastructure layer where we manage our own GKE and IaaC setup for rest of the Transport engineering teams.
+
+We, the Transporters, know how to work hard and play hard. Though working from home has been a significant change, it hasn’t made work boring - in fact, we’ve been enjoying this new work setup more than we expected! When we aren’t busy working, you’d probably find us playing online games like Among Us and Sketchful, or catching up with each other on our virtual hangouts. We work as a team to get our job done well, and genuinely enjoy each other's company.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, e-commerce, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek, Tokopedia and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+About Tokopedia
+
+Tokopedia is an Indonesian technology company with a mission to democratize commerce through technology. It has been a driving force behind Indonesia's digital development since its foundation in 2009, with more than 99% of districts and empowered around 12 million merchants listed nationwide. With Nakama ranging all across Indonesia, Tokopedia aims to simplify the lives of many to #FindYourPurpose together.
+
+GoTo and its business units, including Gojek, Tokopedia, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3790454774,Senior Web Application Developer,https://www.linkedin.com/jobs/view/3790454774,Pacific Garden,https://www.linkedin.com/company/pacific-garden/life," ",1 week ago,245,,On-site,,201-500 employees · Real Estate,,,"We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment.
+
+Who We Are Looking For
+Experience in developing modern web application and mobile application.
+Familiar and good knowledge with front end language (HTML5, CSS, Javascrip).
+Familiar and good knowledge with PHP Framework (Codeigniter,Laravel,etc).
+Familiar and good knowledge with mobile application (Flutter, React,etc).
+Familiar and good knowledge with REST API.
+Proficiency with database technology such as PostgreSQL/MySQL.
+Great attention to detail
+Organizational skills
+An analytical mind
+good leadership
+
+What You'll Be Doing
+Design, develop, test and maintain web applications.
+Work in cross functional team with product owner, UI/UX, QA.
+Deliver web applications with high quality and on time delivery.
+Ensuring responsiveness of application.
+Responsible for the application from the process of design creation until the implementation 
+
+Website : https://pacificgarden.co.id/"
+3787001431,Site Reliability Engineer (Credit) - Sea Labs,https://www.linkedin.com/jobs/view/3787001431,Shopee,https://www.linkedin.com/company/shopee/life," ",2 weeks ago,68,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",,,"About The Team
+
+The Payment team, best known for their flagship product: ShopeePay, aims to develop a mature, world-class payment platform connecting individuals and businesses within Shopee ecosystem. Beyond ShopeePay, the Team also connects with a large number of local financial institutions to serve billions of Shopee and SeaMoney users across the different markets.
+
+Together, we aim to reach the forefront of cashless payment technology by providing a more accessible, secure and reliable payment network that empowers individuals as well as micro, small and medium enterprises around the globe.
+
+Job Description
+
+Deep dive into development lines, learning and understanding the mechanism of every application component, and promoting product scalability, stability and performance
+Setup, manage and maintain Shopee product/middleware/big-data applications and services
+Perform regular and ad-hoc server-side deployments, performance fine-tuning and troubleshooting
+Design and develop automated technical operation platform
+Capacity and Resource management
+Responsible for the full-chain stress test to enhance the performance and remove redundancy of applications.
+Prepare routine operation documentation
+
+Requirements
+
+Bachelor's or higher degree in Computer Science, Engineering, Information Systems or related fields
+Less than 1 year of experience welcomed
+Extensive and hands-on knowledge with Linux operating system (Ubuntu, CentOS, etc.)
+Knowledge of Computer Network (TCP/IP, DNS, etc.)
+Hands-on experience with at least one of the programming languages: Bash, Python, Go
+Strong analytical and problem-solving skills with the ability to thrive under pressure
+Passionate and possesses a strong sense of responsibility for work
+Fast learning and a good team player
+Detailed-oriented, cautious and prudent
+Passionate about technical operations of internet products, Linux OS and OpenSource"

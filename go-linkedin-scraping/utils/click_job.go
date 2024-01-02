@@ -37,31 +37,33 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 	numTabs := numJobsInt / 25
 	log.Print("Number of tabs: ", numTabs)
 
-	for i := 0; i < numTabs; i++ {
+	for i := 7; i < numTabs; i++ {
 		log.Print("Tab: ", i+1)
 		var jobsThisTab []types.Job
-		// Click pagination button
-		paginationButton, err := (*driver).FindElement(selenium.ByCSSSelector, fmt.Sprintf("li[data-test-pagination-page-btn='%d'] button", i+1))
+
+		// Scroll container with class "jobs-search-results-list" to the bottom to load all the jobs
+		err = WaitForJobsAndClickFirst(driver, jobName)
 		if err != nil {
 			return err
 		}
 
-		paginationButton.Click()
-		log.Print("Clicking pagination button...")
+		paginations, err := (*driver).FindElements(selenium.ByCSSSelector, "li.artdeco-pagination__indicator")
+		if err != nil {
+			return err
+		}
+
+		// Click pagination button
+		paginationButton, err := (*driver).FindElement(selenium.ByCSSSelector, fmt.Sprintf("li[data-test-pagination-page-btn='%d'] button", i+1))
+		if err != nil {
+			// Click the last minus one pagination button
+			paginations[len(paginations)-2].Click()
+			log.Print("Clicking the last minus one pagination button...")
+		} else {
+			paginationButton.Click()
+			log.Print("Clicking pagination button...")
+		}
 
 		time.Sleep(3 * time.Second)
-		// Scroll container with class "jobs-search-results-list" to the bottom to load all the jobs
-		err = ScrollToBottom(driver, "jobs-search-results-list")
-		if err != nil {
-			log.Fatal("Error:", err)
-		}
-		log.Print("Scrolling to bottom...")
-
-		err = ScrollToTop(driver, "jobs-search-results-list")
-		if err != nil {
-			log.Fatal("Error:", err)
-		}
-		log.Print("Scrolling to top...")
 
 		jobs, err := (*driver).FindElements(selenium.ByCSSSelector, ".jobs-search-results__list-item")
 		if err != nil {
@@ -82,14 +84,31 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 				}
 				newJob.ID = int64(jobIdInt)
 			}
-			newJob.JobURL = fmt.Sprintf("htthttps://www.linkedin.com/jobs/view/%s", jobId)
+			newJob.JobURL = fmt.Sprintf("https://www.linkedin.com/jobs/view/%s", jobId)
 			log.Print("Job URL: ", newJob.JobURL)
 
 			jobs[j].LocationInView()
 
-			jobs[j].Click()
+			for i := 0; i < 5; i++ {
+				jobs[j].Click()
+			}
+
+			err = ScrollToBottom(driver, "div.scaffold-layout__detail.overflow-x-hidden.jobs-search__job-details > div")
+			if err != nil {
+				return err
+			}
 
 			time.Sleep(2 * time.Second)
+
+			for {
+				if err := extractAboutTheJob(driver, &newJob); err != nil {
+					log.Print("Error: ", err)
+					jobs[j].Click()
+					time.Sleep(2 * time.Second)
+				} else {
+					break
+				}
+			}
 
 			jobDescriptionContainer, err := (*driver).FindElement(selenium.ByCSSSelector, ".job-details-jobs-unified-top-card__primary-description-container")
 			if err != nil {
@@ -156,13 +175,6 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 				if companyTypeText, err := companyType.Text(); err == nil {
 					newJob.CompanyType = companyTypeText
 					log.Print("Company type: ", companyTypeText)
-				}
-			}
-
-			if aboutTheJob, err := (*driver).FindElement(selenium.ByCSSSelector, "#job-details > span"); err == nil {
-				if aboutTheJobText, err := aboutTheJob.Text(); err == nil {
-					newJob.AboutTheJob = aboutTheJobText
-					// log.Print("About the job: ", aboutTheJobText)
 				}
 			}
 
@@ -241,6 +253,58 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 	if err := SaveToCSV(&jobsThisProfession, jobName, fmt.Sprintf("./data/%s", jobName)); err != nil {
 		return err
 	}
+
+	return nil
+}
+
+func extractAboutTheJob(driver *selenium.WebDriver, newJob *types.Job) error {
+	// Find the element containing the job details
+	aboutTheJob, err := (*driver).FindElement(selenium.ByCSSSelector, "#job-details > span")
+	if err != nil {
+		return err
+	}
+
+	// Extract the text content of the element
+	aboutTheJobText, err := aboutTheJob.Text()
+	if err != nil {
+		return err
+	}
+
+	// Assign the extracted text to the Job object
+	newJob.AboutTheJob = aboutTheJobText
+
+	return nil
+}
+
+func WaitForJobsAndClickFirst(driver *selenium.WebDriver, jobName string) error {
+	// Wait for the last job list to load with a timeout
+	err := (*driver).WaitWithTimeout(func(wd selenium.WebDriver) (bool, error) {
+		lastJobList, _ := wd.FindElements(selenium.ByCSSSelector, ".jobs-search-results__list-item:nth-child(25)")
+
+		if lastJobList != nil {
+			return true, nil
+		}
+
+		log.Print("Waiting for the last job list to load...")
+		return false, nil
+	}, 10*time.Second)
+
+	if err != nil {
+		return err
+	}
+
+	// Scroll to the bottom to ensure all jobs are loaded
+	err = ScrollToBottom(driver, ".jobs-search-results-list")
+	if err != nil {
+		return err
+	}
+	log.Printf("First Scrolling to bottom...")
+
+	err = ScrollToTop(driver, ".jobs-search-results-list")
+	if err != nil {
+		log.Fatal("Error:", err)
+	}
+	log.Print("Scrolling to top...")
 
 	return nil
 }
