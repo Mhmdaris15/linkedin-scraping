@@ -1,111 +1,38 @@
 id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
-3789563381,Senior Software Engineer,https://www.linkedin.com/jobs/view/3789563381,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",4 days ago,27,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
+3792904691,Lead Full Stack Developer,https://www.linkedin.com/jobs/view/3792904691,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",1 day ago,29,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
 
 At Staffing Ninja, we are committed to building long-term relationships with our clients and candidates. Our goal, among other industry experts, is to help our clients achieve their business objectives by providing them with the best talent available through our headhunting service and to help our candidates take their careers to the next level with the best AI jobs.
 
-Find your next career opportunity in the AI space, contact us today!
-…
-show more","(JavaScript - Nodejs, Express, Typescript)
+Find your next career opportunity in the AI space, contact us today!","Roles & Responsibilities:
+Creating front-end website architecture.
+Crafting user interactions on web pages.
+Building back-end website applications.
+Establishing servers and databases for functionality.
+Ensuring cross-platform optimization for mobile devices.
+Guaranteeing the responsiveness of applications.
+Collaborating with graphic designers for web design elements.
+Overseeing a project from inception to completion.
+Designing and developing APIs.
+Addressing both technical and consumer requirements.
+Keeping up to date with advancements in web applications and programming languages.
 
-Job Responsibilities:
-Lead and actively participate in designing, developing, testing, and maintaining software applications and systems.
-Provide technical leadership and mentorship to junior team members, guiding them in best practices and fostering their professional growth.
-Write high-quality, efficient, and maintainable code, often focusing on resolving complex technical challenges.
-Lead or actively participate in code reviews to ensure code quality, consistency, and adherence to coding standards.
-Identify and address performance bottlenecks, optimizing code and systems for improved speed and efficiency.
-Maintain comprehensive technical documentation, including system architecture, code comments, and documentation to aid in understanding and maintaining the software.
-Collaborate closely with cross-functional teams, such as product managers, designers, and quality assurance, to deliver software products that meet business requirements.
-Ensure software is developed with security best practices in mind, addressing vulnerabilities, and safeguarding user data.
-Provide ongoing support, maintenance, and bug fixes for released software, addressing technical debt and legacy code.
-Effectively communicate technical concepts and project status to non-technical stakeholders.
+Skills & Requirements:
+2+ years of experience as a Full Stack Developer.
+Bachelor's degree in computer science.
+Strong organizational and project management abilities.
+Proficiency in core front-end languages like HTML, CSS, and JavaScript.
+Knowledge of Web3 technologies is advantageous.
+Familiarity with JavaScript frameworks such as AngularJS, React, and Amber.
+Proficiency in server-side languages such as Python, Ruby, Java, PHP, and .Net.
+Understanding of database technology including MySQL, Oracle, and MongoDB.
+Experience in developing CI/CD pipelines and deploying applications using cloud services such as AWS.
+Strong problem-solving skills and attention to detail.
 
-Experience and Knowledge:
-Typically requires a Bachelor’s degree in a relevant field and a minimum of 8 years of related experience; or an advanced degree with 6+ years of experience; or equivalent related work experience.
-Web development experience (Javascript - Nodejs, Express, Typescript).
-Development experience, including proficiency in at least one programming language (preferably Python, Go) and scripting. Database expertise, particularly in SQL.
-Familiarity with DevOps practices, including CI/CD and pipelines.
-Knowledge of cloud platforms, such as AWS, as well as containerization and HashiCorp tools like Nomad and Terraform.
-Strong experience debugging complex web application issues through code review and detailed logs.
-Excellent communication and teamwork skills, especially with highly technical team members."
-3789549110,Senior Software Engineer,https://www.linkedin.com/jobs/view/3789549110,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",4 days ago,31,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
-
-At Staffing Ninja, we are committed to building long-term relationships with our clients and candidates. Our goal, among other industry experts, is to help our clients achieve their business objectives by providing them with the best talent available through our headhunting service and to help our candidates take their careers to the next level with the best AI jobs.
-
-Find your next career opportunity in the AI space, contact us today!
-…
-show more","Job Responsibilities:
-- Lead and actively participate in designing, developing, testing, and maintaining software applications and systems.
-- Provide technical leadership and mentorship to junior team members, guiding them in best practices and fostering their professional growth.
-- Write high-quality, efficient, and maintainable code, often focusing on resolving complex technical challenges.
-- Lead or actively participate in code reviews to ensure code quality, consistency, and adherence to coding standards.
-- Identify and address performance bottlenecks, optimizing code and systems for improved speed and efficiency.
-- Maintain comprehensive technical documentation, including system architecture, code comments, and documentation to aid in understanding and maintaining the software.
-- Collaborate closely with cross-functional teams, such as product managers, designers, and quality assurance, to deliver software products that meet business requirements.
-- Ensure software is developed with security best practices in mind, addressing vulnerabilities, and safeguarding user data.
-- Provide ongoing support, maintenance, and bug fixes for released software, addressing technical debt and legacy code.
-- Effectively communicate technical concepts and project status to non-technical stakeholders.
-
-Experience and Knowledge:
-- Typically requires a Bachelor’s degree in a relevant field and a minimum of 8 years of related experience; or an advanced degree with 6+ years of experience; or equivalent related work experience.
-- Web development experience (Javascript - Nodejs, Express, Typescript).
-- Development experience, including proficiency in at least one programming language (preferably Python, Go) and scripting. Database expertise, particularly in SQL.
-- Familiarity with DevOps practices, including CI/CD and pipelines.
-- Knowledge of cloud platforms, such as AWS, as well as containerization and HashiCorp tools like Nomad and Terraform.
-- Strong experience debugging complex web application issues through code review and detailed logs.
-- Excellent communication and teamwork skills, especially with highly technical team members."
-3791156833,Android Developer - Yogyakarta,https://www.linkedin.com/jobs/view/3791156833,PT K-24 Indonesia,https://www.linkedin.com/company/pt-k-24-indonesia/life," ",1 day ago,45,,On-site,,"501-1,000 employees · Pharmaceutical Manufacturing",https://media.licdn.com/dms/image/C510BAQFWdcAjxcRY7A/company-logo_100_100/0/1630567716672?e=1712188800&v=beta&t=mjSN3vv5GvfKvCrvNAI2RiJDsfcEjyVPB8vZhjKPH54,"Apotek K-24 adalah jaringan apotek waralaba nasional yang memiliki banyak cabang di Indonesia. Apotek ini pertama kali berdiri pada tanggal 24 Oktober 2002 di Yogyakarta, Indonesia. Apotek K-24 dikelola oleh PT. K-24 Indonesia yang didirikan oleh dr. Gideon Hartono.
-
-Berdiri tahun 2002, dalam kurun waktu 15 tahun Apotek K-24 telah berkembang hingga lebih dari 400 gerai yang tersebar di 105 kota/kabupaten dan 24 provinsi di Indonesia. Pengembangan Apotek K-24 di seluruh Indonesia dilakukan secara franchise atau waralaba maupun dengan membuka gerai sendiri (company owned). Dalam perjalanannya, Apotek K-24 selalu berusaha untuk mencetak prestasi dalam memberikan pelayanan terbaik bagi masyarakat Indonesia. Puluhan penghargaan telah diraih oleh Apotek K-24, salah satunya sebagai Apotek Asli Indonesia yang Pertama Kali Diwaralabakan hingga mendapatkan penghargaan sebagai Apotek Waralaba Terbaik di Indonesia.
-
-Saat ini Apotek K-24 berusaha menjadi Sobat Sehat bagi masyarakat dalam melayani kebutuhan obat-obatan dengan praktis melalui layanan apotek online K24Klik. Layanan apotek Online K24Klik mempermudah masyarakat untuk memesan obat via aplikasi dan obat dapat diantar langsung ke alamat dari gerai Apotek K-24 terdekat.
-
-Untuk informasi franchise lebih lanjut, hubungi hotline franchise Apotek K-24 di 08-1212-01-2424 atau kunjungi http://www.apotek-k24.com/franchise.
-…
-show more","Company Description: Job Description:
-
- Mendesain dan membangun aplikasi seluler untuk platform Android
- Memastikan kualitas dan kinerja dari aplikasi sesuai spesifikasi
- Mengidentifikasi potensi masalah dan menghatasi hambatan aplikasi
- Memperbaiki bug yang ada di aplikasi sebelum rilis
- Berkomunikasi dengan pihak ketiga mengenai integrasi API
- Berkomunikasi dengan Tim Pengembang (Developer Team) mengenai kode sumber dan pengembangan aplikasi
- Membangun hubungan bisnis dengan pihak ketiga, khususnya dalam sektor IT
- Dapat menjadi penghubung dalam menjelaskan proses pemrograman, pengembangan, dan kode sumber kepada atasan di luar negeri
- Mampu menjelaskan pengembangan produk baik secara internal dan eksternal
- Mampu memelihara dan memonitor ulasan aplikasi Android untuk mendeteksi area yang perlu diperbaiki"
-3779655557,Full-stack Web Developer,https://www.linkedin.com/jobs/view/3779655557,Harnods,https://www.linkedin.com/company/harnods/life," ",3 weeks ago,9,,On-site,,11-50 employees · Design Services,https://media.licdn.com/dms/image/C560BAQF3TffdCbvZLw/company-logo_100_100/0/1661059752780/harnods_logo?e=1712188800&v=beta&t=0LRLy3h-Lul_kLQJqbRuSbnp1fYN4hcnAwPfLPB5k44,"Harnods started back in February 2004, as a freelancer that produces exceptional world-class design for website and mobile app. Moving as a full service web, digital marketing and product agency, we’ve enjoyed all its ups and downs. Giving us countless lessons, achievements and a great sense of gratitude towards our ever growing team.
-
-We take great pride in what we have achieved so far, but we never stop ourselves from striving for better quality, across all aspects of Harnods. We are always experimenting, improving and learning, from creating better solutions by design, to excellent client satisfaction.
-
-Since 15 years ago we’ve launched and scaled all kinds of SaaS businesses for Governments, Fortune 500 companies, leading VCs and tech startups. We are the digital marketing and product agency that is specialists in B2B SaaS product design and strategy. We also fund, launch and grow our own SaaS businesses.
-…
-show more","Description
-
-NightOwl / Harnods is a digital and web development agency based in Singapore, Indonesia and Malaysia. We have been serving small and medium businesses in growing their online sales and marketing for the past 8 years. To further expand our offerings to our Clients, we are developing and launching an exciting SAAS product in 2022, and are looking for a Full Stack Ruby Developer to join our team.
-
-In this role, you will be an integral player in our Software Development team in Indonesia. Your main objective will be to develop our final product, a SAAS solution that enables small and medium businesses to build recurring subscription revenue. You will be working extensively with our Product Manager and Lead Designer in seeing the project from conception to final product.
-
-Responsibilities
-
-Write great quality, scalable and maintainable code
-Work with designers, other engineers and product owners to develop,implement features and ship the product, while considering maintainability, security and performance.
-Participate in scrum sessions and be able to deliver according to Sprint deadlines.
-Planning and documenting technical specifications for features or system design.
-
-Requirements
-
-Bachelor degree in Computer Science or equivalent.
-At least 2 years experience with Ruby On Rails (ROR), Javascript and REST APIs
-Proficient understanding of code versioning tools (Git, Github)
-Solid understanding of object-oriented programming and the concept of MVC and RESTful
-Basic understanding of front-end technologies, such as JavaScript, HTML5 and CSS3.
-Understanding of the fundamental design principles behind designing, developing and implementing a scalable cloud application.
-Familiar with AWS cloud deployment, and able to handle deployment to EC2, S3 etc.
-Positive, open-minded, driven and have a collaborative personality
-Have a penchant for solving complex and interesting problems
-A developer-at-heart attitude 
-Collaborate and communicate with designers in defining and shipping features in a well-defined time period."
-3778358606,Full-Stack Engineer,https://www.linkedin.com/jobs/view/3778358606,Turing,https://www.linkedin.com/company/turingcom/life," ",4 weeks ago,2,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+Good to have:
+Familiarity with Web 3 is advantageous.
+Proficiency in English is required.
+Basic proficiency in both spoken and written Chinese (Cantonese and Mandarin) or Japanese is beneficial."
+3798033136,AI Application Developer (Python),https://www.linkedin.com/jobs/view/3798033136,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
 
 Traditional recruiting is over. Welcome to the Talent Cloud.
 
@@ -130,287 +57,84 @@ Apply today: turing.com/jobs
 —----------------------
 Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
 
-Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
-…
-show more","A rapidly-growing company that is on a mission to develop a world-class technology platform is looking for a Full-Stack Engineer. The engineer will be working in bursts of tremendous intensity interspersed with rest intervals. For a domain-specific application, the company is creating a platform with features akin to Instabase's AI Hub. This is a great opportunity for candidates who are eager to work in a dynamic environment while juggling multiple responsibilities.
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Immerse yourself in a domain where code and boundless innovation merge, giving birth to the very essence of the AI realm of tomorrow. We’re more than just a company; we’re a global tech phenomenon, weaving the future of captivating chatbots straight from the realms of science fiction. In search of a Python Developer — a coding prodigy, agile, scalable, and deeply acquainted with the world of AI.
 
-Job Responsibilities:
+If you’re a modern-day tech virtuoso eager to embark on AI and ML-laden adventures, where collaborative innovation sparks, welcome to your platform.
 
-Develop a functionality centered on document talking by utilizing ChatGPT, Anthropic, or other LLM APIs
-Proactively integrate Chat APIs, paying particular attention to conversation history preservation
-Learn about creating simple SQL schemas in Redis and PostgreSQL for simple web application objects
-Emphasize quick development for a demo rather than rushing into scaling optimization
-Prepare to work swiftly and intensely, and have a strong distaste for premature optimization
-Be eager to follow a product lead's instructions
+Your Odyssey Awaits:
 
-Job Requirements:
+Craft durable, adaptive code embodying the intelligence of AI and scaling effortlessly like cloud architecture.
+Participate rigorously in code reviews, upholding the standards of pristine, efficient codebases.
+Leverage cutting-edge Python libraries to decode and streamline intricate challenges with precision.
+Be the guardian of your code, ensuring it's not just functional but represents industry best practices for data-driven AI development.
 
-Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
-At least 5+ years of relevant experience as a full-stack engineer
-Prolific experience working with React, Vue.js, SQL, and LLM
-Familiarity with REST/RESTful APIs and GraphQL is preferred
-Nice to have some understanding of PostgreSQL and Redis
-Ability to create original Figma user interface screens (material UI, etc.)
-Competent in maintaining a stable state for web applications with several pages
-Ability to create features that maintain and control user workspaces
-Demonstrable track record of successfully deploying authentication solutions using Auth0 services
-In-depth knowledge of front-end build tools and compilers, such as Webpack, Babel, or Parcel, which optimize load speeds and performance of applications
-Excellent spoken and written English communication skills"
-3676186123,Senior Software Engineer Backend,https://www.linkedin.com/jobs/view/3676186123,Prakerja,https://www.linkedin.com/company/kartu-prakerja/life," ",6 months ago,205,,On-site,,51-200 employees · Government Relations Services,https://media.licdn.com/dms/image/C560BAQGW-21rH0P2ig/company-logo_100_100/0/1675853003615/kartu_prakerja_logo?e=1712188800&v=beta&t=HWPzTwYTcYbKDQ-tfhnHWMk6RbJx1jsdk8pvzOfjYYY,"Program pengembangan kompetensi kerja (skilling, upskilling, dan reskilling) dan kewirausahaan bagi angkatan kerja Indonesia berbasis end-to-end digital.","At Kartu Prakerja, the Software Engineer role is at very critical to run the business process of the company. We are looking for a Senior Software Engineer Backend passionate about build a reliable workflow system that runs smoothly despite of heavy user traffic! You will join a dynamic and fast-paced environment and work with cross-functional teams to design, build and roll out the product that delivers the organisation’s vision and strategy.
+Your Arsenal and Attributes:
 
-Job Descriptions
+Hold a tech degree, consistently evolving skills in the ever-changing tech landscape.
+With 3+ years as a software sage, Python is your tool for backend marvels.
+Masterful in Python, igniting data models, conjuring machine learning magic, and crafting seamless APIs.
+Proficient in SQL, equipped with QA finesse crucial to the DevSecOps domain.
+Familiarity with CI/CD, unit testing, and a history of bug-taming make you a legendary candidate.
+Thrive on solving algorithmic puzzles, transforming colossal data sets into digestible insights.
+Cloud platforms and container orchestration are part of your lexicon.
+Your feats in software development aren't just accolades; they echo in the annals of tech history.
+Your mastery of English bridges the gap between tech enthusiasts and the uninitiated.
 
-Develop a reliable and scalable engineering system and API;
-Develop code and library that easy to maintain and follow clean code best practices;
-Optimise code and application to run with efficient computing resource and maximise the throughput;
-Ensure performance of system through defensive coding with proper logging, monitoring, and alerting;
-Implement security and data protection practice within the system domain
-Identify and improve bottlenecks or bugs in the system domain
-Collaborate with other engineer colleagues like Software Engineer Frontend, DevOps Engineer, Product Manager, Data Engineer, Data Analyst;
+Exclusive Perks and Prospects:
 
-Requirements
+Collaborate with renowned researchers and innovators globally, expanding a network as vast as your aspirations.
+More than a job, it's the dream of a digital nomad with complete remote autonomy. Work where your creativity flourishes.
+Enjoy a competitive USD-based salary, ensuring alignment with global benchmarks.
+Embark on groundbreaking projects that stretch the boundaries of tech, continuously propelling you to the forefront of innovation.
 
-Proficient in Ruby on rails or Golang 
-Have experience developing microservice with GRPC protocol, 
-Have experience with virtualization technology like VM, Docker, Kubernetes;
-Understand of framework like ReactJS, Typescript, Node JS
-Have experience using Cloud Technology like GCP, Aliyun (Alibaba Cloud),
-Understand DDD (Domain Design Driven) and Event driven concept,
-Have experience using event-driven system like Kafka, NSQ, Rabbit MQ, etc,
-Have experience with Database like RDS Postgresql, Mysql, Redis, ElasticSearch for day-to-day operation,
-Understand and can operation CI/CD tools like Gitlab Automation, Jenkins;
+Rise with Us: Answer the call to craft the intelligence shaping tomorrow’s conversational AI. Let's convert 'what if' into 'what is' together! 🚀
 
-Benefits
+Apply Now: Offer a glimpse of your brilliance, and let's revolutionize the techscape, one conversation at a time!"
+3680100928,Senior DevOps Engineer (Tools & Pipeline),https://www.linkedin.com/jobs/view/3680100928,AccelByte,https://www.linkedin.com/company/accelbyte/life," ",,24,,Remote,,201-500 employees,https://media.licdn.com/dms/image/C510BAQGYrJ36kfwe_A/company-logo_100_100/0/1630596575717/accelbyte_inc_logo?e=1712188800&v=beta&t=Bq0ZZiqdoAf-DrRMLC6zWUnPDCNBV9ZK-voXzUgHLZQ,"AccelByte provides a comprehensive white-label backend for game studios to develop, publish, and operate games-as-a-service. Leveraging years of combined experience running large scale game services, we built our technology from scratch to bring AAA-pedigree game services to everyone. We help game studios enable cross-platform play & progression and seamlessly allow crossover between titles. We are a one-stop-shop for online game services.","At AccelByte, our mission is to empower game creators by providing them with the backend platform and tools required to make scalable, reliable AAA-quality games. The company was founded in 2016 by industry veterans who have engineered online systems for some of the largest game and distribution platforms in the world including Fortnite, Epic Store, Xbox Live, PlayStation Network, and EA Origin. We are backed by top investors including Softbank, Sony Interactive Entertainment, Galaxy Interactive, NetEase, and Krafton. Our latest Series B funding has firmly solidified our place as a top player in the gaming industry. AccelByte’s talent has decades of experience building and shipping some of the largest game and distribution platforms in the world.
+We believe that the best companies empower employees to make decisions, obsess about the best user experience, and are not afraid to make and learn from their mistakes. Our culture is based on humility, openness to feedback, drive, and collaboration, which we feel results in the best-performing teams. As a company that values diversity, inclusion, and employee growth, our employees have opportunities to work with and learn from teams all over the world. We offer competitive salaries, a full range of health benefits, social activities, career growth opportunities, and an amazing team. Come join us!
 
-Working with the biggest Innovation Public Services in Indonesia
-Working on the product used by 100 Millions of people in Indonesia from 514 city and district
-Working hybrid (WHF and WFO)\"
-3737991408,Backend Java Developer,https://www.linkedin.com/jobs/view/3737991408,PT Midas Daya Teknologi,https://www.linkedin.com/company/pt-midas-daya-teknologi/life," ",2 months ago,23,,On-site,,51-200 employees · Information Technology & Services,https://media.licdn.com/dms/image/C560BAQEKu3j32HiP2Q/company-logo_100_100/0/1649738293272/pt_midas_daya_teknologi_logo?e=1712188800&v=beta&t=uhk4cB9HBPZXu7aWUml09P1urTcDXbQTMg88m7cgvGA,"PT Midas Daya Teknologi is an IT Consulting, Product and Services company. Our area of business varies in providing expert Consulting Services, Professional Services, Application Development, Infrastructure Management, Big Data Solutions, Project management and Core Banking Transformation.
+POSITION SUMMARY:
+In the role of Senior DevOps Engineer (Tools & Pipeline), you will play a key role in driving our effort to design, implement, and maintain CICD pipeline solutions for production. You’ll be challenged to improve and extend our release pipeline, CI/CD infrastructure, automation, and tooling. You discover requirements and guide other engineers collaborating in an area and do exemplary work on complicated problems. Your expertise will be crucial in streamlining our development pipeline and ensuring efficient delivery of our services.
 
-We are also partnered with Oracle as we have deep knowledge and experience in implementing Oracle FLEXCUBE core banking (Oracle FLEXCUBE Retail or OFCR, Oracle FLEXCUBE Universal Banking Solution, Oracle FLEXCUBE Direct Banking).
-
-Our services:
-
-1. Core Banking Transformation
-2. Infrastructure Management
-3. Application Development
-4. Big Data Offerings
-…
-show more","Collaborate with Application Support Engineer to conduct root-cause analysis as and when needed and propose a corrective action plan.
-Analyze, identify, and learn, do bug fixing, develop/code new features, and/or enhance existing features of applications/microservices.
-Work independently to be able to communicate effectively with users, and development and support teams during downtimes and when there are questions or issues to be addressed.
-
-Minimum Qualifications
-
-2+ years of strong development experience as a production support engineer.
-Experience in Finance (Banking) domain preferred.
-Good knowledge of Java spring boot, Rest API, RDBMS such as PostgreSQL, SQL Server, and Oracle, familiar with No SQL.
-Familiar with Linux, Redis, CI/CD development, Git/Bitbucket, or any source code repository.
-Good knowledge of Agile Development processes and software/tools such as Jira, Confluence, Bitbucket, and Open Shift Container Platform.
-Good point if is familiar with Cloud technologies such as AWS.
-Good debugging skills and experience in production support.
-Good analytical and communication skills and problem-solving.
-Able to work independently as well as a team to solve any technical issues in production."
-3790961052,Full-stack Software Engineer (AI Applications),https://www.linkedin.com/jobs/view/3790961052,CharCentric,https://www.linkedin.com/company/charcentric/life," ",1 week ago,70,,Remote,,1-10 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C4D0BAQEf-uYQHAqs5w/company-logo_100_100/0/1650149855388/charcentric_logo?e=1712188800&v=beta&t=CJkDQ5SQaDtF1oDpcGhkLaWH5RaY3_4uePbWloS5EDI,,"CharCentric is an ambitious technology firm that offers technology consulting and engineering services to emerging and established businesses worldwide.
-
-As part of our strategy to grow and serve more clients, we are looking for an experienced Software Engineer with exceptional qualities.
-
-Tasks
-
-The scope of work involves:
-
-Design and develop full-stack applications using artificial intelligence technologies
-Integrate AI models and algorithms into the software system to enhance functionality and performance 
-Following an internal software development process.
-Performing analysis on requirements to identify potential gaps & dependencies, determine feasibility and time/effort required for designing, implementing, and testing individual components.
-Writing detailed technical requirements.
-Writing technical design documents with UML diagrams.
-Implementing technical designs either solo or in a team.
-Writing good unit, integration and e2e tests.
-Attending internal calls, design meetings and discussions.
-Communicating progress on a daily through meetings, chat and task board.
-Monitoring issues that are reported by our clients.
-Providing technical support to clients when requested.
-
-
-Requirements
-
-CharCentric takes pride in its clients and does its best to ensure all projects not only be completed successfully but also in style. Hence, self-driven engineers with a can-do attitude are critical to our success.
-
-Requirements
-
-3 years of experience at minimum.
-JavaScript and/or TypeScript.
-Python
-ReactJS  and/or NextJS frameworks for front-end.
-Tailwind CSS or similar libraries for UI design implementation
-NodeJS, NestJS and/or .NET Core for back-end.
-SQL Databases (e.g., BigQuery, SQL Server)
-Docker
-Git & Version Control
-System architecture
-Clean Architecture
-Domain Driven Design
-Acceptance Testing
-
-
-AI-Specific Requirements
-
-FastAPI
-LLM Foundational concepts
-Langchain Python (LCEL & Agent chains with tools)
-Llamaindex
-Retrieval Augmented Generation (RAG)
-Vector stores
-
-
-Our ideal candidate is an engineer who can demonstrate:
-
-Great communication skills.
-Great problem-solving skills.
-Working as part of a team, or leadership skills.
-Ability to write and speak English clearly.
-Quick learning and high adaptability.
-Writing high-quality code and delivering high-quality solutions.
-Designing & architecting software according to requirements.
-Experience with databases and writing efficient queries.
-Good handle on client communication.
-
-
-Minimum Qualifications:
-
-A bachelor’s degree in Information Technology, Computer Science, Software Engineering, Computer Engineering or other relevant disciplines."
-3747342450,Software Developer (Training Provided),https://www.linkedin.com/jobs/view/3747342450,GECO Asia Pte Ltd,https://www.linkedin.com/company/gecoasia/life," ",2 months ago,95,,On-site,,51-200 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C510BAQHI-eSBmtMD6w/company-logo_100_100/0/1631426596781/gecoasia_logo?e=1712188800&v=beta&t=z1gc67cqp0x7lG3XWgkNFqz0NxApyL3LAqLPTkud_kg,"GECO Asia is a specialist IT Consultancy Services company based in Singapore, with two delivery centres in the Philippines.
-
-With over 15 years of experience, we have established ourselves as a trusted provider of high-end IT resources in the Asia Pacific marketplace. Originally founded in 2006 as the Asian arm of GECO-Group, a renowned German market leader, we have been operating as an independent company since 2020.
-
-Our expertise lies in ABCD technologies - Artificial Intelligence, Blockchain, Cloud Computing and Data Science / Engineering. We deliver next-gen tech solutions that drive digital transformation, optimising efficiency, fostering innovation, and driving competitive advantage for businesses across the region. We are proud recipients of the SBR Technology Excellence Awards 2023, highlighting our commitment to delivering top-quality services.
-…
-show more","Job Description
-
-Lead the Technical requirement to detailing integration process from Salesforce to another system
-Create Project document for deliverable:
-Technical Design Document / System Integration Architecture
-System Integration Testing (SIT) document
-Training Admin Manual Guide document (Handover to IT Team)
-Data Migration Schema & Data Cutover Strategy document
-Object Relationship Builder
-Deployment Checklist Document
-Create Business Field Logic, Trigger/API/Formula Logic, Reporting UI/UX
-Setup Custom Salesforce Platform (using Lightning Component, LWC, Apex (Classes & Trigger Handlers), Apex Scheduler, Batch Apex, Apex Web Service, Visualforce Page, HTML, JavaScript, Custom Tabs, Custom metadata, Custom settings.)
-Create Test Class for deployment
-
-Specification
-
-Have basic Java/Apex Programing
-Understand how to Developer tools for maintain release/deployment version (Azure Dev, Gitlab, Gitbucket, DMP Code Review)
-Understand how create Figma UI/UX for prototype design
-Have strong SOQL, DB Query, REST API, SOAP Callout)"
-3761139490,DevOps Engineer,https://www.linkedin.com/jobs/view/3761139490,Bumi Amartha Teknologi Mandiri,https://www.linkedin.com/company/amartek/life," ",1 month ago,27,,Contract,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQHIkv344zxyiQ/company-logo_100_100/0/1641375863522/amartek_logo?e=1712188800&v=beta&t=1P7QtYGS7kHrVF-Y1FQMWdQ7MYRTUdduN9PhORoRkAc,"Amartek is System Integrator company that commits to leverage proven domain knowledge and professional expertise to the deliver best value for our clients that are cost effective, innovative with best quality of services for Data & Analytics, Talent Augmentation, Regulatory Reporting and Outcome-based services
-…
-show more","Create build and deployment pipeline from repository to the cloud server, Implement integration with several tools, Develop script or tools to provide automation, Perform troubleshooting and root cause analysis.
-
-Minimum Qualifications
-
-2+ years of experience with AWS and GCP cloud environments.
-2+ years of experience with Docker and Kubernetes
-2+ years of experience in Linux Platform.
-2+ years of experience with programming or similar scripting languages such as: Bash, Python, Perl, YAML, Ansible or CloudFormation.
-2+ years of experience working with DevOps or similar role
-2 years of experience with Jenkins
-Have a broad knowledge of various automation and build tools"
-3762573644,Lead Software Engineer (Indonesia),https://www.linkedin.com/jobs/view/3762573644,Bjak,https://www.linkedin.com/company/bjak/life," ",1 month ago,86,,Hybrid,,51-200 employees · Insurance,https://media.licdn.com/dms/image/D560BAQHLdbu8pvZ5Zg/company-logo_100_100/0/1687510523771/bjak_logo?e=1712188800&v=beta&t=S_nb5hMGACGPA7X65t-o-tliUBYTc3GH4TsbwAgkr-s,"Bjak is focused on providing access to affordable and sustainable financial services for people in ASEAN.
-
-Headquartered in Malaysia, Bjak is the largest insurance portal in Southeast Asia. Our main portal, Bjak.com, helps millions find the insurance policy with the best value and highest coverage for them.
-
-Using technology, our team's core strengths are in problem solving and navigating the most complex regulations and environments, creating some of the most innovative products in the world. For instance, we are the first platform globally to simplify and offer investment-linked life and health insurance online, coupled with an instant talk-to-agent service.
-
-Our investments in technology such as Custom API, blockchain, trading systems and data science is to enable easy access to financial services, that were previously inaccessible or difficult to understand.
-
-If you enjoy building cutting edge platforms and ecosystems to give equal access to financial services for the masses - Speak to us.
-…
-show more","About Us
-
-Bjak is focused on providing access to affordable and sustainable financial services for people in ASEAN. Headquartered in Malaysia, Bjak is the largest insurance portal in Southeast Asia. Our main portal, Bjak.com, helps millions find the insurance policy with the best value and highest coverage for them. Our investments in technology such as Custom API, trading systems and data science is to enable easy access to financial services that were previously inaccessible or difficult to understand.
-
-Join us on this exciting journey as we expand our operations in Indonesia. We're looking for dynamic individuals who share our vision and want to contribute to the next chapter of Bjak's success.
-
-Responsibilities:
-
-Develop high-quality back-end in Node.js for web application
-Familiar with front end JavaScript web technologies such as ReactJS, NextJS or AngularJS
-Maintain and bug fixing for existing backend and web system
-Support internal and external users
-Implement features based on requirements from product owners
-Analyze, fix issues and improve software quality
-Mentor, provide guidance and best practice advice to the team
-
-Requirements
-
-Bachelor’s Degree in Computer Science or equivalent
-Experience in Node.js
-Experience with MongoDB, RestAPI, JavaScript/Typescript, CSS and HTML5
-Passionate about programming and solving problems
-Portfolio of showing a diverse range of web development will be a plus
-Experience in UI/UX and graphic design will be an added advantage
-
-Nice To Have :
-
-Familiarity with TDD / BDD
-Familiarity with Postman
-Familiarity with NodeJS test automation framework, e.g. mocha / chai / selenium / etc
-Web templating language such as Pug or Slim
-
-Benefits
-
-Fast moving, challenging and unique business problems
-Strong learning and development plans for your career growth
-International work environment and flat organization
-Competitive salary
-Flexible working hours & arrangement, Casual work attire"
-3779662211,DevOps Engineer,https://www.linkedin.com/jobs/view/3779662211,PT. Jatelindo Perkasa Abadi,https://www.linkedin.com/company/pt-jatelindo-perkasa-abadi/life," ",3 weeks ago,10,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQFG1z21doFw-g/company-logo_100_100/0/1630651676988?e=1712188800&v=beta&t=q5lNYH8UUOoN9fvdsrAgdX80zwBRSqhEf_OTj2wtxzY,"PT Jatelindo Perkasa Abadi (Jatelindo) founded on 2004. Jatelindo is one of the National Electronic Payment Provider Company that provide payment solutions for partners known as Biller Aggregator with various biller such as Utility (PLN, PDAM, Telkom, etc), Telco provider, Insurance (BPJS Kesehatan, BPJS Tenaga Kerja, Etc), Ticketing Reservation, Installment, and other payment solution. One of the best switching company that engage with all billing providers and financial services industries. Since 2014, Jatelindo have operated with three Data Center with consist of Tier III dan Tier IV to provide service quality with the best performance. Jatelindo has worked with more than 100 distribution network partners and various payment channel such as Delivery Channel Bank,
-Payment Point Online Bank (PPOB) and Modern Retail.
-
-…
-show more","Responsibilities
-
-Mengembangkan & memperbarui rencana proyek teknologi informasi
-Melakukan deployment aplikasi
-Menyiapkan environment/ kebutuhan-kebutuhan lain untuk kelancaran aplikasi production
-Menyiapkan dan melakukan tools untuk monitoring log transaksi maupun performance server
-Melakukan diagnosis/ solving pada error/ trouble di sisi aplikasi maupun environment
-
-Requirements
-
-Pendidikan Min. S1 TI/ SI
-Memiliki pengalaman minimal 1 tahun di bidang yang sama/ relevan, fresh graduate silakan join
-Familiar dengan konsep dasar OS Linux, Centos, Almalinux, Redhat, Microsoft Windows, dan Macintosh
-Familiar dengan Cloud (Alicloud & GCP)
-Familiar dengan tools: KVM, VMWare, Docker, Java, PHP, HAproxy, Grafana, Kibana, dan github
-Familiar dengan Database (MySQL dan MongoDB)
-Familiar dengan LAN & WLAN
-Familiar dengan webserver (apache, nginx)
-Familiar dengan firewall, shell script, dan technical document
-Bertanggung jawab, jujur, dan inovatif
-Memiliki motivasi yang tinggi
-Mampu bekerja secara individu maupun tim
-Teliti"
-3736943366,Full stack developer,https://www.linkedin.com/jobs/view/3736943366,Dikshatek Indonesia,https://www.linkedin.com/company/dikshatek/life," ",2 months ago,64,,On-site,,"501-1,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D560BAQETv3fzwlc2Gg/company-logo_100_100/0/1696481727825/dikshatek_logo?e=1712188800&v=beta&t=8k3YGxtqFOXUrLClbuLWzVynoEIXZ4y5WwD81aNdBRU,Dikshatek Indonesia provides world-class IT Consultants and Solutions to Tier-1 Indonesian Businesses.,"Job Description
-
- Job Description: 
-
-CTC all in 19 mio
-
-Experience of 6-8 years
-
- Mandatory skills
- Java/Golang
- Java Script
- Css
- Good to have
- Node JS
- Mysql data base"
-3792859769,Backend Developer (Kafka/Spring Boot Microservices),https://www.linkedin.com/jobs/view/3792859769,Turing,https://www.linkedin.com/company/turingcom/life," ",2 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+ESSENTIAL FUNCTIONS/RESPONSIBILITIES:
+The Senior DevOps Engineer (Tools & Pipeline) is accountable for the following functions and responsibilities:
+Review, provide feedback, and mentor coworkers on changes to maintain reliability.
+Designing, reviewing, and maintaining the CI/CD and building release pipelines
+Contributing to the automation release process creation and designing
+Identify, propagate, and drive best release practices and processes
+Design and develop infrastructure and operational tasks with scalability and stability in mind.
+Contributing in automating solutions to optimize tasks, improve efficiency, and reduce manual effort.
+Design, implement, and maintain scalable infrastructure and deployment frameworks using K8s and CNCF projects.
+Direct a secure, cost-effective, and scalable cloud platform.
+Initiate and conduct thorough investigations of operational incidents and proactively prevent future issues and designing resilient approaches based on insights from operational incidents for long-term mitigations.
+Collaborate with stakeholders to deliver cost-effective, excellent infrastructure solutions and identify areas for improvement.
+Communicate directly with clients, understanding their needs and providing exceptional support.
+The ability to train and mentor less experienced engineers and set the direction for other engineers.
+Model standards for engineering excellence
+Discover requirements by working with PMs and stakeholders
+Perform interviews for InfraOps Engineer candidates
+Perform other duties as assigned
+ QUALIFICATIONS/EXPERIENCE REQUIRED 
+5+ years of professional infrastructure and operational engineering experience with Linux administration.
+Proven track record of infrastructure as code, configuration management, and package management.
+A desire to create easy-to-use automated workflows that other developers and non-developers can use.
+A relentless focus on improving and refining our entire build and release workflow.
+Experience with Jenkins, Gitlab CI, or similar.
+Proven experience with automation, CI/CD, and GitOps tools.
+Good knowledge of Git, including branching, merging strategies, and version control.
+Eagerness to learn new languages, technologies, and containerization principles (e.g., Docker, Kubernetes).
+Practical knowledge of networking, storage, and container technologies.
+Robust knowledge and experience in cloud computing (preferred AWS/GCP).
+Software development and scripting experience with Bash, Python, and/or Golang.
+Experience in mentoring and setting the direction for other engineers
+Proficiency in written and verbal English language to succeed in a remote work environment
+Flexibility to adjust to work routines/schedules, as required, to meet the needs of the company and expectations of customers
+Previous professional infrastructure or operational experience is preferred.
+Experience at a AAA game studio or software product company preferred.
+Experience working with cloud platforms or web products preferred.
+Experience in a multinational technology startup is a big plus.
+ AccelByte Inc. is an Equal Employment Opportunity Employer, all qualified candidates and applicants will receive consideration for employment without regard to race, religion, gender, national origin, sexual orientation, marital status, age, or disability. Our culture is innovative and inclusive, and we value our people the highest."
+3778352493,Lead Software Engineer,https://www.linkedin.com/jobs/view/3778352493,Turing,https://www.linkedin.com/company/turingcom/life," ",1 month ago,6,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
 
 Traditional recruiting is over. Welcome to the Talent Cloud.
 
@@ -435,78 +159,50 @@ Apply today: turing.com/jobs
 —----------------------
 Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
 
-Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
-…
-show more","A NASDAQ-listed company, renowned for its innovative approach and commitment to technological advancement, is seeking a Web Back-End Developer. This company is at the forefront of its industry, consistently pushing boundaries and setting new standards. The successful candidate will have the opportunity to work on a variety of projects, contributing to the company's ongoing success and growth.
-
-The Web Back-End Developer will be responsible for developing and maintaining robust back-end systems, utilizing their skills in Apache Kafka, Microservices, and Spring Boot. This role offers the opportunity to work in a dynamic and collaborative environment, where innovation and creativity are highly valued.
-
-The company culture promotes continuous learning and development, with a strong focus on innovation and creativity. The successful candidate will be part of a team that is not only passionate about technology but also committed to making a significant impact on the industry.
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","A U.S.-based company that is committed to ensuring that artificial intelligence's transformative potential benefits all people, is looking for a Lead Software Engineer. The engineer will be contributing to continuous code reviews, restructuring to optimize code, and installing software upgrades while maintaining and enhancing the codebase to guarantee its effectiveness and performance. The company is shaping a better future for the coming generation by employing cutting-edge artificial intelligence technology. This company has raised about $2.7 billion in capital thus far.
 
 Job Responsibilities:
 
-Develop and maintain robust backend systems using Apache Kafka, Microservices, and Spring Boot
-Collaborate with cross-functional teams to define, design, and ship new features
-Work on bug fixing and improving application performance
-Continuously discover, evaluate, and implement new technologies to maximize development efficiency
-Ensure the best possible performance, quality, and responsiveness of applications
-Identify and correct bottlenecks and fix bugs
+Document query results and actions for future reference, while also regularly reporting findings to the team lead or project manager
+In order to efficiently browse the codebase and assess the functionality, organization, and effectiveness of the code, one must possess a thorough understanding of Python
+Demonstrate a thorough understanding of search algorithms and methods to perform queries across the codebase, such as locating particular variables, functions, or classes, spotting redundant or wasteful code, etc.
+Take control of troubleshooting, debugging, and coming up with solutions if any problems or defects are found when scanning the codebase
+Provide dependable and efficient response prompts which may entail writing scripts or algorithms that provide answers on their own in response to specific user inputs or questions
+Make sure their work properly connects with the other components if the search queries are part of a larger project
+Stay up to date on Python's latest features and releases at all times to learn how to enhance and optimize their codebase operations
 
 Job Requirements:
 
 Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
-A minimum of 8-10 years of overall experience in the field
-At least 2+ years of experience with Apache Kafka, 4+ years with Microservices, and 2+ years with Spring Boot
-Proven experience in developing and maintaining robust back-end systems
-Strong understanding of software development life cycle (SDLC) and agile methodologies
-Excellent problem-solving skills and attention to detail
-Must be fluent in English and possess strong communication skills"
-3665753152,Lead Software Architect (Backend) - Publicly Owned Company,https://www.linkedin.com/jobs/view/3665753152,Michael Page,https://www.linkedin.com/company/michael-page/life," ",5 months ago,30,,On-site,,"5,001-10,000 employees · Staffing and Recruiting",https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_100_100/0/1688136319954/michael_page_logo?e=1712188800&v=beta&t=4O0RVODg6V1xPGl7glPl0Jyw3rA8n2fNoMuyr4Ro2do,"Welcome to the Michael Page global company profile.
+At least 3+ years of relevant experience as a software engineer
+Prolific experience working with Python, JavaScript, and TypeScript
+Some familiarity with C# and Java is desirable
+Excellent English communication skills, both spoken and written"
+3779659535,Fullstack Developer,https://www.linkedin.com/jobs/view/3779659535,ITOMMEY Group,https://www.linkedin.com/company/itommey/life," ",4 weeks ago,8,,On-site,,51-200 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C510BAQFhqTUX2HLXfA/company-logo_100_100/0/1630632128646/itommey_logo?e=1712188800&v=beta&t=isPFgtYPfsdWNnzOWidrloxRHGl47kVrijwrzq89jZc,"Companies are moving towards to digital era. With that, IT Organizations are racing to be the enabler for all digital services supporting the business. We are here to help companies shape their IT Organization to be ready to adapt all the technologies required for digital transformation.
+We're here not only to be your vendor, but we will be your trustworthy professional partner and your reinforcement to face all the challanges in digital technology. We're equipped with experienced professional people, great technologies also strong with knowledge of IT digital architecture and process.","Responsibilities
 
-Michael Page has five decades of expertise in professional services recruitment. We were established in London in 1976, and over this period we've grown organically to become one of the best-known and most respected consultancies, with an office network spanning six continents.
+Work with developers to design algorithms and flowcharts
+Produce clean, efficient code based on specifications
+Integrate software components and third-party programs
+Verify and deploy programs and systems
+Troubleshoot, debug and upgrade existing software
+Gather and evaluate user feedback
+Recommend and execute improvements
+Create technical documentation for reference and reporting
 
-While size has its advantages, it doesn't define us - the nature of our organic growth means that each new office is integrated into the region that it serves. It also means that as an employer looking to hire, or as a candidate aiming to grow your career you have the best of both worlds; a team that understands the market and geography you operate in, plus the resources and expertise of an international network at your disposal.
+Requirements
 
-Our teams are broken down to focus on industry, assignment type, salary level and location, so your hiring requirements or job search will all be handled by a specialist who knows your sector inside-out. We are confident that our expertise can add value to your recruitment or job search process – get in touch to find out more.
-…
-show more","Design & develop highly available & scalable architecture|Manage team of architects
-
-
-About Our Client
-
-Our client is a well-known, Indonesian, public company with strong market presence and recent plans to transform digitally.
-
-Job Description
-
-The Lead Software Architect will be responsible for:
-Lead and prepare enterprise solutions including architecture, high level impact analysis, sizing and pricing for cloud environment.
-Effectively and objectively research new software technology concepts and tools 
-Lead team and provide mentoring and training to other team members and architects on technologies and processes; drive education and knowledge transfer of design patterns, technical best practices, and relevant technologies and tools
-Investigate outages or degradations in stability or performance
-Perform complex systems analysis and design activities
-Perform architectural review to all development team and changes impact on architecture
-Set design conventions and standards related to: Domain Driven Design, Messaging Architecture, Software Patterns (Unit-of-Work, Dependency Injection, Inversion of Control, others), Unit Testing, Test Driven Development (TDD), Behavior Driven Development (BDD)
-The Successful Applicant
-
-A successful candidate will have:
-Possess Bachelor's degree/Masters and above 
-Extensive experience in microservices; software design, development, testing, supporting applications and database-related experience.
-Experience in developing application, preferrably in fullstack programming languages. Understanding & extensive experience in Golang is highly preferrable.
-Expert knowledge of software architecture, security concepts and best practices, database design and architecture
-Expert in High Availability concept and practical implementations
-Exceptional verbal and written communication skills
-Exceptional attention to detail
-Knowledge of enterprise integration patterns, enterprise application patterns, pattern-oriented software architecture, gang of four and/or other patterns catalogs
-What's on Offer
-
-Wide-ranged work scope with highly strategic initiatives to be managed
-
-Competitive benefit
-
-Contact: Dyah Alya Gretiana
-
-Quote job ref: JN-072023-6119706"
-3792865014,Backend Developer (Kafka/Spring Boot Microservices),https://www.linkedin.com/jobs/view/3792865014,Turing,https://www.linkedin.com/company/turingcom/life," ",2 weeks ago,1,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+Bachelor Degree (S1) Degree in Technology/Technical/lnformation System/ Other related educations.
+Min 1 years working experience as a Software Engineer, Back End or Similar role is a must!
+Familiarity with Sprint or Agile development methodologies
+Experience with software design and development
+Knowledge of frameworks/systems (e.g. NodeJS, ExpressJS, etc)
+Have deep SQL skills for Sql Server/Mysql/PostgreSql etc
+Ability to learn new languages and technologies
+Good communication skills
+Resourcefulness and troubleshooting aptitude
+Attention to detail"
+3798029822,AI Backend Developer (Python),https://www.linkedin.com/jobs/view/3798029822,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
 
 Traditional recruiting is over. Welcome to the Talent Cloud.
 
@@ -531,120 +227,400 @@ Apply today: turing.com/jobs
 —----------------------
 Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
 
-Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
-…
-show more","A fast-scaling startup, renowned for its innovative approach and commitment to delivering cutting-edge solutions, is seeking a Web Back-End Developer. This company is making waves in the tech industry, with its unique products and services gaining significant attention. This is an excellent opportunity for candidates who are passionate about technology and eager to contribute to the development of next-generation solutions.
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Software Architect: Shaping Personable AI Conversations
 
-As a Web Back-End Developer, you will be responsible for creating and maintaining robust back-end systems. You will work closely with a team of talented professionals to develop, debug, and test multiple applications. The role also involves staying updated with the latest industry trends and implementing innovative problem-solving strategies.
+Is the synergy of AI within our daily interactions a concept that excites you? Our enterprise is redefining the landscape with chatbots that offer an unparalleled conversational experience, akin to speaking with a human confidant. We are on the lookout for a Python Software Architect with the creativity and ambition required to navigate and shape a future where our conversations with machines are intelligent and effortless. If building where innovation converges with digital transformation sounds like home, you belong with us.
 
-The company fosters a dynamic and collaborative work environment, where creativity and innovation are highly valued. They believe in empowering their employees to take ownership of their work and encourage continuous learning and growth.
+Your Directive:
 
-Job Responsibilities:
+Craft impeccable, secure, and forward-thinking Python code at the core of our AI platforms. 
+Steer rigorous code audits, ascertaining that our offerings exceed our esteemed standards of quality. 
+Harness your mastery of Python to unravel and tackle intricate challenges, architecting intelligent and sustainable solutions. 
+Produce code that weaves thoughtfulness with technical prowess, optimized for both scalability and user-friendliness. 
 
-Develop and maintain robust back-end systems using Apache Kafka, Microservices, and Spring Boot
-Collaborate with a team of professionals to debug, test, and troubleshoot multiple applications
-Stay updated with the latest industry trends and implement innovative problem-solving strategies
-Enhance the efficiency, speed, and scalability of applications
-Conduct code analysis and suggest modifications to improve the quality of the code
-Work closely with the team to identify and implement best practices in back-end development
+Talents Required:
 
-Job Requirements:
+Possess a bachelor's degree in Engineering or Computer Science, or demonstrate meaningful practical experience. 
+A portfolio showcasing over 3 years in software development, with a concentration in Python. 
+Mastery in Python, especially its application in data science and machine learning, augmented by SQL understanding and adherence to QA practices. 
+A track record of wrestling with algorithms, with added experiences in data engineering or app building considered a bonus. 
+Proficiency in English, with effective communication skills to share complex ideas compellingly. 
 
-Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
-A minimum of 8-10 years of overall experience in the tech industry
-At least 2+ years of experience with Apache Kafka, 4+ years with Microservices, and 2+ years with Spring Boot
-Proven experience in developing and maintaining robust back-end systems
-Strong understanding of software development life cycle (SDLC) and agile methodologies
-Excellent problem-solving skills and attention to detail
-Must be fluent in English and possess strong communication skills"
-3779662057,Software Engineer (Web),https://www.linkedin.com/jobs/view/3779662057,Ukirama,https://www.linkedin.com/company/ukirama/life," ",3 weeks ago,13,,On-site,,11-50 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEnPFjq3OIOGQ/company-logo_100_100/0/1630665099561/ukirama_logo?e=1712188800&v=beta&t=3CwOOFQ5womHRz8CBZyW-QFpYAXg9OHz5XZqKDmIgaQ,"Ukirama Business Solution
+Perks You'll Enjoy:
+
+Be part of an ecosystem of global tech visionaries and engineers. 
+Experience the autonomy that remote work offers, proving that productivity flourishes beyond the conventional workspace. 
+Receive a globally calibrated salary in USD, appreciating your unique contributions. 
+
+Commit to groundbreaking projects that break the mold and reward intellectual agility, ensuring your role in the tech landscape remains at the forefront."
+3798031487,AI Backend Developer (Python),https://www.linkedin.com/jobs/view/3798031487,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Developer Wanted: Help Forge the Future of Conversational AI!
+
+Are you fascinated by the potential of artificial intelligence to revolutionize human-technology interaction? Our forward-thinking company is dedicated to engineering intelligent chatbots that reimagine learning and entertainment through conversation. We're on the hunt for a proficient Python Developer thriving in a dynamic, inventive atmosphere, ready to make their mark in the world of AI.
+
+Your Role:
+
+Engineer robust, scalable code serving as the bedrock for our AI-driven products.
+Participate actively in detailed code evaluations, maintaining our high-quality and functional standards.
+Utilize Python proficiency to address intricate challenges, showcasing coding finesse.
+Develop code that's not just functional but meticulously documented for future adaptability.
+
+Your Qualifications:
+
+Hold a Bachelor's or Master's degree in Engineering or Computer Science, or possess equivalent professional experience.
+Bring a minimum of 3 years shaping software, focusing on Python development.
+Proficient in Python, especially in data science and machine learning applications.
+Skilled in SQL with a solid grasp of essential QA principles.
+Bonus for hands-on experience in software testing strategies and frameworks.
+Known for problem-solving skills, particularly in crafting algorithms.
+Background in data science or data engineering is highly beneficial.
+Proven track record of building sleek, functional software applications.
+Fluent communicator in English, both written and verbal.
+
+Why Join Our Team:
+
+Engage and learn from top-tier global researchers and developers, all while working remotely.
+Embrace the flexibility of remote work, finding productivity in your own space.
+Receive a competitive salary aligned with global standards, paid in US dollars.
+Dive into groundbreaking projects that consistently challenge and inspire, keeping you at the forefront of tech innovation.
+
+Join Our Journey: If you're passionate about reshaping human-machine interactions and eager to contribute to the next wave of AI, we're excited to welcome you aboard."
+3798026801,AI Application Developer (Python),https://www.linkedin.com/jobs/view/3798026801,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Architect Wanted: Create AI that Echoes Human Conversation
+
+Intrigued by how artificial intelligence can transform mundane interactions? Our pioneering venture is carving out the future by instilling unprecedented intelligence into chatbots, rendering conversations with machines as familiar as those with a close companion. We are in pursuit of a Python Architect driven by insight and zeal to mold a more intelligent horizon. If your passion is where creativity dances with tech, your journey begins with us.
+
+Your Charge:
+
+Construct top-tier, fail-safe Python code that constitutes the heart of our AI advances. 
+Lead the charge in detailed code reviews, ensuring our deliverables are second to none in quality. 
+Employ your command over Python to deconstruct and solve complex problems with graceful, reliable solutions. 
+Develop code that champions forethought and practicality, structured for scalability and simplicity. 
+
+Traits We Seek:
+
+Educational background in Engineering or Computer Science, or an equivalent showcase of experience. 
+A robust 3+ years entrenched in the world of software development, with Python as your bread and butter. 
+Expertise in Python, pointed towards data science and machine learning, with an appreciation for SQL and steadfast QA methodologies. 
+An affinity for algorithmic puzzles and a history in data engineering or application development gains our attention. 
+Fluency in English communication, with a gift for articulation and precision. 
+
+Our Unique Offer:
+
+Connect and grow with a global network of tech leaders and innovative developers. 
+Discover the joy and productivity of homestead work—we believe great work isn't confined by office walls. 
+An international caliber salary in USD, delivered consistently. 
+
+Immerse in revolutionary projects that defy the ordinary and demand your creative spark, keeping you engaged and at the lead of the tech pack."
+3773512050,Senior Backend Engineer,https://www.linkedin.com/jobs/view/3773512050,SQE (S-Quantum Engine),https://www.linkedin.com/company/journeywithsqe/life," "," ",299,,Hybrid,,"5,001-10,000 employees · Financial Services",https://media.licdn.com/dms/image/C560BAQFybnDwDr7gtA/company-logo_100_100/0/1678280269520/journeywithsqe_logo?e=1712188800&v=beta&t=bljJQF8g5bRcFt6O0Q8sImtykZDrnaLHDRLBLoHJgLI,"The S-Quantum Engine is Sinarmas Financial Services' Digital Factory : we are focused on transforming one of Indonesia's largest financial services groups to match the increasingly digital demands today's financial services sector.
+
+Birds eye view of digital initiatives and developments throughout the group of Sinarmas Financial Services companies.
+
+We want to create an environment where the best digital minds can chose what they want to digitize and not worry about anything else.
+
+Our SQErs are seasoned leaders from global tech unicorns, top-tier consulting, and prominent financial service providers.","The S-Quantum Engine is Sinarmas Financial Services' Digital Factory - focused on transforming one of Indonesia's largest financial services groups to match the increasingly digital demands today's financial services sector.
+This position reports to the Head of Engineering of the S-Quantum Engine. The Strategy and Digital division is responsible for identifying, managing, and executing digital related initiatives for a collection of over fifty operating companies.
+
+
+Specifically, the division shall:
+Identify, seed and grow digital-first businesses for Sinarmas Financial Services companies
+Consolidate and transform digital channels of existing portfolio of financial services products
+Cultivate relevant companies and partners that accelerates the group’s overall agenda
+Establish organization wide next generation digital resources (infrastructure and talent)
+Set the agenda for the group’s transformation to a digital and data first company
+
+
+
+What You Need to Do
+The Senior Back-End Engineers will drive the work of software development, with focus on the server side-side of the applications. This position requires large-scale systems awareness, technical skill, planning, great communication skill, experience with software development across various platform.
+You are expected to:
+Work closely with Product, Design and Frontend teams to gather requirements, design and build new products, platforms and features
+Contribute to every part of our product pipeline from inception to delivery
+Write clean, reusable, maintainable code with a good code coverage
+Drive best practices and engineering excellence.
+Act as the technical subject matter expert to mentor fellow engineers and demonstrate technical expertise.
+Take initiative and implement processes to create efficiency for your team and yourself
+Excellent communication skills: Demonstrated ability to explain complex technical issues to both technical and non-technical audiences
+A team-oriented approach, with a willingness to receive feedback and iterate on them
+
+What You Need to Have
+5+ Years of experience in software development
+Skill sets needed: programming (Java/GoLang), databases (MySQL/PostgreSQL/Cassandra)
+Experience with AWS or GCP is a must
+Excellent system design skills to build scalable and maintainable systems
+Good at problem solving and troubleshooting production issues
+Scalable coding practices including peer code reviews, unit testing, and agile development
+Practical knowledge of modern development principles and best practices (OOP, design patterns, unit testing, CI/CD)"
+3798040153,Python Developer - AI Communication,https://www.linkedin.com/jobs/view/3798040153,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Development Guru: Propel AI-Driven Chat Experiences
+
+Do AI possibilities in tech intrigue you? Help us pioneer superior chatbot solutions that streamline how we learn and find entertainment through intelligent conversations. We're canvassing for a Python Development Guru unafraid to innovate within an AI-centric development arena.
+
+Your Contribution:
+
+Spearhead the drafting of resilient, methodical Python code for AI chat systems. 
+Immerse yourself in exacting code appraisals, reinforcing our signature quality standard. 
+Utilize your Python expertise to plot paths through intricate technical terrains. 
+Envision code that's primed for functionality with a sharp foresight for expansion. 
+
+The Qualifications:
+
+A holder of a Bachelor’s or Master’s degree in a related field, or equivalent prowess accrued. 
+A minimum 3-year in-depth Python software development journey. 
+Commanding proficiency in Python, specifically in its role in data analytics and machine learning. 
+Practiced in the arts of SQL and quality assurance. 
+Applicants with software testing framework exposure get an edge. 
+Recognized for your problem-solving prowess and algorithmic acumen. 
+Data science or engineering background is richly preferred. 
+Impressive record of devising elegant and effective software applications. 
+Adept in English communication, capable of conveying detailed concepts spontaneously. 
+
+Why You Would Love This Role:
+
+Collaborate with eminent tech scholars and developers from everywhere, from your chosen workspace. 
+Indulge in the freedom and productivity perks of remote work. 
+A salary that resonates with global standards, anchored in USD stability. 
+Engage in ventures that constantly challenge and thrill you, staying at technology's bleeding-edge. 
+
+Poised for crafting AI’s new chapter within chat interactions? Join our dynamic team."
+3798037344,AI Platform Developer (Python),https://www.linkedin.com/jobs/view/3798037344,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Developer Opportunity: Shape the AI Conversations of Tomorrow
+
+We're scouting for a Python Developer to join our trailblazing team in crafting AI that converses, educates, and entertains. If the potential of AI ignites your passion and pioneering fresh technology excites you, come help us create intuitive chat experiences that inspire and connect.
+
+Your Role:
+
+Develop clean, efficient Python code that will drive our ambitious AI platforms.
+Participate in thorough code reviews, maintaining our dedication to excellence.
+Harness Python to solve complex, AI-centric challenges with thoughtful solutions.
+Ensure your code is both operational and expansively documented, ready for future evolution.
+
+Your Qualifications:
+
+A holder of a degree in Engineering or Computer Science, or its equivalent in professional Python development experience.
+At least three years' experience with Python, particularly in the realms of data science and AI.
+Skilled in SQL and solidly acquainted with Quality Assurance principles.
+Recognized for your problem-solving skills and deftness in crafting efficient algorithms.
+Additional background in data science or engineering will enhance your profile.
+
+Advantages of Joining Us:
+
+Work alongside global leaders in AI development from the comfort of your home.
+Enjoy the freedoms and productivity benefits of remote work.
+Benefit from a competitive salary that adheres to global standards, provided in US dollars.
+Engage in cutting-edge projects that constantly challenge and refine your technological skills.
+
+Step Forward:
+
+If you're the Python Developer with a vision for impacting the future of AI interactions, we're ready for your expertise and ambition. Join us in a place where your skills shape the next wave of AI in a globally-connected digital era. Your journey to innovating the AI conversational landscape begins here."
+3798032995,AI Backend Developer (Python),https://www.linkedin.com/jobs/view/3798032995,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Looking for a Python Developer: Join Us in Crafting Tomorrow's Conversational AI!
+
+Are you fascinated by the convergence of artificial intelligence and our everyday lives? We're an innovative company pushing boundaries to give birth to the next era of chatbots, aiming to make interactions with machines as natural as talking to a friend. We seek a Python Developer with the vision and determination to sculpt a smarter future. If you flourish in an environment merging creativity and technology, your quest concludes here.
+
+Your Objective:
+
+Create robust, polished code that acts as the bedrock for our AI advancements.
+Contribute to meticulous code evaluations to ensure our products surpass our lofty standards of excellence.
+Utilize your mastery of Python to untangle intricate issues with elegant solutions.
+Develop code that's not just functional but also thoughtful, prioritizing scalability and comprehensibility.
+
+Your Prerequisites Simplified:
+
+Hold a degree in Engineering or Computer Science, or boast equivalent practical experience.
+Possess over 3 years in software development, with Python as your stronghold.
+Proficiency in Python, especially in data science and machine learning; familiarity with SQL and QA practices.
+Capability in handling algorithms and prior exposure in data engineering or application development is highly valued.
+Fluency in English, with a talent for concise and impactful communication.
+
+The Unique Adventure We Present:
+
+Collaborate with a global network of visionaries and developers, expanding your horizons from your comfort zone.
+Enjoy the flexibility of remote work, proving that productivity transcends office confines.
+Receive a globally competitive salary, consistently delivered in USD.
+Immerse yourself in groundbreaking projects that challenge norms and necessitate inventive solutions, keeping your career at tech's forefront.
+
+Join the AI Revolution: If the prospect of reshaping human-machine connections excites you, bring your talents to our team."
+3798038243,AI Backend Developer (Python),https://www.linkedin.com/jobs/view/3798038243,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Seize the Python Developer Role: Shaping AI Conversational Champions
+
+Eager to merge your Python prowess with frontline AI technology? Leap into the arena of innovative chatbot creation, where learning and entertainment are transformed by your expertise. As a Python artisan, your contribution will forge the future of human-AI dialogue. Make waves in the AI narrative by scripting tomorrow's conversations today.
+
+Your Endeavor:
+
+Sculpt powerful, elegant Python frameworks at the heart of our AI creations.
+Engage in thorough code appraisals, upholding our commitment to unparalleled quality.
+Navigate Python's complexities with creative finesse to tackle AI's twists and turns.
+Develop code with a blend of robust functionality and strategic clarity, all with scalability in mind.
+
+Your Toolkit:
+
+Bachelor's or Master's in a relevant field or equivalent practical insight.
+Minimum 3 years of seasoned Python experience, with a penchant for software design.
+Mastery in Python for data science and AI challenges, complemented by SQL and QA proficiency.
+A track record with software testing frameworks is highly appreciated.
+Celebrated for innovative problem-solving approaches.
+Experience in data science or engineering enriches our team's know-how.
+Proven aptitude for crafting intuitive, user-centric applications.
+Fluent English communication skills, with a knack for conveying intricate concepts with charm.
+
+Our Promise:
+
+Work alongside esteemed peers from around the globe, all from the place of your choosing.
+Relish the autonomy that comes with remote work arrangements.
+Attractively tiered salary in line with global standards, paid meticulously in USD.
+Dive into pioneering challenges that sharpen your cutting-edge tech prowess.
+
+Embark on This Quest:
+
+If your passion lies in carving out sophisticated human-machine dialogues and you're eager to play a significant role in the AI revolution, your expertise is sought after. Your code could spearhead an epoch in tech evolution. Embrace a position where your impact will reverberate through the engines that captivate future generations. Step forward and navigate this exhilarating path with us."
+3794165515,Software Engineer (Ukirama),https://www.linkedin.com/jobs/view/3794165515,Dealls,https://www.linkedin.com/company/dealls/life," ",1 week ago,2,,On-site,,See recent hiring trends for Dealls. Try Premium for IDR0,,,"🙌🏻 About Us
 
 UKIRAMA is a company with a bunch of passionate and humble professionals who are continuously striving to provide the best business solution utilizing state-of-the-art software to solve real world business problems. We provide Enterprise Resource Planning (ERP) for companies.
-…
-show more","Responsibilities
-
-Develop end-to-end features and functionality for the company's B2B SaaS platform.
-Collaborate with business analysts, UI UX designers, and CTO to translate user requirements into technical specifications.
-Build and maintain scalable databases and optimize queries for performance.
-Implement front-end interfaces using JavaScript, HTML, CSS, and relevant frameworks.
-Write efficient and modular code that adheres to best practices and coding standards.
-Conduct thorough testing and debugging to ensure high-quality software delivery.
-Ensure seamless deployment and ongoing maintenance of the application.
-Stay updated with emerging technologies and industry trends, suggesting improvements and enhancements to the platform.
-Participate in software development processes, including task planning and retrospectives.
-
-Requirements
-
-Bachelor's degree in Computer Science, Engineering, Information System, or a related field.
-Have 3-5 years of experience as a Software Engineer / Ruby on Rails Developer or equivalent work experience.
-Strong proficiency in Ruby on Rails development, including experience with Ruby language and Rails framework.
-Solid understanding of front-end technologies, such as JavaScript, HTML, CSS, and relevant frameworks (e.g., Angular, Vue.js).
-Familiarity with database systems like PostgreSQL or MySQL and experience with query optimization and performance tuning.
-Knowledge of version control systems, such as Git.
-Experience with test-driven development (TDD) and writing automated tests.
-Strong problem-solving and analytical skills.
-Excellent communication and collaboration abilities."
-3665748323,Full Stack Engineer (Yogyakarta),https://www.linkedin.com/jobs/view/3665748323,amalan international,https://www.linkedin.com/company/amalaninternational/life," ",6 months ago,214,,Full-time,,51-200 employees · Business Consulting and Services,https://media.licdn.com/dms/image/C510BAQF26h_cZEvr2w/company-logo_100_100/0/1630578425964/amalan_international_pte_ltd_logo?e=1712188800&v=beta&t=jsQRS34rGkkOOhDSyfnLiKYtbXc7z8BjM1PKlrcf7aM,"amalan is the leading provider of debt management programs for consumers in Indonesia. We help our customers to reduce the cost of their loans and to regain control of their finances.
-
-amalan is the only company of its kind in Asia that has been accredited by IAPDA (http://www.iapda.org/accredited/amalan2739.htm).
-…
-show more","We are looking for a unique hybrid skill set of Full-Stack Engineer talent. This position is open for suitable full-time candidates.
-
-Our mission at amalan is to assist people in regaining control of their finances. We advise customers on ways to renegotiate their loans to a level they can afford. We are the first to offer such service in Indonesia using a professional, attentive and customer focused approach, supported by cutting edge technology.
-
-This is an exciting opportunity within a small and dynamic team in a high growth startup led by an international group of experienced finance and start-up veterans. It is a fun job for a highly motivated person that learns quickly and likes a fast moving, challenging environment. We offer a start-up environment with flat hierarchy that gives you ample space to develop yourself professionally and to apply your creativity.
-
-Starting salary and benefits are competitive with excellent growth perspective.
-
-Responsibilities
-
-Be involved and participate in the overall application lifecycle
-Collaborate with multidisciplinary team of designers, developers and system administrators
-Define and communicate technical and design requirements
-Provide training, help and support to other team members
-Build high-quality reusable code that can be used in the future
-Develop functional and sustainable web applications with clean codes
-Troubleshoot and debug applications
-Learn about new technologies
-Conduct tests and optimize performance
-Manage cutting-edge technologies to improve applications
-Maintain and improve company website and products
-Implement User Interface and User Experience which defined by UI/UX Designer 
-Always stay consistent with our brand guidelines 
-Make suggestions for better solutions to problems
-
-Requirements
-
-Bachelor Degree in Computer Science or similar relevant field
-1+ years of experience as a Full Stack Engineer
-In-depth understanding of web architecture
-In-depth knowledge of PHP/NodeJs
-In-depth knowledge of SQL database 
-Basic Knowledge of CSS and Javascript 
-Experienced with Backend Framework (Laravel or Express)
-Experienced of Tailwind CSS, Bootstrap CSS or other modern CSS frameworks
-Experienced in JavaScript frameworks ( Vue/React/Angular will plus )
-Experienced in version control tool (Git)
-Knowledge of browser troubleshooting and debugging practices and techniques
-Knowledge of some SEO principles
-Sense of ownership and pride in your performance and its impact on company’s success
-Critical thinker and problem-solving skills
-Team player
-Good organizational and time-management skills
-Great interpersonal and communication skill
-Knowledge of CI/CD will be a plus
-Knowledge of DevOps (Server Optimization, Security) will be a plus
-Knowledge of RESTful APIs will be a plus
-Knowledge of API client (Insomnia or Postman) will be a plus
-Knowledge of Microservices will be a plus
-Knowledge of JWT will be a plus
-Knowledge of Cloud platforms: e.g. AWS, Azure, GCP and their data services will be a plus
-Having financial knowledge (no need to be an expert, but it will help to know some basic concepts and jargon) will be a plus"
-3776777396,Sr. Software Developer (RedDoorz),https://www.linkedin.com/jobs/view/3776777396,Dealls,https://www.linkedin.com/company/dealls/life," ",1 month ago,4,,Hybrid,,See how you compare to 4 applicants. Upgrade my plan,,,"🙌🏻 About Us
-
-RedDoorz is Southeast Asia’s largest and fast-growing, technology-driven hospitality brand. With a vision to enable people to travel more and provide affordable, reliable stays in all major cities and destinations across the region, RedDoorz is disrupting the hospitality industry by transforming the fragmented supply inventory into branded, standardized accommodations.
-
-RedDoorz was founded in 2015 by a team of senior executives with deep experience in the online travel and hospitality industry and since then it has grown into a regional powerhouse with operations in Indonesia, Singapore, and the Philippines. As part of the RedDoorz brand network, hotel owners are able to grow their business, increase revenues and profits while streaming their operations. RedDoorz’s solutions help hotel partners manage distribution, pricing, marketing, customer experience, and technology – offering an end-to-end platform powered by an advanced tech and digital infrastructure.
 
 💰Salary
 
@@ -652,42 +628,39 @@ Very competitive
 
 👑 Job Role
 
-Deliver scalable architectural solutions for applications using public clouds
-Conduct code reviews for colleagues and juniors
-Ensure work quality through unit tests and code reviews
-Contribute across all development lifecycle phases
-Adhere to best practices in development and testing
-Manage high-throughput production applications while engaging in regular development
-Build and manage features on the Ruby-on-Rails framework for business applications
-Design, build, and maintain efficient, reusable, and reliable Ruby code
-Integrate front-end elements with server-side logic
+Develop end-to-end features and functionality for the company's B2B SaaS platform
+Collaborate with business analysts, UI UX designers, and CTO to translate user requirements into technical specifications
+Build and maintain scalable databases and optimize queries for performance
+Implement front-end interfaces using JavaScript, HTML, CSS, and relevant frameworks
+Write efficient and modular code that adheres to best practices and coding standards
+Conduct thorough testing and debugging to ensure high-quality software delivery
+Ensure seamless deployment and ongoing maintenance of the application
+Stay updated with emerging technologies and industry trends, suggesting improvements and enhancements to the platform
+Participate in software development processes, including task planning and retrospectives
 
 ⛩️ Requirements
 
-3-6 years’ experience with Ruby on Rails
-Should be currently hands-on with ROR
-Experience with end-to-end web application development
-Experience with MySQL
-Experience with Git
-Should have knowledge of design patterns and design practices
-Should have the ability to design and write reusable code
-Ready to work in a challenging and fast-paced environment
-Should be a self-learner and go-getter
-
-Preferred Skills, Experience, And Competencies
-
-Experience/knowledge in building RESTful web application
-Experience/knowledge in Enterprise Search using ElasticSearch
-Experience/knowledge in AWS Services
-Knowledge of TDD and BDD frameworks (Rspec, Cucumber)
-Experience with monitoring tools
-Web performance and caching techniques
+Bachelor's degree in Computer Science, Engineering, Information System, or a related field
+Have 3-5 years of experience as a Software Engineer / Ruby on Rails Developer or equivalent work experience
+Strong proficiency in Ruby on Rails development, including experience with Ruby language and Rails framework
+Solid understanding of front-end technologies, such as JavaScript, HTML, CSS, and relevant frameworks (e.g., Angular, Vuejs)
+Familiarity with database systems like PostgreSQL or MySQL and experience with query optimization and performance tuning
+Knowledge of version control systems, such as Git
+Experience with test-driven development (TDD) and writing automated tests
+Strong problem-solving and analytical skills
+Excellent communication and collaboration abilities
 
 🎁 Perks
 
+THR / Bonus system
+Period Leave
+Casual Dress Code
 Competitive Salary
-Medical Insurance"
-3778353530,Full-Stack Engineer,https://www.linkedin.com/jobs/view/3778353530,Turing,https://www.linkedin.com/company/turingcom/life," ",1 month ago,3,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+Medical Insurance
+Free Food / Snacks
+Team Building Activity
+Company Outings"
+3798037795,AI Backend Developer (Python),https://www.linkedin.com/jobs/view/3798037795,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
 
 Traditional recruiting is over. Welcome to the Talent Cloud.
 
@@ -712,58 +685,219 @@ Apply today: turing.com/jobs
 —----------------------
 Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
 
-Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
-…
-show more","A rapidly-growing company that is on a mission to develop a world-class technology platform is looking for a Full-Stack Engineer. The engineer will be working in bursts of tremendous intensity interspersed with rest intervals. For a domain-specific application, the company is creating a platform with features akin to Instabase's AI Hub. This is a great opportunity for candidates who are eager to work in a dynamic environment while juggling multiple responsibilities.
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Expert Python Developer for AI Trailblazers
+
+Embark upon a career where your programming acumen brings artificial intelligence to vibrant life. As leaders in tech progression, we forge ahead into the domain of intelligent chatbot experiences. Calling an Expert Python Developer, join us to flex your coding muscle within the AI arena.
 
 Job Responsibilities:
 
-Develop a functionality centered on document talking by utilizing ChatGPT, Anthropic, or other LLM APIs
-Proactively integrate Chat APIs, paying particular attention to conversation history preservation
-Learn about creating simple SQL schemas in Redis and PostgreSQL for simple web application objects
-Emphasize quick development for a demo rather than rushing into scaling optimization
-Prepare to work swiftly and intensely, and have a strong distaste for premature optimization
-Be eager to follow a product lead's instructions
+Convert Python code into resilient and intelligent architectures, mirroring the ingenuity of cloud technology.
+Delve into deep code scrutiny, guaranteeing excellence in every line through meticulous reviews.
+Unleash the potential of breakthrough Python frameworks to tackle sophisticated problems with finesse.
+Safeguard the caliber of your code, upholding it as the gold standard of data-centric AI programming.
+
+Job Requirements:
+
+Hold a degree in Engineering or Computer Science or possess equivalent experience.
+Have 3+ years of experience in software development, with Python as your forte.
+Expertise in Python to innovate in data analytics, machine learning, and API services.
+Competence in SQL joined by a keen sense for quality within the DevSecOps culture.
+Proficiency in continuous integration and continuous deployment, unit testing, and troubleshooting.
+If cloud solutions and container workflows are your hymns, we’re ready to be your choir.
+Your development triumphs are more than recognized—they are part of tech mythology.
+Impeccable English proficiency that deciphers the esoteric vernacular of technology for all.
+
+Perks and Benefits:
+
+Network with some of the world's most formidable figures in tech.
+The luxury of choosing your workspace with our remote-first policy.
+A USD-salary that aligns with the industry's premier standards.
+Engage with projects that redefine technological limits, requiring you to stay at the forefront of innovation.
+Forge the AI Path: Shape the conversations of the future with AI developments that inspire.
+
+Apply Now: Present your Python virtuosity to us, setting the stage for revolutionary advances in AI communication!"""
+3788869529,Senior Fullstack Developer (SD SEA),https://www.linkedin.com/jobs/view/3788869529,Jitera,https://www.linkedin.com/company/jitera/life," ",2 weeks ago,65,,Remote,,51-200 employees · Information Technology & Services,https://media.licdn.com/dms/image/C560BAQGpV4MPJRCr7w/company-logo_100_100-alternative/0/1630659594508/iruuza_logo?e=1712188800&v=beta&t=S6yxuu55qe6vsjsmsfg2fckg37c1ae_AXkE40-ZVS3M,"Jitera, inc. is a startup company from Japan that makes software to automate the development of mobile and web applications. Our product can be called a No-Code, Low-Code, and code generator. By using our product, customers can develop software 10 times faster.
+
+It’s under development with a lot of tries and errors, but the number of applications developed with our product is increasing, and in fact, there is a case that a mobile application was developed about 10 times faster than usual.
+
+As the characteristics of our company, we are a team of professionals working remotely, and we have a track record of significant growth over the past year in terms of revenue, product development, and team members.","About Us
+
+Jitera, inc. is a startup company from Japan that makes software to automate the development of mobile and web applications. Our product can be called as No-Code, Low-Code, and code generator. It’s being powered by Generative AI, and by using our product, we can develop software much faster.
+
+It’s under development with lots of challenges, but the number of applications developed with our product is increasing. In fact, there is a case where a mobile application was developed about 10 times faster than usual.
+
+As the characteristics of our company, we are a team of professionals working remotely, and we have a track record of significant growth over the past years in terms of revenue, product development, and team members.
+
+Job Overview
+
+Our business has grown steadily, and we are expanding our engineering teams. For the dogfooding of Jitera's automation product and for our profit, we develop many client projects. As the number of talented engineers grows for these purposes, so does the need for senior engineers who can collaborate with them proactively.
+
+Why Candidate should apply for this position?
+
+For talented engineers who are passionate to grow our business and yourself together, we can offer you the best place of all time
+Work from anywhere, anytime. Fully remote and flextime working environment. It is your call
+
+Duties And Responsibilities
+
+Design, implement, test and release high-quality software speedy
+Work with other engineers, designers, and product managers to implement various features while considering maintainability, security, and performance
+Represent the engineering team in meetings, contributing to ideas relevant to the product growth with a strong understanding of future customers and their desires
+Monitor and bug fix to ensure that customers can use the application expectedly
+Catch up AI trends and utilize AI services including Jitera product to have AI-driven-development
+Create technical documentation and communicate clearly across the product team
+Support team members to review, feedback, and onboard
+
+Requirements
+
+More than 5 years of experience in software development
+More than 5 years of experience in React, Node and TypeScript
+Business level English skills (speaking / listening/ writing/ reading)
+Strong motivation to utilize AI technology to have AI-driven development
+Good understanding of fundamental design patterns in software design
+Ability to work independently
+Communication skills to work cooperatively in a remote team
+Ability to prepare remote work environment where you can focus on your work with stable network place
+
+Desirable Experiences
+
+Experience of server-side development with NestJS
+Experience of React Native development
+Experience to develop applications with NoCode services
+
+Tech Stack
+
+(we don't ask you to have all of these, but you will meet them when working at Jitera)
+
+Frontend: TypeScript, React, React Native, Styled Components
+Backend: Node.js, NestJS
+Database: PostgreSQL, Redis
+Infrastructure: Azure, AWS, GCP, Docker, Terraform
+AI: Jitera product, Github Copilot, Notion AI, Open Interpreter, ChatGPT, Azure OpenAI Service
+CI/CD: Github Actions
+Project management: Github, JIRA
+Documentation: Notion, Google Workspace, Miro
+Communication: Slack, Gather
+
+Work Styles
+
+Full remote. You can work from all over the world. Of course, you can also work from your home
+Full flextime system. You can work anytime in your time zone, but you need to attend regular team and company meetings
+
+Benefits
+
+Benefits
+
+Premium insurance, private health insurance
+Birthday Bonus
+MacBook M2 Pro provided
+Special events, occasions celebrations, and gifts
+Co-working space
+Sponsorship for online classes according to your demand (Coursera, Datacamp, Udemy…)"
+3798027637,AI Application Developer (Python),https://www.linkedin.com/jobs/view/3798027637,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Seeking Python Software Artisan: Influence AI Communication Platforms
+
+Are AI-driven discussions your calling? We’re a pioneering company on a quest to craft chatbots that exceed norms in the educational and entertainment arena. A rare opening exists for a talented Python Software Artisan eager to etch their expertise into the AI tapestry.
+
+Your Mission:
+
+Develop and refine Python code, crucial for our AI chatbot functionalities. 
+Integral role in comprehensive code reviews upholding exemplary quality standards. 
+Proven Python abilities to conquer complex and compelling coding barriers. 
+Committed to pioneering code robust in both performance and foresight. 
+
+Prerequisites:
+
+Armed with a Bachelor’s or Master’s in Engineering or Computer Science, or a parallel professional portfolio. 
+A seasoned Python developer with 3+ years of experience. 
+Expert in employing Python for data-centric science and neural learning applications. 
+Strong operational knowledge of SQL and dedicated understanding of QA norms. 
+Bonus assets include adeptness with software testing systems. 
+Exceptional in problem-solving, especially in complex algorithmic design. 
+Experience in data roles or engineering significantly favored. 
+Demonstrates consistent productivity in crafting sleek, functional apps. 
+Outstanding proficiency in English communication. 
+
+Our Environment:
+
+Work hand in hand with world-renowned tech specialists, anywhere you are. 
+Experience the joys and efficiencies of a remote workspace. 
+Receive a globally benchmarked salary, reliably paid in USD. 
+Immerse in boundary-stretching projects that keep your skills razor-sharp. 
+
+Join us if influencing the AI communication sphere is your aspiration."
+3778348789,Senior Software Development Engineer,https://www.linkedin.com/jobs/view/3778348789,Turing,https://www.linkedin.com/company/turingcom/life," ",1 month ago,4,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","A well-established company that has successfully launched a world-class OTT platform that is redefining the entertainment industry, is looking for a Senior Software Development Engineer. The engineer will be responsible for adding a variety of features and boosting the application's stability. The company is providing a global consumer base with a diverse range of shows, movies, and sports event broadcasts across 6+ different languages. This is an excellent chance for those who are keen to join a high-achieving iOS team that is committed to providing an unrivaled user experience.
+
+Job Responsibilities:
+
+Enhance, rewrite, and rethink the mobile application to provide a system with excellent performance and a user interface that is very engaging
+Provide essential business modules while creating modular, optimized code
+Assume responsibility for the entire product's quality, from creating to sustaining the essential app frameworks that contribute to the apps' increased dependability and enjoyment
+Join the group that drives the development of new concept prototypes and investigates cutting-edge mobile technology
+As you define the platform's future architecture, be cognizant of both technical and product issues and offer your technical and product skills
+Mentor and provide direction for developers
 
 Job Requirements:
 
 Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
-At least 5+ years of relevant experience as a full-stack engineer
-Prolific experience working with React, Vue.js, SQL, and LLM
-Familiarity with REST/RESTful APIs and GraphQL is preferred
-Nice to have some understanding of PostgreSQL and Redis
-Ability to create original Figma user interface screens (material UI, etc.)
-Competent in maintaining a stable state for web applications with several pages
-Ability to create features that maintain and control user workspaces
-Demonstrable track record of successfully deploying authentication solutions using Auth0 services
-In-depth knowledge of front-end build tools and compilers, such as Webpack, Babel, or Parcel, which optimize load speeds and performance of applications
-Excellent spoken and written English communication skills"
-3772630954,Enterprise Software Engineer,https://www.linkedin.com/jobs/view/3772630954,,,,,0,,Hybrid,,See recent hiring trends for PT Equnix Business Solutions. Upgrade my plan,,,"Qualification
-
-Understand concepts, implementation, and best practices of SDLC; Have an understanding of problem solving and logic; Have above average analytical skills, like to solve puzzle/riddle, like to learn new things, and have a humble attitude, open-minded; Can work with all teams to provide the best support for clients; Always follow the latest developments in the IT field.
-
-Salary Offer: 5 – 8 Million IDR
-
-Requirements
-
-Humble and open minded
-High willingness to learn.
-Discipline, keen to detail, creative, and communicative.
-Work experience is not preferred.
-Minimum education Bachelor Degree Engineering (Computer/Telecommunication/Electrical) or equivalent.
-Strong knowledge and experience in Object Oriented
-Understand one or more of: C/C++, Go, Rust, HTML, JQuery, Angular.
-Understanding the concept of MVC (Model, View, Controller).
-
-Role
-
-Analyze technical problems and be able to conclude the root cause
-Able to design strategies and solutions related to existing problems.
-Able to implement the program in accordance with a predetermined design.
-Implement solutions into clean and efficient program code.
-have a good and structured coding style.
-Analyze issues related to high performance transaction systems, and develop appropriate solutions."
-3783523939,"Backend Developer (GraphQL, React, Spring Boot Specialist)",https://www.linkedin.com/jobs/view/3783523939,Turing,https://www.linkedin.com/company/turingcom/life," ",3 weeks ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+At least 5+ years of relevant experience as an iOS or software development engineer
+Demonstrable experience working with iOS development, Swift for iOS, and Objective-C
+Prior experience developing iOS applications with UIKit, Core Animation, Auto Layout, and Cocoa Touch
+Outstanding OS and CS foundations
+Some understanding of TvOS
+Ability to deconstruct complicated issues into fresh, straightforward solutions that meet corporate objectives
+Knack for addressing issues and the capacity to function under uncertainty
+Autonomous work ethic, a propensity for action, and an entrepreneurial spirit
+Fluent in spoken and written English communication skills"
+3798030603,AI Backend Developer (Python),https://www.linkedin.com/jobs/view/3798030603,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
 
 Traditional recruiting is over. Welcome to the Talent Cloud.
 
@@ -788,125 +922,331 @@ Apply today: turing.com/jobs
 —----------------------
 Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
 
-Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.
-…
-show more","A Silicon Valley-based tech innovator, known for its avant-garde approach to problem-solving, is currently on the lookout for a skilled Web Back-End Developer. This NASDAQ-listed company is at the forefront of the tech industry, continuously stretching the boundaries of what's possible and establishing new benchmarks. The selected candidate will assume a pivotal role in developing and maintaining a variety of applications, contributing significantly to the company's ongoing progress and expansion.
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Software Architect: Shaping Personable AI Conversations
 
-The Web Back-End developer's primary responsibilities include crafting and implementing server-side logic to ensure optimum performance and responsiveness to front-end requests. Additionally, they will be tasked with seamlessly integrating front-end components created by their colleagues into the application, making an understanding of front-end technologies essential.
+Is the synergy of AI within our daily interactions a concept that excites you? Our enterprise is redefining the landscape with chatbots that offer an unparalleled conversational experience, akin to speaking with a human confidant. We are on the lookout for a Python Software Architect with the creativity and ambition required to navigate and shape a future where our conversations with machines are intelligent and effortless. If building where innovation converges with digital transformation sounds like home, you belong with us.
 
-This company boasts a vibrant and dynamic work culture, firmly rooted in innovation, teamwork, and perpetual learning. This role offers an outstanding opportunity for individuals who thrive in a fast-paced, challenging environment and are eager to apply their skills to real-world challenges.
+Your Directive:
 
-Job Responsibilities
+Craft impeccable, secure, and forward-thinking Python code at the core of our AI platforms. 
+Steer rigorous code audits, ascertaining that our offerings exceed our esteemed standards of quality. 
+Harness your mastery of Python to unravel and tackle intricate challenges, architecting intelligent and sustainable solutions. 
+Produce code that weaves thoughtfulness with technical prowess, optimized for both scalability and user-friendliness. 
 
-Design and develop server-side solutions, ensuring top-notch performance and responsiveness
-Collaborate with front-end developers to seamlessly integrate user-facing elements into the application
-Optimize application code for maximum speed and scalability, enhancing user experience
-Implement robust security measures to safeguard data and ensure compliance
-Create and manage data storage solutions that meet the application's evolving needs
-Stay updated on industry trends and emerging technologies, guiding the company's tech strategy
+Talents Required:
 
-Job Requirements
+Possess a bachelor's degree in Engineering or Computer Science, or demonstrate meaningful practical experience. 
+A portfolio showcasing over 3 years in software development, with a concentration in Python. 
+Mastery in Python, especially its application in data science and machine learning, augmented by SQL understanding and adherence to QA practices. 
+A track record of wrestling with algorithms, with added experiences in data engineering or app building considered a bonus. 
+Proficiency in English, with effective communication skills to share complex ideas compellingly. 
 
-Bachelor’s or Master’s degree in Engineering, Computer Science, or equivalent experience
-A minimum of 11 years of overall experience in web development
-Proficiency in GraphQL and React for at least 2 years, with 6 years of Spring Boot experience
-Strong familiarity with Git and version control
-Proven expertise in continuous integration practices
-Exceptional analytical and problem-solving skills
-Effective communication skills in English"
-3788144827,Blockchain Developer,https://www.linkedin.com/jobs/view/3788144827,YouApp,https://www.linkedin.com/company/youapp/life," ",1 week ago,11,,"IDR15,000,000/month - IDR25,000,000/month",,See how you compare to 11 applicants. Upgrade my plan,,,"YouApp.ai is a dynamic and innovative tech company focused on revolutionizing how people connect with AI, Web3 Rewards and more. We're on a mission to provide users with a unique and exceptional experience. We believe in the value of deep connections, and we're looking for passionate individuals to join our team in building a one-of-a-kind platform.
+Perks You'll Enjoy:
 
-We are seeking skilled Blockchain Developer with proficiency in Solidity and a broad understanding of blockchain technologies. As a Blockchain Developer, you will be responsible for designing, implementing, and supporting decentralized applications and smart contracts. The ideal candidate should possess a strong background in blockchain development, smart contract programming, and be passionate about the innovative potential of blockchain technology.
+Be part of an ecosystem of global tech visionaries and engineers. 
+Experience the autonomy that remote work offers, proving that productivity flourishes beyond the conventional workspace. 
+Receive a globally calibrated salary in USD, appreciating your unique contributions. 
 
-Responsibilities
+Commit to groundbreaking projects that break the mold and reward intellectual agility, ensuring your role in the tech landscape remains at the forefront."
+3798038704,Python Developer - AI Communication,https://www.linkedin.com/jobs/view/3798038704,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
 
-Design, code, test, and deploy decentralized applications (dApps) and smart contracts on eth based platforms.
-Familiar with Web2 technologies and standard software development life cycle.
-Proficiency in Solidity programming language to create robust and efficient smart contracts on Ethereum or other compatible blockchains.
-Deep understanding of various blockchain protocols and consensus mechanisms such as Proof of Work (PoW), Proof of Stake (PoS), or Delegated Proof of Stake (DPoS).
-Implement cross-chain interoperability solutions to enable seamless interaction between different blockchain networks.
-Ensure the security, performance, and efficiency of smart contracts and blockchain solutions through code audits, debugging, and optimization.
-Collaborate with cross-functional teams including architects, front-end developers, and product managers to integrate blockchain technology into new or existing systems.
-Stay updated with the latest advancements in blockchain technology, explore new tools, and contribute innovative ideas to enhance the project.
+Traditional recruiting is over. Welcome to the Talent Cloud.
 
-Requirements
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
 
-Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
-Proven experience as a Blockchain Developer or Solidity Developer with a track record of successful blockchain projects.
-Proficiency in Solidity programming language and experience in developing smart contracts on Ethereum or similar blockchain platforms.
-Strong understanding of blockchain technologies, consensus algorithms, and cryptographic principles.
-Familiarity with various blockchain development frameworks, tools, and libraries.
-Experience with Optimism, web3.js, Infura, and other related technologies for DApp development.
-Knowledge of security best practices and experience in conducting security audits on smart contracts.
-Excellent problem-solving skills, analytical thinking, and a collaborative mindset.
-Ability to work independently and in a team environment while meeting deadlines.
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
 
-Preferred Skills
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
 
-Experience in developing decentralized finance (DeFi) applications or Non-Fungible Token (NFT) platforms.
-Understanding of Layer 2 scaling solutions like Rollups, Sidechains, or Plasma.
-Contribution to open-source blockchain projects or active involvement in the blockchain community."
-3777512696,Blockchain Developer,https://www.linkedin.com/jobs/view/3777512696,YouApp,https://www.linkedin.com/company/youapp/life," ",1 week ago,11,,"IDR15,000,000/month - IDR25,000,000/month",,See how you compare to 11 applicants. Upgrade my plan,,,"YouApp.ai is a dynamic and innovative tech company focused on revolutionizing how people connect with AI, Web3 Rewards and more. We're on a mission to provide users with a unique and exceptional experience. We believe in the value of deep connections, and we're looking for passionate individuals to join our team in building a one-of-a-kind platform.
+Try Turing.com for 2 weeks risk-free at turing.com
 
-We are seeking skilled Blockchain Developer with proficiency in Solidity and a broad understanding of blockchain technologies. As a Blockchain Developer, you will be responsible for designing, implementing, and supporting decentralized applications and smart contracts. The ideal candidate should possess a strong background in blockchain development, smart contract programming, and be passionate about the innovative potential of blockchain technology.
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
 
-Responsibilities
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
 
-Design, code, test, and deploy decentralized applications (dApps) and smart contracts on eth based platforms.
-Familiar with Web2 technologies and standard software development life cycle.
-Proficiency in Solidity programming language to create robust and efficient smart contracts on Ethereum or other compatible blockchains.
-Deep understanding of various blockchain protocols and consensus mechanisms such as Proof of Work (PoW), Proof of Stake (PoS), or Delegated Proof of Stake (DPoS).
-Implement cross-chain interoperability solutions to enable seamless interaction between different blockchain networks.
-Ensure the security, performance, and efficiency of smart contracts and blockchain solutions through code audits, debugging, and optimization.
-Collaborate with cross-functional teams including architects, front-end developers, and product managers to integrate blockchain technology into new or existing systems.
-Stay updated with the latest advancements in blockchain technology, explore new tools, and contribute innovative ideas to enhance the project.
+Apply today: turing.com/jobs
 
-Requirements
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
 
-Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
-Proven experience as a Blockchain Developer or Solidity Developer with a track record of successful blockchain projects.
-Proficiency in Solidity programming language and experience in developing smart contracts on Ethereum or similar blockchain platforms.
-Strong understanding of blockchain technologies, consensus algorithms, and cryptographic principles.
-Familiarity with various blockchain development frameworks, tools, and libraries.
-Experience with Optimism, web3.js, Infura, and other related technologies for DApp development.
-Knowledge of security best practices and experience in conducting security audits on smart contracts.
-Excellent problem-solving skills, analytical thinking, and a collaborative mindset.
-Ability to work independently and in a team environment while meeting deadlines.
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Join as Python Developer: Revolutionize AI Communication
 
-Preferred Skills
+Our forward-thinking team envisions an AI-integrated future where conversations with technology are as natural as with a fellow human. With that vision, we invite a Python Developer—someone imbued with ingenuity and adept in state-of-the-art programming—to join us in this exciting journey.
 
-Experience in developing decentralized finance (DeFi) applications or Non-Fungible Token (NFT) platforms.
-Understanding of Layer 2 scaling solutions like Rollups, Sidechains, or Plasma.
-Contribution to open-source blockchain projects or active involvement in the blockchain community."
-3796887818,System Engineer Manager (Yogyakarta),https://www.linkedin.com/jobs/view/3796887818,,,,,0,,IDR1/yr - IDR2/yr,,See recent hiring trends for Privy ID. Upgrade my plan,,,"About Privy
+In This Role:
 
-Privy is Indonesia's market leader in Digital Signature and Digital Identity, with more than 40 million verified users and more than 2.600 enterprise clients. Our Digital Signature is acknowledged by the Ministry of Communication and Informatics. We have just closed our Series C funding led by KKR on November 2022. We are growing more rapidly than ever, and would love to have talented and enthusiastic individuals onboard.
+Create potent, sleek Python code serving as the blueprint for our evolving AI products.
+Ensure artistic quality and technical rigor through detailed code review sessions.
+Master Python’s vast toolkit to untangle and resolve complex AI-driven enigmas.
+Document and build code with the knowledge that it will support forthcoming growth and advancements.
 
-Job Descriptions
+Preferred Qualifications:
 
-Manage system engineer personnel and teams (core and operations).
-Manage staffing planning and timeline management of the system engineer team.
-Manage daily operations and ad-hoc/specific goals system engineering tasks.
-Monitoring system engineering tasks.
-Coordinate with other teams, such as product and software engineer teams, in the product development and release process.
-Supervise the end-to-end SSLDC process.
-Coordinate with other teams within or outside the IT Infrastructure Division to achieve specific system engineering goals or tasks.
-Manage system engineering research to stay current on new technologies and industry trends.
-Coordinate with and report periodically to the System Administrator Department.
-If needed, coordinate with and report to the IT Infrastructure Division or Technology Directorate.
+Attained a degree in Engineering or Computer Science paired with substantial Python experience.
+Amassed over 3 years in the trenches of Python development, hand-in-hand with AI applications.
+SQL expertise and foundational knowledge in QA methodologies.
+Problem-solving prowess, particularly in the creation of innovative algorithms.
 
-Job Qualifications
+Our Offer to You:
 
-More than five years of experience in the tech industry and handling network and server systems.
-Experience in leading more than 5 team members.
-At least two years of hands-on experience with GCP and AWS.
-A minimum of three years of hands-on experience with Kubernetes.
-Deep understanding of the concept of CICD, GitOps, PII Isolation, External Secret Injector, Load Balancing strategy, and various Deployment and testing Strategies (Blue Green, Canary, AB Test, Shadow Test, etc).
-Familiar with Cloud Native tools such as Helm, FluxCD, Vault, Traefik, Flagger, etc.
-Profesional Certification of GCP and Kubernetes is a plus.
-Expressing solid and effective leadership.
-Problem solving and critical thinking.
-Good communicator and mediator.
-Optimization and Automation driven mindsets.
-Proven documentation ability is necessary (personal blog, GitHub, etc).
-Good writing and confidence speaking in English are a plus"
+Connect with a constellation of leading AI experts, collaborating seamlessly in a remote model.
+The delight of remote work that harmonizes with your proactive and distinctive work style.
+A competitive salary that resonates with global expectations and is paid in US dollars.
+Engage in meaningful projects that promise to challenge and develop your skillset continually.
+
+Join Our Innovative Mission:
+
+For the Python Developer eager to push the bounds of conversational AI and chart a course through unexplored territories, we await your esteemed participation. This is your platform to demonstrate the magnitude of your talents and influence how the world interacts with AI."
+3798031987,Python Developer - Machine Learning,https://www.linkedin.com/jobs/view/3798031987,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Developer Needed: Shape the Next Generation of Conversational AI with Us!
+
+Are you intrigued by the convergence of artificial intelligence and our daily lives? Our innovative company is spearheading advancements in chatbot technology, aspiring to make conversations with machines as natural as chatting with a friend. We are on the lookout for a Python Developer infused with innovation and driven to sculpt a smarter future. If you thrive in a space where innovation meets technology, your journey ends here.
+
+Your Objectives:
+
+Architect robust, secure code as the foundation for our AI innovations.
+Contribute to comprehensive code reviews ensuring our products exceed industry benchmarks.
+Leverage your Python expertise to unravel complex problems with eloquent solutions.
+Create code that’s both purposeful and scalable, prioritizing ease of comprehension.
+
+Your Credentials Simplified:
+
+Possess a degree in Engineering, Computer Science, or equivalent practical experience.
+Demonstrate a track record of 3+ years in software development, with Python as your primary forte.
+Proficient in Python, particularly in data science and machine learning, with familiarity in SQL and QA methodologies.
+Valued expertise in tackling algorithms and previous engagement in data engineering or app development.
+Fluency in English, complemented by exceptional communication skills.
+
+The Exceptional Experience We Provide:
+
+Collaborate with a diverse global network of thought leaders and developers, broadening your horizons from your comfort zone.
+Embrace the autonomy of remote work, proving that productivity transcends traditional office settings.
+Receive a globally competitive salary consistently paid in USD.
+Immerse yourself in pioneering projects challenging norms, demanding creativity and foresight, keeping your career at technology's forefront.
+
+Join the AI Revolution: If the prospect of bridging the gap between humans and machines in unprecedented ways excites you, bring your talents to our team."
+3798032953,AI Backend Developer (Python),https://www.linkedin.com/jobs/view/3798032953,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Developer Opportunity: Help Craft the Future of Conversational Bots!
+
+Captivated by the potential of artificial intelligence to transform our interaction with technology? We’re a cutting-edge company dedicated to fashioning intelligent chatbots that transcend innovation, revolutionizing the way we learn and engage through dialogue. We're in pursuit of a Python Developer with a flair for innovation and adaptability, ready to make a substantial impact in the realm of AI.
+
+Your Role in Our Mission:
+
+Architect durable, streamlined code pivotal to our AI-driven product suite.
+Engage in meticulous code assessments, upholding our stringent quality and functionality benchmarks.
+Harness Python's capabilities to unravel intricate challenges, showcasing your coding finesse.
+Develop code that’s not just operational but meticulously documented and designed for future scalability.
+
+Your Qualifications:
+
+Hold a Bachelor's or Master's degree in Engineering or Computer Science, or demonstrate equivalent professional experience.
+Possess a minimum of 3 years shaping software, emphasizing Python development.
+Proficient in Python with a keen focus on data science and machine learning applications.
+Adept in SQL with a solid understanding of QA essentials.
+Bonus points for hands-on experience with software testing strategies and frameworks.
+Acclaimed for your problem-solving aptitude, particularly in crafting algorithms.
+Background in data science or data engineering is highly advantageous.
+Proven track record of constructing sleek, functional software applications.
+Fluency in English, exhibiting articulate communication both written and verbal.
+
+Why You'll Love Working Here:
+
+Collaborate and learn from top-tier researchers and developers globally, all from the comfort of your remote workspace.
+Revel in the flexibility of remote work—find productivity in your personalized environment.
+Receive a competitive salary aligned with global standards, consistently remitted in US dollars.
+Dive into cutting-edge projects that consistently challenge and inspire, positioning you at the forefront of tech innovation.
+
+Join Our Quest: If you’re passionate about shaping human-machine interactions and excited to contribute to the evolution of AI, your place is with us."
+3798037215,Python Developer - AI Communication,https://www.linkedin.com/jobs/view/3798037215,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Hiring a Python Developer: Shape the Next Era of Conversational AI!
+
+Do you possess a fervent interest in the crossroads of artificial intelligence and our daily lives? Our avant-garde enterprise is dedicated to pioneering a new frontier, revolutionizing chatbots to mirror the natural flow of conversations. We’re searching for a Python Developer brimming with ingenuity and determination to sculpt a more intelligent future. If you thrive in an environment where innovation melds seamlessly with technology, your search ends here.
+
+Your Responsibilities:
+
+Architect intricate, secure code forming the bedrock of our AI innovations.
+Participate actively in rigorous code assessments to surpass our lofty standards of excellence.
+Harness your Python proficiency to decode complex issues with elegant, effective solutions.
+Develop code that’s not just functional but also scalable and easily comprehensible.
+
+Your Key Requirements:
+
+Hold a degree in Engineering or Computer Science, or boast equivalent practical experience.
+Accumulate 3+ years in software development, with Python as your stronghold.
+Proficient in Python, particularly for data science and machine learning; familiar with SQL and adept in QA practices.
+Ability to tackle algorithms and prior exposure in data engineering or application development is highly valued.
+Fluency in English, with a talent for articulate and effective communication.
+
+The Exclusive Experience We Extend:
+
+Collaborate with a global cohort of forward-thinkers and developers, broadening your horizons from your preferred work setting.
+Embrace the freedom of remote work, demonstrating that innovation thrives beyond traditional office boundaries.
+Receive a competitive international salary, consistently delivered in USD.
+Immerse yourself in pioneering projects that challenge conventions and demand inventive solutions, ensuring your career stays at the cutting edge of technology.
+
+Be a Part of the AI Revolution: If the prospect of bridging humans with machines in unprecedented ways excites you, bring your expertise to our team."
+3798030798,AI Application Developer (Python),https://www.linkedin.com/jobs/view/3798030798,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Enter a world where code breathes life into the most advanced AIs, and each algorithm crafted propels digital evolution. We’re more than a company; we're a global powerhouse shaping the future of immersive chatbots straight from the realms of science fiction. We're seeking a Python Developer — a sharp-minded coder with a taste for adaptability, scalability, and all things AI.
+
+If you’re a modern-day tech maestro eager to dive into projects infused with AI, ML, and collaborative innovation, welcome to your new frontier.
+
+Your Odyssey Awaits:
+
+Craft robust, adaptive code that echoes AI’s agility and scales seamlessly like cloud infrastructure.
+Engage in meticulous code evaluations, maintaining the pinnacle of clean and efficient codebases.
+Leverage cutting-edge Python libraries to dissect and streamline intricate challenges with finesse.
+Be the steward of your code, ensuring it not only functions but stands as a beacon of industry best practices for data-driven AI development.
+
+Your Arsenal and Aptitude:
+
+Hold a tech decree proudly, continuously refining skills in the tech domain.
+With 3+ years as a software luminary, Python is your instrument, composing backend wonders.
+Proficient in Python, igniting data models, mastering machine learning, and concocting seamless APIs.
+Adept in SQL with a flair for QA, placing you at the core of the DevSecOps revolution.
+Well-versed in CI/CD, unit testing, and a history of conquering bugs, setting you apart as a candidate of legend.
+You thrive on unraveling algorithmic enigmas, transforming vast data sets into digestible insights.
+Cloud platforms and container orchestration resonate with your expertise, enchanting our interest.
+Your feats in software development aren’t just recognized; they echo through tech's corridors.
+Your fluency in English bridges the gap between tech enthusiasts and the uninitiated.
+
+Unique Benefits and Prospects:
+
+Collaborate with esteemed researchers and innovators globally, fostering a network as vast as your ambitions.
+More than a job, it’s a digital nomad’s dream with complete remote flexibility. Work where you thrive.
+Enjoy a competitive salary in USD, reflecting global standards.
+Work on pioneering projects stretching the boundaries of tech, consistently propelling you to the forefront of industry innovation.
+
+Rise with Us: Embrace the call to craft the intelligence shaping the future of conversational AI. Let's transform 'what if' into 'what is' together! 🚀
+
+Apply Now: Share a glimpse of your brilliance, and let’s revolutionize the tech-scape, one conversation at a time!"
+3651037188,C# Senior Software Engineer,https://www.linkedin.com/jobs/view/3651037188,Hitachi Energy,https://www.linkedin.com/company/hitachienergy/life," "," ",108,,Contract,,"10,001+ employees · Electric Power Transmission, Control, and Distribution",https://media.licdn.com/dms/image/D4E0BAQHZMIXYhiAJkQ/company-logo_100_100/0/1685813997475/hitachienergy_logo?e=1712188800&v=beta&t=S1VCncOCehKg-ENjntawHhFrOtEjCXL74LkhRFsu3eA,"Hitachi Energy is a global technology leader that is advancing a sustainable energy future for all. We serve customers in the utility, industry and infrastructure sectors with innovative solutions and services across the value chain. Together with customers and partners, we pioneer technologies and enable the digital transformation required to accelerate the energy transition towards a carbon-neutral future. We are advancing the world’s energy system to become more sustainable, flexible and secure whilst balancing social, environmental and economic value. Hitachi Energy has a proven track record and unparalleled installed base in more than 140 countries.","General Information
+
+As the leading enterprise software and service partner for the world's asset intensive industries, Hitachi Energy knows what it takes to be an innovative market leader. Whether it's powering the world's great cities, pioneering the future in human-robotic collaboration, or flying a solar-powered plane around the world, Hitachi Energy has a commitment to technical innovation.
+
+Hitachi Energy recognizes that the thing that fuels innovation is the passion and skill of our people, and this role is an opportunity to become part of that. We are currently recruiting for Global Innovative and Digital Enablement located in Bali, Indonesia. This is an opportunity to work in a highly energized, passionate team on projects around our existing and next generation of products, in particular in the domain of enterprise asset management. We have the opportunity for a number of energetic developers to join our development team. The successful candidates will possess a keen attitude towards learning and will have the opportunity to work in projects alongside senior engineers, implementing solution/ customizations for our world class ERP system.
+
+Your Responsibilities
+
+You will conduct requirements gathering exercises with stakeholder in requirements gathering exercises and documenting requirements with a level of clarity.
+You will deliver required artifacts in accordance with the relevant methodologies, adhere to quality control in accordance with the defined acceptance gate process, perform the various departments tasks that could range from R&D development to delivery implementation and post go live support.
+You work closely with the business consultants and project teams at every phase of the software development lifecycle to understand the business requirements.
+You will participate in functional and technical reviews adapting to changes in requirements/processes and rapid automated testing of features and practice engineering excellences and driving quality upstream in all phases of development.
+You will drive improvements in automation/unit testing coverage, developing test suites and automating end-to-end tests where appropriate.
+You will research and critically evaluate a variety of technologies and architectures to formulate technical design best able to meet the requirements, provide development estimates for software deliverables and develop high quality acceptance criteria to enable test scenarios to be created.
+Living Hitachi Energy’s core values of safety and integrity, which means taking responsibility for your own actions while caring for your colleagues and the business.
+
+Your Background
+
+Extensive exposure in C# in a professional software development role.
+Demonstrate talent as a C# developer in a team environment. Show expertise in Microsoft Visual Studio development environment, SQL Server, and relational data structures.
+Have successfully completed in computer science or related field or solid and proven experience as a Senior Software Engineer.
+Display a solid understanding of key concepts of object-orientated programming and relational data structures.
+Demonstrate understanding of the concepts of Entity Framework, API Development and Consumption.
+Display high level knowledge of code optimization techniques. Have exposure to Agile development methodologies.
+Project and software development lifecycle knowledge.
+Quality assurance and testing methodology. Optional skills set: NUnit, Selenium, Katalon.
+Communications & presentation skills and excellent level of English required.
+
+Basic Info Location Kuta, Bali, Indonesia Job type Full time Experience Experienced Job function Engineering & Science Contract Regular Publication date 2023-06-29 Reference number ID54151623
+
+Share this job"

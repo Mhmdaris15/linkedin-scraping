@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"go-linkedin-scraping/utils"
 	"log"
+	"runtime"
 	"sync"
 	"time"
 
@@ -18,7 +19,7 @@ func main() {
 	numInstances := 1
 
 	// Create 3 array of job name to search
-	jobNames := [1]string{"Backend Engineer"}
+	jobNames := [1]string{"IT Support"}
 
 	// Ask driver to login or use existing cookies
 	var loginOrUseExistingCookies string
@@ -64,9 +65,22 @@ func main() {
 }
 
 func Scrape(instanceID int, jobName string) {
+	// Detect OS
+	currentOS := runtime.GOOS
+
+	// Set the path to the chromedriver binary based on OS
+	var chromeDriverPath string
+	if currentOS == "windows" {
+		chromeDriverPath = "./chromedriver-win64/chromedriver.exe"
+	} else if currentOS == "linux" {
+		chromeDriverPath = "./chromedriver-linux64/chromedriver"
+	} else {
+		log.Fatal("Error: Unsupported OS")
+	}
+
 	// initialize a Chrome browser instance on port 4444
 	port := 4444 + instanceID
-	service, err := selenium.NewChromeDriverService("./chromedriver-win64/chromedriver.exe", port)
+	service, err := selenium.NewChromeDriverService(chromeDriverPath, port)
 	if err != nil {
 		log.Fatal("Error:", err)
 	}
@@ -130,7 +144,7 @@ func Scrape(instanceID int, jobName string) {
 		log.Fatal("Error:", err)
 	}
 
-	time.Sleep(3 * time.Second)
+	time.Sleep(1 * time.Second)
 	// Scroll container with class "jobs-search-results-list" to the bottom to load all the jobs
 	err = utils.ScrollToBottom(&driver, ".jobs-search-results-list")
 	if err != nil {

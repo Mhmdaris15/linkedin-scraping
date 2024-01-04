@@ -28,6 +28,8 @@ func GoDotEnvVariable(key string) string {
 }
 
 func ExtractNumber(text string) (int, error) {
+	// Remove , and space
+	text = strings.ReplaceAll(text, ",", "")
 	text = strings.TrimSpace(text)
 	pattern := `\d+`
 	r := regexp.MustCompile(pattern)

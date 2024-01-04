@@ -1,0 +1,1324 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3796566179,"Sr. Software Engineer – JVM/Rust Expert (Bangkok-based, relocation provided)",https://www.linkedin.com/jobs/view/3796566179,Agoda,https://www.linkedin.com/company/agoda/life," ",1 day ago,1,,Full-time,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1712188800&v=beta&t=Uch6o32VIVJnqd5pOyN6ISz8TvEijuYR_vC1w3EK8HQ,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com","About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to know our team – Observability Platform in Agoda
+
+Within the WhiteFalcon team, we build and maintain Agoda’s time series database and log aggregation system. We process tens of millions of measurements per second and hundreds of terabytes of logs per day in multiple datacenters, powering thousands of dashboards and alerts. Our biggest challenges are to support the ever-growing need for collecting more data, faster and at lower cost.
+
+In This Role, You’ll Get to
+
+Build fault-tolerant, horizontally scalable solutions running in multi-tenant environments
+Solve challenging problems in distributed and highly concurrent environment
+Impact all developers in Agoda, providing better observability instruments
+
+What You’ll Need To Succeed
+
+At least 8 years of experience writing performant and scalable code using JVM (Java/Scala/Kotlin) or Rust (C++) languages
+User/dev experience of one of the following products: Prometheus, InfluxDB, Victoria Metrics, Elasticsearch, Grafana Loki
+Production experience with messaging queues (Kafka)
+Deep understanding of concurrency and multithreading
+Value code simplicity and performance
+Demonstrate proficiency in communication and collaboration skills
+
+It’s Great If You Have
+
+Strong background in DB internals, indexes, data formats (AVRO, Protobuf)
+You generally understand observability data types, such as logs and metrics
+Profilers, debuggers, tracers hide no secrets from you, especially in a Linux environment
+Experience building large-scale time series data stores and monitoring solutions
+Experience with S3 (Ceph), Elasticsearch, Grafana and other open-source components
+You can get down to the low-level when needed
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3784476799,Software Architect,https://www.linkedin.com/jobs/view/3784476799,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",2 weeks ago,35,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
+
+At Staffing Ninja, we are committed to building long-term relationships with our clients and candidates. Our goal, among other industry experts, is to help our clients achieve their business objectives by providing them with the best talent available through our headhunting service and to help our candidates take their careers to the next level with the best AI jobs.
+
+Find your next career opportunity in the AI space, contact us today!","Roles & Responsibilities:
+
+Analyze system and customer requirements thoroughly.
+Define the architecture design of the entire software system based on requirements.
+Choose technologies and methodologies for the implementation of each component and interface in the software solution.
+Ensure the stability of software architecture throughout the software development lifecycle, from Bid to Delivery and Maintenance.
+Guarantee adherence to in-scope standards, best practices, reuse policy, and product development plans.
+Coordinate product definition and assess design trade-offs between cost, customer requirements, and technological possibilities.
+Document design choices and related justifications.
+Lead software technical document writing and effort estimation for bids and projects.
+Conduct technical presentations to the software team and other internal/external stakeholders.
+Provide knowledge on state-of-the-art software architecting, considering future developments and maintenance.
+Lead and participate in software team activities, including detailed design review, coding, code review, unit testing, and debugging.
+
+Skills & Requirements:
+
+Minimum 7 years of relevant experience building front end and back end of software and web applications.
+Minimum 3-5 years of proven experience in a software architect role, designing and developing large-scale software/web solutions.
+Knowledge of system architectural design patterns.
+Knowledge of various coding methods and programming languages (e.g., Java, C#, Go, JavaScript, Python).
+Experience with various development frameworks.
+
+Technology Experience:
+
+Experience with RESTful services and Microservices Architecture.
+Experience with at least one message queue solution and data streaming solution (e.g., Apache Kafka).
+Experience with software system-level integration.
+Experience in analyzing technical/design choices and documenting the analysis results.
+Experience with data modeling, relational databases, and NoSQL databases.
+Experience with cloud technologies (e.g., Microsoft Azure, Amazon Web Services).
+Extensive working experience (at least 3 years) with Containerization: Docker, Kubernetes.
+
+Development Tools and Methodologies:
+
+Experience with common software development tools (e.g., Jira, Git, Visual Studio Code).
+Experience in scrum/agile software development methodologies.
+Experience with continuous integration (e.g., GitLab CI) and code management repository tools.
+
+Certifications (Good-to-Have):
+
+Certified Professional for Software Architecture (CPSA) by iSAQB.
+Certified Software Architect (CSA) by the Software Engineering Institute (SEI).
+TOGAF 9 Foundation by The Open Group.
+Certified Enterprise Architect (CEA) by the Zachman Institute.
+Federating Enterprise Architecture (FEA) Certification by the Open Group.
+
+Good to have:
+
+Proficiency in English is required.
+Proficiency in Chinese or Japanese would be advantageous.
+Knowledge or experience with Web 2 / Web 3 is a plus.
+
+Benefits:
+
+It is a Full-Time Remote Opportunity."
+3796783583,"Lead Software Engineer, Trilogy (Remote) - $100,000/year USD",https://www.linkedin.com/jobs/view/3796783583,Crossover ,https://www.linkedin.com/company/crossover/life," ",1 day ago,4,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=1712188800&v=beta&t=s4G-ZkvEHeTnm-GLxEoEkbWxJ5Zto3Ts13geqBcmduU,"Crossover is the world's largest database of skilled remote talent (7 million users and counting!)
+
+We help amazing professionals all over the world prove that they're just as good as anyone in Silicon Valley—𝘢𝘯𝘥 𝘥𝘦𝘴𝘦𝘳𝘷𝘦 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘱𝘢𝘺𝘤𝘩𝘦𝘤𝘬.
+
+Like the Olympics, it's hard to qualify... but it's worth it!
+Have you got what it takes to join the 5,000+ people from 130+ countries that we've recruited for high-paying full-time remote jobs?
+
+𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:
+🧑 Reviews from people we've hired: crossover.com/people-at-crossover
+💼 Current openings: crossover.com/jobs
+💎 Hire someone for your company: crossover.com/hire
+♟️ How the process works: crossover.com/selection-process
+❓ FAQs: crossover.com/help-and-faqs
+~~~
+𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.
+
+Allow us to clarify some common misconceptions:
+1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.
+2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).
+3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.
+
+It's hard, but it's worth it!","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a software engineer that thrives on complex challenges and is eager to make a real impact? Join our team where you'll be contributing to our strategic product line, that’s looking to reshape industries and change the way people work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent. We're breaking down geographical barriers and making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students to learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, synchronization, modeling divergences and data inconsistencies.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are reshaping industries and making a difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 120-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Developing cloud-native backends and implementing data processing algorithms using the latest serverless cloud patterns, including AWS.
+Review code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Lead Software Engineer key responsibilities
+
+At least 4 years of experience writing production code for the server side of web applications.
+At least 2 years of experience being the primary technical contributor for a development team OR software product.
+At least 1 year of hands-on experience developing using cloud patterns (any cloud vendor).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4358-ID-Surabaya-LeadSoftwareEn.007"
+3791764192,Cloud Engineer,https://www.linkedin.com/jobs/view/3791764192,Talent Insider,https://www.linkedin.com/company/talentinsider/life," ",2 days ago,0,,On-site,,"11-50 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQE1tUpFj8bT_Q/company-logo_100_100/0/1630662935364/talentinsider_logo?e=1712188800&v=beta&t=Ig8ErskBeJxkTUfD86vkDJYHBAO4d9kmg2AGv8Ea3_w,"Welcome to Talent Insider. We aim to be the world’s largest professional media company, developed in Indonesia for the world.
+
+Vision:
+Empower everyone who wishes to dream higher or find their dream hire.
+
+Mission:
+Talent Insider will enhance everyone and every company, enriching them through research, insights, and industry-specific news. Our futuristic technology will enable everyone to have an equal opportunity to grow.
+
+Who Are We?
+Talent Insider began with our founder, Jacky Bhagchandani, in September 2020 and was officially launched on March 1st, 2021. He has previously worked at LinkedIn and has over 17 years of experience in the HR and Information Technology Industry.
+
+Our values are based on the principles of Communication, Trust, and Respect, recognizing that everyone at Talent Insider and beyond can aspire to dream higher.
+
+At Talent Insider, we believe that the future belongs to those who dare to dream and those who seek their dream careers. We are committed to providing a platform where individuals and businesses can access the latest insights, trends, and news to achieve their aspirations. Our dedicated team, led by Jacky Bhagchandani, brings a wealth of experience from the HR and IT sectors, ensuring that our content and technology are second to none.
+
+Whether you are an aspiring professional or a forward-thinking company, Talent Insider is here to support your journey. We are driven by a vision to empower individuals to reach new heights and help businesses thrive in a dynamic world. Join us in this exciting journey toward a brighter, more inclusive future.","Responsibilities
+Responsible For Implementation, Testing And Operation Of HW/SW Components Of NFV
+Maintains Best Practices On Managing Systems And Services Across All Environments
+Maintains A Strong Working Knowledge Of All Industry Standards And Practices As Well As The Company's Products And Services
+Communication And Cooperation With 3rd Parties/ Vendors
+
+Qualifications
+Several years of experience in system administration or cloud operations
+Hands On Experience with Red Hat Enterprise Linux (RHCE)
+Hands on experience with Continuous delivery tools (GIT, Jenkins, or Ansible)
+Hands on experience Experience with cloud/NFV technologies on Openstack platform
+Work Experience with Openshift will be plus
+Solid knowledge of protocols such as DNS, HTTP, LDAP, SMTP and SNMP"
+3796778920,"Senior Software Engineer, Trilogy (Remote) - $100,000/year USD",https://www.linkedin.com/jobs/view/3796778920,Crossover ,https://www.linkedin.com/company/crossover/life," ",1 day ago,1,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=1712188800&v=beta&t=s4G-ZkvEHeTnm-GLxEoEkbWxJ5Zto3Ts13geqBcmduU,"Crossover is the world's largest database of skilled remote talent (7 million users and counting!)
+
+We help amazing professionals all over the world prove that they're just as good as anyone in Silicon Valley—𝘢𝘯𝘥 𝘥𝘦𝘴𝘦𝘳𝘷𝘦 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘱𝘢𝘺𝘤𝘩𝘦𝘤𝘬.
+
+Like the Olympics, it's hard to qualify... but it's worth it!
+Have you got what it takes to join the 5,000+ people from 130+ countries that we've recruited for high-paying full-time remote jobs?
+
+𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:
+🧑 Reviews from people we've hired: crossover.com/people-at-crossover
+💼 Current openings: crossover.com/jobs
+💎 Hire someone for your company: crossover.com/hire
+♟️ How the process works: crossover.com/selection-process
+❓ FAQs: crossover.com/help-and-faqs
+~~~
+𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.
+
+Allow us to clarify some common misconceptions:
+1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.
+2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).
+3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.
+
+It's hard, but it's worth it!","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a full-stack engineer who thrives on complex challenges and is eager to make a real impact? Join our team to contribute to innovative products that deeply leverage AI and that are reshaping industries and changing the way we work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent, making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students quickly master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, modeling divergences and data synchronization.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in Angular, AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are making a real difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 180-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Building modern web apps using Angular accompanied by top-notch libraries and tools.
+Enhancing cloud-native backends using the latest serverless cloud patterns, including AWS.
+Reviewing code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Senior Software Engineer key responsibilities
+
+At least 3 years of experience writing frontend code (any framework)
+At least 1 year of experience writing frontend code in Angular.
+At least 3 years of experience writing backend code (any framework).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4774-ID-Surabaya-SeniorSoftware.002"
+3796778728,"Senior Software Engineer, Trilogy (Remote) - $100,000/year USD",https://www.linkedin.com/jobs/view/3796778728,Crossover ,https://www.linkedin.com/company/crossover/life," ",1 day ago,9,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=1712188800&v=beta&t=s4G-ZkvEHeTnm-GLxEoEkbWxJ5Zto3Ts13geqBcmduU,"Crossover is the world's largest database of skilled remote talent (7 million users and counting!)
+
+We help amazing professionals all over the world prove that they're just as good as anyone in Silicon Valley—𝘢𝘯𝘥 𝘥𝘦𝘴𝘦𝘳𝘷𝘦 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘱𝘢𝘺𝘤𝘩𝘦𝘤𝘬.
+
+Like the Olympics, it's hard to qualify... but it's worth it!
+Have you got what it takes to join the 5,000+ people from 130+ countries that we've recruited for high-paying full-time remote jobs?
+
+𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:
+🧑 Reviews from people we've hired: crossover.com/people-at-crossover
+💼 Current openings: crossover.com/jobs
+💎 Hire someone for your company: crossover.com/hire
+♟️ How the process works: crossover.com/selection-process
+❓ FAQs: crossover.com/help-and-faqs
+~~~
+𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.
+
+Allow us to clarify some common misconceptions:
+1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.
+2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).
+3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.
+
+It's hard, but it's worth it!","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a full-stack engineer who thrives on complex challenges and is eager to make a real impact? Join our team to contribute to innovative products that deeply leverage AI and that are reshaping industries and changing the way we work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent, making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students quickly master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, modeling divergences and data synchronization.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in Angular, AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are making a real difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 180-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Building modern web apps using Angular accompanied by top-notch libraries and tools.
+Enhancing cloud-native backends using the latest serverless cloud patterns, including AWS.
+Reviewing code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Senior Software Engineer key responsibilities
+
+At least 3 years of experience writing frontend code (any framework)
+At least 1 year of experience writing frontend code in Angular.
+At least 3 years of experience writing backend code (any framework).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4774-ID-EastJava-SeniorSoftware"
+3796784482,"Senior Software Engineer, Trilogy (Remote) - $100,000/year USD",https://www.linkedin.com/jobs/view/3796784482,Crossover ,https://www.linkedin.com/company/crossover/life," ",1 day ago,2,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=1712188800&v=beta&t=s4G-ZkvEHeTnm-GLxEoEkbWxJ5Zto3Ts13geqBcmduU,"Crossover is the world's largest database of skilled remote talent (7 million users and counting!)
+
+We help amazing professionals all over the world prove that they're just as good as anyone in Silicon Valley—𝘢𝘯𝘥 𝘥𝘦𝘴𝘦𝘳𝘷𝘦 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘱𝘢𝘺𝘤𝘩𝘦𝘤𝘬.
+
+Like the Olympics, it's hard to qualify... but it's worth it!
+Have you got what it takes to join the 5,000+ people from 130+ countries that we've recruited for high-paying full-time remote jobs?
+
+𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:
+🧑 Reviews from people we've hired: crossover.com/people-at-crossover
+💼 Current openings: crossover.com/jobs
+💎 Hire someone for your company: crossover.com/hire
+♟️ How the process works: crossover.com/selection-process
+❓ FAQs: crossover.com/help-and-faqs
+~~~
+𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.
+
+Allow us to clarify some common misconceptions:
+1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.
+2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).
+3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.
+
+It's hard, but it's worth it!
+…
+show more","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a full-stack engineer who thrives on complex challenges and is eager to make a real impact? Join our team to contribute to innovative products that deeply leverage AI and that are reshaping industries and changing the way we work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent, making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students quickly master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, modeling divergences and data synchronization.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in Angular, AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are making a real difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 180-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Building modern web apps using Angular accompanied by top-notch libraries and tools.
+Enhancing cloud-native backends using the latest serverless cloud patterns, including AWS.
+Reviewing code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Senior Software Engineer key responsibilities
+
+At least 3 years of experience writing frontend code (any framework)
+At least 1 year of experience writing frontend code in Angular.
+At least 3 years of experience writing backend code (any framework).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4774-ID-Pekanbar-SeniorSoftware"
+3796783663,"Lead Software Engineer, Trilogy (Remote) - $100,000/year USD",https://www.linkedin.com/jobs/view/3796783663,Crossover ,https://www.linkedin.com/company/crossover/life," ",1 day ago,4,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=1712188800&v=beta&t=s4G-ZkvEHeTnm-GLxEoEkbWxJ5Zto3Ts13geqBcmduU,"Crossover is the world's largest database of skilled remote talent (7 million users and counting!)
+
+We help amazing professionals all over the world prove that they're just as good as anyone in Silicon Valley—𝘢𝘯𝘥 𝘥𝘦𝘴𝘦𝘳𝘷𝘦 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘱𝘢𝘺𝘤𝘩𝘦𝘤𝘬.
+
+Like the Olympics, it's hard to qualify... but it's worth it!
+Have you got what it takes to join the 5,000+ people from 130+ countries that we've recruited for high-paying full-time remote jobs?
+
+𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:
+🧑 Reviews from people we've hired: crossover.com/people-at-crossover
+💼 Current openings: crossover.com/jobs
+💎 Hire someone for your company: crossover.com/hire
+♟️ How the process works: crossover.com/selection-process
+❓ FAQs: crossover.com/help-and-faqs
+~~~
+𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.
+
+Allow us to clarify some common misconceptions:
+1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.
+2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).
+3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.
+
+It's hard, but it's worth it!","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a full-stack engineer who thrives on complex challenges and is eager to make a real impact? Join our team to contribute to innovative products that deeply leverage AI and that are reshaping industries and changing the way we work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent, making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students quickly master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, modeling divergences and data synchronization.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in Angular, AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are making a real difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 180-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Building modern web apps using Angular accompanied by top-notch libraries and tools.
+Enhancing cloud-native backends using the latest serverless cloud patterns, including AWS.
+Reviewing code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Lead Software Engineer key responsibilities
+
+At least 3 years of experience writing frontend code (any framework)
+At least 1 year of experience writing frontend code in Angular.
+At least 3 years of experience writing backend code (any framework).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4774-ID-Yogyakar-LeadSoftwareEn"
+3697075508,Senior Back End Java Developer (Full Stack),https://www.linkedin.com/jobs/view/3697075508,Youtap Technology Ltd,https://www.linkedin.com/company/youtap-limited/life," ",4 months ago,91,,On-site,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/D560BAQH1qnnJWydNew/company-logo_100_100/0/1695960065207/youtap_limited_logo?e=1712188800&v=beta&t=7i7E2fvaCf1lnc6k4IKn6PP-com2t6i6cHVamrKiQUM,"Youtap is a financial services software company based in New Zealand.
+
+Youtap was established in 2007 and provides banks, payment service providers, retail conglomerates, and mobile operators around the globe with the future of digital banking, payments, and financial services software and solutions. It has created a digital aggregation and processing backbone which connects its strategic partners – banks, telecom operators, and merchants – with a mass market of consumers.
+
+Youtap provides partners with secure, transparent peer-to-peer financial services utilizing traditional and distributed ledger processing to provide an interoperable layer between financial institutions, payment providers, and other companies providing financial services to merchants and consumers.
+
+Youtap's shareholders include Verifone (a leader in banking and payment technology) and Salim Group (one of the world's largest conglomerates).
+
+Youtap has offices in Auckland, New York, Jakarta, and Singapore.","Youtap Technology, is a financial services company, we are seeking a Senior Back End Java Developer (Full Stack) to join their talented team. Youtap empowers consumers and merchants to transact digitally using digital banking and their digital wallets across the globe. As a white-label technology provider, Youtap offers digital banks, financial institutions, and corporates the ability to digitize their customer base, expanding their customer interactions from limited to real-time. Consumers and merchants want real-time transactions that are convenient, fast, and simple. Through Youtap's Digital Banking, Digital Payments, and Digital Wallet applications, consumers and merchants can enjoy seamless transactions and one solution to manage their online and in-store sales.
+
+As the Senior Back End Java Developer (Full Stack), you will be able to work on innovative projects that will improve customer interaction and user experiences across various industries. You will be responsible for designing and developing scalable software solutions that are efficient, secure, and reliable. You will need to work collaboratively with other members of the development team and the wider business to ensure that projects are delivered on time and to a high standard.
+
+Responsibilities
+
+Develop and maintain the company's backend systems
+Write well-designed, efficient, and maintainable code
+Work closely with the development team to implement new features and enhancements to existing products
+Ensure that all code changes are reviewed, tested, and deployed on time
+Participate in code reviews and peer programming sessions
+Troubleshoot and resolve technical issues, bugs, and errors
+Provide support and mentorship to other members of the development team
+
+Requirements
+
+Bachelor's degree in Computer Science or a related field
+At least 5 years of experience in Java development, preferably in a full stack role with emphasis on backend development
+Strong experience with Java, Spring Framework, Kubernetes and PostGreSQL
+Experience with message queueing, API development, and microservices architecture
+Familiarity with front-end development technologies such as Flutter, and React JS
+Familiarity with Agile software development methodologies and DevOps practices
+Excellent communication, problem-solving, and troubleshooting skills
+
+Benefits
+
+We offer competitive salary packages and a pleasant working environment."
+3796779856,"AI Super Engineer, Trilogy (Remote) - $200,000/year USD",https://www.linkedin.com/jobs/view/3796779856,Crossover ,https://www.linkedin.com/company/crossover/life," ",1 day ago,11,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=1712188800&v=beta&t=s4G-ZkvEHeTnm-GLxEoEkbWxJ5Zto3Ts13geqBcmduU,"Crossover is the world's largest database of skilled remote talent (7 million users and counting!)
+
+We help amazing professionals all over the world prove that they're just as good as anyone in Silicon Valley—𝘢𝘯𝘥 𝘥𝘦𝘴𝘦𝘳𝘷𝘦 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘱𝘢𝘺𝘤𝘩𝘦𝘤𝘬.
+
+Like the Olympics, it's hard to qualify... but it's worth it!
+Have you got what it takes to join the 5,000+ people from 130+ countries that we've recruited for high-paying full-time remote jobs?
+
+𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:
+🧑 Reviews from people we've hired: crossover.com/people-at-crossover
+💼 Current openings: crossover.com/jobs
+💎 Hire someone for your company: crossover.com/hire
+♟️ How the process works: crossover.com/selection-process
+❓ FAQs: crossover.com/help-and-faqs
+~~~
+𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.
+
+Allow us to clarify some common misconceptions:
+1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.
+2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).
+3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.
+
+It's hard, but it's worth it!","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a seasoned software engineer with a deep interest in AI? Trilogy is on the lookout for exceptional engineers to lead the charge in adopting generative AI tools both in our development process and into our products.
+
+Join us to work on our exciting product portfolio:
+
+TeachTap: Bringing historical figures to life using AI, offering an engaging, TikTok-like learning experience to make learning more relevant and fun.
+Educational Content Generation: Utilizing the latest in generative AI combined with comprehensive learning materials to create captivating content.
+TeachTower: A game-based motivation system inspired by popular games like Roblox and Minecraft, designed to make learning irresistibly fun.
+Coachbot: A learning copilot that integrates with existing apps, guiding learning paths, recommending next steps, and rewarding daily progress.
+Data-driven Sales: A sales platform that leverages AI to provide real-time guidance to agents during calls, create personalized renewal plans, and quality control sales calls.
+Crossover: An AI-powered hiring platform that sifts through millions of applicants annually to find the top 1% of global talent.
+
+Your role will focus on integrating AI into engineering practices, using AI tools to increase efficiency and solve engineering tasks like coding and testing. Based on the obtained results, you will derive recipes and playbooks to be adopted by the broader engineering team. Maintaining high-quality standards in our codebases while ensuring high leverage of AI tools across our engineering teams will be a key part of your work.
+
+You will be an integral part of our existing engineering team, working collaboratively on our suite of products to deeply understand our environment and needs. You will have the freedom to propose and experiment with new tools and then will leverage the insights and experiences obtained to evolve our processes, advocate for new tool adoption, or even spearhead the creation of small tools, bots, and frameworks to enhance our technical setup.
+
+We seek candidates with a strong background in software engineering and a capacity for adapting to new technologies. Moreover, an interest in the latest generative AI developments and a drive for innovation are crucial. While our primary tech stack is AWS Serverless with TypeScript, we're looking for versatile engineers who can excel in a variety of technical environments and challenges.
+
+What You Will Be Doing
+
+Developing fully functional features, using AI tools to expedite delivery and enhance quality.
+Performing experiments with AI to enhance engineering processes, including decomposition, solution design, code generation, and troubleshooting.
+Documenting best practices and techniques in guides that enable others to harness the power of generative AI effectively.
+
+What You Won’t Be Doing
+
+Building new AI models from scratch; instead, your focus will be on leveraging and fine-tuning existing models to maximize efficiency.
+Being confined to outdated technologies; we encourage an environment that thrives on dynamic tech stacks, fostering continuous innovation.
+
+AI Super Engineer Key Responsibilities
+
+Drive transformative change by establishing a framework that seamlessly integrates generative AI, significantly amplifying engineering productivity.
+
+Basic Requirements
+
+Minimum 5 years of experience in professional software development.
+Minimum 3 years either as a lead engineer reviewing the work of other engineers or as an architect making important technical decisions.
+Excited to use and explore new generative AI tools for software engineering tasks on a day-to-day basis
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-5106-ID-Jakarta-AISuperEnginee.008"
+3633368913,Lead/Staff Software Engineer – Front End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3633368913,Agoda,https://www.linkedin.com/company/agoda/life," "," ",365,,On-site,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1712188800&v=beta&t=Uch6o32VIVJnqd5pOyN6ISz8TvEijuYR_vC1w3EK8HQ,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team
+
+Agoda ha s several teams in front-end focusing on different aspects of our products including accommodations, flights, payments, marketing, post-booking services, and more. Agoda’s marketplace is the world. We build localized and optimized user experiences at scale on every major internet platform . These include our mobile websites, native apps, and desktop sites. We hire people from around the world who have a passion for using technology to create and implement the best user experiences. Our front-end teams work on building user interfaces and integrating them with our back – end services to provide a seamless user experience. Our products are always evolving and under experimentation ; w e accomplish this by having a modularized approach, a utomating everything we can and optimizing our continuous delivery processes . By embracing data-driven practices and measuring our results, we foster a culture of innovation and constant improvement in our work.
+
+We are looking for technical leaders like you who are passionate about their craft, thrive in a collaborative environment, and are driven to deliver high-quality solutions with a strong sense of ownership to push the boundaries of technology. Join our team and be part of a company that values innovation, encourages professional growth, and fosters a supportive and inclusive work culture.
+
+The Opportunity
+
+Lead / Staff engineer is the key role in our technology organization working together with individual contributors and senior leadership. Our lead engineers are heavily involved in the hiring and mentoring process and are the go-to people who design and implement new systems and components. We are looking for people who are passionate to take on more responsibility and driving major architectural changes in Agoda. It’s expected from you in this role as Lead / Staff engineer to push Agoda forward technically by adopting new technologies and setting higher standards.
+
+In this Role, you’ll get to:
+
+ Maintain ownership and responsibility of mission critical systems. 
+ Be hands on – build high volume platforms using cutting-edge technologies like React , C# and Kotlin 
+ Mentor and coach other software engineers 
+ Be a major contributor to our agile and scrum practices and perform code reviews on the systems your teams own 
+ Design and lead crucial technical projects and initiatives cross teams and departments 
+Stay on the leading edge of technical know-how , industry trends and drive technical 
+
+ What you’ll Need to Succeed: 
+
+ Ove rall 5+ years of experience in front-end development. At least 3 + years of experience in developing web applications in client-side frameworks such as React, Angular, VueJS, etc. 
+ B.S. in Computer Science or quantitative field; M.S. optional 
+ Working experience with agile, analytics, A/B testing, GIT Flow 
+ Excellent HTML/CSS skills – you understand not only how to build the data, but how to make it look great too 
+ 3 + years’ experience developing performance-critical applications that run in a production environment using one of the backend languages/frameworks such as .NET, Java, Scala, Kotlin, Rust, NodeJS, Go or Python 
+ Excellent understanding of the JavaScript language and ecosystem including front-end build tools (Webpack, Babel) and package managers (npm, Yarn) 
+ Experience in all aspects of client-side performance optimization 
+Ability to guide the team on best frontend practices 
+ Experience mentoring junior engineers to help them unleash their full potential 
+ Great communication and coordination skills 
+Excellent analytical thinking and problem-solving skills
+You have a good command of the English language
+
+It’s Great if you have:
+
+ Knowledge in physical architecture at scale, building resilient, no single point of failures, highly available solutions 
+ Strong experience in all aspects of client-side performance optimization 
+ Proficiency in modern coding and design practices. For example, Clean Code, SOLID principals, and TDD 
+ Working Experience with Containers and Dockerization , also K8S is a plus 
+ Experience working on an app or internet company that is at scale with large numbers of users and transactions per second 
+ E xperience working in a data driven company with experience analyzing and working with Big Data 
+ Experience leading teams and greenfield projects solving large system problems 
+ Experience working on global projects serving world markets with distributed data centers and localization of the front end and data 
+
+This position is based in Bangkok, Thailand (Relocation Provided)
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #ENG #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3775948617,Senior Backend Engineer,https://www.linkedin.com/jobs/view/3775948617,Talent Insider,https://www.linkedin.com/company/talentinsider/life," ",4 weeks ago,1,,On-site,,"11-50 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQE1tUpFj8bT_Q/company-logo_100_100/0/1630662935364/talentinsider_logo?e=1712188800&v=beta&t=Ig8ErskBeJxkTUfD86vkDJYHBAO4d9kmg2AGv8Ea3_w,"Welcome to Talent Insider. We aim to be the world’s largest professional media company, developed in Indonesia for the world.
+
+Vision:
+Empower everyone who wishes to dream higher or find their dream hire.
+
+Mission:
+Talent Insider will enhance everyone and every company, enriching them through research, insights, and industry-specific news. Our futuristic technology will enable everyone to have an equal opportunity to grow.
+
+Who Are We?
+Talent Insider began with our founder, Jacky Bhagchandani, in September 2020 and was officially launched on March 1st, 2021. He has previously worked at LinkedIn and has over 17 years of experience in the HR and Information Technology Industry.
+
+Our values are based on the principles of Communication, Trust, and Respect, recognizing that everyone at Talent Insider and beyond can aspire to dream higher.
+
+At Talent Insider, we believe that the future belongs to those who dare to dream and those who seek their dream careers. We are committed to providing a platform where individuals and businesses can access the latest insights, trends, and news to achieve their aspirations. Our dedicated team, led by Jacky Bhagchandani, brings a wealth of experience from the HR and IT sectors, ensuring that our content and technology are second to none.
+
+Whether you are an aspiring professional or a forward-thinking company, Talent Insider is here to support your journey. We are driven by a vision to empower individuals to reach new heights and help businesses thrive in a dynamic world. Join us in this exciting journey toward a brighter, more inclusive future.","Responsibilities
+Coordinating Closely With The Other Payments Team Which Is Building Out New Payment Methods And The CDE Team That Is Ensuring The Payment Rails For Our Card Processing Is Managed Correctly.
+This Role Specifically Will Be Implementing New Enhancements To Our Internal Switch Service And Extending It’s Capabilities. 
+
+Qualifications
+Developing and maintaining our core payments api(Switch)
+We are looking for someone who has:
+Someone with at least 6 years of experience in Python
+Experience working with database technologies and SQL
+Experience designing, building, testing and deploying secure and scalable applications
+Experience with AWS, Serverless / Lambdas / API Gateway a plus"
+3798039802,Python Developer - AI Communication,https://www.linkedin.com/jobs/view/3798039802,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Embark on a Code-Conjuring Journey as a Python Connoisseur
+
+Step into an arena where coding innovation forges paths forward and your digital craftsmanship breathes life into avant-garde AI entities. Our essence goes beyond a mere company; we're pioneers at the tech frontier, assembling conversational bots akin to those from the realms of fantasy. We seek a Python Developer—a scripting savant enamored with elegant solutions and AI-driven engineering. If you're a tech artisan craving AI-infused assignments and an atmosphere buzzing with collaborative genius, your quest begins here.
+
+Your Coding Crusade Beckons:
+
+Fabricate robust, adaptive Python code that mirrors the intuitiveness of AI and the expansion of cloud frontiers.
+Lead rigorous code evaluations, championing the utmost standards for a streamlined, impeccable codebase.
+Employ cutting-edge Python tools to unravel and reengineer the web of tech challenges with finesse.
+Uphold the sanctity of your code, turning it into the paragon of best practices for AI-centric software development.
+
+Refine Your Tech Craft:
+
+Armed with a technical diploma and a lifelong dedication to tech skills enhancement.
+Commanding over 3 years of software mastery, Python is your elemental force for unlocking backend potential.
+Your Python expertise is unmatched, inciting data revolution, ML enchantments, and harmonious API integrations.
+Skilled in SQL and versed in the ways of DevSecOps, you sit at the core of quality-driven tech endeavors.
+Proficiency in CI/CD, test-first approach, and a proven record of bug vanquishing set you on a pedestal of distinction.
+Revel in solving complex data enigmas, turning vast data troves into accessible knowledge.
+If your passion lies with cloud computing and container orchestration, you're in tune with us.
+Your software tales are not mere footnotes; they resound through milestone achievements in the tech saga.
+You translate tech lingo into universal tongues fluently, making you the de facto liaison among coders and all.
+
+Pioneering Perks and Prospects:
+
+Join forces with eminent tech luminaries worldwide, constructing a network that's as boundless as your vision.
+Live the freedom of a digital nomad, backed by the capacity to work remotely from the locale that inspires you most.
+Receive a competitive USD-compensated package that aligns you with an international benchmark.
+Engage with transformative projects that redefine technological limits, continually challenging and elevating you.
+
+Rise and Code with Us:
+
+Immerse in crafting the AI dialogue of tomorrow. Let's convert """"what ifs"""" into """"what nows"""" collaboratively! 🚀
+
+Apply Today:
+
+Reveal to us a glimpse of your technical poetry. Together, let's reshape the tech narrative, one conversation at a time!"
+3798036189,Python Developer - AI Communication,https://www.linkedin.com/jobs/view/3798036189,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Python Developer Opportunity: Craft the Future with Us
+
+Join Our Team and Build the Next Wave of AI Solutions
+
+Are you ready to put your coding skills to the test and have a direct impact on the future of technology? Our global tech company is forging ahead in the field of AI, and we need a talented Python Developer like you to help us turn sci-fi dreams into reality.
+
+Your Mission:
+
+Develop resilient, scalable code that is as intelligent as the AI solutions it powers.
+Contribute to meticulous code reviews that uphold the highest standards of code quality and efficiency.
+Implement advanced Python libraries to dissect and optimize complex problems.
+Take ownership of your code from development to deployment, aligning with industry-leading practices in AI-driven development.
+
+Your Technical Arsenal:
+
+An education in technology with a commitment to ongoing learning in the tech arena.
+At least 3 years of experience with Python as your primary tool for backend development.
+Advanced knowledge of Python, creating sophisticated data structures, machine learning algorithms, and seamless API integrations.
+Proficiency in SQL and an understanding of quality assurance as central to security and operations.
+Experience with Continuous Integration/Continuous Deployment (CI/CD), unit testing, and a track record of resolving defects.
+Excited by the challenge of turning complex data into accessible insights.
+Experience with cloud platforms and containerization tools is a huge plus.
+
+Why You Should Join Us:
+
+Collaborate with world-class researchers and innovators globally, as you expand your professional network.
+Enjoy the flexibility of a full remote work setup so you can thrive from anywhere.
+Receive a competitive salary in USD, aligning with international standards.
+Work on pioneering projects at the bleeding edge of tech innovation.
+
+Advance with Us: Play a pivotal role in shaping the conversational AI of the future. Join us in transforming the questions of today into the realities of tomorrow!
+
+Apply Now: Show us how you can contribute to our mission. Let's push the boundaries of what's possible in tech, one innovative conversation at a time!"
+3695205286,"IT Developer (Java, NET, Reactjs, Android, etc)",https://www.linkedin.com/jobs/view/3695205286,PT. Astra Graphia Information Technology (AGIT),https://www.linkedin.com/company/pt-astra-graphia-information-technology/life," ",4 months ago,273,,On-site,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D560BAQFPU9lYt9Osiw/company-logo_100_100/0/1691028661547/pt_astra_graphia_information_technology_logo?e=1712188800&v=beta&t=OjX-WVYnuJNYblCdvL1Lq6en9UT8xxF185QfThBuJbg,"AGIT is a Digital Service Provider, provides one stop Solution on Digital Services, both in on-premise and cloud infrastructure model. We bring the concept of digitize things (digitize everything), to help and to assist our customers in performing their digital transformation through the implementation on digital technology & digital solutions.
+
+Since 1983, AGIT is part of PT Astra International Tbk Group, a conglomeration company in Indonesia that currently has 238 subsidiaries and affiliate companies with 7 line of businesses.
+
+We have four main pillars in our Digital Solution Portfolios that cover the entire journey required to conduct digital transformation as follow:
+
+1. Digital Strategy
+It is a consultancy services to help our customer to formulize digital strategy, develop digital roadmap, and define their digital priorities. Basically this is the first step that has to be done by company to start its digital transformation journey
+
+2. Digital ICT Foundation
+This solution is to provide basic ICT infrastructure that becomes the foundation prior to the customer enter into digital world.
+• Next Generation Infrastructure
+• Enterprise Business Application
+• Managed Operation Services
+
+3. Digital Platform
+To establish digital technology platform to enable digital services
+
+AGIT focus in 4 digital technology platform:
+i. Big Data & Analytics Platform including data management, data modeling, data visualization & machine learning
+ii. Internet of Things & Automation Platform, including sensors, video analytics, tracking monitoring
+iii. Cloud Platform, including private, public and hybrid cloud
+iv. Security Platform
+
+4. Digital Services
+To provide digital services in the area of Business Process, on 4 major/critical business process in Digital Transformation:
+• Customer Engagement & Customer Experiences
+• Finance & Supply Chain
+• Logistics & Distribution
+• Talent Management & Workforce Productivity","Write clean, secure, test driven, easily maintainable and modular codes.
+Translate application requirements into functional applications.
+Identify bottlenecks and bugs, and give solutions to these problems.
+Write technical procedures and documentation for the applications including operations, user guide, etc.
+Work with other team members.
+
+Minimum Qualifications
+
+Minimum S1 all major background (preferred in Information technology.
+Self-motivated and takes accountability and ownership for work under minimum supervision
+Ability to develop using Application Lifecycle Management tools (GIT).
+Having good knowledge on .NET Framework Foundation namespace (Collections, Data, Linq, Web, Transaction).
+Having good knowledge on HTML, CSS, JavaScript.
+Working knowledge on Web Services, WCF (REST, SOAP, etc.), Web API, T-SQL.
+Solid working knowledge on .NET Core using C#.
+Proficiency in Object Oriented Programming (Inheritance, Encapsulation, and Polymorphism).
+Experience: 2-3 years of relevant experience on .Net Framework programming language"
+3774194461,Senior Full-stack Developer,https://www.linkedin.com/jobs/view/3774194461,,,,,0,,On-site,,See recent hiring trends for PT Aurora Consultancy Group. Try Premium for IDR0,,,"Requirements
+
+Have a professional proficiency in English is A MUST. 
+Have experience in fintech company will be a plus point. 
+Diploma/Bachelor of Information Technology or equivalent 
+Minimum 5 years experience in the same position Hands on in front-end technologies 
+Experience using vue.js minimum 3 years 
+Familiar with javascript, docker and unit tests 
+Experience in the field of Backend and API Development 
+Strong database knowledge 
+Familiar with web architectures, Github and using development frameworks and third-party libraries 
+Basic design skills
+
+Responsibilities
+
+Participating in the design and creation 
+Writing clean and functional code on the front and back-end 
+Design client-side and server-side architecture 
+Ensure the platform can be accessed via mobile optimally 
+Build the front-end of applications through appealing visual design 
+Troubleshoot, debug and perform internal testing before software release 
+Work and coordinate with other team member 
+Design and develop effective API"
+3798038818,Python Developer - AI Communication,https://www.linkedin.com/jobs/view/3798038818,Turing,https://www.linkedin.com/company/turingcom/life," ",4 days ago,0,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","Embark on a Code-Conjuring Journey as a Python Connoisseur
+
+Step into an arena where coding innovation forges paths forward and your digital craftsmanship breathes life into avant-garde AI entities. Our essence goes beyond a mere company; we're pioneers at the tech frontier, assembling conversational bots akin to those from the realms of fantasy. We seek a Python Developer—a scripting savant enamored with elegant solutions and AI-driven engineering. If you're a tech artisan craving AI-infused assignments and an atmosphere buzzing with collaborative genius, your quest begins here.
+
+Your Coding Crusade Beckons:
+
+Fabricate robust, adaptive Python code that mirrors the intuitiveness of AI and the expansion of cloud frontiers.
+Lead rigorous code evaluations, championing the utmost standards for a streamlined, impeccable codebase.
+Employ cutting-edge Python tools to unravel and reengineer the web of tech challenges with finesse.
+Uphold the sanctity of your code, turning it into the paragon of best practices for AI-centric software development.
+
+Refine Your Tech Craft:
+
+Armed with a technical diploma and a lifelong dedication to tech skills enhancement.
+Commanding over 3 years of software mastery, Python is your elemental force for unlocking backend potential.
+Your Python expertise is unmatched, inciting data revolution, ML enchantments, and harmonious API integrations.
+Skilled in SQL and versed in the ways of DevSecOps, you sit at the core of quality-driven tech endeavors.
+Proficiency in CI/CD, test-first approach, and a proven record of bug vanquishing set you on a pedestal of distinction.
+Revel in solving complex data enigmas, turning vast data troves into accessible knowledge.
+If your passion lies with cloud computing and container orchestration, you're in tune with us.
+Your software tales are not mere footnotes; they resound through milestone achievements in the tech saga.
+You translate tech lingo into universal tongues fluently, making you the de facto liaison among coders and all.
+
+Pioneering Perks and Prospects:
+
+Join forces with eminent tech luminaries worldwide, constructing a network that's as boundless as your vision.
+Live the freedom of a digital nomad, backed by the capacity to work remotely from the locale that inspires you most.
+Receive a competitive USD-compensated package that aligns you with an international benchmark.
+Engage with transformative projects that redefine technological limits, continually challenging and elevating you.
+
+Rise and Code with Us:
+
+Immerse in crafting the AI dialogue of tomorrow. Let's convert """"what ifs"""" into """"what nows"""" collaboratively! 🚀
+
+Apply Today:
+
+Reveal to us a glimpse of your technical poetry. Together, let's reshape the tech narrative, one conversation at a time!"
+3793569411,Junior Web Developer (Full Stack),https://www.linkedin.com/jobs/view/3793569411,Smart Integrated System (SIS),https://www.linkedin.com/company/smart-integrated-system-sis/life," ",,20,,On-site,,11-50 employees,https://media.licdn.com/dms/image/C4E0BAQEEMozapZCK6w/company-logo_100_100/0/1677717966724?e=1712188800&v=beta&t=JeKjoPcq6Xg3I-WtVAEYmwgmhh90xumayUMuHTFJDm0,"Kami Adalah Solusi yang Profesional dan Kreatif
+
+Smart Integrated System (SIS) merupakan perusahaan yang bergerak di bidang jasa developer IT baik software maupun hardware. Kami menawarkan kemudahan bagi lembaga, komunitas, maupun individu dalam berkonsultasi hingga pembuatan sistem yang diperlukan. Sistem yang kami buat memiliki jaminan yang baik karena dikerjakan oleh tim IT profesional yang telah berpengalaman minimal 3 tahun dalam pengembangan software.","Role Description
+Pekerjaan ini diperuntukan untuk posisi Junior Web Developer (Full Stack) dan diharuskan on site yang berlokasi di Palembang. Junior Web Developer akan bertanggung jawab untuk mengembangkan, merancang, dan memelihara aplikasi web. Junior Web Developer juga akan bertanggung jawab atas pemrograman dan berkolaborasi dengan anggota tim untuk memastikan sistem yang efektif dan efisien.
+
+Qualifications
+Menguasai Penggunaan Framework Laravel: Model, View (Blade), Controller, Migrations, Seeder.
+Menguasai Penggunaan Laravel Livewire merupakan nilai tambah.
+Menguasai Penggunaan Javascript (Jquery) merupakan nilai tambah.
+Menguasai Database MySQL / PostgreSQL merupakan nilai tambah.
+Menguasai Penggunaan Version Control (Github) merupakan nilai tambah.
+Mampu bekerja sama di dalam team.
+Mampu bekerja di bawah tekanan."
+3793805364,Backend Java Developer,https://www.linkedin.com/jobs/view/3793805364,,,,,0,,"IDR10,000,000/month - IDR14,000,000/month",,See how you compare to 6 applicants. Try Premium for IDR0,,,"Menguasai JAVA/KOTLIN Springboot frameworks
+ Pengalaman mengunakan Database MYSQL,MSSQL,PostgresSQL
+ Pengalaman mengunakan Message Broker ( RabitQ,Kafka), Caching server ( Redis )
+ Pengalaman mengunakan Jasper Reporting
+ Pengalaman mengunakan DOCKER,Kubertnates
+ Pengalaman membuat API RESTFull,SYNC/ASYNC API backoffice
+ Pernah membuat aplikasi Backoffice seperti aplikasi Finance,Accounting atau Reporting
+ Mengerti Konsep Microscervices Acrhitectures
+ Memahami penggunaan Git
+ Minimal 3thn pengalaman sebagai BE Developer
+ Memahami java fundamental
+
+On-site di Jakarta Selatan untuk healthcare company
+
+PKWT 12 bulan (extendable)"
+3794012105,Java Developer (Join Immediately),https://www.linkedin.com/jobs/view/3794012105,PT. IDStar Cipta Teknologi (IDstar),https://www.linkedin.com/company/pt-idstar-cipta-teknologi/life," ",,2,,On-site,,201-500 employees,https://media.licdn.com/dms/image/C510BAQHSAuo10xfmCg/company-logo_100_100/0/1630607337938/pt_idstar_cipta_teknologi_logo?e=1712188800&v=beta&t=1c1OSWjk58rJXj4AcK7qbmbnrNjLFP6mDHMtEluvD1g,"IDstar is an IT Consultant that focused on Business Transformation Solution to any business on a global scale by providing IT Outsourcing, RPA Solutions and Data Extraction.
+
+Our team of 250+ specialized IT professionals is dedicated to providing top-notch IT outsourcing, RPA solutions, and data extraction services. With over 205+ automation solutions and 10+ proven data extraction templates, we help more than 25+ companies adapt to the digital world.
+
+Trust us to help transform your business and take it to the next level.","Role Description
+The Java Developer will be responsible for designing, developing and maintaining Java applications and APIs using Spring Boot, writing high-quality Java code, collaborating with cross-functional teams, providing technical expertise and guidance to other team members, and ensuring the delivery of high-performance and scalable applications.
+
+Qualifications
+Bachelor's degree or higher in Computer Science, Information Technology or a related field
+At least 2 years of experience in Java development and Spring Boot
+Strong proficiency in object-oriented programming principles, design patterns, and software engineering best practices
+Experience in developing RESTful APIs and microservices using Spring Boot and Spring Framework
+Experience in working with Agile methodologies and tools such as Scrum, JIRA and Git
+Experience in Test Driven Development, Continuous Integration, and Continuous Deployment, using tools such as JUnit, Mockito, Jenkins, and Docker
+Strong problem-solving, analytical, and communication skills, with the ability to work independently and in a team environment"
+3656861630,DevOps Engineer,https://www.linkedin.com/jobs/view/3656861630,Ralali.com - B2B Marketplace,https://www.linkedin.com/company/ralali-com/life," ",6 months ago,98,,On-site,,"201-500 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C4D0BAQFE_7iIzXPkkw/company-logo_100_100/0/1631329338026?e=1712188800&v=beta&t=seRHCP_5X-qlXbiKctSmC3LzLGr0Np3j9blKWB1i7gs,"Ralali.com is the first and largest online B2B marketplace in Indonesia. We provide business solutions through digital technology by giving access to market, access to financial, and access to distribution channels/supply chain, so that can form those businesses into Ralali Group ecosystem.
+
+Ralali.com has a great mission to help #BusinessGROWHere with the digital business ecosystem. We aim to build the best digital business ecosystem. We envision that we can help the Indonesian economy to grow through leveraging the local market, and growing people through optimizing their talent in digital technology and business.
+
+Founded in 2013, Ralali.com is growing rapidly with 1,5M users, 22.000 vendors, 500.000 products, and more than 6M visitors every month.
+
+Along with the growth of market demand and business opportunities, Ralali Group provides business solutions to help business actors build reputations and develop networks in the digital era with Ralali Connect, it’s a platform that aims for SMEs or reseller to be able to have a digital storefront and connect with various business communities. Ralali Agent as an On Demand Business Platform is a solution to find additional income for the community, so that it can help businesses grow by providing collaboration between digital technology and the workforce in conducting O2O (Offline to Online) processes.
+
+Ralali Group aims to be a one stop solution for business actors as a source to scale-up and develop their business with various features and facilities needed by business actors.
+
+Follow our social media to get the updated information:
+https://www.instagram.com/ralalicom/
+https://www.facebook.com/ralalicom/
+https://www.twitter.com/ralalicom/
+https://www.youtube.com/ralalicom/
+https://news.ralali.com/
+
+#LetsGROWtogether with us https://careers.ralali.com/","Responsibilities
+
+Collaborate with software development and quality engineer teams to understand infrastructure requirements and provide guidance on best practices for AWS cloud resources.
+Design, implement, and manage AWS infrastructure using services like ECS, EC2, S3, VPC, RDS, Parameter Store., etc
+Implement and maintain CI/CD pipelines for efficient software delivery.
+Automate infrastructure provisioning, configuration, and deployment processes using tools such as Terraform or CloudFormation.
+Monitor system health, performance, and security using observability tools such as Datadog or NewRelic.
+Implement security measures and best practices to protect our infrastructure and data.
+Implement and manage logging and alerting systems to proactively identify and resolve issues.
+Troubleshoot and resolve infrastructure-related problems, working closely with cross-functional teams to ensure minimal impact on business operations.
+Continuously optimize the performance and scalability of our AWS cloud resources.
+Stay up-to-date with industry best practices and emerging technologies in the DevOps and cloud computing space.
+
+Requirements
+
+Proven experience as a DevOps Engineer or similar role, with a focus on AWS cloud resources.
+Strong understanding of AWS services, including but not limited to ECS, EC2, S3, RDS, VPC, IAM, Parameter Store, CodeBuild, CodePipeline.
+Experience of infrastructure-as-code (IaC) tools such as Terraform or CloudFormation.
+Experience with containerization and orchestration technologies like Docker and AWS ECS.
+Familiarity with observability tools like Datadog, NewRelic, or similar.
+Familiarity with CI/CD tools like AWS CodeBuild, AWS CodePipeline, or Github Action.
+Solid understanding of networking concepts, security best practices, and Linux/Unix systems administration.
+Excellent problem-solving and troubleshooting skills, with a keen attention to detail.
+Strong communication and collaboration skills, with the ability to work effectively in cross-functional teams."
+3792921042,Java Software Engineer,https://www.linkedin.com/jobs/view/3792921042,PT Javan Cipta Solusi,https://www.linkedin.com/company/javanciptasolusi/life," ",1 day ago,14,,On-site,,51-200 employees,https://media.licdn.com/dms/image/C4D0BAQHe_RO9fPFTrg/company-logo_100_100/0/1631363678419?e=1712188800&v=beta&t=c19U8LkzGSkXH_GQzpLR-lTSJJLzjYgzvbGGV97MbBk,"JAVAN is business process optimisation partner. We are a group of professionals who have passion in giving impact, either solve problem or upgrade capacity, by optimising business process using technology.
+
+Imagine that you have opportunity to make your company/organisation/institution become relevant utilising technology.
+
+Contact us, let's become a partner, together we rule the world!","Job Description :
+Membuat program web e-commerce khusus untuk pemerintah dan meminimalisir terjadinya bug
+Mengerjakan proyek sesuai target yang sudah ditentukan sehingga tidak overdue
+Mengomunikasikan progress pengerjaan task dengan efektif
+Melakukan Unit Testing
+Maintain application, meliputi : Bug fixing, Refactoring, Feature enhancement
+Mempelajari teknologi baru untuk pengembangan produk
+Mengimplementasikan camunda open source tools
+Mengimplementasikan REST API di Spring boot
+Menggunakan reporting tool jasper dan sejenisnya
+Tools yang digunakan
+Visual Studio Code, Postman, Dbeaver, Gitkraken, Browser, Taiga, Sentry
+
+Benefit yang akan anda dapatkan jika bergabung dengan tim kami :
+Bekerjasama dengan tim proyek
+Jam kerja fleksibel dengan ketentuan 5 hari kerja dengan 8 jam/hari (senin-jumat)
+Training/Workshop setiap hari Jumat (Softskill & Hardskill)
+Pairing dengan Tim Ahli
+Bersedia bekerja secara onsite di kantor Sleman, Yogyakarta atau Cimahi, Bandung 
+Fasilitas alat kerja 
+Insentif tambahan: Bonus Proyek, Tunjangan Kesehatan
+Fasilitas BPJS Kesehatan & Ketenagakerjaan
+
+
+Job Requirements :
+Kualifikasi Minimal
+Memahami bahasa pemrograman Java
+Fresh Graduate are welcome
+Tidak Merokok
+
+Kualifikasi yang lebih disukai
+Pendidikan Terakhir S1 atau sederajat.
+Berpengalaman 1-3 tahun pada bidang terkait
+Berpengalaman menggunakan salah satu framework (Spring MVC, Spring Boot, Grails, dan/atau play framework) untuk mengembangkan aplikasi
+Memiliki surat referensi tentang pengalaman menangani sebuah proyek (lebih diutamakan)
+Berpengalaman dalam membuat aplikasi berbasis web dengan database sistem
+Mampu berpikir kritis & kreatif (diukur menggunakan Psikotes)
+Memiliki kemampuan time management & task management yang baik (diukur menggunakan Psikotes)
+Memiliki kemampuan komunikasi yang baik (diukur menggunakan Psikotes)
+Memiliki kemampuan berbahasa inggris (terutama reading dan/atau writing)
+Memiliki sikap mau dan mampu menerima feedback dari atasan maupun rekan kerja
+Tahu bahkan berpengalaman dengan tools yang digunakan oleh perusahaan
+Bersedia bekerja secara WFO di kantor Yogyakarta
+Memiliki sikap mau dan mampu menerima feedback dari atasan maupun rekan kerja
+
+Pendaftaran : 
+https://javan.co.id/career/java-developer/7"
+3752823735,Head of Engineer - Fintech Series C+,https://www.linkedin.com/jobs/view/3752823735,Michael Page,https://www.linkedin.com/company/michael-page/life," ",1 month ago,5,,On-site,,"5,001-10,000 employees · Staffing and Recruiting",https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_100_100/0/1688136319954/michael_page_logo?e=1712188800&v=beta&t=4O0RVODg6V1xPGl7glPl0Jyw3rA8n2fNoMuyr4Ro2do,"Welcome to the Michael Page global company profile.
+
+Michael Page has five decades of expertise in professional services recruitment. We were established in London in 1976, and over this period we've grown organically to become one of the best-known and most respected consultancies, with an office network spanning six continents.
+
+While size has its advantages, it doesn't define us - the nature of our organic growth means that each new office is integrated into the region that it serves. It also means that as an employer looking to hire, or as a candidate aiming to grow your career you have the best of both worlds; a team that understands the market and geography you operate in, plus the resources and expertise of an international network at your disposal.
+
+Our teams are broken down to focus on industry, assignment type, salary level and location, so your hiring requirements or job search will all be handled by a specialist who knows your sector inside-out. We are confident that our expertise can add value to your recruitment or job search process – get in touch to find out more.","Fast Growing Microfinance Technology |Series C+ Fintech
+
+
+About Our Client
+
+Growing fintech startup from Indonesia.
+
+Job Description
+
+Oversee engineering team development (Backend, Frontend, Mobile) by setting up requirements, goals and delviery timeline.
+Monitor reliability and performance of all internal systems to suggest improvements
+Setting up a best practice and compliance driven development 
+Design strategies for future development projects based on the company's overall objectives and resources
+Hire engineers and coordinate their training
+Implement innovative technologies
+
+
+The Successful Applicant
+
+Hands-on GCP tech experience: Cloud SQL Postgres, Cloud Run, Pub/sub, etc.
+You have built a scalable architecture
+Experience with incident management
+Monitoring distributed system
+Don't mind doing some coding works when required
+Experience with CI/CD
+Experience with automated testing
+Experience with team management
+Fintech/financial institution/banking experience
+Experience with Machine Learning will be a plus
+
+What's on Offer
+
+Building finacial product for the unbankable community 
+Competitive salary 
+
+
+Contact: Miyako Mataru
+
+Quote job ref: JN-112023-6239420"
+3792912885,Staff Data Engineer,https://www.linkedin.com/jobs/view/3792912885,Xendit,https://www.linkedin.com/company/xendit/life," ",1 day ago,62,,Remote,,"501-1,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQEFJPFvzTYq5A/company-logo_100_100/0/1630456612741/xendit_logo?e=1712188800&v=beta&t=mlkhJE8KlC7if7gXKX4pzW5seITZzJTwZKKH3X2BaN4,"Xendit is a financial technology company that provides payment solutions and simplifies the payment process for businesses in Indonesia, the Philippines and Southeast Asia, from SMEs and e-commerce startups to large enterprises. Xendit enables businesses to accept payments, disburse payroll, run marketplaces and more. The platform is known for its speed (fast integration, builds), simplicity (easy integrations, pricing), and world-class 24/7 customer support. Amidst the fragmented payment landscape in Southeast Asia, Xendit enables businesses to accept payments from direct debit, virtual accounts, credit and debit cards, eWallets, retail outlets, and online installments.
+
+Building the region’s digital payments infrastructure, Xendit is shaping the next generation of scalable businesses across Southeast Asia. Xendit is propelling the region's digital transformation by addressing access, reliability, and regulatory needs enabling more businesses to scale and thrive. As the first-ever Indonesian startup to graduate from YCombinator and backed by investors from Silicon Valley and Asia, including Kleiner and GGV Capital, Xendit powers some of Southeast Asia’s fastest-growing brands including Traveloka, Transferwise, Wish, and Grab.
+…
+show more","About the Job
+At Xendit, we seek a Staff Data engineer who will bring technical expertise to help us build a reliable and scalable Data platform to empower internal teams to work independently and unlock the full potential of our data. You’ll bring a diverse set of skills across data engineering including data pipeline design at scale (batch/real-time), data infrastructure, data governance, data quality testing, development & deployment best practices, and more. You will be part of the Data engineering core team, working among 8 other talented data engineers. With your relentless drive for successful outcomes, you will work on the most complex projects within the core team as well as contribute to highly impactful cross-team initiatives. You can expect to own a technical roadmap ensuring the tools and services that the team provides are reliable, scalable, easy-to-use, and cost-efficient. You possess a strong commitment to going the extra mile and delivering projects of high quality on time. You enjoy working with others and are able to level up other engineers. Your contributions will help stakeholders to generate value from data and indirectly drive revenues.
+
+Minimum Qualifications
+5+ years of relevant experience as a data engineer.
+2+ years of relevant experience as staff/principal data engineer or Tech lead.
+Excellent knowledge of Python, SQL, and Apache Spark.
+Extensive experience with at least 1 real-time data processing framework such as Spark Streaming, Flink, or Kafka for production purposes. 
+Experience with processing CDC data and building reliable & scalable data products with minimal latency.
+Experience with designing and maintaining Python libraries including dependency management, versioning, and CI/CD process.
+Experience with integrating modern data tools to enable self-serve data platforms, e.g. Databricks, Airflow, OpenMetadata, Trino, Snowplow, Retool etc.
+Demonstrated ability to build high-volume batch and streaming pipelines. Experience with table formats such as Delta, Hudi, and Iceberg, as well as optimization techniques for merging and querying data efficiently.
+Demonstrated ability to design and implement comprehensive data quality checks and alerting systems.
+Experience with different databases or SQL engines and understand their trade-offs (e.g. Trino, Apache Druid, PostgreSQL, MongoDB, Elasticsearch, Snowflake etc.).
+Able to own mistakes, reflect, and take feedback with maturity and a willingness to improve.
+Excellent written and verbal communication, problem-solving, and adaptability.
+Bachelor's degree in a technical field or equivalent work experience.
+
+Preferred Qualifications
+Working experience in designing and integrating a scalable real-time fraud detection system.
+You have a good knowledge of Terraform, CloudFormation, or other IaaC tools.
+You have experience with deploying applications to K8s.
+You have built data products that have scaled on AWS or another cloud.
+You have experience with Databricks environment including Delta, Unity Catalog, DLT, SQL warehouse.
+You have worked with sensitive data and ensured secure access through a data governance tool.
+
+Responsibilities
+Own design and development of Data engineering’s internal library (Python, Spark, dbt).
+Support important company initiatives by building robust replication and transformation pipelines in close to real-time.
+Improve data pipeline logic to ensure reliability, scalability, and cost efficiency (Python, Spark, Airflow).
+Design and implement a data governance policy to minimize security risks (Unity Catalog, Apache Ranger).
+Enable internal teams to build real-time applications on top of the Data lakehouse. (Spark streaming, Kafka)
+Automate common data requests and unlock self-service (Retool, Flask).
+Ensure high data quality through automated tests and data contracts (dbt, Great expectations).
+Improve deployment process for various applications (Buddy).
+Collaborate with other data engineers, analysts, and business users to design effective solutions.
+Guide junior engineers and set engineering standards for the team. 
+Minimize detection and recovery time from incidents and ensure the team meets important metrics and SLOs.
+Research innovative technologies and integrate them into our data infrastructure.
+Do whatever it takes to make Xendit succeed."
+3778356419,Full-Stack Front-End-Heavy Developer,https://www.linkedin.com/jobs/view/3778356419,Turing,https://www.linkedin.com/company/turingcom/life," ",1 month ago,6,,Remote,,"1,001-5,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQHB79AE71th8A/company-logo_100_100/0/1688472201595/turingcom_logo?e=1712188800&v=beta&t=uetswaiWdovNMJP7hgdfWDYzXjbSme1NRN0fa3n0zxI,"Traditional recruiting wasn’t designed for today’s software-first world. The old model is simply too slow, doesn’t allow for deep vetting and takes the control and ownership out of your hands. This is why we built Turing, the world’s most deeply vetted developers and teams, matched by AI. Turing connects world-class engineers with companies to help them achieve their respective career and business goals.
+
+Traditional recruiting is over. Welcome to the Talent Cloud.
+
+Turing enables:
+> companies to get matched to vetted remote talent at the touch of a button
+> developers to achieve their elite dream career from anywhere in the world
+
+900+ top companies, including Pepsi, Bumble, and Dell, have trusted Turing’s Talent Cloud for their engineering needs.
+
+Recruit Developers/Engineers:
+Turing combines AI and a global reach to deliver your ideal engineers tailored to your business needs. Our Talent Cloud matches you to rigorously vetted, quality remote developers.
+
+Try Turing.com for 2 weeks risk-free at turing.com
+
+Turing Careers:
+Turing helps you get excellent remote opportunities to build a high-growth career faster.
+
+Find high-quality remote U.S. software jobs across 15 roles and 100+ technologies.
+
+Apply today: turing.com/jobs
+
+—----------------------
+Co-founded by @Jonathan Siddarth and @Vijay Krishnan, Turing is an AI-powered technology company disrupting the traditional recruiting model for companies seeking to engage the most deeply vetted developers and teams.
+
+Having raised $140 million from investors, including WestBridge Capital, Foundation Capital, Stanford StartX, and execs from Google, Meta, Microsoft, and Amazon, Turing's last round was on a $4 billion valuation cap.","A rapidly-expanding company that offers geospatial data analysis services to the oil and gas development sectors is looking for a Full-Stack Front-End-Heavy Developer. The developer will be tasked with creating, implementing, and managing superior software solutions. In order to help clients make better business decisions, the company makes sure that datasets are appropriate for their needs. This is a great opportunity for candidates to showcase their talent and work in a dynamic environment.
+
+Job Responsibilities:
+
+Build software development solutions for the energy, gas, and oil industries 
+Assist with a few major initiatives to move current desktop applications to the Cloud or Azure 
+Collaborate on the product roadmap rather than just receiving instructions
+Work with cross-functional teams to comprehend needs, provide technological fixes, and guarantee that they are in line with the objectives of the product
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 5+ years of relevant experience as a full-stack or front-end developer
+Extensive experience working with C#/.NET/ASP.NET, Angular (9+), and TypeScript
+In-depth knowledge of OpenID Connect, Mapbox, MS SQL Server, and Azure Cosmos DB is preferred
+Be independent and work autonomously
+Excellent spoken and written English communication skills"

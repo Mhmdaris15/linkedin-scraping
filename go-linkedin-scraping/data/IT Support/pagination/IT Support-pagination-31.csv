@@ -1,0 +1,1225 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3713491306,SAP SuccessFactors Consultant,https://www.linkedin.com/jobs/view/3713491306,ABeam Consulting Indonesia,https://www.linkedin.com/company/abeamconsultingid/life," "," ",363,,Hybrid,,51-200 employees · Business Consulting and Services,https://media.licdn.com/dms/image/D560BAQFOzMayzfm-ig/company-logo_100_100/0/1697431025577/abeamconsultingid_logo?e=1712188800&v=beta&t=XsKme317HhJF9lkcl-W4KPNIR4msh8etOovqUYlgvRY,"⭐ One of World's Best Management Consulting Firms 2023 according to Forbes Magazine ⭐
+⭐ The first partner to join the SAP Regional Strategic Services Partner in Asia Pacific ⭐
+
+Globally, ABeam Consulting have 4,100 consultants in Japan, and 2,800 in overseas offices concentrated in Asia, our 6,900 consultants and global alliance partners provide truly comprehensive services. From business process re-engineering to global business expansion for Japanese corporations, we have served our clients through more than 40 years of growth.
+
+In 2011, PT. ABeam Consulting Indonesia was established as the base in Indonesia of ABeam Consulting, a global consulting firm that originated in Japan and in Asia.
+
+We provide consulting services to solve corporate issues, using every method, including information systems, business processes and business strategies, working as one single team with the client in order to realize solutions throughout the organization from the management to staff on the ground.
+
+Taking advantage of ABeam Consulting’s experience in a huge number of projects throughout the world, here in Indonesia as well, we contribute to increase the value of Indonesian and foreign companies, including Japanese companies.
+
+Build Beyond as One.","Responsibilities 
+Report to Consulting Manager and providing services to any clients, domestic and also overseas.
+Continuously improve SAP skill and consulting skill to meet market demand.
+Manage day-to-day consulting activity, complete time sheet and claims in timely manner.
+Contribute significantly to company growth.
+ 
+ Requirements 
+Candidate must possess at least Bachelor's Degree in any fields or equivalent from reputable university.
+Minimum GPA 3.0 out of 4.0 scale.
+At least 2 Year(s) of working experience in SAP implementation Project.
+Preferably having certification or have experience in Recruiting Management solution.
+Proficient in English (Business Level) is a must.
+Excellent interpersonal skills with all levels of employees.
+Having good problem solving skill, analytical and logical thinking.
+Willing to work hard and having excellent interpersonal and communication skills.
+Mastering in using Microsoft Office tools.
+Proactive and self-motivated, able to work in tight schedule with under pressure.
+Willing to travel both domestic or overseas."
+3792012477,Machine Learning Operations – Staff Engineer,https://www.linkedin.com/jobs/view/3792012477,Agoda,https://www.linkedin.com/company/agoda/life," ",1 week ago,14,,On-site,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1712188800&v=beta&t=Uch6o32VIVJnqd5pOyN6ISz8TvEijuYR_vC1w3EK8HQ,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+ ML Platform in Agoda 
+
+Agoda ML Platform is built on self-managed Kubernetes and powered by Kubeflow, an open-source solution that enables efficient machine learning workflows.
+
+Our MLOps team combines the best practices of software engineering with data science to help Machine Learning Engineers and Data Scientists work more effectively, meaning we aim to incorporate data/model versioning, collaboration, monitoring etc. in an intuitive way that allows our users to prosper within the field.
+
+ In This Role, You’ll Get to: 
+
+ Lead the design, development, and implementation of on-premises MLOps solutions that support the delivery of machine learning models 
+ Collaborate with data scientists and software engineers to build scalable and efficient data pipelines and model training and deployment systems 
+ Develop and maintain monitoring and management tools to ensure the reliability and performance of our on-premises MLOps infrastructure 
+ Work with stakeholders across the organization to understand their machine learning needs and requirements, and to develop MLOps solutions that meet those needs 
+ Stay up-to-date with the latest trends and technologies in MLOps, LLMOps, machine learning, and artificial intelligence, and share your knowledge with the team to help us stay at the forefront of the field 
+ Mentor junior members of the team and help them grow their skills and expertise in MLOps 
+ Troubleshooting and debugging user issues 
+
+What You’ll Need To Succeed
+
+ 5+ years of experience in MLOps, Software engineering, Data engineering, or a related field 
+ Strong programming skills in a modern programming language (Java, Scala, Python, Kotlin) 
+ Excellent communication and collaboration skills, and the ability to work effectively in a team environment 
+ Value code simplicity and performance 
+
+ It’s Great if you have: 
+
+ Understanding of ML Projects lifecycle 
+ Experience with MLOps platforms, such as Kubeflow or MLFlow 
+ Experience with ML frameworks – like scikit-learn, LGBM, Tensorflow, PyTorch etc. 
+ Experience with Big Data tools – Spark, S3, Hadoop 
+ Strong knowledge of containerization and container orchestration technologies, such as Docker and Kubernetes 
+ Experience with DevOps and CI/CD practices 
+ Has experience building and scaling model serving tools, i.e building APIs with tight SLAs 
+ Passion for the engineering behind machine learning, and scaling it 
+ Experience designing and building MLOps infrastructure, including data pipelines, model training and deployment systems, and monitoring and management tools. 
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3755212655,Senior Channel Sales Representative (Honeywell Building Technology - Fire Detection),https://www.linkedin.com/jobs/view/3755212655,Honeywell,https://www.linkedin.com/company/honeywell/life," "," ",132,,On-site,,"10,001+ employees · Appliances, Electrical, and Electronics Manufacturing",https://media.licdn.com/dms/image/C560BAQFvcIh3UnA5zw/company-logo_100_100/0/1630621634841/honeywell_logo?e=1712188800&v=beta&t=gQf5rUXyU0w_eV0ocVImFnm0v6-WO2CPaQajw57RFOc,"Honeywell is a Fortune 500 company that invents and manufactures technologies to address tough challenges linked to global macrotrends such as safety, security, and energy. With approximately 110,000 employees worldwide, including more than 19,000 engineers and scientists, we have an unrelenting focus on quality, delivery, value, and technology in everything we make and do.","Innovate high-purity, high-performance chemicals and materials
+
+The Future Is What We Make It.
+
+Senior Channel Sales Representative (Honeywell Building Technology - Fire Detection)
+
+Jakarta, Indonesia
+
+Start your career by making an impact and real connections with some of the most meaningful challenges around. When you join Honeywell, you become a member of our performance culture comprised of diverse leaders, thinkers, innovators, dreamers, and doers who are changing the future.
+
+Make the Best You.
+
+Working at Honeywell is not just creating incredible things. You will have the opportunity to work with our talented and friendly team of professionals and be part of a global team of future shapers.
+
+Join Us and Make an Impact.
+
+We are currently seeking a Senior Channel Sales Rep to join our Sales team in our Jakarta office. Reporting to the Senior Sales Manager, your focus will be implementing and coordinate the operational aspects of ongoing Sales projects and activities. You will also be responsible for the development of business and management relationship with assigned customers to offer Fire safety solutions (Including Notifier, System sensor, Xtralis, X618) that best address end-user needs and maximize Honeywell deliverables.
+
+Key Responsibilities
+
+Develop and sustain long term customer relationships; Establish these relationships while engaging customers at all levels including senior levels of the customer organization.
+Manages the day to day and strategic: maintaining a balanced approach to superior customer service and strategic account planning; quarterly results and long-term account goals.
+Leverages resources (sales, marketing, application engineering, etc.) to address customers’ drivers and initiatives in a consultative manner
+Profitable growth in the form of new opportunities within existing accounts; Orders and margin above set quota in support of Annual Operating Plan
+Work closely with marketing, customer service, finance, factory for resolving project and customer issues, advise on credit limit and collect overdue payment when it is required.
+Transfer the information between customers to operation team to manage and deliver the projects in the right way to achieve highest customer satisfaction.
+
+Must Have
+
+Bachelor’s degree in Engineering, Business, or related disciplines
+Willing to travel more than 50%
+Good experience in construction market
+Understand of Fire code & standard is a plus
+Consultative selling experience
+Understands the life cycle value proposition of Honeywell Fire and its’ offerings
+Customer engagement at all levels; well-developed sense of the customers’ business, their drivers, and their organization
+Understands customers’ decision-making processes, buyers, and influences
+
+We Value
+
+ Proven track record with significant experience in a Sales/Account Management related field.
+ Exceptional communication skills, both verbal and written.
+ Strong capability to influence at various levels across the organization.
+ Demonstrated ability to handle multiple priorities efficiently and navigate in a highly matrixed environment.
+
+About Us
+
+The world is changing. And it’s a familiar story at Honeywell. Our $36 billion business was founded on a legacy of firsts spanning 130 years. We’re building a safer, smarter, and more sustainable world through our technology and software across each of our 930 sites globally. Our impact is seen in every shape and size around the world. Our solutions are felt daily in aerospace, buildings and cities, retail, chemicals and materials, safety, industrial and manufacturing, safety, and supply chains.
+
+Discover More
+
+We’ve been innovating for more than 100 years and now we’re creating what’s next. There’s a lot more available for you to discover. Our solutions, our case studies, our #futureshapers, and so much more. Learn more at careers.honeywell.com/us/en/
+
+If you believe what happens tomorrow is determined by what we do today, you’ll love working at Honeywell.
+
+The future is what we make it. So, join us and let’s do this together.
+
+Honeywell is an equal opportunity employer, and we support a diverse workforce. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, religion, or veteran status. Aboriginal and Torres Strait Islander peoples are encouraged to apply.
+
+Copyright © 2023 Honeywell International Inc
+
+Additional Information
+
+JOB ID: HRD213909
+Category: Sales
+Location: Menara Prima 24th Floor Block 6.2, Jl. Dr.Ide Anak,Agung Gde Agung, RT.5/RW.2, Kuningan Tim., Kota Jakarta,Jakarta,JAKARTA,12950,Indonesia
+Exempt
+
+
+Sales (GLOBAL)"
+3785327097,Mid-Market Account Executive (APAC),https://www.linkedin.com/jobs/view/3785327097,Semrush,https://www.linkedin.com/company/semrush/life," ",2 weeks ago,86,,Remote,,"1,001-5,000 employees · Software Development",https://media.licdn.com/dms/image/C560BAQGFiT_Ar5CMRw/company-logo_100_100/0/1662557863823/semrush_logo?e=1712188800&v=beta&t=jtL5bC4bFM-uansqK6hPeKHh8J4evdJHoNcM-a9e4Nw,"Semrush is a leading online visibility management SaaS platform that has been used by 10,000,000 digital marketers worldwide.
+
+Back in 2008, Semrush started as a small group of SEO and IT specialists united by one mission—to make online competition fair and transparent with equal opportunities for everyone.
+
+In 14 years, we've grown into an all-in-one marketing suite consisting of more than 55+ products, tools and add-ons that help companies market better online. Our vision is to create the only tool a digital marketing team would ever need to improve their online marketing results, ensure a smooth workflow between team members and save time on routine tasks.
+
+Semrush is a trusted data provider. Our information on online behavior is used by the largest media outlets around the world such as Bloomberg, The Washington Post, Reuters and others.
+
+Semrush in numbers:
+→ 55+ products, tools, and add-ons
+→ 142 databases globally
+→ 21 billion keywords
+→ 43 trillion backlinks
+
+Visit our ""Jobs"" section if you want to work for us!","Hi there!
+
+We are Semrush, a global IT company developing our own product – a platform for digital marketers.
+
+And this is our Enterprise Account Executive with English (Asia Market) role for those who are goal and success-oriented.
+
+If you are a self-starter who is passionate about sales, technology, and helping customers succeed, we encourage you to apply.
+
+The position requires self-relocation to Indonesia (Semrush will only assist with preparation of documents).
+
+Tasks in the role
+
+Manage and develop long-term partnerships with some of the world's biggest brands.
+Drive revenue growth by generating new business, upselling, cross-selling, and renewals.
+Take ownership of the sales cycle from prospecting to close. You should feel comfortable managing and closing run-rate deals while also sourcing, developing, and closing large complex selling cycles with multiple stakeholders (CXO, Legal/Finance/IT requirements).
+Maintain strong relationships with existing customers, understand their business needs, and provide additional Semrush solutions to optimize growth.
+Deliver a value-based selling experience to customers based on automation and customer behavior.
+Ensure customers derive maximum value from our product and achieve their business objectives.
+
+
+Who we are looking for
+
+Fluent in English (С1/С2).
+5-7 years of full-sales cycle sales experience in the SaaS industry.
+2-3 years of experience in a Snr mid-market or enterprise sales role, with a successful track record of consistently closing >$250k ARR deals.
+Proven ability to exceed sales targets and drive revenue growth.
+Strong communication and interpersonal skills, with the ability to build relationships and influence decision-makers.
+Proficient in various sales methodologies such as Sandler, Challenger, SPIN, MEDDIC, or others.
+Highly organized and structured approach to drive consistent success.
+Customer-focused mindset with a drive for exceptional customer experience.
+Demonstrated creative problem-solving skills and strong analytical abilities.
+Ability to work independently in a fast-paced, remote environment.
+
+
+They say there are no perfect candidates, but that might well be you, if
+
+You have a Bachelor's Degree or equivalent in a related field.
+You have a SaaS or MarTech Experience.
+
+
+A Bit About The Team
+
+Semrush is seeking exceptional Enterprise Account Executives to join our growing sales team. As an Enterprise Account Executive, you will play a crucial role in driving revenue growth through new customer acquisition (20%), upselling, and renewals (80%). Collaborating closely with the Onboarding, Customer Success, Product, and Marketing teams, you will help us retain and expand our largest customers.
+
+Here’s where it gets interesting: structurally, the bigger Sales team consists of separate subteams with people specializing in different tasks – Regional Sales (that’s the one this ad is for), Pre-Sale engineers, Customer Engagement & Renewal specialists, Sales Analytics.
+
+The team itself is large and multinational. Members speak 6 different languages, so their office sometimes resembles a busy city square: lots of people, laughter and foreign speech ringing out everywhere.
+
+We will try to create all the right conditions for you to work and rest comfortably
+
+This offer stands for the remote work format. Digital nomadism, #wfh – call it what you like ;)
+Flexible working day start.
+Corporate events.
+Training, courses, conferences.
+English courses.
+Gifts for employees.
+
+
+Finally, a Little More About Our Company
+
+Semrush is a leading online visibility management SaaS platform that enables businesses globally to run search engine optimization, pay-per-click, content, social media and competitive research campaigns and get measurable results from online marketing.
+
+We've been developing our product for 15 years and have been awarded G2's Top 100 Software Products, Global and US Search Awards 2021, Great Place to Work Certification, Deloitte Technology Fast 500 and many more. In March 2021 Semrush went public and started trading on the NYSE with the SEMR ticker.
+
+10,000,000+ users in America, Europe, Asia, and Australia have already tried Semrush, and over 1,000 people around the world are working on its development. The Semrush team is constantly growing.
+
+Our new colleague, we are waiting for you!
+
+Semrush is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. We do not discriminate based upon race, religion, creed, color, national origin, sex, pregnancy, sexual orientation, gender identity, gender expression, age, ancestry, physical or mental disability, or medical condition including medical characteristics, genetic identity, marital status, military service, or any other classification protected by applicable local, state or federal laws. All employment decisions are based on business needs, job requirements, merit, and individual qualifications.
+
+Anna
+
+Talent Acquisition Specialist
+
+herrera@semrush.com"
+3792933328,Sales & Proposal Engineer - Steel Structure,https://www.linkedin.com/jobs/view/3792933328,Michael Page,https://www.linkedin.com/company/michael-page/life," ",1 day ago,1,,On-site,,"5,001-10,000 employees · Staffing and Recruiting",https://media.licdn.com/dms/image/D4E0BAQHpnANIG_FYpg/company-logo_100_100/0/1688136319954/michael_page_logo?e=1712188800&v=beta&t=4O0RVODg6V1xPGl7glPl0Jyw3rA8n2fNoMuyr4Ro2do,"Welcome to the Michael Page global company profile.
+
+Michael Page has five decades of expertise in professional services recruitment. We were established in London in 1976, and over this period we've grown organically to become one of the best-known and most respected consultancies, with an office network spanning six continents.
+
+While size has its advantages, it doesn't define us - the nature of our organic growth means that each new office is integrated into the region that it serves. It also means that as an employer looking to hire, or as a candidate aiming to grow your career you have the best of both worlds; a team that understands the market and geography you operate in, plus the resources and expertise of an international network at your disposal.
+
+Our teams are broken down to focus on industry, assignment type, salary level and location, so your hiring requirements or job search will all be handled by a specialist who knows your sector inside-out. We are confident that our expertise can add value to your recruitment or job search process – get in touch to find out more.","Fast paced working environment|Well established company with projects across the country
+
+
+About Our Client
+
+Our client is a multinational structural steel manufacturer and solution provider who is vastly expanding in Indonesia. They are looking for proactive and driven professional to help them in this time of growth
+
+Job Description
+
+Identify and building relationships with potential clients and develop deep understanding of their project needs and objectives
+Prepare proposals in response to client inquiries, coordinating with technical and design teams to create accurate and comprehensive engineering proposals
+Provide technical support to clients during the proposal phase, addressing inquiries and offering solutions
+Stay updated on industry trends, market conditions, and competitor activities to identify new business opportunities
+Work closely with engineering, project management, and design teams to ensure seamless communication and execution of projects
+
+
+The Successful Applicant
+
+Minimum Bachelor's degree in Civil / Mechanical Engineering or related field
+Minimum 5 years of experience in Sales / Proposal development or related roles with portfolio in Steel Structure / Industrial Building / Construction Industry
+Strong technical acumen with understanding of engineering concepts
+Excellent communication and presentation skills
+Proactive and Initiative Professional with Entrepreneurial mindset
+
+What's on Offer
+
+Great career prospects for a well-established company
+Competitive remuneration package
+
+
+Contact: Antonius Trianto
+
+Quote job ref: JN-012024-6287609"
+3660690659,CRM Associate Manager,https://www.linkedin.com/jobs/view/3660690659,ZALORA Group,https://www.linkedin.com/company/zalora-sea/life," "," ",1557,,Hybrid,,"1,001-5,000 employees · Software Development",https://media.licdn.com/dms/image/C560BAQFfxR5rhSTrPQ/company-logo_100_100/0/1630646428993/zalora_sea_logo?e=1712188800&v=beta&t=-F6D4P-0QO_dRZJcodEKDyrtlSwwhLNJgimY30Rczrc,"ZALORA is Asia’s leading online fashion, beauty and lifestyle destination, part of Global Fashion Group. As one of the region’s pioneer large scale e-commerce platforms, ZALORA has established a strong presence throughout the region, particularly in Singapore, Indonesia, Malaysia, Brunei, the Philippines, Hong Kong, and in Taiwan, enjoying over 50 million monthly visits.
+With an extensive collection of top international and local brands, ZALORA is a curated platform, featuring all the things shoppers love in one place. Customers can discover authentic products from over 3000 brands across categories, from apparel, shoes, accessories, beauty, pre-loved, and lifestyle, including essentials and home & living products.
+As a customer-first brand, ZALORA is powered by a team of committed innovators, providing a seamless shopping experience across mobile, tablet, and desktop. With a broad network of logistical service, ZALORA is known for speedy and reliable deliveries, as well as offering multiple payment methods, including cash-on-delivery across its markets. ZALORA provides up to 30-day free returns and free delivery after a certain spend. ZALORA continues to delight shoppers with their unlimited next-day delivery subscription, ZNow, and give customers more value with ZALORA’s signature Cashback programme. ZALORA also made it easier for shoppers to buy products based on their style inspiration with ZALORA’s visual search function, Complete the Look and Get the Look feature!
+ZALORA prides itself to be an industry enabler through innovations like our data analytics platform, TRENDER, that provides brand partners valuable insights and 1SS (One-stock solution) a modular multi-channel e-commerce fulfillment service, allowing brand partners to consolidate their stocks in ZALORA’s e-fulfillment centres.
+Putting the customers and brand partners at the centre of our innovation, ZALORA is the online destination that connects everyone to the limitless world of e-commerce.","This is an exciting opportunity to join Zalora’s Customer Relationship Management (CRM) team. You need to work collaboratively across marketing channels, as well as with other departments to understand marketing processes. Reporting to the Marketing Director, this role is based in South Jakarta, Indonesia.
+
+The primary function of CRM Associate Manager is to define, evaluate and deliver the CRM strategy aimed at encouraging client retention and loyalty. The shaping and delivering of marketing and promotional campaigns
+
+Responsibilities:
+
+Developing Customer segmentation strategy which translates to campaign execution across platforms, examples but not limited to email, rich push, or push notifications, and in-app notifications
+Shaping and delivering of marketing and promotional campaigns
+Increase campaign performance through creative testing and performance reviews
+Analyze success of email and push campaigns and use this to develop longer term strategy
+Analyze data management for CRM related
+Setting up the campaigns and data filters within ZALORA CRM platform
+Coordinating with relevant stakeholders in the organization
+
+Requirements:
+
+Minimum 4+ years work experience in information system and/or CRM, experience working in marketplace is an advantage
+Bachelor Degree from Information System, and ability to create/edit HTML emails is a plus
+Ability to build and maintain friendly, professional relationships with colleagues, clients and vendors
+A real passion for the internet and online retail 
+A proactive attitude and must be able to thrive in a varied and fast paced environment
+Organized, planned and productive to get the most from each working day
+Maintain a positive attitude focused on customer satisfaction.
+Attention to detail in all aspects of the role
+
+The ZALORA Story
+
+ZALORA is Asia’s leading online fashion, beauty and lifestyle destination, part of Global Fashion Group. As one of the region’s pioneer large scale e-commerce platforms, ZALORA has established a strong presence throughout the region, particularly in Singapore, Indonesia, Malaysia, Brunei, the Philippines, Hong Kong, and in Taiwan, enjoying over 50 million visits per month.
+
+ZALORA is not obligated to accept resumes from any third parties on behalf of potential candidates for any position (advertised or otherwise) by any means, unless ZALORA has executed a written agreement with such third party and has expressly requested such third party for candidate referrals. Third parties who provide unsolicited resumes of candidate(s) shall waive and forfeit all rights to claim for any placement fees or referral fees in the event that such candidate is eventually engaged or employed by ZALORA or Global Fashion Group."
+3772210048,Duty Engineer,https://www.linkedin.com/jobs/view/3772210048,JW Marriott,https://www.linkedin.com/company/jw_marriott/life," "," ",77,,Full-time,,"5,001-10,000 employees · Hospitality",https://media.licdn.com/dms/image/C4D0BAQHKKnw-bX4sLg/company-logo_100_100/0/1630563840442/jw_marriott_logo?e=1712188800&v=beta&t=8Yj6b7o0Dqut7K8xJuUIhexzDQF4gOAAg4ONGujif9g,"No loud pretense. No excess formalities. Just understated elegance you’ll feel the moment you walk into one of over 80 worldwide destinations.
+
+JW Marriott is part of Marriott International’s luxury portfolio and consists of beautiful properties in gateway cities and distinctive resort locations in 28 countries around the world. These elegant hotels cater to today’s sophisticated, self-assured travelers, offering them the quiet luxury they seek in a warmly authentic, relaxed atmosphere lacking in pretense. JW Marriott properties artfully provide highly crafted, anticipatory experiences that are reflective of their locale so that their guests have the time to focus on what is most important to them.","Job Number 23211158
+
+Job Category Engineering & Facilities
+
+Location JW Marriott Hotel Jakarta, Jalan DR Ide Anak Agung Gde Agung Kav E.1.2 No 1&2, Jakarta, Daerah Khusus Ibukota Jakarta, Indonesia VIEW ON MAP
+
+Schedule Full-Time
+
+Located Remotely? N
+
+Relocation? N
+
+Position Type Management
+
+Job Summary
+
+Assists in the management of all engineering/maintenance operations, including maintaining the building, grounds and physical plant with particular attention towards safety, security and asset protection. Assists with managing the budget, capital expenditure projects, preventative maintenance and energy conservation. Responsible for maintaining regulatory requirements. Assists with leading the emergency response team for all facility issues.
+
+CANDIDATE PROFILE 
+
+Education And Experience
+
+ High school diploma or GED; 2 years experience in the engineering and maintenance or related professional area; technical training in HVAC-R/electrical/plumbing. 
+
+OR
+
+ 2-year degree from an accredited university in Building and Construction, Engineering, Mechanics, or related major; no experience required. 
+
+CORE WORK ACTIVITIES
+
+Assisting with the Management of Engineering Operations and Budgets
+
+ Assists with managing the physical plant including equipment, refrigeration, HVAC, plumbing, water treatment and electrical systems. 
+ Assists with ensuring regulatory compliance to facility regulations and safety standards. 
+ Assists with managing and controlling heat, light and power and recommends current best methods for energy conservation and economical facility operations. 
+ Assists with the development of specifications and requirements for service contracts and administers such contracts to support building needs. 
+ Distributes preventive maintenance and repair work orders and monitors timeliness and quality of completion. 
+ Assists with the oversight of the maintenance of grounds, guestrooms, public space, restaurants, property vehicles and recreational facilities. 
+ Assists with the development of a long term plan for preventative maintenance and asset protection and overseeing execution of plan. 
+ Assists with the development of project plans in accordance with renovation or new construction needs. 
+ Coordinates with contractors for bids and construction to ensure timely completion of projects within budgetary guidelines. 
+ Builds positive relationships with external customers such as city building/zoning department, fire prevention bureau and vendors. 
+ Ensures fire crew has complete understanding of all procedures, equipment and alarms. 
+ Performs monthly property inspection to ensure buildings and grounds are maintained in excellent condition. 
+ Conducts guest room and common area inspection to ensure guest satisfaction. 
+ Inspects and evaluates the physical condition of facilities in order to determine the type of work required. 
+ Recommends or arranges for additional services such as painting, repair work, renovations, and the replacement of furnishings and equipment. 
+ Selects and orders or purchases new equipment, supplies, and furnishings. 
+ Manages parts and equipment inventory. 
+
+Maintaining Property Standards
+
+ Ensures building and equipment licenses and certifications are current. 
+ Maintains property life safety systems (fire fighting equipment, sprinkler systems and alarm systems). 
+
+Ensuring Exceptional Customer Service
+
+ Displays leadership in guest hospitality, exemplifying excellent customer service and creating a positive atmosphere for guest relations. 
+ Establishes guidelines so employees understand expectations and parameters. 
+ Reviews comment cards, guest satisfaction results and other data to identify areas of improvement. 
+ Shares plans with property leadership and ensures corrective action is taken to continuously improve guest satisfaction. 
+ Strives to improve service performance. 
+
+Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.
+
+Marriott Hotels strive to elevate the art of hospitality, innovating at every opportunity while keeping the comfort of the oh-so-familiar all around the globe. As a host with Marriott Hotels, you will help keep the promise of “Wonderful Hospitality. Always.” by delivering thoughtful, heartfelt, forward-thinking service that upholds and builds upon this living legacy. With the name that’s synonymous with hospitality the world over, we are proud to welcome you to explore a career with Marriott Hotels. In joining Marriott Hotels, you join a portfolio of brands with Marriott International. Be where you can do your best work, begin your purpose, belong to an amazing global team, and become the best version of you.
+
+JW Marriott is part of Marriott International's luxury portfolio and consists of more than 100 beautiful properties in gateway cities and distinctive resort locations around the world. JW believes our associates come first. Because if you’re happy, our guests will be happy. JW Marriott associates are confident, innovative, genuine, intuitive, and carry on the legacy of the brand’s namesake and company founder, J.Willard Marriott. Our hotels offer a work experience unlike any other, where you’ll be part of a community and enjoy true camaraderie with a diverse group of co-workers. JW creates opportunities for training, development, recognition and most importantly, a place where you can pursue your passions in a luxury environment with a focus on holistic well-being. Treating guests exceptionally starts with the way we take care of our associates. That’s The JW Treatment™. In joining JW Marriott, you join a portfolio of brands with Marriott International. Be where you can do your best work, begin your purpose, belong to an amazing global team, and become the best version of you."
+3778784972,Tour Desk - Sales,https://www.linkedin.com/jobs/view/3778784972,Discova,https://www.linkedin.com/company/discovatravel/life," "," ",149,,On-site,,"501-1,000 employees · Leisure, Travel & Tourism",https://media.licdn.com/dms/image/C510BAQG4nfAVTHMFGg/company-logo_100_100/0/1630583390336/discovatravel_logo?e=1712188800&v=beta&t=QxLr9DCTCdO2sG00-v-smSxdPn4QUC7SHM5RrFXi-Kg,"Discova is your global destination management company (DMC), having formed from a merger between Buffalo Tours (Asia) and Olympus Tours (Americas) in 2019. We have over 20 years’ experience in the travel industry, and specialise in Tailor-made Travel, Group Series, Educational Travel, and Day Tours & Transfers. We operate in 14 destinations throughout Asia and Latin America.
+
+We’re here to put people in touch with travel, and not necessarily in the ways they might be used to. We work globally, live locally, and go the extra mile to connect people with a world of possibilities.
+
+Our vision is to deliver experiential and responsible travel for our partners, growing their travel offering one unforgettable journey at a time.
+
+Reach our 24-hour Customer Experience Call Centre at:
+United States: +1-551-788-6946 | Australia: +61-28-357-1151 | United Kingdom: +44-208-137-7991","About the Opportunity
+As a member of the IDS Team, you will be part of a group of passionate consultants who are committed to consistently delivering an exceptional customer experience. You are responsible for meeting and exceeding the individual sales targets, consistently following the customer sales experience, and will be a key member in a high-performing team environment.
+ Key Responsibilities:
+To resolve customer service issues to customers’ satisfaction with appropriate corrective and preventive measures.
+Provide customers with all basic destination information and answer questions. Distribute island maps; suggest restaurants and provide destination information to the guests and advice on alternative activities.
+Meet and greet all guests assigned to you via our internal system.
+Consistently deliver an amazing customer experience by following the 7 steps of Discova’s customer sales experience.
+Be the first contact for guests in emergencies and immediately respond to emergencies and complaints.
+Service all customer enquiries professionally and efficiently within 24 hours or according to business needs with an expected conversion rate as per business expectations.
+
+About you
+The Essentials: 
+A bachelor’s degree or a degree in tourism and hospitality is preferred.
+Minimum 1 year of experience as part of a sales team in the tourism industry.
+Fluent in both written and spoken English is required and other European languages would be an advantage.
+
+The Attributes:
+Outstanding sales skills with a strong customer care focus.
+Results orientated.
+Excellent organizational skills with the ability to be flexible and implement change when needed.
+Excellent communicator to a diverse range of people (customers, suppliers, team members, leaders).
+High attention to detail.
+Solution focused and great at problem solving.
+Able to work independently and within a team assisting team members to help everyone achieve results.
+Be comfortable with a flexible rotating roster that may include late nights, weekends and early mornings.
+Willing to travel on business when required.
+Personally aligned with Discova’s company purpose and values.
+Proficiency in Microsoft Office applications and Discova’s systems would be an advantage.
+
+About us
+Discova is a leading global, B2B destination management company with operations in 15 destinations in the Americas and Asia. With 95% of our people being locals and having grown up in the communities we operate in, we are motivated by a deep commitment to sustainable livelihoods while preserving the beauty of the places we call home.
+Some benefits you can expect (there are more)
+In addition to basic annual leave: 1 day of volunteer leave, 1 day of birthday leave, 5 days of study leave
+Working in a multicultural, open, and innovative working environment
+Curated in-house learning courses and opportunities for up-skilling
+
+Finally, if you are successful, you will find out that working with Discova is more than just a job. To be part of the Discova family is to be in your element. We offer an exciting career progression globally and a fantastic and supportive team culture and social events that are the envy of the industry. Get in touch now and Discova a world of possibilities!
+
+We value our team at Discova and promise an environment of equality, respect, and growth. We're an equal-opportunity employer and prioritize accessibility in our hiring process. Contact our Recruitment Team for accommodation requests at recruitment@discova.com. Only shortlisted candidates will be notified."
+3677039824,Manager - Technology Risk Management,https://www.linkedin.com/jobs/view/3677039824,Prudential Indonesia (PT Prudential Life Assurance),https://www.linkedin.com/company/prudential-indonesia-pt-prudential-life-assurance-/life," "," ",586,,On-site,,"1,001-5,000 employees · Insurance",https://media.licdn.com/dms/image/C510BAQHlHbrkp6AbPg/company-logo_100_100/0/1630608436677/prudential_indonesia_pt_prudential_life_assurance__logo?e=1712188800&v=beta&t=ysRkgOZVmxHTtT2JbZYmKP3SntFZdXl07hnCtk7C9vo,"Listening. Understanding. Delivering.
+
+At Prudential Indonesia we deliver excellence by consistently innovating, creating new opportunities and growing our business to cater all of our customers' needs.
+
+With a vision of becoming truly world class, Prudential Indonesia provides quality services and proven track record of market leadership in the country.
+
+Working at Prudential Indonesia gives you many opportunities to develop yourself and explore what you’re really capable of, as well as the perfect environment to collaborate, listen and care for others.
+
+Ask around. The more you find out about us, the more you’ll learn that we’re an insurance company that understands you.
+
+We are here to listen.","Prudential's purpose is to help people get the most out of life. We will deliver our purpose by creating a culture in which diversity is celebrated and inclusion assured, for our colleagues, customers, and partners. We provide a platform for our people to do their best work and make an impact to the business, and in exchange, we support our people's career ambitions. We pledge to make Prudential a place where you can Connect, Grow and Succeed.
+
+Purposes
+
+As part of a Global Technology Risk Management team (will be working under Operational Risk Team), will be supporting the LBU and the Group to:
+
+Provide assurance and oversight on information and technology risks that might pose a threat to the business.
+Provide LBU management with objective analysis, detailed observations and recommendations relating to key information and technology risk areas to mitigate the spectrum of risks relating to the achievement of the LBU’s business operations.
+Provide oversight and assurance within the LBU that processes, tools, and technologies are operating effectively to mitigate risks to information and technology assets.
+Monitor and review the effectiveness of implementation of information technology, security and data protection standards, policies, and procedures within the LBU to ensure compliance with regulatory, Group, and LBU specific policy requirements
+Support LBU operational functions as required to manage risks to information and technology assets appropriately
+Provide independent, objective assurance that information and technology risks are being managed to ensure they are within the risk appetite approved by the Board.
+Work closely with the Group Technology Risk Management team to roll out and ensure the effective implementation of information and technology risk frameworks, policies, processes, and other initiatives
+
+
+Accountabilites
+
+Ensure the formation of LBU Technology Risk Management framework and the successful rollout and implementation within the LBU
+Provide technical and best practice guidance on information and technology risk taking into account specific platform and regional complexities and issues
+Support the LBU CRO in ensuring periodic reporting of information and technology risk matters to LBU risk committee
+Work closely with LBU operational risk management team in managing LBU information and technology risk 
+Ensure the formation of the information and technology risk appetite and key risk metrics for management oversight and the successful rollout within the LBU
+Proactively monitor LBU risk register and to escalate any potential risk area for Group level risk reporting
+Work closely with LBU ORM to review LBU risk register to ensure the risk rating, treatment plan and target completion date are able to reduce/mitigate the risk on reasonable basis
+Promote a risk culture to LBU stakeholders in managing information and technology risk 
+
+
+Qualification
+
+In addition to a technology degree, is appropriately certified and / or has other relevant technical certification such as Technology Risk Management, Technology Audit, IT Management, Cybersecurity, Cloud, Software Engineering or Project Management
+
+Prudential is an equal opportunity employer. We provide equality of opportunity of benefits for all who apply and who perform work for our organisation irrespective of sex, race, age, ethnic origin, educational, social and cultural background, marital status, pregnancy and maternity, religion or belief, disability or part-time / fixed-term work, or any other status protected by applicable law. We encourage the same standards from our recruitment and third-party suppliers taking into account the context of grade, job and location. We also allow for reasonable adjustments to support people with special requirements."
+3788932004,unreal engine developer,https://www.linkedin.com/jobs/view/3788932004,Staffing Ninja,https://www.linkedin.com/company/staffing-ninja/life," ",1 week ago,9,,Remote,,1-10 employees · Staffing and Recruiting,https://media.licdn.com/dms/image/D4D0BAQH6VtK5Mqw5Wg/company-logo_100_100/0/1692353299796?e=1712188800&v=beta&t=Hu1qo7dcoZNNw7ZZOZc5WMMlmeuLiP_kj47p8ThKw48,"Staffing Ninja is a leading recruitment agency specializing in connecting top talent with innovative companies worldwide for recruiting.
+
+At Staffing Ninja, we are committed to building long-term relationships with our clients and candidates. Our goal, among other industry experts, is to help our clients achieve their business objectives by providing them with the best talent available through our headhunting service and to help our candidates take their careers to the next level with the best AI jobs.
+
+Find your next career opportunity in the AI space, contact us today!","Responsibilities:
+• Innovate and implement creative technical solutions for delivering exciting projects across various clients and platforms.
+• Utilize a strong understanding of programming languages, algorithms, data structures, and design patterns to write efficient and clear code, communicating your approach effectively through well-commented documentation.
+• Collaborate with fellow developers, CG/VFX artists, and the production team.
+• Safeguard code using source control and manage issue resolution through bug reporting software.
+• Generate clean and well-documented code.
+• Manage internal engine builds using Perforce and other tools for team distribution.
+• Collaborate with the virtual production team to comprehend technical requirements.
+• Actively participate in technical and artistic discussions and contribute to problem-solving.
+• Work closely with TDs and other development team members to enhance the pipeline and workflows.
+• Develop and optimize modules for tools related to virtual production, integrating game engines with UI and I/O modules.
+• Lead the development path for creative solutions in the overall development pipeline and individual projects.
+
+ Requirements:
+• Possess 3+ years of experience with Unreal Engine.
+• Have 2+ years of experience with C++, within Unreal, Unity, or other engines.
+• Demonstrate understanding of Computer Science fundamentals.
+• Hold a Bachelor's degree or equivalent experience."
+3765865203,Technical Services Manager (Pest Management),https://www.linkedin.com/jobs/view/3765865203,Robert Walters,https://www.linkedin.com/company/robert-walters/life," ",1 month ago,16,,On-site,,"1,001-5,000 employees · Staffing and Recruiting",https://media.licdn.com/dms/image/D4E0BAQHjLGdaWNxqgQ/company-logo_100_100/0/1688121976320/robert_walters_logo?e=1712188800&v=beta&t=bcBB8IYG_ZdKyGc-Da20RSU5Oi6HuOI9ZL40qsLhYuM,"Over the last 38 years, Robert Walters has grown and so have our ambitions. We now employ over 4,200 talented staff across 31 countries. Businesses world-wide rely on us to find the very best specialist professionals to drive their business forward. Why? Because those same professionals trust us to manage their long-term careers.
+
+We're proud to be a world-leading recruitment consultancy with one million followers on LinkedIn. We also have a successful recruitment outsourcing business called Resource Solutions and a clerical recruitment brand operating in Europe called Walters People.
+
+Our philosophy:
+
+
+We don't aim to be the biggest recruitment consultancy but we do aim to be the best. We help businesses build powerful teams that deliver against exceptionally high standards by holding ourselves up to those same values. Quality and integrity are our watchwords and we like to think we're different. Here's a flavour of why:
+
+• We have specialist recruitment teams who are experts in their area. Whether they're recruiting in accountancy, HR or legal, you won't find them working outside their area of expertise
+• Our consultants don't work on commission, but instead rely on team work to ensure the right person is placed in the right job
+• We will never send out your CV without express permission. Quite simply, we don't think it's right
+
+We're proud of what we've achieved so far. But we don't look back, we're always innovating:
+
+• We were the first recruitment consultancy to launch a recruitment outsourcing business
+• The first to launch a Global Salary Survey
+• We were the first to launch a salary checker app for iPhone and launched a Manga interview app","A Technical Services Manager (Pest Management) job has become available at a leader within the agriscience/pest control world.
+
+About The Technical Services Manager (Pest Management) Role
+
+Due to excellent results and future expansion plans, the Technical Services Manager (Pest Management) will to provide the technical expertise to team and customers for delivering fast track business growth, customer engagement and maintain leadership in the technical support domain.
+
+Key Responsibilities
+
+Be the ""go-to"" expert on the environmental science business in Indonesia - professional pest management, rural hygiene
+Collaborate with the marketing and commercial team to develop product positioning, product differentiation and defence strategies
+Provide product training (including field training), and technical support on the product portfolio to country team as well as external customers
+Handle any complaints on the efficacy or quality of product and resolve it with root cause analysis and implementing application training or internal re-alignment
+Proactively scan the marketplace and industry for areas of competitive improvement including digital innovation and excellence in service execution
+
+To succeed in this Technical Services Manager (Pest Management) role, you must have good understanding of R&D processes, project management, marketing and business excellence.
+
+Key Requirements
+
+Bachelor's degree in life sciences or equivalent
+5 - 10 years of experience in market development, technical services, preferably in the environmental science industry
+Effective project management skills and leadership to drive the country project team
+Must be well versed in English
+
+This company is much more than a logistics firm and is anything but traditional. They have the people and ethos to act with speed, innovation, enterprise and creativity.
+
+If you are a progressive Technical Services Manager (Pest Management) with a can-do attitude, this is an excellent opportunity to work with an industry leader that is constantly breaking new ground.
+
+Apply today or contact me to discuss this new opportunity.
+
+ 
+
+Due to the high volume of applications we are experiencing, our team will only be in touch with you if your application is shortlisted."
+3788958136,Senior PHP Developer (Yogyakarta Area),https://www.linkedin.com/jobs/view/3788958136,BitHealth,https://www.linkedin.com/company/bithealth/life," ",1 week ago,99,,Hybrid,,51-200 employees · Information Technology & Services,https://media.licdn.com/dms/image/D4E0BAQEtbeSJkNL14Q/company-logo_100_100/0/1664787920525/bithealth_logo?e=1712188800&v=beta&t=V5Cti4QvrPTTC7l9i1UCCk0UMJcJXSZ0ELARsRGmoCo,"BitHealth is the digital health solution provider company in Indonesia that specializes in digital health technology and transformation partner to healthcare organization.
+
+Established since 2020, we will continue on developing various breakthroughs which could escalate the effectiveness and efficiency of our health industry in the future.
+
+Our Vision is to be the Indonesia Largest Digital Services Provider in Healthcare with the Mission to help our clients transforming patient experience, operation excellence, and clinical outcome through innovative digital technology.","Bithealth is looking for a Senior PHP Developer to join our growing Development team!
+
+Job Description:
+Developing and packaging new product/features and user interfaces from wireframe models.
+Ensuring the best performance and user experience of the application.
+Writing clean, readable, and testable code.
+Optimize the application for maximum speed and scalability.
+Possible to leading a team.
+
+Requirements:
+Have 3-6 years of working experience as a Software Developer.
+Proficiency with server-side languages such as PHP & Laravel Framework (is a must).
+In-depth knowledge of Laravel's architecture and conventions.
+Solid understanding of database design and optimization.
+Experience with ORM (Object-Relational Mapping) in Laravel.
+Familiarity with database technology such as MYSQL, PostgreSQL, MongoDB.
+Understanding the nature of synchronous/asynchronous programming and its quirks and workarounds.
+Good understanding of Frontend Javascript framework (Angular or React, or VueJS).
+Good understanding of server-side CSS preprocessors (such as Stylus, Less).
+Basic understanding of frontend technologies, such as HTML5, and CSS3.
+Understanding of Designing and developing APIs. (REST).
+User authentication and authorization between multiple systems, servers, and environments (ex: using JWT).
+Integration of multiple data sources and databases into one system.
+Understanding fundamental design principles behind a scalable application,
+Understanding differences between multiple delivery platforms, such as mobile vs. desktop, and optimizing output to match the specific platform.
+Implementing automated testing platforms and unit tests.
+Proficient understanding of code versioning tools, such as Git.
+Knowledge of Cloud Server such as GCP/AWS/Azure.
+Familiar with Linux OS.
+Willing to work in Yogyakarta."
+3796783366,"Software Engineer (AI-Powered Development), Trilogy (Remote) - $200,000/year USD",https://www.linkedin.com/jobs/view/3796783366,Crossover ,https://www.linkedin.com/company/crossover/life," ",1 day ago,14,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C4E0BAQG8bdX5sQ24KQ/company-logo_100_100/0/1630619679689/crossover__logo?e=1712188800&v=beta&t=s4G-ZkvEHeTnm-GLxEoEkbWxJ5Zto3Ts13geqBcmduU,"Crossover is the world's largest database of skilled remote talent (7 million users and counting!)
+
+We help amazing professionals all over the world prove that they're just as good as anyone in Silicon Valley—𝘢𝘯𝘥 𝘥𝘦𝘴𝘦𝘳𝘷𝘦 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘱𝘢𝘺𝘤𝘩𝘦𝘤𝘬.
+
+Like the Olympics, it's hard to qualify... but it's worth it!
+Have you got what it takes to join the 5,000+ people from 130+ countries that we've recruited for high-paying full-time remote jobs?
+
+𝐇𝐄𝐋𝐏𝐅𝐔𝐋 𝐋𝐈𝐍𝐊𝐒:
+🧑 Reviews from people we've hired: crossover.com/people-at-crossover
+💼 Current openings: crossover.com/jobs
+💎 Hire someone for your company: crossover.com/hire
+♟️ How the process works: crossover.com/selection-process
+❓ FAQs: crossover.com/help-and-faqs
+~~~
+𝑵𝒐𝒕𝒆: Crossover jobs are are fully compliant with LinkedIn's policies, as well as the applicable laws in every country where we advertise.
+
+Allow us to clarify some common misconceptions:
+1) The reason we post so many job ads is because LinkedIn organizes all job postings by location. So, the only way to reach candidates all over the world is to post multiple ads in every city you want to hire from. Most recruiters don't bother because it's too time consuming... but we're not most recruiters.
+2) We mostly recruit independent contractors, not employees, because labor laws vary so much from one country to another that it's near-impossible to recruit globally otherwise (which is why it's still uncommon even though most jobs can now be done remotely).
+3) As is standard for any self-employed person, the stated pay is the entire compensation package. Because they are not employees, each contractor is responsible for handling the things that an employer would take care of e.g. taxes, equipment, vacation time, health insurance. One of the major reasons that Crossover jobs pay so much more than local jobs is to overcompensate for these costs.
+
+It's hard, but it's worth it!","Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a seasoned software engineer with a deep interest in AI? Trilogy is on the lookout for exceptional engineers to lead the charge in adopting generative AI tools both in our development process and into our products.
+
+Join us to work on our exciting product portfolio:
+
+TeachTap: Bringing historical figures to life using AI, offering an engaging, TikTok-like learning experience to make learning more relevant and fun.
+Educational Content Generation: Utilizing the latest in generative AI combined with comprehensive learning materials to create captivating content.
+TeachTower: A game-based motivation system inspired by popular games like Roblox and Minecraft, designed to make learning irresistibly fun.
+Coachbot: A learning copilot that integrates with existing apps, guiding learning paths, recommending next steps, and rewarding daily progress.
+Data-driven Sales: A sales platform that leverages AI to provide real-time guidance to agents during calls, create personalized renewal plans, and quality control sales calls.
+Crossover: An AI-powered hiring platform that sifts through millions of applicants annually to find the top 1% of global talent.
+
+Your role will focus on integrating AI into engineering practices, using AI tools to increase efficiency and solve engineering tasks like coding and testing. Based on the obtained results, you will derive recipes and playbooks to be adopted by the broader engineering team. Maintaining high-quality standards in our codebases while ensuring high leverage of AI tools across our engineering teams will be a key part of your work.
+
+You will be an integral part of our existing engineering team, working collaboratively on our suite of products to deeply understand our environment and needs. You will have the freedom to propose and experiment with new tools and then will leverage the insights and experiences obtained to evolve our processes, advocate for new tool adoption, or even spearhead the creation of small tools, bots, and frameworks to enhance our technical setup.
+
+We seek candidates with a strong background in software engineering and a capacity for adapting to new technologies. Moreover, an interest in the latest generative AI developments and a drive for innovation are crucial. While our primary tech stack is AWS Serverless with TypeScript, we're looking for versatile engineers who can excel in a variety of technical environments and challenges.
+
+What You Will Be Doing
+
+Developing fully functional features, using AI tools to expedite delivery and enhance quality.
+Performing experiments with AI to enhance engineering processes, including decomposition, solution design, code generation, and troubleshooting.
+Documenting best practices and techniques in guides that enable others to harness the power of generative AI effectively.
+
+What You Won’t Be Doing
+
+Building new AI models from scratch; instead, your focus will be on leveraging and fine-tuning existing models to maximize efficiency.
+Being confined to outdated technologies; we encourage an environment that thrives on dynamic tech stacks, fostering continuous innovation.
+
+Software Engineer (AI-Powered Development) Key Responsibilities
+
+Drive transformative change by establishing a framework that seamlessly integrates generative AI, significantly amplifying engineering productivity.
+
+Basic Requirements
+
+Minimum 5 years of experience in professional software development.
+Minimum 3 years either as a lead engineer reviewing the work of other engineers or as an architect making important technical decisions.
+Excited to use and explore new generative AI tools for software engineering tasks on a day-to-day basis
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-5106-ID-Yogyakar-SoftwareEngine1.008"
+3774593966,Learning & Development Coordinator,https://www.linkedin.com/jobs/view/3774593966,Hilton,https://www.linkedin.com/company/hilton/life," "," ",633,,On-site,,"10,001+ employees · Hospitality",https://media.licdn.com/dms/image/C560BAQEHYnczCpQaAQ/company-logo_100_100/0/1654652249026/hilton_logo?e=1712188800&v=beta&t=lM8wrTl7HWkIrWLwkjZk_YKJroEhQHqLeLG_uhXVLC0,"Hilton (NYSE: HLT) is a leading global hospitality company with a portfolio of 22 world-class brands comprising nearly 7,300 properties and more than 1.1 million rooms, in 124 countries and territories. Dedicated to fulfilling its founding vision to fill the earth with the light and warmth of hospitality, Hilton has welcomed more than 3 billion guests in its more than 100-year history, earned a top spot on Fortune's 100 Best Companies to Work For list and been recognized as a global leader on the Dow Jones Sustainability Indices for six consecutive years. Hilton has introduced several industry-leading technology enhancements to improve the guest experience, including Digital Key Share, automated complimentary room upgrades and the ability to book confirmed connecting rooms. Through the award-winning guest loyalty program Hilton Honors, the more than 165 million members who book directly with Hilton can earn Points for hotel stays and experiences money can't buy. With the free Hilton Honors app, guests can book their stay, select their room, check in, unlock their door with a Digital Key and check out, all from their smartphone. Visit stories.hilton.com for more information, and connect with Hilton on Facebook, Twitter, LinkedIn, Instagram and YouTube.","The Learning & Development Coordinator will promote a well-trained staff resulting in positive guest relations. Working with the hotel's line team members ensures that company standards are met and measured.
+
+What will I be doing?
+
+The Learning & Development Coordinator will perform the following tasks to the highest standards:
+
+Maintenance of employee records including personnel files, learning history
+Scheduling and coordination of training classes including maintenance of training calendar
+Development and distribution of training announcement notifying team members of up coming classes, tracking employee sign-ups and preparation of materials including certificates of completion
+Assist Assistant Learning & Development Manager with recruitment and hiring of new interns
+Coordinate job opportunity system
+Input and track data of various Hilton quality measurement programs on trends including, but not limited to, Guest comment cards, Standards of Product and Performance, into computerized tracking system
+Prepare and distribute reports measuring trainings results. Maintenance of inventory of all training supplies, stationary, and office equipment
+
+
+What are we looking for?
+
+A Learning & Development Coordinator serving Hilton brands is always working on behalf of our Guests and working with other Team Members. To successfully fill this role, you should maintain the attitude, behaviours, skills, and values that follow:
+
+A passion for team work and development
+Excellent organizational skills with a high level of accuracy
+Excellent communication skills and ability to build effective long-term relationships
+Excellent computer skills
+Analytical approach to work
+
+
+What will it be like to work for Hilton?
+
+Hilton is the leading global hospitality company, spanning the lodging sector from luxurious full-service hotels and resorts to extended-stay suites and mid-priced hotels. For nearly a century, Hilton has offered business and leisure travelers the finest in accommodations, service, amenities and value. Hilton is dedicated to continuing its tradition of providing exceptional guest experiences across its global brands. Our vision “to fill the earth with the light and warmth of hospitality” unites us as a team to create remarkable hospitality experiences around the world every day. And, our amazing Team Members are at the heart of it all!
+
+Work Locations
+
+Hilton Bandung
+
+Schedule
+
+Full-time
+
+Brand
+
+Hilton Hotels & Resorts
+
+Job
+
+Human Resources"
+3775104465,Associate DBA,https://www.linkedin.com/jobs/view/3775104465,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",66,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1712188800&v=beta&t=Y27LLHDeNFUNrgLAQFFNQ6FNKYU4YfoZJYhx7cMJJfI,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Provides technical support to field engineers, technicians, and product support personnel who are diagnosing, troubleshooting, repairing, and debugging complex electro/mechanical equipment, computer systems, complex software, or networked and/or wireless systems.
+
+Responds to situations where first-line product support has failed to isolate or fix problems in malfunctioning equipment or software. Reports design, reliability, and maintenance problems or bugs to design engineering/software engineering. May be involved in customer installation and training.
+
+Provides support to customers/users where the product is highly technical or sophisticated in nature.
+
+Working at NTT
+
+The MS Engineer is responsible for providing a service to clients by proactively identifying and resolving technical incidents and problems. Through preemptive service incident and resolution activities, as well as product reviews, operational improvements, operational practices, and quality assurance this role will maintain a high level of service to clients. Their primary objective is to ensure zero missed service level agreement (SLA) conditions .The MS Engineer s responsible for managing tickets of low to high complexity.
+
+Key Roles and Responsibilities:
+
+Ensure that assigned infrastructure at the client site is configured, installed, tested, and operational
+Perform necessary checks, apply monitoring tools and respond to alerts
+Identify problems and errors prior to or when it occurs and log all such incidents in a timely manner with the required level of detail
+Assist in analyzing, assigning, and escalating support calls
+Investigate third line support calls assigned and identify the root cause of incidents and problems
+Report and escalate issues to 3rd party vendors if necessary
+Provide onsite technical support to clients and provide field engineering services to clients
+Conduct a monthly random review of incidents and service requests, analyze and recommend improvement in quality
+Provide continuous feedback to clients and affected parties and update all systems and/or portals as prescribed by NTT
+Proactively identify opportunities for work optimization including opportunities for automation of work
+
+Knowledge, Skills, and Attributes:
+
+Ability to communicate and work across different cultures and social groups
+Ability to plan activities and projects well in advance, and takes into account possible changing circumstances
+Ability to maintain a positive outlook at work
+Ability to work well in a pressurized environment
+Ability to work hard and put in longer hours when it is necessary
+Ability to apply active listening techniques such as paraphrasing the message to confirm understanding, probing for further relevant information, and refraining from interrupting
+Ability to adapt to changing circumstances
+Ability to place clients at the forefront of all interactions, understanding their requirements, and creating a positive client experience throughout the total client journey
+
+Academic Qualifications
+
+Advanced diploma, degree, or relevant qualification in IT/Computing (or demonstrated equivalent work experience)
+
+Required Experience:
+
+Demonstrated work experience
+Demonstrated experience required in Engineering function within a medium to large ICT organization
+Demonstrated experience of Managed Services
+Demonstrated working knowledge of ITIL processes
+Demonstrated experience working with vendors and/or 3rd parties
+
+What will make you a good fit for the role?
+
+Equal Opportunity Employer
+
+NTT is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, color, sex, religion, national origin, disability, pregnancy, marital status, sexual orientation, gender reassignment, veteran status, or other protected category"
+3790105288,Sea Logistics ISC Customer Care Specialist,https://www.linkedin.com/jobs/view/3790105288,Kuehne+Nagel,https://www.linkedin.com/company/kuehne-nagel/life," ",1 week ago,108,,On-site,,"10,001+ employees · Transportation, Logistics, Supply Chain and Storage",https://media.licdn.com/dms/image/C4D0BAQHJHH8x4TJ9yg/company-logo_100_100/0/1630576568500/kuehne_nagel_logo?e=1712188800&v=beta&t=NNWjH4YCovkA-APPKS0IoLBjbxlw7Ps2MEJrsr8tVF4,"With over 80,000 employees at almost 1,300 sites in close to 100 countries, the Kuehne+Nagel Group is one of the world's leading logistics providers. Headquartered in Switzerland, Kuehne+Nagel is listed in the Swiss blue-chip stock market index, the SMI. The Group is the global number 1 in air and sea logistics and has strong market positions in road and contract logistics.
+
+Kuehne+Nagel is the logistics partner of choice for 400,000 customers worldwide. Using its global network, logistics expertise and data-based insights, the Group provides end-to-end supply chain solutions for global companies and industries. As a member of the Science Based Target Initiative (SBTi), Kuehne+Nagel is committed to sustainable logistics by reducing its own environmental footprint and by supporting its customers with low-carbon logistics solutions.","Are you passionate about providing exceptional customer service in the dynamic world of logistics? Kuehne Nagel, a global leader in logistics and supply chain solutions, is seeking a talented and motivated individual to join our team as a Sea Logistics ISC Customer Care Specialist in Indonesia.
+
+ Your Role 
+
+You will support customers by providing helpful information, answering questions, + responding to complaints. Utilizing your strong forwarding + market knowledge, you will provide front line support for customers to ensure customer satisfaction with our International Supply Chain (ISC) products, services + features.
+
+Your Responsibilities
+
+To qualify + enter customer orders into the operational execution process. 
+To drive customer engagement, satisfaction, retention + reactivation in close cooperation with the Operational Care Center (OCC), destinations + regional stakeholders. 
+To establish + strengthen operational relationships with customer contact(s) through daily interactions, regular care visits, pro-actively advising + consulting to ensure customer satisfaction. 
+To qualify customer inquiries + provide quotations within the given price band, in line with the guiding leeway in decision-making, following up to ensure quotations are accepted + closed. 
+To support customer onboarding in line with working instructions, ensuring inclusion + transfer of customer requirements into the KN systems alongside the (initial) customer order. 
+To collaborate with Finance to adjust credit limits based on daily business development + coordinate measures in case of challenges. 
+To document, resolve, analyze all complaints, then identify, share + eliminate root causes. 
+To create, review + refine customer reports. 
+To ensure delivery against all financial targets + strategic objectives across ISC. 
+
+Your Skills And Experiences
+
+Bachelor degree
+Preferred at least 1 year experience in related field
+Able to converse fluently in Bahasa Indonesia and English
+Ability to establish priorities and accomplish multiple tasks with minimal supervision & computer skills
+Strong time management, analytical thinking, communication and coordination skill
+This role is temporary employment for 6 months"
+3793203452,"Technical Service Engineer, Pumps-Cyclones-Valves (Australia – Western Region)",https://www.linkedin.com/jobs/view/3793203452,FLSmidth,https://www.linkedin.com/company/flsmidth/life," ",6 days ago,78,,On-site,,"10,001+ employees · Industrial Machinery Manufacturing",https://media.licdn.com/dms/image/C4E0BAQG44HFQblqIMg/company-logo_100_100/0/1661770769431/flsmidth_logo?e=1712188800&v=beta&t=gBnHHdaEp-tLZGhmxCVSEAlBMBJnhyN5bGifeVopjX4,"FLSmidth is a full flowsheet technology and service supplier to the global mining and cement industries. We help our customers to improve performance, lower operating costs and reduce environmental impact.
+
+With our MissionZero programme, we have set a target of providing solutions for zero-emissions mining and zero-emissions cement production by 2030, supporting a green transition built upon sustainable materials. www.flsmidth.com/MissionZero
+
+Our operations span the globe and we are close to 11,000 employees, present in more than 60 countries. In 2022, FLSmidth generated revenue of DKK 21.8 billion.
+
+FLSmidth is listed on NASDAQ OMX Exchange Copenhagen.
+
+#technology #mining #cement #productivity #innovation #MissionZero
+
+Privacy policy - https://www.flsmidth.com/en-gb/privacy-policy","Technical Service Engineer - Pumps Cyclones Valves – (Western Region)
+
+We are seeking a highly motivated and knowledgeable individual to join our team as a Technical Service Engineer for our Western Region, based in Perth, Western Australia.
+
+As the key site-based contact for our Customers, the Technical Service Engineer role is critical to provide regular value-adding site visits. You will be responsible for overseeing the product line of KREBS Pumps, Cyclones, Valves, Hose & Rubber (PCV) performance in the field as well as targeting competitor installed base to replace & offering technical solutions with our Teams. This is an excellent opportunity to showcase your expertise in service solutions and drive the success of our products in the region.
+
+Essential Job Functions
+
+Customer focused service support for all Pumps, Cyclones, Valve, Hose & Rubber products in the region - routinely monitoring & offering improved performance solutions to Customers. In-depth knowledge of rebuilds, oversee site installation & routine maintenance of PCV equipment.
+Targeting competitor installed base, gathering process-data & working with technical teams to offer our products showcasing improved performance, lower total ownership costs, better availability & service support.
+Technical solutions sales through identifying site issues & troubleshooting - willingness to drive business development and build relationships for repeat business.
+Maintain site based installation list & monitor performances.
+Collaborate with the regional sales teams to effectively promote and market our products/services to relevant customers in the region.
+Work closely with Sales Area Managers, Regional/Global Product Line Management, Capital Sales, and Inside Sales to develop winning proposals.
+Provide comprehensive training and guidance to customers, sales representatives, and site support.
+Travel to customer sites and engineering firms to troubleshoot, consult on system design, support start-ups, and ensure proper aftermarket support, including warranty/quality issue resolution.
+Report won/lost opportunities and customer feedback, including market intelligence, competition activities, and suggestions for product design and improvement based on specific customer pain points.
+Collaborate to support the successful launch of new products/services in the region.
+Assist with mining sales opportunities in region.
+
+Knowledge, Skills, Abilities
+
+Strong Customer Focus
+Experience with a service background as a fitter & turner or in metallurgy or mechanical engineering.
+Preferred in-depth knowledge and expertise in hydro cyclones, centrifugal slurry pumps, and knife gate valves, with a focus on their use in applications and industries.
+Capability to provide training and guidance to customers, sales, and field service teams.
+Willingness to travel to troubleshoot, consult on system design, and ensure aftermarket support.
+Skilled in analyzing competition, providing customer feedback. Ability to identify product design improvements and customer pain points.
+Strong interpersonal skills to interface effectively with customers, sales teams, and cross-functional stakeholders. Ability to collaborate with global teams and leadership.
+Understanding of the Asia Pacific market dynamics, industry trends, and regulatory environment .
+Strong presentation skills and the ability to present technical training courses to large groups.
+Ability to thrive in a fast-paced, global environment with matrixed reporting structures.
+ Supports delivery of technical sales briefings for customer and company representatives
+ Gathers input to customer technical specifications and estimates the costs, resources, time, and technical requirements of modifying, configuring, and installing the product or solution
+ Gathers input to post-sale product configuration and designing custom solutions in accordance with customer specifications
+ Supports delivery of technical user training and product briefings with customers, vendors, and company representatives.
+
+Education
+
+Trade-Fitter background or Bachelor's degree in a relevant field or equivalent experience.
+
+Knowledge, Skills, Abilities
+
+Preferred in-depth knowledge and expertise in hydrocyclones, centrifugal slurry pumps, and knife gate valves, with a focus on their use in applications and industries.
+Capability to provide training and guidance to customers, sales, and field service teams.
+Willingness to travel to troubleshoot, consult on system design, and ensure aftermarket support.
+Skilled in analyzing competition, providing customer feedback. Ability to identify product design improvements and customer pain points.
+Strong interpersonal skills to interface effectively with customers, sales teams, and cross-functional stakeholders. Ability to collaborate with global teams and leadership.
+Strong presentation skills and the ability to present technical training courses to large groups.
+Ability to thrive in a fast-paced, global environment with matrixed reporting structures.
+
+What We Offer
+
+Join our team at FLSmidth and immerse yourself in an energetic and competitive work environment!
+
+Competitive remuneration package on offer.
+Flexible start & finish times.
+Job security in a volatile market – FLSmidth has 140 years of successful operation within a global environment.
+Development and training within a respected global OEM company.
+Opportunity to be recognised and rewarded via the FLSmidth United program allowing you to redeem points and purchase a wide range of products.
+Employee Assistance Program for employees and immediate family.
+Purchased annual leave options.
+Involvement with community and charity initiatives.
+Annual flu vaccination.
+
+As an equal opportunity employer, FLSmidth embraces diversity and equality by promoting an environment of inclusion.
+
+We encourage applicants of all backgrounds and perspectives to apply - the more diverse our employees are, the stronger our team is.
+
+In our commitment to equal opportunity and eliminating bias, we kindly request that you exclude personal information such as age, ethnicity, number of children, and photographs from your application materials
+
+Please apply by clicking ""apply"" on this page.
+
+Kindly note that we will be reviewing applications and conducting interviews on an ongoing basis so please apply as soon as possible.
+
+Candidates will be contacted by email.
+
+No recruiters and unsolicited agency referrals please.
+
+FLSmidth is the leading supplier of engineering, equipment and service solutions to customers in the mining and cement industries – for more information please visit FLSmidth.com/careers"
+3783651228,Sales Engineer,https://www.linkedin.com/jobs/view/3783651228,Snowflake,https://www.linkedin.com/company/snowflake-computing/life," "," ",83,,Remote,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/D560BAQF3mYS3WqCB3g/company-logo_100_100/0/1688575708630/snowflake_computing_logo?e=1712188800&v=beta&t=sktlSrXVhYkW-hiF9t7jBCVRbs-ptsMxbgQgGIBjIaw,"Snowflake delivers the Data Cloud — a global network where thousands of organizations mobilize data with near-unlimited scale, concurrency, and performance. Inside the Data Cloud, organizations unite their siloed data, easily discover and securely share governed data, and execute diverse analytic workloads. Wherever data or users live, Snowflake delivers a single and seamless experience across multiple public clouds. Snowflake’s platform is the engine that powers and provides access to the Data Cloud, creating a solution for data warehousing, data lakes, data engineering, data science, data application development, and data sharing. Join Snowflake customers, partners, and data providers already taking their businesses to new frontiers in the Data Cloud.","Build the future of data. Join the Snowflake team.
+
+There is only one Data Cloud. Snowflake’s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn’t stop there. They engineered Snowflake to power the Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow.
+
+We are looking for world-class sales engineers to join our field teams whose technical skills and customer savvy will help customers understand and utilize the value of the cutting-edge data platform that we are building. They must share our passion about reinventing the data platform and thrive in a dynamic environment.
+
+The Sales Engineer will work hand-in-hand with Sales, Product, Engineering, and Marketing. She/he will be responsible for providing the technical expertise to make Snowflake customers successful. This sales engineer will have a broad range of skills and experience ranging from data architecture to ETL/ELT, data science, security, performance analysis, analytics, etc. He/she will have the insight to make the connection between a customer’s specific business problems and Snowflake’s solution, the customer-facing skills to communicate that connection and vision to a wide variety of technical and executive audiences, and the technical skills to be able to not only build demos and execute proof-of-concepts but also to provide consultative assistance on architecture and implementation.
+
+The Sales Engineer has the willingness to jump in and do what it takes to make Snowflake and our customers successful. It means keeping up to date on the ever-evolving technologies for data and analytics in order to be an authoritative resource for both Snowflake and customers. They should work collaboratively with a broad range of people, both inside and outside the company.
+
+RESPONSIBILITIES:
+
+Present Snowflake technology and vision to executives and technical contributors at prospects and customers.
+Work hands-on with prospects and customers to demonstrate and communicate the value of Snowflake technology throughout the sales cycle, from demo to proof of concept to design and implementation.
+Maintain a deep understanding of competitive and complementary technologies and vendors and how to position Snowflake in relation to them.
+Collaborate with Product Management, Engineering, and Marketing to continuously improve Snowflake’s products and marketing.
+Be an advocate and develop mutual trust with the technical audience on the customer side. 
+
+
+MINIMUM REQUIREMENTS:
+
+Minimum 3 years of experience working with customers in a technical role.
+Minimum 3 years of experience as a data architect, data scientist, or data engineer.
+Outstanding skills presenting to both technical and executive audiences, whether impromptu on a whiteboard or using presentations and demos.
+Understanding of complete data stack and workflow, from ETL to data platform design to BI and analytics tools.
+Strong skills in databases, data warehouses, and data processing.
+Hands-on expertise with SQL and Python
+
+
+Excellent Writing And Communication Skills In Bahasa Indonesia Language
+
+STRONGLY DESIRED:
+
+Data Science knowledge and experience
+University degree in computer science, engineering, mathematics or related fields, or equivalent experience.
+Software development experience with Java, Spark and other Scripting languages
+Extensive knowledge of and experience with large-scale database technology (e.g. Netezza, Exadata, Teradata, Greenplum, Hadoop etc.).
+Experience and track record of success selling data and/or analytics software to enterprise customers; includes proven skills identifying key stakeholders, winning value propositions, and compelling events.
+Sound understanding and experience in the Indonesian market and technology ecosystem.
+
+
+ADDED BONUS FOR:
+
+Strong Data Science/AI/ML experience across a variety of platforms
+Familiarity and experience with common BI and data exploration tools (e.g. Tableau, PowerBI, Metabase etc).
+Cloud Provider Experience - Amazon AWS, Microsoft Azure, and Google Cloud 
+Experience using AWS or Azure native services such as AWS S3, AWS Glue, AWS SageMaker or Azure Blob Storage, Azure Data Factory, Azure Database Migration Services and so on.
+OLAP Data modeling and data architecture experience
+Experience selling enterprise SaaS software.
+Proven success at enterprise software start-ups."
+3752351315,Human Resources Coordinator,https://www.linkedin.com/jobs/view/3752351315,Sheraton Hotels & Resorts,https://www.linkedin.com/company/sheraton/life," "," ",900,,Full-time,,"1,001-5,000 employees · Hospitality",https://media.licdn.com/dms/image/C4E0BAQHSB40QRirfIw/company-logo_100_100/0/1630602842546/sheraton_logo?e=1712188800&v=beta&t=L2kZmmYgTTyVsl1hROu_qLA8EVdMkoCDIw5YoRV7Uc4,"A leader in transforming travel since 1937, we continue to innovate, meeting the way you see the world and welcoming locals and travelers alike to find a point of connection. Find us at the heart of hundreds of communities in more than 70 countries worldwide.","Job Number 23198212
+
+Job Category Human Resources
+
+Location Sheraton Jakarta Soekarno Hatta Airport, Kawasan Bandara Soekarno-Hatta, Jl. Tol Prof. Sedyatmo No.KM 02, Pajang, Kec. Benda, Kota Tangerang, Banten, Indonesia VIEW ON MAP
+
+Schedule Full-Time
+
+Located Remotely? N
+
+Relocation? N
+
+Position Type Non-Management
+
+Position Summary
+
+Assist in monitoring/tracking employee relations issues including resolution and follow-up. Assist and support management and the leadership team with handling and resolving Human Resources issues. Monitor all hiring and recruitment processes for compliance with all local, state, and federal laws and company policies and standards. Inform Human Resources management of issues related to employee relations. Respond to questions, requests, and concerns from employees and management regarding company and Human Resources programs, policies and guidelines. Disseminate information to employees related to employer-employee relations, employee activities, and personnel policies and programs. Review and ensure accurate maintenance of all employee records and files (e.g., interview documents, I-9's). Assist in logistics, administration, and scheduling of annual employee surveys. Answer phone calls and record messages.
+
+Assist management in hiring, training, scheduling, evaluating, counseling, disciplining, and motivating and coaching employees. Follow all company and safety and security policies and procedures; report accidents, injuries, and unsafe work conditions to manager. Maintain confidentiality of proprietary information. Welcome and acknowledge all guests according to company standards. Speak with others using clear and professional language; answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others; support team to reach common goals; listen and respond appropriately to the concerns of other employees. Enter and locate work-related information using computers and/or point of sale systems. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.
+
+Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.
+
+When you join the Sheraton family, you become a member of its global community. We’ve been a place to gather and connect since 1937. At Sheraton, associates create a sense of belonging in more than 400 communities around the world. We invite, we welcome, and we connect guests through engaging experiences and thoughtful service. If you’re a team player who is excited to deliver a meaningful guest experience, we encourage you to explore your next career opportunity with Sheraton. Join us on our mission to be ‘The World’s Gathering Place’. In joining Sheraton Hotels & Resorts, you join a portfolio of brands with Marriott International. Be where you can do your best work, begin your purpose, belong to an amazing global team, and become the best version of you."
+3794322883,TikTok Shop - Beauty Subcategory Lead (Indonesia),https://www.linkedin.com/jobs/view/3794322883,TikTok,https://www.linkedin.com/company/tiktok/life," ",1 week ago,61,,Full-time,,"10,001+ employees · Entertainment Providers",https://media.licdn.com/dms/image/C510BAQGCdThXIss7UQ/company-logo_100_100/0/1630606162248/tiktok_logo?e=1712188800&v=beta&t=TnKOeulgrxOnJlI9SSXh4fTDEGqREutfoACQXiEx7ZU,"TikTok is the world's leading destination for short-form video. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+
+Our employees lead with curiosity, and move at the speed of culture. Combined with our company's flat structure, you'll be given dynamic opportunities to make a real impact on a rapidly expanding company as you grow your career. We have offices across Asia Pacific, the Middle East, Europe, and the Americas – and we're just getting started.","Responsibilities
+
+ About Us
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo
+
+Why Join Us
+Creation is the core of TikTok's purpose. Our platform is built to help imaginations thrive. This is doubly true of the teams that make TikTok possible.
+Together, we inspire creativity and bring joy - a mission we all believe in and aim towards achieving every day.
+To us, every challenge, no matter how difficult, is an opportunity; to learn, to innovate, and to grow as one team. Status quo? Never. Courage? Always.
+At TikTok, we create together and grow together. That's how we drive impact - for ourselves, our company, and the communities we serve.
+Join us.
+
+About the Team
+In this role you will be responsible in developing categories and the corresponding sub-categories by building a robust team, and conducting prioritization of sub categories, leads identification, leads generation, acquisition, incubation, and performance improvement & management. 
+
+Roles & Responsibilities:
+- Map category and sub categories landscape, and define priority on which segment to be developed in collaboration with merchant and merchandise strategy team
+- Define a go-to market strategy for a Beauty category
+- Plan, execute and maintain category performance (from acquisition to incubation and development) 
+- Build a robust team, and manage collaborative and goal-oriented team culture
+- Doing Negotiation with the seller, performance, potential risk and price competitiveness
+- Come up with initiatives to continuously improve competitiveness advantage 
+
+Qualifications
+
+ - Minimum Bachelor's degree or above
+- Minimum 6+ years experience in Beauty categories, with strong networking to brands and big merchants; social media savvy
+- Good understanding of Beauty product policies and regulation in the industry
+- Good negoitation skills, strong logical thinking, and Interpersonal skills 
+- Well connected to big players within the industry
+- Collaborative and open to changes and challenges
+
+TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too."
+3720781058,Senior Inspection Tech,https://www.linkedin.com/jobs/view/3720781058,"McDermott International, Ltd",https://www.linkedin.com/company/mcdermott-international-inc-/life," "," ",110,,On-site,,"10,001+ employees · Oil and Gas",https://media.licdn.com/dms/image/C4E0BAQErVvM57WXQxw/company-logo_100_100/0/1631378626695/mcdermott_international_inc__logo?e=1712188800&v=beta&t=CNljL9OBKT0KOsqG5E6mhd-DCy1Z-gVy1ftsz9EoZSI,"McDermott is a premier provider of engineering and construction solutions to the energy industry.
+
+Our customers trust our technology-driven approach—engineered to responsibly harness and transform global energy resources into the products the world needs for now and what’s next.
+From concept to commissioning, we are creating and delivering the building blocks of the energy transition. Our innovative expertise and capabilities advance the next generation of global energy infrastructure—empowering a brighter, more sustainable future for us all.
+Operating in over 54 countries, our locally focused and globally integrated resources include more than 30,000 employees, a diversified fleet of specialty marine construction vessels and fabrication facilities around the world.
+
+To learn more, visit www.mcdermott.com.","Job Description
+
+Company Overview:
+
+People power our future. That is why advancing a dynamic, inclusive environment, where everyone grows and thrives is critically important to us.
+
+Our ingenuity fuels daily life. Together, we’ve forged some of the most trusted partnerships across the energy value chain to make what was once just an idea a reality: laying subsea infrastructure thousands of feet below sea level, installing offshore platforms hundreds of miles from shore, and using our expertise to design and build offshore wind infrastructure.
+
+For more than 100 years, we've been making the impossible possible. Today, we're driving the energy transition with more than 30,000 of the brightest minds across 54 countries.
+
+Here, what you do matters.
+
+Job Overview:
+
+Perform examination of welds / material by Radiography (RT). Ultrasonic (UT), Magnetic Testing (MT) Dye Penetrant (PT) and Alternative Current Field Measurement (ACM) based upon code and contractual specification. Determine conformity / non-conforming flaws and report accurately.
+
+Responsibilities
+
+Key Tasks and Responsibilities:
+
+Implementing safety measures such as monitoring radiation exposure levels on a regular basis to ensure that they do not exceed regulatory limits.
+Ensuring that staff members and NDT Subcons are aware of new developments in radiation safety practices and technology.
+Evaluating new equipment or procedures to ensure that they comply with established safety standards.
+Performing tests to measure staff and NDT Subcons exposure to radiation using monitors worn by workers or devices placed in the workplace.
+Conducting radiation safety training courses for the members who may be exposed to radiation or involved in operations that involve radioactive materials or equipment.
+Designing and implementing safety programs that educate workers about radiation hazards and how to avoid them.
+Monitoring equipment to ensure that it is functioning properly and maintaining logbooks of all readings.
+Inspecting work sites for potential hazards related to radiation exposure such as improper shielding of x-ray machines or improperly stored radioactive materials.
+Investigating accidents or incidents involving radiation exposure to ensure that proper safety procedures were followed and protocols were in place.
+Oversees all facets of the daily operations of the organizational unit, ensuring compliance with the federal laws, policies, and regulations.
+Interprets new and existing regulations, advises leadership on technical and regulatory issues regarding the strategic direction of the radiation safety program applies strategic measures as appropriate.
+Manages programs of critical importance; works with leadership, individual principal investigators, and the radiation safety staff in the development and implementation of new proposals as well as the coordination and administration of existing projects within the radiation safety program.
+Oversees the review of radiation human-use clinical research protocols to ensure proper disclosure of radiation exposure and ensure compliance with policies and local, state and federal regulations.
+Prepares reports and other forms of scientific or technical nature and revising the Radiation Safety procedure and Unit SOP's as appropriate and performs an annual audit of the Radiation Safety Program.
+Responds to radiation safety emergencies and prepares and submits required reports.
+Oversees the use of radioactive materials at the facilities through the management of radioactive materials licensing, radiation laboratory survey, and radioactive waste management programs. Reviews and approves requests for radiation permits.
+Manages the radiation safety training program to ensure that only authorized, qualified individuals work with radiation; manages the personnel dosimetry program to limit radiation exposure to radiation users and ensure compliance with the policies and regulatory exposure limits.
+Oversees the supervision of personnel, which includes work allocation, training, promotion, enforcement of internal procedures and controls, and problem resolution; evaluates performance and makes recommendations for personnel actions; motivates employees to achieve peak productivity and performance.
+May propose and create new programs in the area of radiation safety including research of regulations, process development, development of SOPs and implementation.
+Participates in the development and management of annual operating budgets for the operating unit; prioritizes and tracks operating unit expenditures.
+Develops or assists with the development and implementation of policies and procedures consistent with those of the organization to ensure efficient operation of the program/project.
+Participates in development, implementation and maintenance of policies, objectives, short-and long-range planning; develops and implements projects and programs to assist in accomplishment of established goals.
+Represents the organization at various community and/or business meetings, committees, and task forces; promotes existing and new programs and/or policies.
+Performs miscellaneous job-related duties as assigned.
+
+Qualifications
+
+Essential Qualifications and Education:
+
+5 years+ in radiography interpretation and / or Ultrasonic, MT & PT.
+High school (10+2) qualified years or 2 years diploma.
+ASNT or CSWIP/PCN Level II Qualification.
+Computer skills."
+3790550434,"Manager, Marketing West Java",https://www.linkedin.com/jobs/view/3790550434,Grab,https://www.linkedin.com/company/grabapp/life," ",2 weeks ago,392,,On-site,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C510BAQGDlPEJILPXbw/company-logo_100_100/0/1630575649647/grabapp_logo?e=1712188800&v=beta&t=LiVprA_nhthcshlCZ9nefFuRlvv-7yPlWzXhmwynrW0,"Grab is Southeast Asia’s leading superapp, offering a suite of services consisting of deliveries, mobility, financial services, enterprise and others. Grabbers come from all over the world, and we are united by a common mission: to drive Southeast Asia forward by creating economic empowerment for everyone.
+
+At Grab, every Grabber is guided by The Grab Way, which explains our mission and the operating principles on how we can achieve it together. We call these principles the 4Hs:
+
+Heart
+We work together as OneGrab to serve communities in Southeast Asia
+
+Hunger
+We work to understand ground truths and drive improvements, big and small
+
+Honour
+We keep our word and steward our resources wisely to build and sustain trust
+
+Humility
+We are a constant work-in-progress, and we never stop learning to get better","Company Description
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia.
+
+Get To Know The Team
+
+The Grab West Territory Marketing team is a young/established/longstanding team responsible for managing brands and creating demand for west territory areas and cities. We make an impact by developing end-to-end marketing strategy, planning and execution for each locals and city for all and each Grab services relevant to the market and segments. Our team is made up of small but mighty, passionate, insightful and very collaborative individuals. If you are looking for a place where you can grow your marketing thinking and skills, and up to the challenge to bring Indonesia forward, then you should join our team!
+
+Get To Know The Role
+
+We are looking for a Manager for Marketing West Java to build, lead and coach high performing teams. Build, lead and operate the business for a country across multiple business verticals in a dynamic and highly competitive environment. If you believe you have what it takes then we’d love to hear from you.
+
+The Day-to-Day Activities
+
+Developing Marketing Strategy Plan Quarterly All Verticals (Food and non-Food) and localized to West Java insights
+E2E Marketing Campaign execution (planning to Post Campaign Analysis)
+Collaborate with West Java Regional Head & Food GM, and other city stakeholders
+Gather Marketing trend, insight, and data analytic for West Java Cities
+Manage Daily and Weekly Cities operational and Tactical Marketing Project & Timeline Management All Verticals
+Budget Management for Marketing West Java
+Managing Media & In-App Comms Management for West Java
+Team Management & Development
+
+The Must-Haves
+
+You have at least 6 years management experience of Marketing (Brand and Product Management, Advertising, Research, or Creative) with a successful record in developing integrated strategy and managing Campaigns.
+You have the knowledge and experience about market and consumer insight of West Java
+You showcase goal and results oriented: Track record of success in achieving targets on time in a rapid growth, start-up environment Relentlessly driven and seeks challenges:
+Willingness to drive growth and able to embrace and tackle challenges
+You showcase resourceful and creative: Can develop creative, innovative ideas for marketing through different channels Grab Confidential and Proprietary
+You have some/strong and highly detail-oriented: Ensure the quality of all marketing materials and communications; and manage budget
+You can an ability to communicate effectively, both orally and in writing, and Good interpersonal skill, an ability to manage and motivate team, to include organizing, prioritizing, scheduling assignments, Inspire and aspire Passion, Integrity, and Energy!
+
+The Nice-to-Haves
+
+You have experience with data and analytic is desired
+You are an experienced in consumer research would be an advantage
+
+Additional Information
+
+Our Commitment
+
+We recognize that with these individual attributes come different workplace challenges, and we will work with Grabbers to address them in our journey towards creating inclusion at Grab for all Grabbers."
+3775609296,App/Cloud Support Analyst- SAP MM,https://www.linkedin.com/jobs/view/3775609296,Accenture Southeast Asia,https://www.linkedin.com/company/accenture-sea/life," ",1 month ago,1,,Full-time,,"10,001+ employees · Business Consulting and Services",https://media.licdn.com/dms/image/D560BAQGeynb8FBRdxA/company-logo_100_100/0/1692237311041/accenture_sea_logo?e=1712188800&v=beta&t=IlB943IerOUVMMjPqYytYZ8BwZxIgK12CYuWyf6Crkc,"Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent- and innovation-led company with 732,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology with unmatched industry experience, functional expertise and global delivery capability. We are uniquely able to deliver tangible outcomes because of our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Accenture Song. These capabilities, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients succeed and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners, and communities. Visit us at www.accenture.com.","About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Interactive, Technology and Operations services—all powered by the world’s largest network of Advanced Technology and Intelligent Operations centres. Our 506,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners and communities. Visit us at www.accenture.com.
+
+Key responsibilities may include:
+
+
+ Supervising business diagnosis and planning activities
+
+ Analyzing and assuring quality of the data collected
+
+ Assisting in formulating the specific solutions to address prioritized gaps
+
+ Supervising business architecture and process design activities
+
+ Assisting in the development of capabilities and performance measurements/KPIs
+
+ Supervising business architecture implementation activities
+
+ Defining testing and implementation activities for architectures, capabilities and processes
+
+ Developing and testing business processes, capabilities, and architectures
+
+
+Professional Skill Requirements:
+
+
+ 3 – 6 years of experience in SAP MM module
+
+ Proven success in contributing to a team-oriented environment
+
+ Proven ability to work creatively and analytically in a problem-solving environment
+
+ Desire to work in an information systems environment
+
+ Excellent leadership, communication (written and oral) and interpersonal skills
+
+
+You will also have opportunities to hone your functional skills and expertise in an area of specialization. We offer a variety of formal and informal training programs at every level to help you acquire and build specialized skills faster. Learning takes place both on the job and through formal training conducted online, in the classroom, or in collaboration with teammates. The sheer variety of work we do, and the experience it offers, provide an unbeatable platform from which to build a career. Accenture is an equal opportunities employer and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law."
+3797293314,.NET Developer,https://www.linkedin.com/jobs/view/3797293314,PT. Intikom Berlian Mustika,https://www.linkedin.com/company/pt-intikom-berlian-mustika/life," ",1 day ago,21,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/D560BAQFlacuXefySmQ/company-logo_100_100/0/1680335218963/pt_intikom_berlian_mustika_logo?e=1712188800&v=beta&t=I3CFa4FI5Ni8PwPqNW54vfhVQH0gn0ZR_HXRxak7cyc,"PT Intikom Berlian Mustika was officially established in 1 April 1990. This national company majors in Information and Communications Technology Solutions and Services.
+
+Intikom works in partnerships with the world’s leading companies to provide a comprehensive range of IT services and products for a broad client base. Its main services and products are consultancy, software customization & implementation assistance, education & training, software and hardware, system integration, e-commerce, networking and communication, IT Security and maintenance service.
+
+Intikom integrates its in-house application software and product for video recording , named Stream (finance, property, payroll, etc) and IVR for voice recording. Intikom special focus is on banking, finance, manufacturing, distribution, hospital, pharmaceutical, chemical, insurance, retail, automotive, and mining industries--both for government and private sector.","Job Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Job Qualifications
+Bachelor's degree in Computer Science or relevant field
+3+ years of experience working with ASP .NET.Core Framework MVC or relevant experiences
+Experience developing web-based applications in Razor, Blazor and Entity Framework
+Experience working in agile development environment
+Experience programming language Html, Razor, Css, Javascript, Jquery, Ajax and Source Control Management (SCM)
+willing be placement at Jabodetabek"
+3782443979,Automation Sales Engineer,https://www.linkedin.com/jobs/view/3782443979,Festo Southeast Asia,https://www.linkedin.com/company/festo-sea/life," ",3 weeks ago,192,,Hybrid,,201-500 employees · Industrial Automation,https://media.licdn.com/dms/image/D560BAQHOK99Nzy0mUA/company-logo_100_100/0/1693982451385/festo_sea_logo?e=1712188800&v=beta&t=l0ycVNODTEq4qZLGqJDC04uV97j7zxYIajTFGM4jHPE,"Festo is a global player and an independent family-owned company with headquarters in Esslingen am Neckar, Germany. The company supplies pneumatic and electrical automation technology to 300,000 customers of factory and process automation in over 40 industries. The products and services are available in 176 countries. With over 20,000 employees in over 250 branch offices in 61 countries worldwide, Festo achieved a turnover of around €3 billion in 2018. Each year around 8 % of this turnover is invested in research and development. In this learning company, 1.5 % of turnover is invested in basic and further training. Yet training services are not only provided for Festo's own staff – Festo Didactic SE also supplies basic and further training programmes in the field of automation technology for customers, students and trainees.
+
+With decades of global experience in Automation and Didactic, Festo arrived in Southeast Asia during the late 70’s, starting in the Philippines. Currently headquartered in Singapore, Festo has 6 national companies and works closely with many local distributors across the region.
+
+• 1977: Festo Inc., Manila, Philippines
+
+• 1978: Festo Sdn., Kuala Lumpur, Malaysia
+
+• 1980: Festo Pte. Ltd., Singapore
+
+• 1989: Festo PT., Jakarta, Indonesia
+
+• 1992: Festo Ltd., Bangkok, Thailand
+
+• 2009: Festo Co., Ltd., Ho Chi Minh City, Vietnam
+
+All companies are certificated with ISO 9001. Every year, we have over 60 events, e.g. exhibitions, technology seminars and trainings, to provide our customers and partners in South East Asia with more direct communication and services.","The Automation Sales Engineer is responsible for customers’ development with an assigned customer portfolio, from customer acquisition to protect with the target to achieve a set sales target turnover, increase share of wallet and customers’ satisfaction. Working predominantly virtually with available digital tools, to establish customer relations, build trust, improve understanding of the customer buying center and orchestrating a team of supporting parties to meet customer needs, considering the cost-efficient and effectiveness ratio.
+
+Responsibilities
+Pro-active sales responsibility for development of a predefined customer portfolio
+Establish and maintain excellent customer relationships
+Consultative selling of products through regular virtual visits, utilizing video/telephone or emails, to enrich turnover/market share
+Primarily responsible for achieving the previously agreed targets, turnover, profitable growth and TCO elements for the customer
+Build trust and develop in-depth understanding of customer’s profile, applications, needs, and requirements
+Assess of customer needs and presents the features and benefits of product/service offerings to existing/new customers
+Develop necessary levels of knowledge regarding decision makers and requirement of focus customers
+Achieve milestone targets with customers
+Ensures that the customer data are correct and kept up-to-date in the information systems used by Festo
+Engages in contract renewals, price negotiation, and volume discounts for customer retention and continued business
+Provides reports on all relevant activities and developments relating to its customer groups
+Creates of an overall action plan to ensure achievement of targets
+Develop proactive action plans on the defined KPIs and targets, in consultation with his/ her direct manager
+Live Team Selling by pulling in required resources to win additional business
+Development of competitive advantage with focus on process efficiency and customer benefits.
+Identify and verify future trends of customers and secure the transfer of information to the company.
+Support the market development through identification of additional business opportunities
+Act with customers and identifies key decision makers and influencers on customer side
+Handle collaboration with Distributors
+Represent the brand at the point of customer contact
+Maintains personal and written contacts with customers and prospects
+Negotiates contracts for relevant customers
+Internal communication (Sales team, Technical Service) for general coordination of interdepartmental issues and about customer needs
+
+Qualifications
+Bachelor degree preferred in Technical Engineering (Mechatronics, Electrical, Mechanical)
+Have 3-4 years related work experience in similar position of industrial automation
+Microsoft Office, SAP, Internal Sales Platforms
+Fluent in English
+Strong performance and problem-solving orientation
+Openness and Flexibility
+Customer orientated and analytically strong
+Ability to work under pressure, Pro-Active attitude, Able to work independently and in a team
+Highly organized, even in a scale-up environment
+Result-driven and self-motivated
+Entrepreneurial spirit, Strong negotiation and communication skills
+Engineering/Technical products background and/or first sales experience
+Experience in direct handling of customers, ideal in a virtual/digital environment
+Ideally experiences in pneumatic/electrical product industry"

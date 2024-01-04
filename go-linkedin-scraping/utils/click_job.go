@@ -37,7 +37,7 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 	numTabs := numJobsInt / 25
 	log.Print("Number of tabs: ", numTabs)
 
-	for i := 7; i < numTabs; i++ {
+	for i := 0; i < numTabs; i++ {
 		log.Print("Tab: ", i+1)
 		var jobsThisTab []types.Job
 
@@ -98,7 +98,7 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 				return err
 			}
 
-			time.Sleep(2 * time.Second)
+			time.Sleep(1 * time.Second)
 
 			for {
 				if err := extractAboutTheJob(driver, &newJob); err != nil {
@@ -109,6 +109,17 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 					break
 				}
 			}
+
+			if companyDescription, err := (*driver).FindElement(selenium.ByCSSSelector, "div.jobs-company__box > p > div"); err == nil {
+				companyDescription.LocationInView()
+				showMore, err := companyDescription.FindElement(selenium.ByCSSSelector, "button.inline-show-more-text__button")
+				if err == nil {
+					showMore.Click()
+					log.Print("Clicking show more button...")
+				}
+			}
+
+			time.Sleep(500 * time.Millisecond)
 
 			jobDescriptionContainer, err := (*driver).FindElement(selenium.ByCSSSelector, ".job-details-jobs-unified-top-card__primary-description-container")
 			if err != nil {
