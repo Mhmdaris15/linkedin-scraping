@@ -15,11 +15,9 @@ import (
 var isLogin bool
 
 func main() {
-	// Number of instances/drivers you want to run concurrently
-	numInstances := 1
 
 	// Create 3 array of job name to search
-	jobNames := [1]string{"IT Support"}
+	jobNames := [2]string{"IoT", "QA Engineer"}
 
 	// Ask driver to login or use existing cookies
 	var loginOrUseExistingCookies string
@@ -47,7 +45,7 @@ func main() {
 	}()
 
 	// Loop to create and run the specified number of instances
-	for i := 0; i < numInstances; i++ {
+	for i := 0; i < len(jobNames); i++ {
 		wg.Add(1) // Increment the WaitGroup counter for each Goroutine
 
 		// Goroutine to run each instance
