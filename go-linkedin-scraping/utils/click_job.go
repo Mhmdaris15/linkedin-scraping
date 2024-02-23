@@ -6,6 +6,7 @@ import (
 	"log"
 	"os"
 	"strconv"
+	"strings"
 	"time"
 
 	"github.com/tebeka/selenium"
@@ -162,12 +163,7 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 				}
 			}
 
-			if location, err := (*driver).FindElement(selenium.ByCSSSelector, ".mb2 .app-aware-link + span.white-space-pre"); err == nil {
-				if locationText, err := location.Text(); err == nil {
-					newJob.Location = locationText
-					log.Print("Location: ", locationText)
-				}
-			}
+			newJob.Location = extractLocation(driver)
 
 			if jobType, err := (*driver).FindElement(selenium.ByCSSSelector, "div.relative.job-details-jobs-unified-top-card__container--two-pane > div.job-details-jobs-unified-top-card__content--two-pane > div.mt3.mb2 > ul > li:nth-child(1) > span > span:nth-child(1)"); err == nil {
 				if jobTypeText, err := jobType.Text(); err == nil {
@@ -318,4 +314,24 @@ func WaitForJobsAndClickFirst(driver *selenium.WebDriver, jobName string) error 
 	log.Print("Scrolling to top...")
 
 	return nil
+}
+
+func extractLocation(driver *selenium.WebDriver) string {
+
+	topCard, err := (*driver).FindElement(selenium.ByCSSSelector, "div.job-details-jobs-unified-top-card__primary-description-container > div")
+	if err != nil {
+		log.Fatal("Error:", err)
+		return ""
+	}
+
+	topCardText, err := topCard.Text()
+	if err != nil {
+		log.Fatal("Error:", err)
+		return ""
+	}
+
+	separatedText := strings.Split(topCardText, "·")
+	locationText := strings.Trim(separatedText[1], " ")
+
+	return locationText
 }
