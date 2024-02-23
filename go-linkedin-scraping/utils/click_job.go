@@ -321,11 +321,13 @@ func extractLocation(driver *selenium.WebDriver) string {
 	topCard, err := (*driver).FindElement(selenium.ByCSSSelector, "div.job-details-jobs-unified-top-card__primary-description-container > div")
 	if err != nil {
 		log.Fatal("Error:", err)
+		return ""
 	}
 
 	topCardText, err := topCard.Text()
 	if err != nil {
 		log.Fatal("Error:", err)
+		return ""
 	}
 
 	separatedText := strings.Split(topCardText, "·")

@@ -1,0 +1,768 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3803609609,Product Manager,https://www.linkedin.com/jobs/view/3803609609,Sociolla,https://www.linkedin.com/company/sociolla/life,"Jakarta, Indonesia",2 weeks ago,100,,On-site,,"201-500 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C4E0BAQGK517TdnPdGg/company-logo_100_100/0/1631341540587?e=1715212800&v=beta&t=d1JSFm_k1QMbhwcF-S8W0dfNr2A7dMNA8-UwdfaP6ps,"Sociolla is no.1 beauty and personal care e-commerce player in Indonesia. As part of a leading beauty-tech company, Social Bella Indonesia, we offer a wide range of curated, BPOM-certified beauty and personal care products. In 2018, Sociolla was the most visited beauty e-commerce site in Indonesia, according to iPrice Group research. Last year, Sociolla completed its comprehensive beauty ecosystem by launching its flagship offline store with personalized omni channel concept, the first of its kind in Indonesia. In 2019, Sociolla through Social Bella was awarded as Disruptor Award for the A-List: Forbes Indonesia’s Most Promising Growth-Stage Startups 2019 together with new rising startups. This year, Chrisanti Indiana, the Co-Founder & Chief Marketing Officer is also listed in the Forbes' 30 Under 30 Asia version.","Requirements :
+Minimum bachelor degree or equivalent in IT/business administration or related field
+Having at least 1-3 years of work experience as a product manager 
+Able to work in a team and individually
+Fast paced, agile and strong analytical thinking skills
+Ms. Office and English proficiency
+Ability to multitask and prioritize daily workload
+Excellent verbal and written communications skills
+
+
+Job Descriptions :
+Coordinate with external divisions for any bug report or request
+Asses PRD and brief the team for the feature/task 
+Communicate with Lead of Platform 
+Prepare and deliver the product as per requirement and users expectation"
+3819786468,OutSystem Developer,https://www.linkedin.com/jobs/view/3819786468,VLink Inc,https://www.linkedin.com/company/vlink-inc/life,Jakarta Metropolitan Area,2 days ago,9,,On-site,,201-500 employees · IT Services and IT Consulting,,,"Role Introduction
+OutSystems Low-Code Developer, you will be responsible for designing, developing, and maintaining scalable applications using the OutSystems low-code platform. Your role involves working closely with business stakeholders, understanding requirements, and delivering efficient and user-friendly solutions. Play a crucial part in the entire application development lifecycle, from concept to deployment.
+
+Responsibilities
+Design, develop, and implement web and mobile applications using the OutSystems low-code platform
+Utilise visual development tools to create user interfaces, business logic, and data models
+Integrate OutSystems applications with external systems, databases, and APIs
+Ensure seamless data flow and interoperability with other enterprise systems 
+Conduct unit testing and debugging to ensure the quality, reliability, and performance of developed applications
+Provide ongoing support, troubleshooting, and maintenance for existing OutSystems applications 
+Create and maintain technical documentation related to application design, development, and deployment
+
+Requirements 
+Bachelor's degree in Computer Science, Information Technology, or related field
+Proficiency in using the OutSystems low-code platform for application development 
++2 years' of min experience in application development using the OutSystems low-code platform 
+Strong problem-solving and analytical skills
+Excellent communication and collaboration abilities
+Understanding of best practices in software development and design
+OutSystems certifications are a plus
+
+Technologies 
+Low Code Platform 
+OutSystem 
+Git 
+Microsoft SQL Server"
+3800538876,EPM Application Developer,https://www.linkedin.com/jobs/view/3800538876,VLink Inc,https://www.linkedin.com/company/vlink-inc/life,"Jakarta, Indonesia",3 weeks ago,9,,On-site,,201-500 employees · IT Services and IT Consulting,,,"Requirements : Preferred to have minimum 1 year using IBM Cognos TM1 Planning Analytics / SAP BPC / SAP BCS / Oracle Hyperion / Anaplan or any related financial planning and consolidation application. 
+Skills : IBM Cognos TM1 Planning Analytics / SAP BPC / SAP BCS / Oracle Hyperion / Anaplan or any related financial planning and consolidation application, business knowledge related to corporate planning, budgeting and/or treasury, Microsoft Office Excel VB Macro Job 
+Descriptions : Develop applications (New Applications, Change Requests, and Bug Fixing) EPM IBM Cognos TM1 Planning Analytics for users at Astra International Head Office in accordance with predetermined assignments and schedules."
+3816011032,"Lead Data Engineer (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3816011032,Agoda,https://www.linkedin.com/company/agoda/life,"Bali, Indonesia",5 days ago,2,,Full-time,,"5,001-10,000 employees · Software Development",,,"About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+About Agoda
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world
+
+Get to Know Our Team
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+Why Agoda Data Applications Team?
+
+Our Data Engineering teams are at the intersection of business analytics, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, computation and data governance at tens of PB Scale.
+
+We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with data products/tools, shared frameworks and data services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world.
+
+We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to
+
+Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing Data systems
+Build, administer and scale data processing pipelines
+Be comfortable navigating the following technology stack: Scala, Spark, java, Golang, Python3, scripting (Bash/Python), Hadoop, SQL, S3 etc
+Improve scalability, stability, accuracy, speed and efficiency of our existing data systems
+Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality
+Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks 
+
+What You’ll Need To Succeed
+
+Bachelor’s degree in Computer Science /Information Systems/Engineering/related field
+5+ years of experience in Data engineering
+Good experience in Apache Spark
+Expert level understanding of JVM and either Java or Scala
+Experience debugging and reasoning about production issues is desirable
+A good understanding of data architecture principles preferred
+Any other experience with Big Data technologies / tools
+SQL experience
+Analytical problem-solving capabilities & experience
+Systems administration skills in Linux
+
+It’s great if you have
+
+Good understanding of Hadoop ecosystems
+Experience working with Open-source products
+Python/Shell scripting skills
+Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3820169102,Senior SDET - Engineering Platform (AEP),https://www.linkedin.com/jobs/view/3820169102,Gojek,https://www.linkedin.com/company/gojek/life,"Jakarta, Jakarta, Indonesia",2 days ago,6,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",,,"About The Role
+
+As an engineer in Automation Engineering platform you will be responsible to lead and implement the test strategy for automation by working closely with the product engineering group, design and develop tools and frameworks that help smoother development and testing process. You will also work on the latest cutting-edge internet/software technology.
+
+What You Will Do
+
+Conduct feature and exploratory tests on Mobile apps (Android, iOS)and API. Engage in continuous automation throughout agile development iterations to ensure zero defects
+Work closely with the cross-functional product team, including PMs, Designers, Developers, and QA managers right from the inception of features
+Create and execute the test cases for features with minimum guidance and maintain and add new cases in automation frameworks on either UI/API test level and reduce manual efforts during regression testing 
+Participate in iteration planning, providing input on required testing tasks, processes, and associated effort for the selected user stories
+Design, develop and execute test automation for relevant areas of ownership independently
+Contribute to automation framework development (Libraries / new features / extensions)
+Provide automated test coverage for corner cases, revenue, impact, usability, backend services, and exploratory testing
+As a fast learner and team player, you’re comfortable teaching yourself new skills quickly and can thrive in a complex and fast-paced environment while making strong technical individual contributions
+
+What You Will Need
+
+4-6+ years of experience in the field of professional testing
+Good prior experience in Manual & Automation test methodologies
+Sound knowledge of testing/automating the tests at different layers of the application
+Comfortable writing clean code in one programming language (Java/Kotlin is a plus)
+Good Understanding of Tools like Selenium, Appium, Cucumber BDD, TestNG Maven/Gradle, and CI/CD tools like Jenkins, GitLab, etc
+Should have exposure to tools like Postman, Charles Proxy/MITM 
+Working knowledge of Git
+Experience in developing test automation framework from scratch is a big plus"
+3743697073,Senior iOS Engineer,https://www.linkedin.com/jobs/view/3743697073,Gojek,https://www.linkedin.com/company/gojek/life,"Jakarta, Jakarta, Indonesia"," ",100,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",,,"About The Role
+
+Are you interested in solving deep customer experience problems? Are you looking to build features which will be used by millions of customers everyday? Do you want to work with an amazing team?Then, this may be the role for you. As a member of the Customer platform team, you will be building the best user experience for Gojek's User. You would primarily focus on Gojek’s Home screen performance, Signup Screens flow, Account Management flows, App updater flow, Location selection flows, Analytics Metrics.
+
+What You Will Do
+
+Design, build and improve the mobile experiences for one of the world's fastest growing mobile apps
+Partner with the product management team to define and execute the feature roadmap
+Coordinate with cross functional teams (Backend, DevOps, Design etc.) on planning and execution
+Proactively manage stakeholders communication related to deliverables, risks, changes and dependencies
+Internalizes GOJEK values and uses them in day to day interaction as a second nature
+Start mentoring or guiding SE1/SE2
+Communicate, collaborate and work effectively across cross functional teams in a global environment
+
+What You Will Need
+
+At least 3+ years of experience with iOS development
+Proficient in Swift programming, Cocoa, Xcode and the iOS SDK
+Strong understanding of iOS Apps architecture and implementation
+Ability to write model code for functional and nonfunctional requirements and help improve the code quality standard across the team
+Working experience with popular libraries for networking, async, image loading etc
+Well versed with Agile methodologies, TDD and Test Engineering and Automation
+
+About The Team
+
+Customer Platforms group is responsible for providing delightful experiences to more customers via sustainable and scalable product solutions This vertical is responsible for improving customer satisfaction towards the Gojek app and improving customer engagement by helping them discover new product offerings and experiences by providing functionality to reach a delightful experience.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+GoTo and its business units, including Gojek, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3815348303,iOS Developer,https://www.linkedin.com/jobs/view/3815348303,PT Sahabat Mikro Fintek,https://www.linkedin.com/company/sahabatmikrofintek/life,"Jakarta, Indonesia",1 week ago,15,,On-site,,201-500 employees · Financial Services,,,"Job Descriptions:
+Coordinate between multiple cross-functional teams internally
+Ability to independently code an iOS App end-to-end, drive code quality and peer code reviews
+Ability to deliver high-quality software products based on requirements using Agile process
+Ability to read, understand and translate specifications into coded solutions
+Provide leadership to development teams and mentor subordinates by setting up standards and best practices for team
+Stay up to date with the latest tech stacks or news on iOS app development to come up with new ideas on how the app can be improved.
+
+Job Qualifications:
+Bachelor’s degree in computer science or software engineering.
+Proven experience as an app developer.
+Proficient in Native Programming Language (Swift), 
+Performance Optimization, Mobile Application Architecture
+Extensive experience with iOS Frameworks such as Core Data and Core Animation.
+Knowledge of iOS back-end services.
+Knowledge of Apple’s design principles and application interface guidelines.
+Proficient in code versioning tools including Mercurial, Git, and SVN.
+Knowledge of C-based libraries.
+Familiarity with push notifications, APIs, and cloud messaging.
+Experience with continuous integration."
+3780362852,Principal Software Engineer Back End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3780362852,Agoda,https://www.linkedin.com/company/agoda/life,"Bali, Indonesia"," ",24,,Hybrid,,"5,001-10,000 employees · Software Development",,,"About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, FinTech and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Spark, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity
+
+You might call yourself “full stack” or “back end” or you might consider yourself an authority in a certain field, but you have a keen interest in how the different systems work together.
+
+We’d love to hear from you if you are skilled in any of the technologies we work with (note – we are not looking for you to have them all). We are interested in speaking to persons of any level from individuals just starting their IT careers to experts in their field, although this particular position is better suitable to veteran engineers, with expertise in certain technologies, and especially those that had lead projects, initiatives and/or teams.
+
+In This Role, You’ll Get to
+
+Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring
+Design, develop and maintain platforms across the back end area
+Improve scalability, stability, and efficiency of our existing systems
+Write great code and help others write great code
+Collaborate with other teams and departments
+
+What You’ll Need To Succeed
+
+12+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala, Java or C#
+Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved
+Data platforms like SQL, Cassandra or Hadoop. You understand that different applications have different data requirements
+Good understanding of algorithms and data structures
+Strong coding ability
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+Excellent verbal and written English communication skills
+
+It’s Great If You Have
+
+Experience with Scrum/Agile development methodologies
+Experience building large-scale distributed products
+Core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration and Puppet for deployment
+Hands-on experience working with technology like queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), Spark, Hadoop, NoSQL (Cassandra, MongoDB), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3816001714,"Lead Data Engineer (Fintech team) (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3816001714,Agoda,https://www.linkedin.com/company/agoda/life,"Bandung, East Java, Indonesia",5 days ago,3,,Full-time,,"5,001-10,000 employees · Software Development",,,"About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+About Agoda
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world
+
+ Get to Know Our Team 
+
+Fintech is one of the fastest growing areas in Agoda and we are rapidly expanding our tech team. We work closely with the finance business team and our Fintech product owners to reduce risk, drive efficiencies and move on new market opportunities in this exciting field. We have a wide range of projects from traditional finance or cutting-edge customer fintech. For example, reconciliation using Big Data technologies, growing and optimizing customer payments options, tax calculations in milli-second response times and a mesh of supplier payment options like vertical credit cards. Its a hot field and the perfect mix of data engineering and backend engineering.
+
+ The Opportunity 
+
+We are looking for engineers with experience in the fintech area. This can be a year or two at a fintech startup right through to an expert in this domain. You might have a background as ‘ back end ’ or ‘data’ engineer , either way we are looking for smart engineers who can be super agile, move fast and have an eye for detail. We’d love to hear from you if you are skilled in any of the technologies we work with and excited at building new fintech technology.
+
+In this Role, you will get to
+
+Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing Data systems
+Build, administer and scale data processing pipelines
+Be comfortable navigating the following technology stack: Scala, Spark, java, Golang, Python3, scripting (Bash/Python), Hadoop, SQL, S3 etc
+Improve scalability, stability, accuracy, speed and efficiency of our existing data systems
+Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality
+Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks 
+
+What You’ll Need To Succeed
+
+Bachelor’s degree in Computer Science /Information Systems/Engineering/related field
+5+ years of experience in Data engineering
+Good experience in Apache Spark
+Expert level understanding of JVM and either Java or Scala
+Experience debugging and reasoning about production issues is desirable
+A good understanding of data architecture principles preferred
+Any other experience with Big Data technologies / tools
+SQL experience
+Analytical problem-solving capabilities & experience
+Systems administration skills in Linux
+
+It’s great if you have
+
+Good understanding of Hadoop ecosystems
+Experience working with Open-source products
+Python/Shell scripting skills
+Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3796346526,Test Engineer,https://www.linkedin.com/jobs/view/3796346526,Sapphire Skyscraper Financial Technology (SSSPER),https://www.linkedin.com/company/sapphire-skyscraper-financial-technology/life,"Jakarta, Indonesia",3 weeks ago,100,,Full-time,,"11-50 employees · Technology, Information and Internet",,,"Job Description:
+We are seeking a skilled Test Engineer to join our dynamic team. The Test Engineer will be responsible for ensuring the quality of our software products by identifying defects, creating and executing test cases, and collaborating with the development team to resolve issues.
+
+Key Responsibilities:
+- Develop and execute test cases to ensure the quality of software products
+- Report, track, and verify defects to ensure timely resolution
+- Collaborate with the development team to systematically correct defects
+- Analyze test results to identify improvement opportunities for software products
+- Create and maintain test plans and test cases
+- Participate in design and code reviews to assess product quality
+- Assist in the evaluation of new technologies and methodologies for ensuring software quality
+- Work closely with cross-functional teams to ensure software products meet customer requirements and expectations
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field
+- Strong knowledge of testing methodologies and tools
+- Familiarity with test automation frameworks and tools
+- Experience in mobile app testing
+- Solid understanding of software development concepts and lifecycles
+- Excellent written and verbal communication skills
+- Strong problem-solving and analytical abilities
+- Self-motivated and able to work independently or as part of a team"
+3814762548,Kubernetes Expert,https://www.linkedin.com/jobs/view/3814762548,Lintasarta,https://www.linkedin.com/company/lintasarta/life,"Jakarta, Indonesia",3 days ago,30,,Hybrid,,"501-1,000 employees · IT Services and IT Consulting",,,"Qualifications:
+-Minimum 2-3 years of work experience as a Site Reliability Engineer (SRE)/ DevOps
+-Minimum Bachelor's degree (Computer Science, Computer Engineering, or related field)
+-Have the ability to use container technology such as Docker
+-Mastering scripting languages such as python/Go/Bash
+-Having Kubernetes certification is a plus
+-Have good English skills
+
+Job description:
+-Design and implement Kubernetes based solutions to meet specific business needs
+-Ensure the security and stability of the Kubernetes cluster, as well as perform necessary troubleshooting and maintenance
+-Collaborate with development teams to integrate SRE / DevOps and CI/CD practices using Kubernetes"
+3816005201,"Staff Data Engineer (Fintech team) (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3816005201,Agoda,https://www.linkedin.com/company/agoda/life,"Bandung, East Java, Indonesia",5 days ago,6,,Full-time,,"5,001-10,000 employees · Software Development",,,"About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+About Agoda
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world
+
+ Get to Know Our Team 
+
+Fintech is one of the fastest growing areas in Agoda and we are rapidly expanding our tech team. We work closely with the finance business team and our Fintech product owners to reduce risk, drive efficiencies and move on new market opportunities in this exciting field. We have a wide range of projects from traditional finance or cutting-edge customer fintech. For example, reconciliation using Big Data technologies, growing and optimizing customer payments options, tax calculations in milli-second response times and a mesh of supplier payment options like vertical credit cards. Its a hot field and the perfect mix of data engineering and backend engineering.
+
+ The Opportunity 
+
+We are looking for engineers with experience in the fintech area. This can be a year or two at a fintech startup right through to an expert in this domain. You might have a background as ‘ back end ’ or ‘data’ engineer , either way we are looking for smart engineers who can be super agile, move fast and have an eye for detail. We’d love to hear from you if you are skilled in any of the technologies we work with and excited at building new fintech technology.
+
+In this Role, you will get to
+
+Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing Data systems
+Build, administer and scale data processing pipelines
+Be comfortable navigating the following technology stack: Scala, Spark, java, Golang, Python3, scripting (Bash/Python), Hadoop, SQL, S3 etc
+Improve scalability, stability, accuracy, speed and efficiency of our existing data systems
+Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality
+Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks 
+
+What You’ll Need To Succeed
+
+Bachelor’s degree in Computer Science /Information Systems/Engineering/related field
+5+ years of experience in Data engineering
+Good experience in Apache Spark
+Expert level understanding of JVM and either Java or Scala
+Experience debugging and reasoning about production issues is desirable
+A good understanding of data architecture principles preferred
+Any other experience with Big Data technologies / tools
+SQL experience
+Analytical problem-solving capabilities & experience
+Systems administration skills in Linux
+
+It’s great if you have
+
+Good understanding of Hadoop ecosystems
+Experience working with Open-source products
+Python/Shell scripting skills
+Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3815711129,Site Reliability Engineer,https://www.linkedin.com/jobs/view/3815711129,Briix,https://www.linkedin.com/company/briixgroup/life,"Jakarta, Indonesia",6 days ago,23,,On-site,,51-200 employees · Financial Services,,,"Job Description:
+Provide 2nd level support for customer incidents.
+Run our infrastructure with Google Cloud Platform.
+Use your on-call shift to prevent incidents from ever happening.
+Document every action so your findings turn into repeatable actions–and then into automation.
+Improve the deployment process to make it as boring as possible.
+Debug production issues across services and levels of the stack.
+
+Requirements:
+Know your way around Linux and the Unix Shell.
+Working knowledge of scripting, Bash or Python.
+3+ years total experience handling 24/7 high-availability customer-facing production systems.
+Working knowledge of popular cloud platforms, preferably GCP.
+Experience in setting up CI/CD automation such as Jenkins or GitLab CI.
+Experience with Docker, Kubernetes, Terraform, or similar technologies"
+3811249758,Scrum Master,https://www.linkedin.com/jobs/view/3811249758,Binar Academy,https://www.linkedin.com/company/binar-academy/life,"Jakarta, Indonesia",1 week ago,37,,Hybrid,,201-500 employees · IT Services and IT Consulting,,,"Binar Academy aims to unlock and channel human potential so we can help the world turn into a better place. One of the ways we strive to do that is to channel potential talents to impactful opportunities using our very own job connector, Binar Job Connect.
+
+We are currently looking Scrum Master for our clients (Finance and IT SaaS industries).
+
+Responsibilities
+Mentoring and coaching Scrum team to instill agile values and principles and lead by example
+Facilitating productivity by removing impediments team will encounter, mediating through conflicts, helping team to make decisions and adhering to continues improvement principles
+Supporting and educating Product Owner, especially with respect to grooming and maintaining the product backlog
+Keeping Scrum process on track and passing it to the team as self-organization matures
+Helping team adhere to the best engineering practices and makes sure everybody understands technical debt concept
+Leveraging data to measuring & monitoring progress
+Ensure agile/Scrum concepts and principles are adhered to, should be able to be a voice of reason and authority.
+
+Qualifications
+
+Bachelor’s Degree in Computer Science / Information System / Business with GPA > 3,00
+Excellent knowledge of Scrum techniques and artifacts (such as definition of done, user stories, automated testing, backlog refinement)
+Good knowledge of other Agile frameworks (Crystal, XP etc.)
+Working knowledge of product development architecture is preferable
+Ability to prioritize effectively
+Excellent oral and written communication
+Ability to work with large teams"
+3807510976,Senior Data Scientist,https://www.linkedin.com/jobs/view/3807510976,Gojek,https://www.linkedin.com/company/gojek/life,"Jakarta, Jakarta, Indonesia",2 weeks ago,6,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",,,"Preamble: At Gojek, we are revolutionizing the way people experience everyday services through our super-app platform. The consumer incentives team is excited to invite talented and passionate Data Scientists to join us in our mission to provide efficient and impactful incentives to our customers. This role offers a unique opportunity to contribute to Gojek's success by leveraging your expertise in Python coding and data science while collaborating closely with stakeholders from the transport, food, and logistics domains. If you are a proactive problem-solver with excellent communication skills and a passion for driving business goals through data-driven decision-making, we would love to have you on our team!
+
+Background: The Consumer Incentives Team plays a crucial role in Gojek's success by designing and implementing a full-stack machine learning pipeline. This pipeline enables us to optimize and distribute incentives to our customers in a targeted and efficient manner, driving user engagement and achieving business objectives. As a Data Scientist in this team, you will work closely with stakeholders from the transport, food, and logistics domains, ensuring effective communication of technical concepts to non-technical partners. Your expertise and insights will shape our incentive strategies, enabling Gojek to stay ahead in a competitive market and deliver exceptional experiences to our customers.
+
+Requirements
+
+A strong academic background in a quantitative field such as Computer Science, Statistics, Mathematics, or related disciplines.
+3-5 years of experience as a Data Scientist, focusing on machine learning and predictive analytics.
+Proficiency in Python coding and data manipulation libraries (e.g., NumPy, Pandas).
+Strong understanding of statistical concepts and techniques, such as A/B testing, hypothesis testing, regression, and classification.
+Excellent communication skills, with the ability to convey complex technical concepts to non-technical stakeholders clearly and effectively.
+Demonstrated ability to work in a fast-paced, collaborative environment, and deliver high-quality results within deadlines.
+Experience with causal inference is a plus
+Experience working with stakeholders from the transport, food, or logistics industries is a plus.
+Familiarity with cloud platforms (e.g., AWS, GCP, Azure) is desirable
+
+Responsibilities
+
+Develop and deploy machine learning models to optimize incentive distribution for Gojek's consumer base.
+Collaborate closely with stakeholders from transport, food, and logistics domains to understand business requirements and translate them into actionable data science solutions.
+Analyze large-scale datasets (>100m rows) to extract actionable insights and drive decision-making processes.
+Build data pipelines and perform feature engineering to enhance model performance and accuracy.
+Communicate complex technical concepts and data-driven insights to non-technical stakeholders, enabling them to make informed business decisions.
+Monitor and evaluate model performance, identifying areas for improvement and proposing solutions.
+Stay updated with the latest advancements in data science and machine learning techniques, bringing innovative ideas to the team.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+GoTo and its business units, including Gojek, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3808353176,Lead Java Developer,https://www.linkedin.com/jobs/view/3808353176,Verint,https://www.linkedin.com/company/verint/life,"Jakarta, Indonesia",1 week ago,8,,Hybrid,,"5,001-10,000 employees · IT Services and IT Consulting",,,"Requirements:
+Bachelor's degree in Computer Science or equivalent.
+Minimum 5 years experience and currently hands on in Java Spring Boot
+Minimum 2 years experience in a leadership role
+Strong communication skills in English.
+Understanding of software development life cycle methodologies
+Experience in Microservices architectural style, design pattern, debugging and root cause analysis."
+3756940997,Data Scientist,https://www.linkedin.com/jobs/view/3756940997,NielsenIQ,https://www.linkedin.com/company/nielseniq/life,"Jakarta, Indonesia"," ",100,,On-site,,"10,001+ employees · Information Services",,,"Company Description
+
+We’re in tune with what the world is buying. If you can think of it, we’re measuring it. We sift through the small stuff and piece together big pictures to provide a comprehensive understanding of what’s happening now and what’s coming next for our clients. Today’s data is tomorrow’s marketplace revelation. We like to be in the middle of the action. That’s why you can find us at work in over 90 countries. From global industry leaders to small businesses, consumer goods manufacturers to retailers, we work with them all. We’re bringing in data 24/7 and the possibilities are endless.
+
+Job Description
+
+Own Data Science solutions for client requests and provide initial recommendations for complex client raised issues
+Support Internal and External Clients with the understanding of Data Science design and methodology
+Accompanied senior leaders meet with clients to understand business needs and help offer innovative solutions
+Work on creating new solutions, use cases, proof of concept and prototypes by exploring diverse data sets using tools such as python/r
+Understand Nielsen products and services to suggest new solutions for client challenges
+Collaborate with other Data Science team units
+Automate and develop solutions for existing processes
+Innovate and create out of the box solutions by leveraging large and diverse data sets and state of the art technologies
+
+Qualifications
+
+Professionals with degrees in Maths, Data Science, Statistics, or related fields involving statistics.
+
+0-3 years of experience in market research or relevant fields.
+
+Passionate about innovation and technology.
+
+Problem-Solving skills.
+
+Ability to effectively convey complex concepts to non-experts.
+
+Intellectual curiosity and persistence to find answers to questions.
+
+Eager to continuously learn and adapt to changing technologies and tools.
+
+Good command of written and spoken English.
+
+Good collaborative and interpersonal skills to communicate at all levels.
+
+Working knowledge with data visualization tools (e.g. Spotfire, Tableau, etc) and mapping tools.
+
+Working knowledge with collaboration tools such as Google Suite(Googlesite, Google Data Studio), Atlassian, Git, Bitbucket and Confluence.
+
+Familiar with Machine Learning
+
+Familiarity with marketing analytics, including designing experiments and consumer behavior analysis.
+
+Additional Information
+
+As the world's largest research organization, Nielsen IQ is powered by talented creative scientists. Our Data Scientist Business Leaders come from diverse disciplines such as statistics, research methodology, mathematics, psychology, business, engineering, physics and demography. These professionals drive innovation, new product ideation, develops complex analysis and delivery of data insights to measure what consumers buy
+
+About NIQ
+
+NIQ is the world’s leading consumer intelligence company, delivering the most complete understanding of consumer buying behavior and revealing new pathways to growth. In 2023, NIQ combined with GfK, bringing together the two industry leaders with unparalleled global reach. With a holistic retail read and the most comprehensive consumer insights—delivered with advanced analytics through state-of-the-art platforms—NIQ delivers the Full View™.
+
+NIQ, is an Advent International portfolio company with operations in 100+ markets, covering more than 90% of the world’s population. For more information, visit NIQ.com.
+
+Want to keep up with our latest updates?
+
+Follow us on: LinkedIn | Instagram | Twitter | Facebook
+
+Our commitment to Diversity, Equity, and Inclusion
+
+NIQ is committed to reflecting the diversity of the clients, communities, and markets we measure within our own workforce. We exist to count everyone and are on a mission to systematically embed inclusion and diversity into all aspects of our workforce, measurement, and products. We enthusiastically invite candidates who share that mission to join us.
+
+We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class. Our global non-discrimination policy covers these protected classes in every market in which we do business worldwide.
+
+Learn more about how we are driving diversity and inclusion in everything we do by visiting the NielsenIQ News Center: https://nielseniq.com/global/en/news-center/diversity-inclusion/
+
+NIQ or any of our subsidiaries will never ask you for money at any point of the recruitment or onboarding process."
+3748566969,Sr. Software Engineer (Android) - Customer Platform,https://www.linkedin.com/jobs/view/3748566969,Gojek,https://www.linkedin.com/company/gojek/life,"Jakarta, Jakarta, Indonesia"," ",100,,On-site,,"1,001-5,000 employees · Technology, Information and Internet",,,"About The Role
+
+Are you interested in solving deep customer experience problems? Are you looking to build features that will be used by millions of customers every day? Do you want to work with an amazing team? Then, this may be the role for you. As a member of the Customer platform team, you will be building the best user experience for Gojek's Users. You would primarily focus on Gojek’s Home screen performance, Signup Screens flow, Account Management flows, App updater flow, Location selection flows, and Analytics Metrics.
+
+What You Will Do
+
+Design, build and improve the mobile experiences for one of the world's fastest growing mobile apps
+Partner with the product management team to define and execute the feature roadmap
+Coordinate with cross-functional teams (Backend, DevOps, Design etc.) on planning and execution
+Proactively manage stakeholders communication related to deliverables, risks, changes and dependencies
+Helping out in the onboarding process by sharing contexts and pairing with new member of the team
+Start mentoring or guiding SE1Communicate, collaborate and work effectively across cross-functional teams in a global environment
+
+What You Will Need
+
+Should have at least 1 year of experience with Android development
+Proficient in Kotlin programming, Java and the Android APIs
+Strong knowledge in Android Apps architecture and implementation
+Ability to write model code for functional and nonfunctional requirements and help improve the code quality standard across the team
+Working experience with popular libraries for networking, async, image loading etc
+Well-versed with Agile methodologies, TDD and Test Engineering and Automation.
+
+About The Team
+
+Customer Platforms group is responsible for providing delightful experiences to more customers via sustainable and scalable product solutions This vertical is responsible for improving customer satisfaction towards the Gojek app and improving customer engagement by helping them discover new product offerings and experiences by providing functionality to reach a delightful experience.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+GoTo and its business units, including Gojek, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3819769952,Senior Data Engineer,https://www.linkedin.com/jobs/view/3819769952,VLink Inc,https://www.linkedin.com/company/vlink-inc/life,Jakarta Metropolitan Area,2 days ago,21,,On-site,,201-500 employees · IT Services and IT Consulting,,,"Job Role
+Senior Data Engineer
+
+Scope of Work
+Big Data Analytics, Backend Engineer, DevOps
+
+Product
+Payment Gateway, Digital Payment Platform
+
+Elevator Pitch 
+Responsible for leading and overseeing the development of scalable, efficient, and innovative software solutions, with a specific focus on implementing and enhancing the Fraud Detection System (FDS). Your role will involve managing a team of skilled engineers, driving technological strategies, leveraging Big Data technologies, and overseeing the creation of back-end APIs and microservices to enhance the platform's performance and capabilities
+
+Requirements
+Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field
+Proven experience in a leadership role within Product Management, Back-End Software Engineering with a focus on Big Data technologies
+In-depth knowledge of Data Warehouse, ETL and Big Data technologies
+Proficient in Java, Go, Python, Bash scripting languages
+Experience of streaming technologies such Kafka, Spark, Pub/Sub, Rabbitmq
+Experience with back-end APIs and microservices scalable and modular architectures
+Preferred experience with delivering code using (CI/CD) best practices and DevOps technologies (Jenkins Pipelines, Docker)
+Experience with cloud computing platforms (GCP) is an advantage 
+Good understanding of payment gateway, digital transaction platform, FDS (Fraud Detection Systems) area
+
+Responsibilities
+Develop back-end API for multiple use cases leveraging Java, Go language
+Build data-warehouse, ETL processing using PySpark, KafkaStream
+Develop efficient software code for multiple use cases leveraging Spark and Big Data technologies for various use cases built on the platform
+Champion DevOps methodologies, emphasising CI/CD, while maintaining the highest standards of security and performance
+Writes and executes complete testing plans, protocols, and documentation for assigned portion of data system or component
+Participate in development of data infrastructure capable of ingesting and storing petabytes of data and serving thousands of queries a day within seconds on that data
+Prioritise a security-centric mindset within all teams, imparting knowledge on secure coding practices and relevant tools
+Oversee the entire software development lifecycle, from requirements gathering to deployment, ensuring timely delivery of high-quality software solutions
+Oversee the creation of back-end APIs and microservices that support the Fraud Detection System
+
+Technologies
+Java, ETL tools, PySpark, Git, KafkaStream, Microsoft SQL Server, Docker, Containers, Kubernetes Cluster, Jenkins, Postgres, GCP (Pub/Sub, Server less)"
+3808197203,Service Engineer,https://www.linkedin.com/jobs/view/3808197203,Eaton,https://www.linkedin.com/company/eaton/life,Jakarta Metropolitan Area," ",33,,On-site,,"10,001+ employees · Appliances, Electrical, and Electronics Manufacturing",,,"If you desire to be part of something special, to be part of a winning team, to be part of a fun team – winning is fun. We are looking forward to a Service Engineer in Eaton’s Electrical business, based in Jakarta, Indonesia. In Eaton, making our work exciting, engaging, meaningful; ensuring safety, health, wellness; and being a model of inclusion & diversity are already embedded in who we are - it’s in our values, part of our vision, and our clearly defined aspirational goals.
+
+What You’ll Do
+
+Service Engineer is responsible for providing the company's after-sales technical and services supports. Provide technical advices, recommend scheduled overhauls, life cycle parts replacement. Assist in product roll-out and start-up, maintain current equipment and resolve faults as required. Ensure 24x7 standby services through a rotational duty schedule. May provide supports in a pre-sale through post-sale capacity.
+
+This Exciting Role Offers Opportunity To
+
+Responsible for technical and administrative support activities including installation, testing, commissioning, repair, modifications, preventative maintenance, troubleshooting, engineering change upgrades, etc
+Ensures adequate records and systems are maintained. Maintains communication with design management and specialists in resolving technical problems and/or bringing problems to the design department’s attention
+Responsible for specific service contract/s as the single point of contact interfacing into customer organization, while working with sales prime to drive addition sales in those specific service contract/s (including 24x7)
+Accountable to customer relationship to deliver best in class services delivered to drive service quality to new height
+Responsible for timely, professional, accurate and service oriented response to all technical service enquires
+Identify and isolates equipment start-up malfunctions and takes corrective action
+On-The-Job Training for customer personnel and possibly dealers in equipment operation and maintenance responsibilities
+Represents the company in a customer support role and is responsible for customer's satisfaction with equipment and servicing
+Prepares daily logs and report of work performed. Implement and control workflow documents, and maintain proper practices to keep track of these documents. Communication skills must be adequate to interface effectively with customers both internally and externally
+Analyse and provide advice for customers’ existing equipment status and recommended replacement schedules interface effectively with customers both internally and externally
+Analyse complex engineering problems and offer effective resolutions
+Interact with all engineering disciplines, project engineer and clients
+Collaborate with cross functional teams within Engineering, Sales, and Product
+To be committed & responsible for Quality Management System:
+ Implement the process approach and risk-based thinking
+ Provide the necessary support to fully implement and sustain the QMS
+ Communicating to the organization the importance of conforming to QMS requirements
+ Ensuring the QMS meets its goals
+ Engage, direct, and support individuals contributing to the QMS
+ Create a culture of continuous improvement
+
+
+Qualifications
+
+Diploma or equivalent in electrical / electronics discipline
+UPS service background preferred with at least 2 years' experience
+UPS service experience preferred for EATON UPS system
+Good communication skill
+
+
+Yes! Because you are the one we are looking for, we hope to hear from you now!
+
+]]>"
+3817963827,Full Stack Developer,https://www.linkedin.com/jobs/view/3817963827,Fortius HRIS,https://www.linkedin.com/company/fortiushris/life,"Jakarta, Jakarta, Indonesia",3 days ago,100,,On-site,,11-50 employees,,,"Company Description
+Founded in 2022, Fortius HRIS is an integrated HRIS software solution committed to enhancing workplace efficiency and elevating people's potential. Our solution includes attendance, employee databases, leaves, schedule management, and payroll. With our HRIS software, companies can manage employees effectively to accommodate human resource development processes and simplify HR management, enabling the company to concentrate on expanding and growing their business.
+
+Role Description
+Fortius HRIS is hiring a Full Stack Developer for a full-time, on-site role located in Kelapa Gading, Jakarta. The Full Stack Developer will be responsible for designing, building, and maintaining efficient, reusable, and reliable Java code and JavaScript code. They will collaborate with cross-functional teams to identify business opportunities and provide customized solutions. The Full Stack Developer will develop and maintain technical documentation, and keep up-to-date with emerging trends in full-stack software development. Our project entails implementing our pre-approved UI, constructing our API, connecting the two, and setting up our server infrastructure. This includes all associated areas such as database and architecture design.
+
+Qualifications
+1. Enrolled in an accredited degree program.
+2. 2+ years of experience in ReactJs or Laravel.
+3. You have excellent knowledge of:
+a. HTML, JavaScript, jQuery, Bootstrap,
+b. RESTful Services and APIs,
+c. CSS Preprocessors,
+d. Cross-Browser Development and Responsive Design
+4. AWS knowledge is a plus.
+5. Experienced in using SQL and MySQL
+6. Experienced in using Git
+7. Understand about typescript
+8. Excellent interpersonal and communication skills.
+9. Ability to work collaboratively in a dynamic environment.
+
+Qualified applicants will be given an assignment to complete within a specified timeframe as part of the selection process. Please apply only if you meet ALL the qualifications and are committed to successfully finishing the assignment."
+3810695002,Field Service Engineer,https://www.linkedin.com/jobs/view/3810695002,Trend Micro,https://www.linkedin.com/company/trend-micro/life,"Jakarta, Jakarta, Indonesia",1 week ago,18,,Hybrid,,"5,001-10,000 employees · Software Development",,,"When you join Trend, you become part of a unique and diverse global family and you get to work towards a world safe for exchanging digital information.
+
+A Field Service Engineer in Jakarta, Indonesia is primarily responsible for managing and or executing Trend Micro or Trend Micro subcontracted product deployment projects. The Field Service Engineer will also take ownership of the technical support relationship to drive customer satisfaction by proactively managing technical issues for our customers both onsite and remote during the project duration.
+
+This is a 12-month contract position at client site.
+
+Key Responsibilities
+
+On-Site Support: Travel to client locations to install, maintain, and repair equipment, machinery, or systems as required.
+Equipment Installation: Set up, configure, and test new equipment installations. Ensure proper calibration and functionality.
+Maintenance: Perform routine maintenance, inspections, and preventive measures to ensure equipment operates efficiently and minimizes downtime.
+Diagnosis and Repairs: Identify technical issues, troubleshoot problems, and implement solutions to rectify equipment malfunctions. This may involve replacing defective components, adjusting settings, or upgrading software.
+Client Interaction: Communicate with clients or customers to understand their needs, explain technical issues, and provide instructions or training when necessary.
+Documentation: Maintain accurate records of service calls, repairs, equipment specifications, and maintenance schedules.
+Technical Support: Offer remote technical support when needed, including phone or email consultations to assist clients in resolving issues.
+Quality Control: Ensure the quality of work and compliance with industry standards and safety regulations.
+Inventory Management: Manage and maintain an inventory of spare parts, tools, and equipment needed for service calls.
+Continuous Learning: Stay updated on product knowledge, technology advancements, and industry trends to provide the most effective support.
+
+Qualifications
+
+3-5 years' experience in delivering highest quality of technical Support and Solution by bringing unique value on to the table for customers. 
+Technical Skills: Proficiency in troubleshooting, repairing, and maintaining relevant equipment or technology. Knowledge of relevant software, systems, and tools.
+Field Experience: Previous experience in a similar field service role is beneficial, but entry-level positions may be available for recent graduates.
+Customer Service: Strong communication and interpersonal skills to interact effectively with clients and provide excellent customer service.
+Problem-Solving: Analytical and problem-solving abilities to diagnose and resolve technical issues efficiently.
+Safety Awareness: Adherence to safety protocols and regulations.
+
+We embrace change, empower people, and encourage innovation. Join Trend Micro and Thrive with us."
+3809603336,Senior Frontend Engineer (Angular),https://www.linkedin.com/jobs/view/3809603336,Paper.id,https://www.linkedin.com/company/paper-id/life,"Jakarta, Indonesia",1 week ago,18,,Hybrid,,51-200 employees · Financial Services,,,"What will you do:
+Build a functioning and smooth front-end web application that interacts with our RESTful API services
+Write well designed, testable, efficient code by using best software development practices
+Gather, refine specifications, requirements based on technical needs
+Able to communicate with Product Owner and Business Analysts
+Conduct and participate in daily Scrum and continuously improve on team's performance
+Optimize application size to reduce loading time
+Write and maintain software documentation
+Create and implement automated software testing
+Ensure high quality graphic standards and brand consistency
+Stay up-to-date with latest design, UI trend and emerging front-end technologies
+Be responsible for maintaining, expanding, scaling our application
+
+What are we looking:
+Candidate must possess at least a Bachelor's Degree in Computer Science, Information Technology,Engineering (Computer, Telecommunication), Engineering (Electrical, Electronic, Mechatronic), or Mathematics.
+At least 3 years of working experience in the related field is required for this position
+Deep technical knowledge in Front-End (HTML/CSS/Javascript/Typescript)
+Proficiency in popular JS framework such as Angular JS, Angular, Vue.js, or Node.js
+Experience with hybrid framework such as Ionic, React Native, phonegap, etc will be a plus
+Experience with third party libraries, APIs
+Experience and understanding in implementing automated testing(unit testing and integration testing)
+Knowledge of version control systems such as Git
+Aggressive problem diagnosis, creative problem solving skills
+Strong organisational skills to juggle multiple tasks within the constraints of timelines, budgets with business acumen
+Decent experience with FE State Management Practices (RxJS, Redux, etc)
+Ability to mentor other programmers and perform effective Code Review
+High awareness on Reliability, Security, Performance, and Scalability on Feature level
+Experience on working with large scale SPA (Single Page Application) is a plus
+Experience on implementing complex UI interaction and animation is a plus
+Skilled and experienced in agile software development and its respective tools
+Willing to work flexytime
+Willing to work at Sunter Jakarta Utara"
+3814236308,Peoplesoft Developer,https://www.linkedin.com/jobs/view/3814236308,PT Berca Hardayaperkasa,https://www.linkedin.com/company/berca-hardayaperkasa/life,"Central Jakarta, Jakarta, Indonesia",4 days ago,30,,On-site,,"1,001-5,000 employees · IT Services and IT Consulting",,,"Qualification:
+Have knowledge in HR Business Processes
+Having experience in Oracle PeopleSoft is a must
+Experience in Programming Language (.Net C# or Java)
+Experience in Database Programming (Oracle & SQL Server)
+Good communication & interpersonal skills, People-oriented with other teams/users or related parties, and having strong analytical thinking
+Able to work under pressure
+Ability to work effectively in teams as well as independently 
+Understand ongoing business process
+Have knowledge in English
+
+Responsibilities:
+Handle Peoplesoft and HR Ticket Problems
+Ensure that tickets are resolved within the Service Level Agreement (SLA)
+Bug Fixing and Support Running Application
+Applications enhancement 
+Planning and executing unit testing, integration testing as well as user acceptance testing"
+3761846810,Security Engineer,https://www.linkedin.com/jobs/view/3761846810,Packet Systems Indonesia ,https://www.linkedin.com/company/packet-systems-indonesia/life,"Jakarta, Jakarta, Indonesia"," ",100,,On-site,,201-500 employees · IT Services and IT Consulting,,,"Job Specification:
+Requirement:
+Hold a bachelor's degree (S-1 degree) in Information Technology Computer Engineering or Telecommunication from a reputable university with a minimum IPK of 3.0.
+Minimum 3 years of experience in security technology deployment/maintenance
+Having knowledge in Security technology such as Firewall and IPS (Checkpoint/PaloAlto/Cisco/Fortigate/McAfee)
+Having knowledge of Load Balance technology (F5)
+Having knowledge of Proxy Technology (Bluecoat)
+Having knowledge of Netscout technology.
+Having Professional Level Certification is a must (CCNP Security, PCNSE, NSE 7, etc.)
+Preferable having knowledge in Routing Switching
+Preferably having Vetscout certification.
+Excellent interpersonal & communication skills
+Competent with Microsoft Office applications i.e. Microsoft Visio, Word, Excel, and PowerPoint.
+Ability to perform under pressure and tight time constraints; work under limited guidance in line with a comprehensive plan, or strategy.
+Leadership, teamwork, commitment, and service excellence are personal qualities
+Willing to be positioned as resident engineer on customer site (Option)
+
+The role shall cover the following:
+For Project based:
+Support for a new installation, integration into the existing system, migration, and monitoring.
+Including all documentation related to the project (Site Survey, MoP, UAT, as build documentation).
+For Maintenance based:
+Support for troubleshooting problems in all PSI customers.
+Also, support for change requests in the customer network.
+Including reporting, documentation, and standby monitoring."
