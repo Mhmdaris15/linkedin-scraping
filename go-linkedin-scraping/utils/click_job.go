@@ -20,7 +20,7 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 	jobCollection := GetCollection(DB, "Jobs")
 
 	// Get number of jobs
-	numJobs, err := (*driver).FindElement(selenium.ByCSSSelector, "#main > div > div.scaffold-layout__list > header > div.jobs-search-results-list__title-heading > small > div > span")
+	numJobs, err := (*driver).FindElement(selenium.ByCSSSelector, "#main > div > div.scaffold-layout__list-detail-inner.scaffold-layout__list-detail-inner--grow > div.scaffold-layout__list > header > div.jobs-search-results-list__title-heading > small > div > span")
 	if err != nil {
 		log.Fatal("Error:", err)
 	} else {

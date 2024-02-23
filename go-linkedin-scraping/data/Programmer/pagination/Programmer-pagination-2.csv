@@ -1,0 +1,931 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3834018118,"Staff Machine Learning Engineer (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3834018118,Agoda,https://www.linkedin.com/company/agoda/life," ",3 days ago,3,,Full-time,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+Why Agoda Engineering Team (ML role)?
+
+Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to:
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+ Build, administer and scale ML processing pipelines.
+ Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+ Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+ Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+ Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks.
+ We believe in end-to-end ownership; this role will involve taking ML models to production at a scale.
+
+What You’ll need to Succeed:
+
+ Bachelor’s degree in computer science /information systems/engineering/related field
+ 8+ years of experience in software engineering with a minimum of 4+ years in ML
+ Good experience in Pyspark
+ Expert level understanding of Python with design patterns and object-oriented programming.
+ Experience debugging and reasoning about production issues is desirable.
+ A good understanding of data architecture principles preferred.
+ Any other experience with Big Data technologies / tools
+ SQL experience
+ Analytical problem-solving capabilities & experience.
+ Systems administration skills in Linux
+ A strong engineering driven mindset will be required to succeed in this role.
+
+It’s great if you have:
+
+ Good understanding of Hadoop ecosystems
+ Experience working with Open-source products
+ Experience with Scala development
+ Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3834016202,"Computer Vision – Staff Engineer (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3834016202,Agoda,https://www.linkedin.com/company/agoda/life," ",3 days ago,3,,Full-time,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+Why Agoda Engineering Team (ML role)?
+
+Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to:
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+ Build, administer and scale ML processing pipelines.
+ Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+ Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+ Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+ Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks.
+ We believe in end-to-end ownership; this role will involve taking ML models to production at a scale.
+
+What You’ll need to Succeed:
+
+ Bachelor’s degree in computer science /information systems/engineering/related field
+ 8+ years of experience in software engineering with a minimum of 4+ years in ML
+ Good experience in Pyspark
+ Expert level understanding of Python with design patterns and object-oriented programming.
+ Experience debugging and reasoning about production issues is desirable.
+ A good understanding of data architecture principles preferred.
+ Any other experience with Big Data technologies / tools
+ SQL experience
+ Analytical problem-solving capabilities & experience.
+ Systems administration skills in Linux
+ A strong engineering driven mindset will be required to succeed in this role.
+
+It’s great if you have:
+
+ Good understanding of Hadoop ecosystems
+ Experience working with Open-source products
+ Experience with Scala development
+ Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3834015419,"Staff Machine Learning Engineer (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3834015419,Agoda,https://www.linkedin.com/company/agoda/life," ",3 days ago,3,,Full-time,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+Why Agoda Engineering Team (ML role)?
+
+Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to:
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+ Build, administer and scale ML processing pipelines.
+ Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+ Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+ Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+ Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks.
+ We believe in end-to-end ownership; this role will involve taking ML models to production at a scale.
+
+What You’ll need to Succeed:
+
+ Bachelor’s degree in computer science /information systems/engineering/related field
+ 8+ years of experience in software engineering with a minimum of 4+ years in ML
+ Good experience in Pyspark
+ Expert level understanding of Python with design patterns and object-oriented programming.
+ Experience debugging and reasoning about production issues is desirable.
+ A good understanding of data architecture principles preferred.
+ Any other experience with Big Data technologies / tools
+ SQL experience
+ Analytical problem-solving capabilities & experience.
+ Systems administration skills in Linux
+ A strong engineering driven mindset will be required to succeed in this role.
+
+It’s great if you have:
+
+ Good understanding of Hadoop ecosystems
+ Experience working with Open-source products
+ Experience with Scala development
+ Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3834015409,"Computer Vision – Staff Engineer (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3834015409,Agoda,https://www.linkedin.com/company/agoda/life," ",3 days ago,6,,Full-time,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+Why Agoda Engineering Team (ML role)?
+
+Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to:
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+ Build, administer and scale ML processing pipelines.
+ Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+ Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+ Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+ Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks.
+ We believe in end-to-end ownership; this role will involve taking ML models to production at a scale.
+
+What You’ll need to Succeed:
+
+ Bachelor’s degree in computer science /information systems/engineering/related field
+ 8+ years of experience in software engineering with a minimum of 4+ years in ML
+ Good experience in Pyspark
+ Expert level understanding of Python with design patterns and object-oriented programming.
+ Experience debugging and reasoning about production issues is desirable.
+ A good understanding of data architecture principles preferred.
+ Any other experience with Big Data technologies / tools
+ SQL experience
+ Analytical problem-solving capabilities & experience.
+ Systems administration skills in Linux
+ A strong engineering driven mindset will be required to succeed in this role.
+
+It’s great if you have:
+
+ Good understanding of Hadoop ecosystems
+ Experience working with Open-source products
+ Experience with Scala development
+ Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3834026381,Desenvolvedor .NET,https://www.linkedin.com/jobs/view/3834026381,Wipro,https://www.linkedin.com/company/wipro/life,,3 days ago,9,,On-site,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4E0BAQEkfMUEE4caDQ/company-logo_100_100/0/1698887191930?e=1717027200&v=beta&t=32u8KYTzoI-HtnoNOiWc7-ImFLN1Ur5-4Zbe6bU2JKY,"Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, engineering, and operations, we help clients realize their boldest ambitions and build future-ready, sustainable businesses. With nearly 245,000 employees and business partners across 65 countries, we deliver on the promise of helping our clients, colleagues, and communities thrive in an ever-changing world.
+Wipro is an Equal Employment Opportunity employer and makes all employment and employment-related decisions without regard to a person's race, sex, national origin, ancestry, disability, sexual orientation, or any other status protected by applicable law.
+…
+show more","Somos uma das maiores e mais importantes empresas globais de serviços de tecnologia, consultoria e processos corporativos do mundo. Estamos presentes em mais de 69 países e nossa equipe é composta por mais de 220.000 funcionários que trabalham em seis continentes. Somos parceiros tecnológicos das maiores empresas do mundo. Temos orgulho de atender mais de 1500 clientes por meio de um portfólio vasto e extremamente completo, que inclui o que há de mais moderno em tecnologia, atendendo a diversos setores do mercado nacional e internacional.
+
+Terceiro Grau Completo em qualer área de tecnologia. Conhecimento em SQL, Python, C# e .NET. Experiencia comprovada de pelo menos 2 anos em desenvolvimento de Software.
+Main 3 mandatory skills and POC to brief the position: SQL, Python, C# e .NET.
+
+Nossos Wiproites contam com:
+
+ Vale-refeição e vale-alimentação, com a opção de distribuir o valor em ambos os cartões, ou concentrar 100% em apenas um deles;
+ Auxílio creche;
+ Seguro de vida 100%;
+ Duas plataformas de treinamento: WiLearn com 10.000 treinamentos e Udemy com 40.000 treinamentos técnicos, com certificados reconhecidos mundialmente;
+ Descontos para compras e cursos em redes parceiras;
+ #IPreferToRefer(Wiplinks) - todo funcionário recebe um bônus ao indicar uma pessoa que também se torna um #Wiproite;
+ Programa de reconhecimento do tempo de empresa: comemoração com certificado + pontos no programa ""Winners Circle"";
+ Aulas de Yoga, Pilates e Meditação;
+ Programa Nutricionista Online: incentivo a bons hábitos alimentares e definição de um plano nutricional; Palestras e workshops: incentivo à saúde e ao bem-estar, Workshops de Carreira, Plano de desenvolvimento de liderança.
+NET"
+3823719668,Linux Engineer,https://www.linkedin.com/jobs/view/3823719668,HTC Global Services,https://www.linkedin.com/company/htc-global-services/life," ",1 week ago,93,,On-site,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D560BAQEE7FgfgdZdkA/company-logo_100_100/0/1690544919186/htc_global_services_logo?e=1717027200&v=beta&t=_fwQWYr1pce2vAmladpTtT3vtUqZwwYGbozfz7-gu3w,"HTC Global Services Inc., founded in 1990, headquartered in Troy, Michigan, is a global provider of Information Technology and Business Process Services and Solutions. Our expertise in consulting, design, engineering, and operations helps us to provide innovative technology services, positioning us as a technology partner of choice.
+
+We leverage our domain expertise in multiple verticals and harness emerging technologies (Robotic Process Automation (RPA), Internet of Things (IoT), Cybersecurity, Artificial Intelligence, Machine Learning, and much more) to enable our clients to build future-ready and sustainable businesses. Our partnership with leading technology partners empowers our continuous endeavor to offer clients world-class technology services, to help them realize business transformation, and maximize returns.
+
+Our business partner approach helps us to build and develop long-term client relationships. Similarly, we value our people as one of our primary stakeholders. Our value driven work environment is built on diversity, equity, and inclusion, where mentoring our teams has been integral to our culture, resulting in long and fulfilling careers.
+
+For more information, visit https://www.htcinc.com/
+…
+show more","Collaborate with application team, production support team, project team and other IT teams, Operation, 
+Business and External Parties to support and deliver application tasks and support activities
+Conducting administrative duties, such as drafting necessary forms requests
+Support SIT, UAT, DR and other application tasks and activities with various stakeholders i.e. other application 
+team, production support team, project team, external parties and business users
+
+Technical Skill Requirement
+Minimum 3-5 years as IT Linux/Windows Technical Specification.
+Proficiency with English (written and oral) is a must
+Proficiency with MS Office
+Demonstrate basic command skills for Linux, Java 8, Oracle DB, .Net, Windows Services, Tectia based for troubleshooting/investigation
+
+Have strong analytical thinking 
+Identifying a topic, problem or issue
+Gathering information through testing and observation
+Developing solutions or deepening the understanding of the topic
+
+Demonstrate basic knowledge of hardware installations & configuration, network, software and application development
+Have knowledge of SDLC & Agile Project Management Methodology within fast-paced environment"
+3811258393,Dotnet Developer,https://www.linkedin.com/jobs/view/3811258393,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3809648723,Dotnet Developer,https://www.linkedin.com/jobs/view/3809648723,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3816328107,Dotnet Developer,https://www.linkedin.com/jobs/view/3816328107,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3829845630,Dotnet Developer,https://www.linkedin.com/jobs/view/3829845630,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3768415895,Dotnet Developer,https://www.linkedin.com/jobs/view/3768415895,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3832334998,Dotnet Developer,https://www.linkedin.com/jobs/view/3832334998,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3831245211,Dotnet Developer,https://www.linkedin.com/jobs/view/3831245211,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3822726240,Dotnet Developer,https://www.linkedin.com/jobs/view/3822726240,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3828558885,Dotnet Developer,https://www.linkedin.com/jobs/view/3828558885,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3821966184,Dotnet Developer,https://www.linkedin.com/jobs/view/3821966184,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3831711927,Dotnet Developer,https://www.linkedin.com/jobs/view/3831711927,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3829659382,Dotnet Developer,https://www.linkedin.com/jobs/view/3829659382,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3808290929,Dotnet Developer,https://www.linkedin.com/jobs/view/3808290929,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3685622116,Dotnet Developer,https://www.linkedin.com/jobs/view/3685622116,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3831244289,Dotnet Developer,https://www.linkedin.com/jobs/view/3831244289,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3828689606,Dotnet Developer,https://www.linkedin.com/jobs/view/3828689606,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3781596760,Dotnet Developer,https://www.linkedin.com/jobs/view/3781596760,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3794217700,Dotnet Developer,https://www.linkedin.com/jobs/view/3794217700,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"
+3829691409,Dotnet Developer,https://www.linkedin.com/jobs/view/3829691409,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore
+…
+show more","The ideal candidate will be familiar with the full software design life cycle. They should have experience in designing, coding, testing and consistently managing applications They should be comfortable coding in a number of languages and have an ability to test code in order to maintain high-quality code. 
+ Responsibilities
+Design, code, test and manage various applications
+Collaborate with engineering team and product team to establish best products
+Follow outlined standards of quality related to code and systems
+Develop automated tests and conduct performance tuning
+
+Qualifications
+Bachelor's degree in Computer Science or relevant field
+2+ years of experience working with .NET or relevant experiences
+Experience developing web-based applications in C#, HTML, JavaScript, VBScript/ASP, or .NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Experience working in agile development environment"

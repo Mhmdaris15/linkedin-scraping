@@ -1,0 +1,680 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3814155607,Dynamics Developer,https://www.linkedin.com/jobs/view/3814155607,PT. Intikom Berlian Mustika,https://www.linkedin.com/company/pt-intikom-berlian-mustika/life," ",3 weeks ago,100,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/D560BAQFlacuXefySmQ/company-logo_100_100/0/1680335218963/pt_intikom_berlian_mustika_logo?e=1717027200&v=beta&t=qNGKogo4XeZneNLe-dxb849r3bOl26qBcvrZSX7XJJ0,"PT Intikom Berlian Mustika was officially established in 1 April 1990. This national company majors in Information and Communications Technology Solutions and Services.
+
+Intikom works in partnerships with the world’s leading companies to provide a comprehensive range of IT services and products for a broad client base. Its main services and products are consultancy, software customization & implementation assistance, education & training, software and hardware, system integration, e-commerce, networking and communication, IT Security and maintenance service.
+
+Intikom integrates its in-house application software and product for video recording , named Stream (finance, property, payroll, etc) and IVR for voice recording. Intikom special focus is on banking, finance, manufacturing, distribution, hospital, pharmaceutical, chemical, insurance, retail, automotive, and mining industries--both for government and private sector.
+…
+show more","Responsibilities: 
+Develop, test, and implement Microsoft Dynamics AX / Nav or Microsoft Dynamics 365 Finance & Operations / Business Central.
+Clearly and regularly communicate with colleagues.
+Work with experienced team members to conduct root cause analysis of issues.
+Identify ideas to improve system performance and impact availability.
+Analyze user requirements and convert them to design documents.
+Make good technical decisions that provide solutions to business challenges.
+
+Requirements:
+Good teamwork and stay curious.
+Good knowledge of database concepts.
+Good in web programming using .Net, X++, AL
+Logical, Analytical, and a good problem solver.
+Loyal, Responsible, and willing to learn.
+Patience and strong attention to detail.
+Ready to work overtime if there is a project that requires finishing before the deadline."
+3790102029,Senior Site Reliability Engineer (ShopeePay) - Sea Labs,https://www.linkedin.com/jobs/view/3790102029,Sea,https://www.linkedin.com/company/seagrp/life," "," ",57,,On-site,,"5,001-10,000 employees · Technology, Information and Internet",https://media.licdn.com/dms/image/C560BAQEAIrDkWI_p6g/company-logo_100_100/0/1631341864429?e=1717027200&v=beta&t=wFc0lZmKeobjfwFbpxJaN3xm5fkoB-VnMDuVMacHOpw,"Sea is the leading consumer internet company in Southeast Asia and Taiwan. Our mission is to better the lives of the consumers and small businesses of our region with technology.
+
+Our businesses include:
+
+Shopee, our region’s largest and most popular e-commerce platform. Launched in 2015, Shopee was designed to be mobile-first and highly social, offering buyers and sellers a trusted and enjoyable shopping experience. In 2018, Shopee recorded over 603 million orders, and GMV of $10.3 billion. Shopee was also the most downloaded shopping app in Southeast Asia and in Taiwan.
+
+Garena, a global leading games company. Garena is the developer of Free Fire, the global smash hit mobile battle royale game with over 450 million registered users and 50 million peak daily active users as of May 2019, making it one of the most popular games in the world. Garena is also the largest games publisher in the region, bringing AAA mobile and PC titles such as Arena of Valor, League of Legends, and Speed Drifters to gamers in Southeast Asia. Garena also leads the growth of esports in our region. Its annual flagship event, Garena World, is the largest and most influential esports event in Southeast Asia.
+
+SeaMoney, a leading digital payments and financial services provider in Southeast Asia. SeaMoney’s offerings include mobile wallet services, under the AirPay and ShopeePay brands, which provide users with easy access to digital payment services.
+
+Sea is headquartered in Singapore, and listed on the New York Stock Exchange under the ticker symbol ‘SE’. Our IPO in October 2017 was the largest US public listing ever by a Southeast Asian technology company.
+…
+show more","Job Description:
+
+Building, designing, and implementing high-availability system.
+Improve our system reliability by doing performance tests and chaos engineering practices.
+Writing high-quality, clean, and maintainable code to automate operational processes.
+Maintain and improve time to resolve incidents by improving our observability system and incident management process.
+Lead multiple initiatives such as new system integration, platform migration, and compliance requirements.
+Mentor junior members of the SRE team.
+
+
+Requirements:
+
+Bachelor's degree or above in Computer Science, engineering, or related fields
+Having a total of 4+ years working experience, 2+ years as an SRE/DevOps/System Engineer
+Expert in shell scripting and familiar with Python or Go
+In-depth understanding of Operating Systems, computer networking, and system architecture.
+Experienced in CI/CD development and integration. Familiar with Gitlab, Jenkins, etc.
+Familiar with DNS, load balancer, firewall, NAT, etc.
+Familiar with container and container orchestration, such as k8s, including related underlying technology.
+Familiar with other technologies like storage, MQ, cache, elastic search, etc.
+Familiar with commonly used databases, such as MySQL and Oracle.
+Familiar with observability systems such as metrics, logging, tracing, and profiling. Having experience in Prometheus and grafana is a plus point.
+Have a passion for building high availability and performant systems, and care deeply about the end-user experience.
+Able to respond promptly to handle system-related incidents.
+An effective team player with a passion for mentoring junior members.
+Meticulous and attentive to detail with strong critical thinking, data analytics, and problem-solving capabilities.
+Able to communicate effectively in English both verbally and in writing.
+Leadership experience is a plus point.
+Experience in payment-related industries is a plus point."
+3780362852,Principal Software Engineer Back End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3780362852,Agoda,https://www.linkedin.com/company/agoda/life," "," ",56,,Hybrid,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, FinTech and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Spark, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity
+
+You might call yourself “full stack” or “back end” or you might consider yourself an authority in a certain field, but you have a keen interest in how the different systems work together.
+
+We’d love to hear from you if you are skilled in any of the technologies we work with (note – we are not looking for you to have them all). We are interested in speaking to persons of any level from individuals just starting their IT careers to experts in their field, although this particular position is better suitable to veteran engineers, with expertise in certain technologies, and especially those that had lead projects, initiatives and/or teams.
+
+In This Role, You’ll Get to
+
+Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring
+Design, develop and maintain platforms across the back end area
+Improve scalability, stability, and efficiency of our existing systems
+Write great code and help others write great code
+Collaborate with other teams and departments
+
+What You’ll Need To Succeed
+
+12+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala, Java or C#
+Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved
+Data platforms like SQL, Cassandra or Hadoop. You understand that different applications have different data requirements
+Good understanding of algorithms and data structures
+Strong coding ability
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+Excellent verbal and written English communication skills
+
+It’s Great If You Have
+
+Experience with Scrum/Agile development methodologies
+Experience building large-scale distributed products
+Core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration and Puppet for deployment
+Hands-on experience working with technology like queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), Spark, Hadoop, NoSQL (Cassandra, MongoDB), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3714146391,Lead Software Engineer (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3714146391,Agoda,https://www.linkedin.com/company/agoda/life," "," ",100,,Hybrid,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team:
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Aerospike, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity:
+
+Agoda Platform team is looking for developers to work on mission critical systems that deals with the designing and development of a system that serves millions of users a day.
+
+What you’ll Need to Succeed:
+
+8+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala and Java
+A minimum of one year of experience with Scala
+You have RDBMS knowledge (SQL Server, Oracle, MySql or other)
+You have a Good command of the English language
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+
+It’s Great if you have:
+
+Knowledge in one or more of the following: NoSQL (especially, but not only Cassandra), Queueing system experience (Kafka, RabbitMQ, ActiveMQ, MSMQ), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3780365389,Principal Software Engineer Back End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3780365389,Agoda,https://www.linkedin.com/company/agoda/life," "," ",87,,Hybrid,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, FinTech and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Spark, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity
+
+You might call yourself “full stack” or “back end” or you might consider yourself an authority in a certain field, but you have a keen interest in how the different systems work together.
+
+We’d love to hear from you if you are skilled in any of the technologies we work with (note – we are not looking for you to have them all). We are interested in speaking to persons of any level from individuals just starting their IT careers to experts in their field, although this particular position is better suitable to veteran engineers, with expertise in certain technologies, and especially those that had lead projects, initiatives and/or teams.
+
+In This Role, You’ll Get to
+
+Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring
+Design, develop and maintain platforms across the back end area
+Improve scalability, stability, and efficiency of our existing systems
+Write great code and help others write great code
+Collaborate with other teams and departments
+
+What You’ll Need To Succeed
+
+12+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala, Java or C#
+Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved
+Data platforms like SQL, Cassandra or Hadoop. You understand that different applications have different data requirements
+Good understanding of algorithms and data structures
+Strong coding ability
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+Excellent verbal and written English communication skills
+
+It’s Great If You Have
+
+Experience with Scrum/Agile development methodologies
+Experience building large-scale distributed products
+Core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration and Puppet for deployment
+Hands-on experience working with technology like queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), Spark, Hadoop, NoSQL (Cassandra, MongoDB), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3827467617,Infrastructure Engineer,https://www.linkedin.com/jobs/view/3827467617,JULO,https://www.linkedin.com/company/juloindonesia/life," ",1 week ago,100,,Remote,,"501-1,000 employees · Financial Services",https://media.licdn.com/dms/image/D560BAQFGscu0EgUFQw/company-logo_100_100/0/1689054749601/juloindonesia_logo?e=1717027200&v=beta&t=XB-aCy8z9CABsr2siftM37_PGVlYQZl3Hu82-Cx_wGg,"JULO is a financial technology company that is working on a financial super app.
+
+We started off with the lending arm and have excelled at it. Hundreds of thousands of Indonesians now use JULO apps to get access to a decent credit product. It's our mission to help millions of Indonesians get a better life. That's how we'll build a company future generations will be proud of.
+
+We have just closed our Series B round and are now tapping into other financial territories, to eventually provide a one stop financial solution to all Indonesians.
+
+Watch it happen or be a part of it - come join us!
+https://lnkd.in/gKyjajf6
+…
+show more","We are looking for
+someone with a passion for User Interface and can-do attitude to build, maintain, and monitor automated cloud computing infrastructure for various JULO applications and services.
+
+Responsibilities
+Analyze and systematically approach requirements and bugs reported, always coming up with practical short term and long term solutions that minimize complexity and maximize value.
+Design and build software infrastructure using open source software or cloud services to allow transporting massive data inflow smoothly and making it available for machine learning based underwriting and business intelligence.
+Develop and setup software and tool chains that will help end to end evolution and scaling of JULO products.
+Passionate about automation and follow ‘Infrastructure as Code’
+Include security, maintainability, reusability, and testability when developing software solutions and code reviewing.
+Factor Linux/Unix OS system internals, data storage, computing resources, microservices in the produced software architecture.
+Identify things that can go wrong early but also investigate bugs reported in production.
+Apply and tailor software development concepts and best practices.
+Work well and closely with
+The Product team
+Backend Engineers
+QA engineers
+Marketing team
+
+Requirements
+Min 2 years of backend software development and 1 year cloud infrastructure experience and teams.
+Practical problem solver, highly analytical, great team player, have excellent work ethic, and have strong security ethics.
+Can communicate clearly, timely, and professionally:
+With technical and non-technical users,
+With leadership roles and individual contributors
+In English and Indonesian.
+Expert in multi-tasking, both in planning, executing, and managing projects thoroughly in issue tracking tools.
+Have working experience in developing, testing, debugging, and troubleshooting system-level scripts in Python or Bash.
+Highly skilled in all kinds of infrastructure tools that turns source code in a text file to infrastructure resources in production, including but not limited to: linux, git, ansible, docker, kubernetes, alibaba cloud.
+Experience in database management, be it RDBMS, NoSQL, in-memory data storage, or big data infrastructure.
+Highly skilled in working on Linux-based OS and open source IDE."
+3829076657,DevOps Engineer,https://www.linkedin.com/jobs/view/3829076657,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3796566179,DevOps Engineer,https://www.linkedin.com/jobs/view/3796566179,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3830327896,DevOps Engineer,https://www.linkedin.com/jobs/view/3830327896,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3836315662,DevOps Engineer,https://www.linkedin.com/jobs/view/3836315662,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3824637270,DevOps Engineer,https://www.linkedin.com/jobs/view/3824637270,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3825798613,DevOps Engineer,https://www.linkedin.com/jobs/view/3825798613,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3827904190,DevOps Engineer,https://www.linkedin.com/jobs/view/3827904190,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3831569490,DevOps Engineer,https://www.linkedin.com/jobs/view/3831569490,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3811235305,DevOps Engineer,https://www.linkedin.com/jobs/view/3811235305,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3816313805,DevOps Engineer,https://www.linkedin.com/jobs/view/3816313805,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3838059357,DevOps Engineer,https://www.linkedin.com/jobs/view/3838059357,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3830333188,DevOps Engineer,https://www.linkedin.com/jobs/view/3830333188,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3830319911,DevOps Engineer,https://www.linkedin.com/jobs/view/3830319911,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3727019145,DevOps Engineer,https://www.linkedin.com/jobs/view/3727019145,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3821131892,DevOps Engineer,https://www.linkedin.com/jobs/view/3821131892,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3549500941,DevOps Engineer,https://www.linkedin.com/jobs/view/3549500941,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3834701625,DevOps Engineer,https://www.linkedin.com/jobs/view/3834701625,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3809355593,DevOps Engineer,https://www.linkedin.com/jobs/view/3809355593,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"
+3831100779,DevOps Engineer,https://www.linkedin.com/jobs/view/3831100779,Akseleran,https://www.linkedin.com/company/akseleran/life," ",1 week ago,100,,Hybrid,,51-200 employees · Financial Services,https://media.licdn.com/dms/image/C560BAQHxvHo3FHH1Vw/company-logo_100_100/0/1675305930211/akseleran_logo?e=1717027200&v=beta&t=waRgC_umTUTdBujtM-L83XO45H4PzUz_AFkmRFy_znI,"Akseleran is a Peer-to-Peer (P2P) Lending platform with the vision of making financial inclusion a reality in Indonesia. We help SMEs grow their businesses and also open up new investment opportunity for investors. We're also fully licensed and monitored by Financial Services Authority of Indonesia (OJK)
+for SMEs - Flexibility. We understand that SMEs need flexibility. We give it to them in the form of:
+- Flexibility in collaterals: with or without collaterals, the usage of various type of collaterals
+- Flexibility in principal payment: SMEs can pay back the principal in monthly/quarterly/every semester/end of payment terms
+- Flexibility of payment terms: ranging from 1 month to 12 months
+
+For Investors - Attractive Return & Safety
+- Return for Lender: 10% - 10.5% effective p.a.
+- Affordable: starts from Rp. 100,000
+- Safe: More than 95% loan value has collaterals, fully licensed at & monitored by OJK, Insurance protects 99% of overdue loan principals
+
+…
+show more","Responsibilities:
+Monitoring Infrastructure usage
+Control & Setup server
+Control & Setup Network
+Server Administration
+Network Administration
+ Requirements:
+Bachelor's degree in Computer Science or a related subject is required
+Min. 1 years of professional experience (in any finance companies is a plus)
+Fast learner and able to implement leading edge information technologies"

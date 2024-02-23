@@ -1,67 +1,129 @@
 package main
 
 import (
-	"fmt"
 	"go-linkedin-scraping/utils"
 	"log"
 	"runtime"
 	"sync"
 	"time"
 
+	"github.com/gin-contrib/cors"
+	"github.com/gin-gonic/gin"
 	"github.com/tebeka/selenium"
 	"github.com/tebeka/selenium/chrome"
 )
 
 var isLogin bool
 
+type ScrapeRequest struct {
+	JobNames []string `json:"jobNames"`
+}
+
 func main() {
-	// Number of instances/drivers you want to run concurrently
-	numInstances := 1
+	r := gin.Default()
 
-	// Create 3 array of job name to search
-	jobNames := [1]string{"IT Support"}
+	// Setup CORS middleware
+	config := cors.DefaultConfig()
+	config.AllowAllOrigins = true
+	config.AllowHeaders = []string{"Origin", "Content-Type", "Access-Control-Allow-Origin", "Access-Control-Allow-Headers", "Access-Control-Allow-Methods", "Authorization", "X-Requested-With", "Accept", "Accept-Encoding", "Accept-Language", "Connection", "Host", "Origin", "Referer", "User-Agent", "Username"}
+	config.AllowMethods = []string{"GET", "POST", "PUT", "PATCH", "DELETE", "HEAD", "OPTIONS"}
+	config.AllowCredentials = true
 
-	// Ask driver to login or use existing cookies
-	var loginOrUseExistingCookies string
-	log.Print("Login or use existing cookies? (y for login, n for use existing cookies): ")
-	_, err := fmt.Scanln(&loginOrUseExistingCookies)
-	if err != nil {
-		log.Fatal("Error:", err)
-	}
+	r.Use(cors.New(config))
 
-	if loginOrUseExistingCookies == "y" {
-		isLogin = true
-	} else {
-		// Load cookies from JSON file
-		isLogin = false
-	}
+	// Setup Router
+	r.POST("/scrape", func(c *gin.Context) {
+		var req ScrapeRequest
+		if err := c.ShouldBindJSON(&req); err != nil {
+			c.JSON(400, gin.H{"error": err.Error()})
+			return
+		}
 
-	// Create a WaitGroup to wait for all Goroutines to finish
-	var wg sync.WaitGroup
+		// Number of instances/drivers you want to run concurrently
+		numInstances := len(req.JobNames)
 
-	// Connect to MongoDB with goroutine
-	wg.Add(1)
-	go func() {
-		defer wg.Done()
-		utils.ConnectDB()
-	}()
+		// Create a WaitGroup to wait for all Goroutines to finish
+		var wg sync.WaitGroup
 
-	// Loop to create and run the specified number of instances
-	for i := 0; i < numInstances; i++ {
-		wg.Add(1) // Increment the WaitGroup counter for each Goroutine
-
-		// Goroutine to run each instance
-		go func(instanceID int) {
-			// Defer the WaitGroup Done method to decrement the counter when the Goroutine completes
+		// Connect to MongoDB with goroutine
+		wg.Add(1)
+		go func() {
 			defer wg.Done()
+			utils.ConnectDB()
+		}()
 
-			// Your scraping code for each instance
-			Scrape(instanceID, jobNames[instanceID])
-		}(i)
+		// Loop to create and run the specified number of instances
+		for i := 0; i < numInstances; i++ {
+			wg.Add(1) // Increment the WaitGroup counter for each Goroutine
+
+			// Goroutine to run each instance
+			go func(instanceID int) {
+				// Defer the WaitGroup Done method to decrement the counter when the Goroutine completes
+				defer wg.Done()
+
+				// Your scraping code for each instance
+				Scrape(instanceID, req.JobNames[instanceID])
+			}(i)
+		}
+
+		// Wait for all Goroutines to finish
+		wg.Wait()
+		c.JSON(200, gin.H{"message": "Scraping completed"})
+	})
+	// Number of instances/drivers you want to run concurrently
+
+	// Run the server
+	err := r.Run(":3001")
+	if err != nil {
+		log.Printf("Error when running server: %s", err.Error())
 	}
+	// Number of instances/drivers you want to run concurrently
+	// numInstances := 2
 
-	// Wait for all Goroutines to finish
-	wg.Wait()
+	// // Create 3 array of job name to search
+	// jobNames := [2]string{"IT Support", "Software Engineer"}
+
+	// // Ask driver to login or use existing cookies
+	// var loginOrUseExistingCookies string
+	// log.Print("Login or use existing cookies? (y for login, n for use existing cookies): ")
+	// _, err = fmt.Scanln(&loginOrUseExistingCookies)
+	// if err != nil {
+	// 	log.Fatal("Error:", err)
+	// }
+
+	// if loginOrUseExistingCookies == "y" {
+	// 	isLogin = true
+	// } else {
+	// 	// Load cookies from JSON file
+	// 	isLogin = false
+	// }
+
+	// // Create a WaitGroup to wait for all Goroutines to finish
+	// var wg sync.WaitGroup
+
+	// // Connect to MongoDB with goroutine
+	// wg.Add(1)
+	// go func() {
+	// 	defer wg.Done()
+	// 	utils.ConnectDB()
+	// }()
+
+	// // Loop to create and run the specified number of instances
+	// for i := 0; i < numInstances; i++ {
+	// 	wg.Add(1) // Increment the WaitGroup counter for each Goroutine
+
+	// 	// Goroutine to run each instance
+	// 	go func(instanceID int) {
+	// 		// Defer the WaitGroup Done method to decrement the counter when the Goroutine completes
+	// 		defer wg.Done()
+
+	// 		// Your scraping code for each instance
+	// 		Scrape(instanceID, jobNames[instanceID])
+	// 	}(i)
+	// }
+
+	// // Wait for all Goroutines to finish
+	// wg.Wait()
 }
 
 func Scrape(instanceID int, jobName string) {
@@ -118,6 +180,9 @@ func Scrape(instanceID int, jobName string) {
 		if err := utils.LoginLinkedIn(&driver); err != nil {
 			log.Fatal("Error:", err)
 		}
+		if err := utils.SaveCookiesToJSON(&driver, "cookies", "./data"); err != nil {
+			log.Fatal("Error:", err)
+		}
 	} else {
 		if err := utils.LoadCookiesFromJSON(&driver, "cookies", "./data"); err != nil {
 			log.Fatal("Error:", err)
@@ -127,9 +192,6 @@ func Scrape(instanceID int, jobName string) {
 	time.Sleep(3 * time.Second)
 
 	// Save cookies to JSON file
-	// if err := utils.SaveCookiesToJSON(&driver, "cookies", "./data"); err != nil {
-	// 	log.Fatal("Error:", err)
-	// }
 
 	// jobName := "full stack engineer"
 

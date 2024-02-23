@@ -1,0 +1,1030 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3831100922,Swift/Kotlin Developer,https://www.linkedin.com/jobs/view/3831100922,Kara Digital,https://www.linkedin.com/company/karadigitalsolusiindonesia/life," ",2 days ago,51,,On-site,,11-50 employees,https://media.licdn.com/dms/image/D560BAQHhUSa_Rf2K3Q/company-logo_100_100/0/1691762579856?e=1717027200&v=beta&t=edX2OUESETLEQi2CkFLqfFYu-ZOWT8ldBvNIbTSgl4s,Here at Kara we developed our own growth formula to help our clients continuously drive growth no matter the changing times.,"Responsibilities:
+Develop and maintain advanced applications for the Android and iOS platforms using Kotlin and Swift respectively.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Work with outside data sources and APIs.
+Unit-test code for robustness, including edge cases, usability, and general reliability.
+Work on bug fixing and improving application performance.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Participate in code reviews to maintain a high-quality code culture.
+Assist in the design and development of the application architecture.
+Collaborate with the product team to design and launch new features.
+Maintain code integrity and organization.
+
+Qualifications:
+Proven software development experience and Android/iOS skills development.
+Proven working experience in Kotlin/Swift app development 
+Experience with third-party libraries and APIs.
+Solid understanding of the full mobile development life cycle.
+Experience working with remote data via REST and JSON.
+Experience with offline storage, threading, and performance tuning.
+Familiarity with cloud message APIs and push notifications.
+Proven experience with IoT devices
+Proficient understanding of code versioning tools such as Git.
+Familiarity with continuous integration.
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork skills."
+3620759677,Lead / Staff Software Engineer Back End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3620759677,Agoda,https://www.linkedin.com/company/agoda/life," ",,100,,Hybrid,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, FinTech and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Spark, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity
+
+You might call yourself “full stack” or “back end” or you might consider yourself an authority in a certain field, but you have a keen interest in how the different systems work together.
+
+We’d love to hear from you if you are skilled in any of the technologies we work with (note – we are not looking for you to have them all). We are interested in speaking to persons of any level from individuals just starting their IT careers to experts in their field, although this particular position is better suitable to veteran engineers, with expertise in certain technologies, and especially those that had lead projects, initiatives and/or teams.
+
+In This Role, You’ll Get to
+
+Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring
+Design, develop and maintain platforms across the back end area
+Improve scalability, stability, and efficiency of our existing systems
+Write great code and help others write great code
+Collaborate with other teams and departments
+
+What You’ll Need To Succeed
+
+7+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala, Java or C#
+Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved
+Data platforms like SQL, Cassandra or Hadoop. You understand that different applications have different data requirements
+Good understanding of algorithms and data structures
+Strong coding ability
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+Excellent verbal and written English communication skills
+
+It’s Great If You Have
+
+Experience with Scrum/Agile development methodologies
+Experience building large-scale distributed products
+Core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration and Puppet for deployment
+Hands-on experience working with technology like queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), Spark, Hadoop, NoSQL (Cassandra, MongoDB), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3833631936,DevOps Engineer,https://www.linkedin.com/jobs/view/3833631936,PLENO,https://www.linkedin.com/company/plenoearth/life," ",2 days ago,100,,Remote,,1-10 employees,https://media.licdn.com/dms/image/D560BAQHNRXxzOB2kYQ/company-logo_100_100/0/1708012625923/plenoearth_logo?e=1717027200&v=beta&t=a2JxahY4j4teQVqQgXBulc7IXRLw2r9cA40LRtY9QUI,"Nature Monitoring with AI
+
+PLENO provides Monitoring and Assessment solution for nature ecosystem. Combining the latest satellite remote sensing technology with AI.","Who We Are?
+PLENO GmbH is a Berlin-based company at the forefront of technological innovation in geospatial analysis. Our mission is to develop the first large geospatial AI model to monitor, analyse, and protect nature on a global scale. By integrating advanced AI with extensive geospatial data, we aim to provide unprecedented and transparent insights into environmental changes, fostering sustainable development and conservation efforts worldwide. Our team is composed of passionate experts dedicated to making a significant impact on planet Earth.
+
+Who We Need?
+We are in search of an intermediate DevOps Engineer who thrives in a dynamic, innovation-driven environment. The ideal candidate will possess a deep understanding of GCP (Google Cloud Platform), CI/CD processes using GitHub Actions, and experience with Kubernetes and Docker. Your role will be crucial in managing our Rust microservices, Python application, and ETL pipeline, leveraging geospatial data from GEE (Google Earth Engine) and Planet, all hosted on GCP. If you are a proactive problem-solver with a knack for optimizing development processes and a passion for environmental sustainability, you could be the perfect fit for our team.
+
+Qualifications:
+A minimum of 3 years of relevant experience in DevOps or Cloud Computing roles. While an academic background in Computer Science or related fields is not mandatory, it is beneficial.
+Profound knowledge and hands-on experience with Google Cloud Platform (GCP).
+Solid experience in Continuous Integration and Continuous Deployment (CI/CD) using GitHub Actions, including integration with third-party tools and services.
+Expertise in managing containerized applications using Kubernetes and Docker for microservices.
+Familiarity with handling Python and Rust applications, particularly in the context of microservices.
+Practical experience with DataFlow, DataFusion, BigQuery, GCS, Pub/Sub and/or Kafka as the main messaging platform.
+A strong commitment to learning, adapting, and contributing to a team focused on environmental monitoring and protection.
+
+Responsibilities:
+Develop, maintain, and optimize the CI/CD pipeline for efficient deployment of our geospatial AI models and applications on GCP.
+Manage and scale Kubernetes clusters to ensure high availability and performance of services.
+Work closely with the development team to containerize new applications and services using Docker.
+Integrate and manage third-party services and tools to enhance development efficiency and monitoring capabilities.
+Initialize and monitor our AI environment on Vertex AI for the first Large Geospatial AI Model.
+Collaborate with cross-functional teams to ensure seamless integration of the ETL pipeline with data from GEE and Planet using DataFlow, DataFusion, BigQuery, and GCS with Pub/Sub and/or Kafka as the main messaging platform.
+Orchestrate Cloud SQL and MongoDB in GCP for our databases.
+Actively contribute to the planning and implementation of infrastructure security, scalability, and disaster recovery strategies.
+Provide technical guidance and support to other team members, fostering a culture of continuous improvement and innovation.
+Plan the GCP projects, cost structures, monthly cost reporting, and organize a monthly call with Google engineers to improve our GCP projects.
+Prepare dashboards for database monitoring, cost monitoring, user testing, etc.
+
+Join Us
+At PLENO GmbH, you'll be part of a vibrant international team committed to making a tangible impact on Earth. We offer a supportive work environment full of challenges, opportunities for professional growth, and the chance to contribute to crucial environmental initiatives. If you're ready to take on this challenge and make a difference, we would love to hear from you."
+3818848005,Senior Software Engineer - Semarang,https://www.linkedin.com/jobs/view/3818848005,FORMULATRIX,https://www.linkedin.com/company/formulatrix/life," ",2 weeks ago,40,,On-site,,"1,001-5,000 employees · Biotechnology Research",https://media.licdn.com/dms/image/C4E0BAQFQ6UgC8CPkig/company-logo_100_100/0/1630582840661/formulatrix_logo?e=1717027200&v=beta&t=10gSgTtW87R5sCh0FY2BmGw4NI9gGyEzu7jBpk4Ykm0,"FORMULATRIX® supplies innovative software and robotic automation solutions to the life science industry including the leading pharmaceutical companies and academic research institutions around the world. We collaborate with researchers to simplify scientific workflows such as sample preparation and analysis by designing solutions without boundaries and bringing novel cutting-edge technology into the laboratory.
+
+We are committed to researchers, their labs, and to the scientific discoveries that will improve the lives of generations to come.","Headquartered in Dubai, UAE, FORMULATRIX is a fast-growing robotic automation equipment manufacturer and software solutions provider to leading pharmaceutical companies and academic research institutions including major Fortune 500 and Fortune 100 companies. The company has aggressively grown because of our industry-recognized patented technology and superior software delivery services.
+
+We are seeking hands-on, top-notch Software Engineers who are experienced in leading a team, can work with Object-Oriented Programming, and have expertise in C# / C++/ Java to implement components of our software products and robotic control systems.
+
+Job Description:
+Understanding best coding practices and designing thoughtful coding patterns.
+Analyzing problems and proposing an implementation to solve the issues.
+Troubleshooting problems in the field.
+Collaborating with peers to deliver high-quality products on time.
+Leading and mentoring peers or a more junior position.
+
+Requirements:
+Candidate must possess at least Bachelor's Degree in Computer Science, Information Technology, Electronic Engineering, or equivalent professional experience in software development.
+Have experience with a complete software development life cycle.
+Solid experience of at least 4 years in C# / C++/ Java is preferable (the combination of these three is also acceptable).
+Demonstrated experience with system architecture review, OOP, and software programming in a team environment.
+Good grasp and used best practices in programming.
+Committed to writing good quality and high-performance code.
+Demonstrated good logical thinking as well as attention to detail.
+Proactive, highly motivated, and a strong team player with a good ability to multi-task and re-prioritize as necessary.
+Demonstrate leadership, project management, and mentor experience.
+Excellent communication skills in English both oral and written.
+Applicants must be willing to work (onsite) in Semarang.
+
+Why Join Us?
+Work and learn directly with experienced engineers and product managers globally
+Challenge yourself by learning cutting-edge new technologies every day
+Create software and products that directly impact medicine discovery and life science research
+Escape the heat and congestion of the large cities and enjoy nature, mountains, biking and rafting with company outing trips organized for team-building activities
+Opportunities for continued networking and professional development
+Join a very stable, profitable company that has been manufacturing and engineering in Salatiga since 2006 with no layoffs and continuing to grow rapidly
+Real flexible hours where if you are needed to work late hours, you can make up that time during the day. You also have the ability to shift your hours around to help meet your family’s needs (no crazy eCommerce schedules!)
+Casual and relaxed atmosphere with plenty of outlets to reduce stress and tension including ping pong, billiards, team outings, professional development lunches and more
+Opportunities to travel to customer sites and offshore locations may be necessary as needed.
+
+
+If you have any difficulties applying using this platform, you could submit your application with this way:
+Send your latest CV to forindojob@formulatrix.com with the words SSE (space) Your Name; e.g. ""SSE Adam Fisal"" in the subject line.
+You can apply by filling out this form: bit.ly/SSE_BE"
+3547023147,Enterprise Architect,https://www.linkedin.com/jobs/view/3547023147,Sun Life,https://www.linkedin.com/company/sun-life-financial/life," "," ",100,,Full-time,,"10,001+ employees · Financial Services",https://media.licdn.com/dms/image/D560BAQHDZyoarYskeQ/company-logo_100_100/0/1688069175961/sun_life_financial_logo?e=1717027200&v=beta&t=P130_9y9fUivmwBevr8opJjwIIfX9O4n1XI0d_1qZTE,"Sun Life is a leading financial services organization dedicated to helping people achieve lifetime financial security and live healthier lives.
+
+We provide a wide range of insurance and investment products and services in key markets around the world including Canada, the United States, the United Kingdom, Hong Kong, the Philippines and Indonesia. At Sun Life, we have more than 34,000 employees and 112,900 advisors worldwide.
+
+Websites:
+Canada www.sunlife.ca/en/
+US www.sunlife.com/us/en/
+Vietnam www.sunlife.com.vn
+Hong Kong www.sunlife.com.hk
+Indonesia www.sunlife.co.id
+Malaysia www.sunlife.com.my
+Philippines www.sunlife.com.ph","You are as unique as your background, experience and point of view. Here, you’ll be encouraged, empowered and challenged to be your best self. You'll work with dynamic colleagues - experts in their fields - who are eager to share their knowledge with you. Your leaders will inspire and help you reach your potential and soar to new heights. Every day, you'll have new and exciting opportunities to make life brighter for our Clients - who are at the heart of everything we do. Discover how you can make a difference in the lives of individuals, families and communities around the world.
+
+Job Description:
+
+Job Description
+
+Reporting to Chief Information Officer, this position is responsible to design innovative business solution for SL Indonesia by aligning business and enterprise architecture.
+
+Preferred Skills
+
+Solution and Enterprise Architect with extensive experience in solution designs
+Skilled in IT architecture, system analysis and application development.
+Expertise in evaluating business process flow and system integration.
+Proficient in communication across organizational levels and with cross- functional teams
+
+Qualifications
+
+University degree in Information Technology with 3-6 years experience in enterprise architect, solution architect.
+Experience in leading cross team
+Value-added qualifications: TOGAF certified
+
+Responsibilities
+
+Align business and enterprise initiative with enterprise architecture
+Maintain all application portfolio, business, and technology capability model
+Lead cross teams to develop potential solutions for business needs
+Work with business and Regional IT team to develop IT roadmap and opportunities for improvement
+Work with product owners and squads to develop and integrate solutions and products
+
+Job Category:
+
+IT - Application Development
+
+Posting End Date:"
+3796560672,"Staff Software Engineer – JVM/Rust Expert (Bangkok-based, relocation provided)",https://www.linkedin.com/jobs/view/3796560672,Agoda,https://www.linkedin.com/company/agoda/life," "," ",5,,Full-time,,"5,001-10,000 employees · Software Development",https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1717027200&v=beta&t=vPlS2bkbYZytwO9Ar0ZYMPyT_DyMjPtqChcc4MKsjAY,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com","About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to know our team – Observability Platform in Agoda
+
+Within the WhiteFalcon team, we build and maintain Agoda’s time series database and log aggregation system. We process tens of millions of measurements per second and hundreds of terabytes of logs per day in multiple datacenters, powering thousands of dashboards and alerts. Our biggest challenges are to support the ever-growing need for collecting more data, faster and at lower cost.
+
+In This Role, You’ll Get to
+
+Build fault-tolerant, horizontally scalable solutions running in multi-tenant environments
+Solve challenging problems in distributed and highly concurrent environment
+Impact all developers in Agoda, providing better observability instruments
+
+What You’ll Need To Succeed
+
+At least 8 years of experience writing performant and scalable code using JVM (Java/Scala/Kotlin) or Rust (C++) languages
+User/dev experience of one of the following products: Prometheus, InfluxDB, Victoria Metrics, Elasticsearch, Grafana Loki
+Production experience with messaging queues (Kafka)
+Deep understanding of concurrency and multithreading
+Value code simplicity and performance
+Demonstrate proficiency in communication and collaboration skills
+
+It’s Great If You Have
+
+Strong background in DB internals, indexes, data formats (AVRO, Protobuf)
+You generally understand observability data types, such as logs and metrics
+Profilers, debuggers, tracers hide no secrets from you, especially in a Linux environment
+Experience building large-scale time series data stores and monitoring solutions
+Experience with S3 (Ceph), Elasticsearch, Grafana and other open-source components
+You can get down to the low-level when needed
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3770488092,MS Engineer - VMWARE,https://www.linkedin.com/jobs/view/3770488092,NTT Ltd.,https://www.linkedin.com/company/global-ntt/life," "," ",100,,Hybrid,,"10,001+ employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/D4D0BAQF0fjPAQRj4uA/company-logo_100_100/0/1698830112594/global_ntt_logo?e=1717027200&v=beta&t=I2eLSgVkZC2SxBRNzjGW3PnYPLIGs-rUSuHFeEN_pc4,"NTT Ltd. is becoming NTT DATA. As a global IT services powerhouse, we offer an unmatched range of business and technology solutions.","Want to be a part of our team?
+
+Provides technical support to field engineers, technicians, and product support personnel who are diagnosing, troubleshooting, repairing, and debugging complex electro/mechanical equipment, computer systems, complex software, or networked and/or wireless systems.
+
+Responds to situations where first-line product support has failed to isolate or fix problems in malfunctioning equipment or software. Reports design, reliability, and maintenance problems or bugs to design engineering/software engineering. May be involved in customer installation and training.
+
+Provides support to customers/users where the product is highly technical or sophisticated in nature.
+
+Working at NTT
+
+The MS Engineer is responsible for providing a service to clients by proactively identifying and resolving technical incidents and problems. Through preemptive service incident and resolution activities, as well as product reviews, operational improvements, operational practices, and quality assurance this role will maintain a high level of service to clients. Their primary objective is to ensure zero missed service level agreement (SLA) conditions .The MS Engineer s responsible for managing tickets of low to high complexity.
+
+Key Roles and Responsibilities:
+
+Ensure that assigned infrastructure at the client site is configured, installed, tested, and operational
+Perform necessary checks, apply monitoring tools and respond to alerts
+Identify problems and errors prior to or when it occurs and log all such incidents in a timely manner with the required level of detail
+Assist in analyzing, assigning, and escalating support calls
+Investigate third line support calls assigned and identify the root cause of incidents and problems
+Report and escalate issues to 3rd party vendors if necessary
+Provide onsite technical support to clients and provide field engineering services to clients
+Conduct a monthly random review of incidents and service requests, analyze and recommend improvement in quality
+Provide continuous feedback to clients and affected parties and update all systems and/or portals as prescribed by NTT
+Proactively identify opportunities for work optimization including opportunities for automation of work
+
+Knowledge, Skills, and Attributes:
+
+Ability to communicate and work across different cultures and social groups
+Ability to plan activities and projects well in advance, and takes into account possible changing circumstances
+Ability to maintain a positive outlook at work
+Ability to work well in a pressurized environment
+Ability to work hard and put in longer hours when it is necessary
+Ability to apply active listening techniques such as paraphrasing the message to confirm understanding, probing for further relevant information, and refraining from interrupting
+Ability to adapt to changing circumstances
+Ability to place clients at the forefront of all interactions, understanding their requirements, and creating a positive client experience throughout the total client journey
+
+Academic Qualifications
+
+Advanced diploma, degree, or relevant qualification in IT/Computing (or demonstrated equivalent work experience)
+
+Required Experience:
+
+Demonstrated work experience
+Demonstrated experience required in Engineering function within a medium to large ICT organization
+Demonstrated experience of Managed Services
+Demonstrated working knowledge of ITIL processes
+Demonstrated experience working with vendors and/or 3rd parties
+
+Skills Summary
+
+Cisco Routers and Switches, Internet Access, Network Support, Routing Protocols, Troubleshooting
+
+What will make you a good fit for the role?
+
+Workplace type: 
+
+On-site Working
+
+Equal Opportunity Employer
+
+NTT is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, color, sex, religion, national origin, disability, pregnancy, marital status, sexual orientation, gender reassignment, veteran status, or other protected category"
+3821615289,DevOps Engineer,https://www.linkedin.com/jobs/view/3821615289,Ultra Voucher,https://www.linkedin.com/company/ultravoucher/life," ",2 weeks ago,100,,Hybrid,,51-200 employees · Consumer Services,https://media.licdn.com/dms/image/C560BAQHyuKT4J8sJtg/company-logo_100_100/0/1630660245472/ultravoucher_logo?e=1717027200&v=beta&t=1AGTJ1_Z4shZq43WYeFLrJuhaLhQ7x7HUctXoZSyVo8,"PT. Trimegah Karya Pratama Tbk (""UVCR"") is a technology company engaged in the shopping voucher and gift card industry, both physical and digital. Established in 2014, the Company acts as a voucher generator that is distributed to the public throughout Indonesia.
+
+In 2017, the Company issued the main platform used to distribute vouchers to consumers named Ultra Voucher. Ultra Voucher is an application that sells various kinds of physical and digital vouchers from merchants who have collaborated with Ultra Vouchers. Currently, Ultra Voucher has collaborated with more than 600 brands and will continue to grow with more than 45,000 outlets networks from merchant partnership throughout Indonesia.
+
+Ultra Vouchers can be downloaded on the Apple App Store and Google Play Store. With 500.000 active users on Ultra Voucher Mobile Apps, We deliver more than 15.000 transaction every day.
+…
+show more","Requirements:
+2+ years’ experience in senior or lead role, preferably in e-commerce, financial service, or other similar industry
+niversity degree in Computer Science, Engineering or equivalent is preferred
+Experience in managing a remote team
+Hands on experience in cloud service, preferably in Alicloud
+Expertise experience in automation of deployment using technologies of Docker and Jenkins
+Experience constructing custom microservices applications using Kubernetes
+Experience in utilizing Infrastructure as a Code
+
+Job Responsibilities:
+
+You will be responsible to manage a remote team effectively
+Work together with Lead Software Engineer and Product Team to translate product vision into a deliverable roadmap
+Collaborate with cross-functional teams, such as Back End, Front End (Web, iOS, Android), Test Engineers, Product, and other business stakeholders.
+Grow and lead a talented devops team, developing the careers and technical capabilities of all team members and create a strategy to track the performance of the team and products
+Be responsible for the readiness and stability of our systems
+Work as an integrated part of the software engineering organization, understanding the application architecture
+Create and maintain our cloud-based infrastructure"
+3813157066,Senior Software Engineer - Salatiga,https://www.linkedin.com/jobs/view/3813157066,FORMULATRIX,https://www.linkedin.com/company/formulatrix/life," ",3 weeks ago,39,,On-site,,"1,001-5,000 employees · Biotechnology Research",https://media.licdn.com/dms/image/C4E0BAQFQ6UgC8CPkig/company-logo_100_100/0/1630582840661/formulatrix_logo?e=1717027200&v=beta&t=10gSgTtW87R5sCh0FY2BmGw4NI9gGyEzu7jBpk4Ykm0,"FORMULATRIX® supplies innovative software and robotic automation solutions to the life science industry including the leading pharmaceutical companies and academic research institutions around the world. We collaborate with researchers to simplify scientific workflows such as sample preparation and analysis by designing solutions without boundaries and bringing novel cutting-edge technology into the laboratory.
+
+We are committed to researchers, their labs, and to the scientific discoveries that will improve the lives of generations to come.","Headquartered in Dubai, UAE, FORMULATRIX is a fast-growing robotic automation equipment manufacturer and software solutions provider to leading pharmaceutical companies and academic research institutions including major Fortune 500 and Fortune 100 companies. The company has aggressively grown because of our industry-recognized patented technology and superior software delivery services.
+
+We are seeking hands-on, top-notch Software Engineers who are experienced in leading a team, can work with Object-Oriented Programming, and have expertise in C# / C++/ Java to implement components of our software products and robotic control systems.
+
+Job Description:
+Understanding best coding practices and designing thoughtful coding patterns.
+Analyzing problems and proposing an implementation to solve the issues.
+Troubleshooting problems in the field.
+Collaborating with peers to deliver high-quality products on time.
+Leading and mentoring peers or a more junior position.
+
+Requirements:
+Candidate must possess at least Bachelor's Degree in Computer Science, Information Technology, Electronic Engineering, or equivalent professional experience in software development.
+Have experience with a complete software development life cycle.
+Solid experience of at least 4 years in C# / C++/ Java is preferable (the combination of these three is also acceptable).
+Demonstrated experience with system architecture review, OOP, and software programming in a team environment.
+Good grasp and used best practices in programming.
+Committed to writing good quality and high-performance code.
+Demonstrated good logical thinking as well as attention to detail.
+Proactive, highly motivated, and a strong team player with a good ability to multi-task and re-prioritize as necessary.
+Demonstrate leadership, project management, and mentor experience.
+Excellent communication skills in English both oral and written.
+Applicants must be willing to work (onsite) in Salatiga.
+
+Why Join Us?
+Work and learn directly with experienced engineers and product managers globally
+Challenge yourself by learning cutting-edge new technologies every day
+Create software and products that directly impact medicine discovery and life science research
+Escape the heat and congestion of the large cities and enjoy nature, mountains, biking and rafting with company outing trips organized for team-building activities
+Opportunities for continued networking and professional development
+Join a very stable, profitable company that has been manufacturing and engineering in Salatiga since 2006 with no layoffs and continuing to grow rapidly
+Real flexible hours where if you are needed to work late hours, you can make up that time during the day. You also have the ability to shift your hours around to help meet your family’s needs (no crazy eCommerce schedules!)
+Casual and relaxed atmosphere with plenty of outlets to reduce stress and tension including ping pong, billiards, team outings, professional development lunches and more
+Opportunities to travel to customer sites and offshore locations may be necessary as needed.
+
+
+If you have any difficulties applying using this platform, you could submit your application with this way:
+Send your latest CV to forindojob@formulatrix.com with the words SSE (space) Your Name; e.g. ""SSE Adam Fisal"" in the subject line.
+You can apply by filling out this form: bit.ly/SSE_BE"
+3810217393,Senior Game Designer,https://www.linkedin.com/jobs/view/3810217393,Tripledot Studios,https://www.linkedin.com/company/tripledot-studios/life," "," ",70,,Hybrid,,"501-1,000 employees · Computer Games",https://media.licdn.com/dms/image/C560BAQEHnmNoumbKag/company-logo_100_100/0/1630607123831/tripledot_studios_logo?e=1717027200&v=beta&t=h-fRnz1ioromdcUnA6Z1Jpm1gcrLLritxWNc8exeFuI,"Recently named ""The fastest growing company in Europe"" by the Financial Times, Tripledot is one of the largest mobile gaming companies in the world, entertaining over hundreds of millions of people around the world.
+
+Forged by seasoned industry veterans from King, Facebook and Product Madness, our goal is to create the highest quality games for everyone to enjoy. With the belief that amazing games are created by amazing teams, Tripledot brings the best-of-the-best together. Currently our team consists of 500 people in offices in London, Warsaw, Barcelona and Jakarta.
+…
+show more","Department: Product
+
+Employment Type: Full Time
+
+Location: Jakarta, ID
+
+Description
+
+Who are we?
+
+Tripledot Studios, a 500-person mobile games studio, is a record-breaking, chart-topping powerhouse leading the casual mobile gaming space. We were recently recognized by the Financial Times as ""The Fastest Growing Company in Europe"" and won the ""Best Developer Award"" at Pocket Gamer 2023!
+
+Our guiding principle as a team is that when people love what they do, what they do will be loved by others. The studio is filled with people who love taking things apart and figuring out how they work. We enjoy problem-solving and most importantly, we LOVE making games!
+
+As we continue to scale globally, we are now seeking a talented Senior Game Designer to join our team in Jakarta.
+
+The Game:
+
+You'll be focused on our game Piper's Pet Cafe. The game combines pet cafe decoration, and Solitaire. Players take on the role of Piper, a young woman who is given the opportunity to open a pet cafe by an eccentric benefactor. Piper must renovate the cafe, attract customers, and solve the mystery of why her benefactor chose her.
+
+What You'll Be Doing...
+
+
+Manage the design of your levels & level mechanics through the full cycle of production from conception to optimisation.
+Collaborate with the UI/UX designer, UI artists, art directors, developers, project managers, QA testers, and other game designers / product managers to define the requirements of new game mechanics.
+Capture all the requirements from engineer, art, and cutscene teams to measure the size, effort, and time of making new level mechanics.
+Brainstorm and research to plan the level difficulty, economy, & layout guidelines.
+Experiment with level mechanics designs and explore opportunities from competitors.
+Outline the gameplay experience (layout, difficulty, cost, rewards, mechanics, arrangement, etc.) in level documentation that will serve as a reference and source of inspiration throughout development.
+Involved in assisting artists and engineers as they translate a vision into an engaging player experience.
+Continuously perform various AB tests to improve the performance (retention, revenue, user experience) of levels in the game, monitor KPI, and prepare regular report to key stakeholders.
+Find solutions to issues uncovered by play testers and cross-functional teams related to level design (get to the root of problems to solve them).
+Understand and help tech artists implement the desired VFX and objects when developing new level mechanics.
+Actively participate in sharing sessions & learning day along with other Game Designers & Product Managers.
+
+
+Who You Are...
+
+
+Min 3 years experience in Game design of level-based casual games in general.
+At least 2+ major game titles released or managed.
+Multiple years experience working with game design, core loops and monetization vectors.
+Multiple years experience working in analytic and economic analysis.
+Proficient in using Looker / Tableau.
+Proficiency in Unity engine is a huge bonus.
+Proficiency in SQL is a huge bonus.
+Understand fun factors of games in general.
+
+
+What does working at Tripledot mean for you?
+
+
+A supportive, friendly, and creative work environment.
+Career progression opportunities.
+Competitive salary package.
+12 days holiday (after 1 year's service allowance increases by 12 days to a total of 24 days) plus Public Holidays in Jakarta.
+Hybrid working - 3 days a week in the office.
+Regular company events and rewards.
+Breakfast & Home cooked lunch for employees who work in the office.
+Health Insurance.
+BPJS KETENAGAKERJAAN - Old-age Security, Pension Security, Employment Injury Security.
+BPJS KESEHATAN - covers health problems, including inpatient, outpatient, and glasses.
+Employee Assistance Program.
+Festive Allowance."
+3815242328,Software Engineer,https://www.linkedin.com/jobs/view/3815242328,BitHealth,https://www.linkedin.com/company/bithealth/life," ",3 weeks ago,100,,On-site,,51-200 employees · Information Technology & Services,https://media.licdn.com/dms/image/D4E0BAQEtbeSJkNL14Q/company-logo_100_100/0/1664787920525/bithealth_logo?e=1717027200&v=beta&t=DohfWXAT2hr1z9aUGjZZMA9IBCO1sKKPIYDMF92xwCE,"BitHealth is the digital health solution provider company in Indonesia that specializes in digital health technology and transformation partner to healthcare organization.
+
+Established since 2020, we will continue on developing various breakthroughs which could escalate the effectiveness and efficiency of our health industry in the future.
+
+Our Vision is to be the Indonesia Largest Digital Services Provider in Healthcare with the Mission to help our clients transforming patient experience, operation excellence, and clinical outcome through innovative digital technology.
+…
+show more","BitHealth is a growing digital health professional services company with leading capabilities in digital health application, analytics and process automation. We embrace the power of digital health to create value and change the face of healthcare for our clients and people.
+
+Job Description:
+Developing and packaging new product/features and user interfaces from wireframe models
+Ensuring the best performance and user experience of the application
+Writing clean, readable, and testable code
+Optimize the application for maximum speed and scalability
+
+Requirements:
+At least 3 years of experience as a Fullstack Engineer
+Proficiency in JavaScript language, including its syntax and features
+In-depth knowledge and understanding of Frontend Javascript framework ReactJS
+Familiarity with database technology such as Oracle, MYSQL, PosgreSQL, MongoDB, or SQL Server
+Knowledge of Node.js (ES6 or TypeScript) and frameworks available for it (such as Express, GraphQL, AdonisJS)
+Experience with both consuming and designing RESTful APIs
+Integration of multiple data sources and databases into one system.
+Proficient understanding of code versioning tools, such as Git
+Knowledge of Cloud Server such as GCP/AWS/Azure"
+3828285460,Senior Software Engineer - Bandung,https://www.linkedin.com/jobs/view/3828285460,FORMULATRIX,https://www.linkedin.com/company/formulatrix/life," ",1 week ago,66,,On-site,,"1,001-5,000 employees · Biotechnology Research",https://media.licdn.com/dms/image/C4E0BAQFQ6UgC8CPkig/company-logo_100_100/0/1630582840661/formulatrix_logo?e=1717027200&v=beta&t=10gSgTtW87R5sCh0FY2BmGw4NI9gGyEzu7jBpk4Ykm0,"FORMULATRIX® supplies innovative software and robotic automation solutions to the life science industry including the leading pharmaceutical companies and academic research institutions around the world. We collaborate with researchers to simplify scientific workflows such as sample preparation and analysis by designing solutions without boundaries and bringing novel cutting-edge technology into the laboratory.
+
+We are committed to researchers, their labs, and to the scientific discoveries that will improve the lives of generations to come.","FORMULATRIX® is a fast-growing robotic automation equipment manufacturer and software solutions provider to leading pharmaceutical companies and academic research institutions. We cater to clients in the highly specialized life sciences industry with our client base comprised of major Fortune 500 and Fortune 100 companies. The company has experienced aggressive historic double-digit growth with healthy profits because of our industry-recognized patented technology and superior software delivery services. The industry recognizes our products and services due to our dedication to producing the 'best breed of products."" Our business operations are international in scope with business units located in the United States, Europe, and Asia.
+
+Our corporate culture highly rewards dedicated motivation, exceeding client expectations, entrepreneurial spirit, and outside-the-box thinking. In return, we offer a rewarding salary and benefits package, a young and vibrant down-to-earth corporate culture, employee empowerment, and excellent growth opportunities.
+
+Job Descriptions
+Understanding best coding practices and designing thoughtful coding patterns.
+Analyzing problems and proposing an implementation to solve the issues.
+Troubleshooting problems in the field.
+Collaborating with peers to deliver high-quality products on time.
+Leading and mentoring peers or a more junior position.
+
+Requirements
+Candidate must possess at least a Bachelor's Degree in Computer Science, Information Technology, Electronic Engineering, or equivalent professional experience in software development.
+Have experience with a complete software development life cycle.
+Solid experience of at least 4 years in C# / C++/ Java is preferable (the combination of these three is also acceptable).
+Demonstrated experience with system architecture review, OOP, and software programming in a team environment.
+Good grasp and use of best practices in programming.
+Committed to writing good quality and high-performance code.
+Demonstrated good logical thinking as well as attention to details.
+Proactive, and highly motivated. and strong team player with a good ability to multi-task and re-prioritize as necessary.
+Demonstrate leadership, project management, and mentor experience.
+Excellent communication skills in English both oral and written.
+Applicants must be willing to work onsite in Bandung.
+
+Why Join Us?
+Work and learn directly with experienced engineers and product managers globally
+Challenge yourself by learning cutting-edge new technologies every day
+Create software and products that directly impact medicine discovery and life science research
+Escape the heat and congestion of the large cities and enjoy nature, mountains, biking and rafting with company outing trips organized for team-building activities
+Opportunities for continued networking and professional development
+Join a very stable, profitable company that has been manufacturing and engineering in Salatiga since 2006 with no layoffs and continuing to grow rapidly
+Real flexible hours where if you are needed to work late hours, you can make up that time during the day. You also have the ability to shift your hours around to help meet your family’s needs (no crazy eCommerce schedules!)
+Casual and relaxed atmosphere with plenty of outlets to reduce stress and tension including ping pong, billiards, team outings, professional development lunches and more
+Opportunities to travel to customer sites and offshore locations may be necessary as needed.
+
+
+If you have any difficulties applying using this platform, you could submit your application with this way:
+Send your latest CV to forindojob@formulatrix.com with the words SSE (space) Your Name; e.g. ""SSE Adam Fisal"" in the subject line.
+You can apply by filling out this form: bit.ly/SSE_BE"
+3811276138,Software Developer - EFTPOS,https://www.linkedin.com/jobs/view/3811276138,Ingenico,https://www.linkedin.com/company/ingenico/life," ",3 weeks ago,100,,Hybrid,,"5,001-10,000 employees · Financial Services",https://media.licdn.com/dms/image/D4E0BAQE3ZvAX6LFwYQ/company-logo_100_100/0/1688400514141/ingenico_logo?e=1717027200&v=beta&t=ZnGzaqM8NvjyXYMKrWqlPfNluf9B-E26vRnepm2nk3Y,"Ingenico is the global leader in payments acceptance solutions, with more than three decades of experience. Its footprint gives scale to projects and talents. Innovation is part of our DNA and our diverse community of experts keep anticipating the evolution of commerce worldwide.
+
+As the trusted technology partner for merchants, banks, acquirers, ISVs, payment aggregators and fintech customers, our world-class terminals, solutions and services enable the global ecosystem of payments acceptance.
+
+At Ingenico, trust and sustainability are at the heart of everything we do.
+
+Our team comprises 4,000+ people spread around the globe representing 60 different nationalities. We are proud of the diversity and professionalism of our employees. Whether they work in technical or business support functions, we believe in making the company and people successful, together.
+
+Learn more about Ingenico at https://ingenico.com","Ingenico is a global leader in the fintech market, with more than three decades of experience and employs over 7,500 people. Its footprint gives scale to projects and talents. Innovation is part of our DNA and our diverse community of experts keep anticipating the evolution of commerce worldwide.
+We provide merchants with a comprehensive and innovative range of services and solutions that eliminate payment complexity and make purchasing quick, seamless and secure for consumers, whatever the sales channel or payment method.
+
+Key Clients & Stakeholders:
+Customer (Banks and Acquirers)
+Project Managers
+Technical Leads
+Test Leads
+Developers
+Testers
+
+Purpose:
+Build, test and deliver assigned functionality with the highest level of quality in the prescribed amount of time
+
+Areas of Responsibility:
+Design, develop and maintain high-quality software for EFTPOS terminals and/or tools for EFTPOS terminals (i.e. Terminal Management System, POS Simulators, Loading Tools)
+Analyze and understand the functionality to be delivered
+Perform unit testing of new functionalities and changes implemented
+Contribute to solution document
+Participate in code and document reviews
+Investigate and resolve software issues
+Follow the SDLC processes, including writing the Solution Design Document
+Keep abreast of relevant industry standards and specifications.
+Update other documentation as required
+Complete timesheets
+Work closely with the Software Testers to isolate, reproduce and resolve defects.
+Work closely with SW Manager, Technical Lead, Software Developers, QA Analyst, QA Manager.
+
+Competencies, Skills and Experience:
+Competencies:
+Good knowledge and experience in Kotlin/C
+Experience and knowledge in electronic payments, payment terminal devices, EMV contact and contactless environment, AS2805/ISO8583 messaging protocol, etc.
+Experience with EMV, Magnetic Card and Contactless card acceptance
+Knowledge in serial protocols
+Knowledge of networking (WiFi, Ethernet), Bluetooth is an advantage
+Knowledge in EFTPOS terminal security and encryption
+Clear and concise written and verbal communication
+Experience with producing design and functional documentation
+
+Skills:
+Extensive experience in using Word, Powerpoint and Excel
+Ability to perform data analysis using tools such as Excel and Microsoft Access
+Knowledge of Object Oriented Programming principles
+Highly self-motivated and directed
+Good verbal and communication skills.
+Quick learner, highly organized and meticulous.
+Honest, with strong integrity, commitment and initiative.
+Work independently with a high degree of responsibility.
+Ability to work in a team.
+
+Experience:
+Prior experience in Software Development roles
+Experience with MS Project
+Experience with JIRA
+Prior experience developing in C for EFTPOS devices and/or Embedded environments (minimum of 2 years) 
+
+ Qualification:
+· At least a Bachelor’s degree in Computer Science, Engineering or similar"
+3811239597,Senior Front-End Developer,https://www.linkedin.com/jobs/view/3811239597,Mitrais,https://www.linkedin.com/company/mitrais/life," ",4 weeks ago,100,,Hybrid,,"501-1,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C510BAQEhZsUjQpb1jg/company-logo_100_100/0/1630620031684/mitrais_logo?e=1717027200&v=beta&t=cr3sp3Txn13BFtmsxfI4WbOv7NTFVsdje81TJ8t60FU,"Mitrais, a proud member of the CAC Holdings Group, operates from 4 development centers across Indonesia, with a rich history spanning 32 years. With a dedicated team of nearly 700 software engineers, we specialize in team augmentation, ensuring faster software deployment while maintaining cost-effectiveness and ISO 27001 certification for security compliance.
+
+Having successfully served 700+ global clients, Mitrais is recognized for its proven compatibility with Australian and Asian cultures. Our expertise extends to a wide array of technologies. Notably, we are market leaders in mining solutions and excel in cyber security, Robotic Process Automation (RPA), and Enterprise Architect (EA) services.","Build your Career with Mitrais! 
+Mitrais has engaged a large Australian software company on an exciting software development project We're looking for Senior Front-End Developer to be part of the team. 
+ What will you be doing? 
+Coding high-quality software using distributed computing, messaging, microservices, performance tuning and memory and resource management techniques 
+Developing data-driven solutions for a range of clients. 
+Collaborating within cross-functional and international agile teams. 
+Led the creation of a new architecture to solve a medium to large technical problem 
+Guided other team members on how to develop within this architecture over a period of at least 3 months 
+Collaborating within cross-functional and complex technical ecosystem 
+  What about you? 
+You already have 5+ years of experience as a Web Front End developer with VueJS and/or React 
+Deep understanding of modern HTML+CSS techniques 
+Deep understanding of the DOM, browser components & APIs 
+Understanding of microservices architecture and RESTful APIs 
+Understanding of design elements, components, UI and best practices 
+Modern UI/Frontend stack, frameworks and techniques. i.e: React, Webpack, SPA, ES6, CSS (flexbox, etc) 
+Understanding of JS frameworks jQuery, Mustache, Backbone, or LESS/SASS, Vue JS framework 
+Understanding of WebSockets, Local Storage, or ES6 
+Understanding of Assets & build management tools, e.g: Grunt, Webpack, Babel 
+  What can Mitrais offer you? 
+A CAREER, not a JOB! 
+Competitive salary 
+Excellent working environment, with the possibility to relocate to our regional offices and working remotely 
+Free English classes, English is our working language 
+Lots of opportunities to improve your competencies on our technical bootcamps, certification programs and soft skills training courses 
+Hackathons with big prizes! 
+ Learn about life at Mitrais from our current team by searching #mitraislife on Facebook,or LinkedIn. 
+ Please note that all activities included in the recruitment processes are free of charge. Beware of online scams such as persons posing to represent the Mitrais Recruitment Team or other recruiting-related personnel by sending unsolicited text messages and emails asking you to provide personal information, transfer money, or do any other specific activities. 
+ To Apply… 
+Simply click the apply button, complete the form and upload your latest CV in English! What are you waiting for!"
+3831589775,Mobile Engineer,https://www.linkedin.com/jobs/view/3831589775,Binar Academy,https://www.linkedin.com/company/binar-academy/life," ",,41,,On-site,,201-500 employees · IT Services and IT Consulting,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1717027200&v=beta&t=1KqUkRWEBQSajgDbaOnogXxQIhBF_-D_-d7OAmKysGo,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore","The ideal candidate will be responsible for the technical design and implementation of new products and enhancements. They will work in all phases of the development cycle: concept to implementation. 
+ Responsibilities
+Perform full life-cycle development
+Adhere to agreed upon delivery schedules
+Utilizes source control, continuous integration, and unit testing best practices
+Work cross-functionally to define and write code for new features
+
+Qualifications
+Bachelor's degree or equivalent in Computer Science
+3+ years' experience in related area
+Experience with iOS and Android platforms
+ Able to utilize ReactJS or Swift UI,Kotlin, Hybrid framework (eg., React native, flutter)"
+3748144221,Senior Solution Engineer - Mulesoft,https://www.linkedin.com/jobs/view/3748144221,MuleSoft,https://www.linkedin.com/company/mulesoft/life,,,100,,Remote,,"5,001-10,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C560BAQEleBubBy_9ww/company-logo_100_100/0/1630664745466/mulesoft_logo?e=1717027200&v=beta&t=Tq3Pp_fFwUQNqlxIZ0jfWO5_6qy4NVlHb_WDQXFcfZA,"MuleSoft, the world’s #1 integration and API platform, makes it easy to connect data from any system to create connected experiences faster. For more information, visit https://www.mulesoft.com.","To get the best candidate experience, please consider applying for a maximum of 3 roles within 12 months to ensure you are not duplicating efforts.
+
+Job Category
+
+Sales
+
+Job Details
+
+About Salesforce
+
+We’re Salesforce, the Customer Company, inspiring the future of business with AI+ Data +CRM. Leading with our core values, we help companies across every industry blaze new trails and connect with customers in a whole new way. And, we empower you to be a Trailblazer, too — driving your performance and career growth, charting new paths, and improving the state of the world. If you believe in business as the greatest platform for change and in companies doing well and doing good – you’ve come to the right place.
+
+MuleSoft is looking for a motivated Solutions Engineer to join our extremely talented and collaborative Pre-Sales team. SEs are instrumental to MuleSoft’s growth in the ASEAN region. As a Solution Engineer, you will act as a trusted advisor to MuleSoft’s prospective customers by proving how MuleSoft’s Hyper-automation Platform can modernize IT and thereby allowing greater innovation. You will partner closely with Account Executives throughout the end-to-end sales cycle to qualify sales opportunities with regards to customer technical requirements, competition, decision-making process and funding. Through strong, developed relationships with the client’s IT staff and C-Level executives, you will leverage their deep technical expertise to align the client’s technical requirements to business outcomes.
+
+What You’ll Need To Be Successful
+
+Pre-Sales enterprise software experience, skillset to establish trust with clients, and ability to influence key decision makers in the sales cycle
+Hands on experience with middleware, integration architecture patterns, web services technologies, enterprise messaging patterns, APIs, SOA, ESB, BPM etc.
+Hands on development experience and ability to code and design APIs is essential
+Experience with cloud technologies - iPaaS, SaaS applications, cloud infrastructure, etc. - is preferred
+Experience building and delivering Proofs of Concept (PoCs) and responding to functional & technical elements of RFIs/RFPs independently and effectively
+Ability to lead architectural discussions and workshops.
+A passion for technology and translating that passion into business impact for customers
+Excellent verbal communication, written communication, and presentation skills
+Ability to travel as needed and to work flexible hours throughout the ASEAN region
+
+What You’ll Achieve
+
+3 months:
+
+Become Mulesoft Developer certified
+Complete MuleSoft’s SE trainings
+Begin to build your architecture reframe and white-boarding skills through shadowing and customer-scenario role playing
+Engage with AEs and Sales leaders. Shadow customer calls and engagements.
+
+12 Months
+
+Become certified in all Product, Architecture, and Sales Messaging trainings
+Deliver product presentations and demonstrations that are tailored to the client’s technical requirements and audience
+Develop Proofs of Concept (PoCs) as part of an account team to demonstrate the art of the possible
+Put all the pieces together to “perfect your craft” by closing deals
+Partner with Accounts Executives on account planning and strategy and support marketing with evangelism activities (writing blogs, participating in demo-driven webinars, speaking at industry events, etc.)
+
+Senior Solution Engineer - Mulesoft
+
+MuleSoft sedang mencari Solution Engineer yang termotivasi untuk bergabung dengan tim presales kami yang sangat berbakat dan kolaboratif. SE sangat penting bagi pertumbuhan MuleSoft di wilayah ASEAN. Sebagai Solution Engineer, Anda akan bertindak sebagai penasihat tepercaya bagi calon pelanggan MuleSoft dengan membuktikan bagaimana Platform Hyperautomation MuleSoft dapat memodernisasi IT dan dengan demikian memungkinkan inovasi yang lebih besar. Anda akan bermitra erat dengan Account Executive di seluruh siklus penjualan secara end-to-end untuk memenuhi syarat peluang penjualan sehubungan dengan persyaratan teknis pelanggan, persaingan, proses pengambilan keputusan, dan pendanaan. Melalui hubungan yang kuat dan berkembang dengan staf IT klien dan eksekutif C-Level, Anda akan memanfaatkan keahlian teknis mereka yang mendalam untuk menyelaraskan persyaratan teknis klien dengan hasil bisnis yang diinginkan.
+
+Apa Yang Anda Perlukan Untuk Menjadi Sukses
+
+Pengalaman sebagai presales pada perusahaan perangkat lunak, keahlian untuk membangun kepercayaan dengan klien, dan kemampuan untuk memengaruhi pengambil keputusan pada siklus penjualan
+Pengalaman langsung dengan middleware, pola arsitektur integrasi, teknologi layanan web, pola pengiriman messaging, API, SOA, ESB, BPM, dll.
+Pengalaman hands-on dalam pengembangan dan kemampuan untuk membuat kode dan mendesain API sangat penting
+Pengalaman dengan teknologi cloud - iPaaS, aplikasi SaaS, infrastruktur cloud, dll. - lebih disukai
+Pengalaman membangun dan memberikan Proofs of Concept (PoC) dan menanggapi elemen fungsional & teknis RFI / RFP secara mandiri dan efektif
+Kemampuan untuk memimpin diskusi arsitektur dan workshop
+Semangat untuk teknologi dan menerjemahkan semangat itu menjadi dampak bisnis bagi pelanggan
+Komunikasi verbal, komunikasi tertulis, dan keterampilan presentasi yang sangat baik
+Kemampuan untuk melakukan perjalanan sesuai kebutuhan dan bekerja dengan jam kerja yang fleksibel di seluruh wilayah ASEAN
+
+Apa Yang Akan Anda Capai
+
+Dalam 3 bulan:
+
+Mendapatkan sertifikasi Mulesoft Developer
+Menyelesaikan pelatihan SE MuleSoft
+Mulai membangun keterampilan membingkai ulang arsitektur dan papan tulis Anda melalui shadowing dan permainan peran skenario pelanggan
+Berinteraksi dengan para AE dan pemimpin Penjualan. Shadow call dan meeting dengan customer
+
+Dalam 12 Bulan
+
+Mendapatkan sertifikasi dalam semua pelatihan Produk, Arsitektur, dan Pesan Penjualan
+Menyampaikan presentasi dan demonstrasi produk yang disesuaikan dengan persyaratan teknis dan audiens klien
+Mengembangkan Proofs of Concept (PoC) sebagai bagian dari tim akun untuk mendemonstrasikan seni yang memungkinkan
+Menyatukan semua bagian untuk ""menyempurnakan keahlian Anda"" dengan menutup kesepakatan
+Bermitra dengan Eksekutif Akun dalam perencanaan dan strategi akun serta mendukung pemasaran dengan kegiatan penginjilan (menulis blog, berpartisipasi dalam webinar berbasis demo, berbicara di acara industri, dll.)
+
+Accommodations 
+
+If you require assistance due to a disability applying for open positions please submit a request via this Accommodations Request Form.
+
+Posting Statement
+
+At Salesforce we believe that the business of business is to improve the state of our world. Each of us has a responsibility to drive Equality in our communities and workplaces. We are committed to creating a workforce that reflects society through inclusive programs and initiatives such as equal pay, employee resource groups, inclusive benefits, and more. Learn more about Equality at www.equality.com and explore our company benefits at www.salesforcebenefits.com.
+
+Salesforce is an Equal Employment Opportunity and Affirmative Action Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Salesforce does not accept unsolicited headhunter and agency resumes. Salesforce will not pay any third-party agency or company that does not have a signed agreement with Salesforce.
+
+ Salesforce welcomes all."
+3797593002,Software Engineer,https://www.linkedin.com/jobs/view/3797593002,Tigernix,https://www.linkedin.com/company/tigernix/life," ",1 week ago,100,,On-site,,11-50 employees,https://media.licdn.com/dms/image/C560BAQGQ4awogdeRvA/company-logo_100_100/0/1631328455162?e=1717027200&v=beta&t=wU5DMQojABBGf2N_AFWqNt7_-TPINCoUCIO6KsIFJa0,"Tigernix is one of the leading Singapore software companies and software development provider that offers state-of-the-art software across all technology platforms, operating systems, and infrastructures to clients worldwide. Based in Singapore and Tigernix has its presence in Indonesia and Australia as well.","Tigernix is a Singapore-based enterprise software solution provider with inception dated back to 2006. We are now a global office chain with roots in Australia, Singapore, Indonesia, and Sri Lanka, for delivering world-class technology solutions for the company.
+ Skills & Qualifications
+Familiar with at least 1 programming language.
+Have good logic and problem-solving skills.
+Have a high willingness to learn.
+Able to work on multiple projects and tight deadlines.
+Able to work independently and team.
+  Responsibilities
+Writing reusable, testable, and efficient code.
+Design and Implementation of low-latency, high-availability, and performant applications.
+Assess and prioritize feature requests. 
+ Be a part of Tigernix to sharpen your professional skills to meet expert standards.
+ we hope you will join us in developing cutting-edge software solutions for our clientele."
+3817277879,Senior Data Engineer,https://www.linkedin.com/jobs/view/3817277879,DANA Indonesia,https://www.linkedin.com/company/dana-indonesia/life," ",2 weeks ago,100,,On-site,,"501-1,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C560BAQFf-Q5syHcOSA/company-logo_100_100-alternative/0/1630647441555?e=1717027200&v=beta&t=YMKTNFzcU2pqFk4UKW60usbieclvDm-Lmm88gNOvTbQ,"#BukanDompetBiasa
+
+DANA is a TechFin company that aims to bring in inclusive financial services to empower people for a better living. We aim to be one of the Pillar of Digital Economy in Indonesia by enabling the society to transact seamlessly. As a highly secured and scalable payment service platform to connect everyone based on world class technology, our goal is to provide Indonesia with a trustworthy and convenient mobile payment system to cater the needs of our customers, and sustainable profitable business for our stakeholders.
+
+Join us and together we build Indonesia cashless society.
+…
+show more","DANA Indonesia is currently looking for a skilled and highly motivated Senior Data Engineer to join our team in Jakarta.
+
+This senior figure shall drive company initiatives in building tools, infrastructure, frameworks, and services to ensure data availability for operational needs and analytical use cases.
+
+What you will be working on:
+
+1. Designing, building, and maintaining highly available and scalable data infrastructure on the Cloud
+2. Designing, developing, and maintaining reliable data ingestion and transformation pipelines using modern workflow orchestrator
+3. Designing, developing, and maintaining robust code repository and reliable CI/CD pipelines
+4. Designing, developing, and maintaining software packages that abstract out the repetitive procedures for extracting, loading, and transforming raw data into valuable cleaned data
+5. Collaborating with Data Analysts, Data Scientists, ML Engineers, Software Engineers, Product Managers, and Business Stakeholders of varying functions to ensure the veracity and the timeliness of the data processed
+6. Publishing high-quality technical documentation in company's internal Wiki and conducting regular knowledge sharing, hands-on training, and mentoring for the less experienced team members
+7. Being the VP's and Manager's technical counsellor/researcher in designing a future-ready data infrastructure
+
+Who you are:
+
+1. You have 5+ years of Data Engineering experience, or equivalent experience of handling 500+ daily data pipelines in Terabytes of scale
+2. You enjoy working at the intersection of Data Engineering and DevOps
+3. You have hands-on experience in managing Kubernetes cluster on the Cloud
+4. You are adept at setting up data pipeline CI/CD along with its tests using tools such as Jenkins, Gitlab CI, or equivalent
+5. You are fluent in Python, SQL, and Bash scripting for building data infrastructure and for developing data ingestion and transformation pipelines — fluency in Java/Go/Rust is a plus
+6. You know how to work with modern workflow orchestrators — Airflow is a must 
+7. You are skillful at developing abstraction layer on top of workflow orchestrator to enable data transformation at scale
+8. You are familiar with various flavour of RDBMS and Columnar Query Engines — familiarity with NoSQL is a plus
+9. You know how to work with Apache Spark for both batch and stream data processing — familiarity with Apache Flink or Beam is a plus
+10. You are naturally inclined into optimising complex systems, both performance-wise and cost-wise"
+3823062194,Cloud Engineer,https://www.linkedin.com/jobs/view/3823062194,PT Smartfren Telecom Tbk,https://www.linkedin.com/company/smartfren-telecom/life," ",2 weeks ago,100,,On-site,,"1,001-5,000 employees · Telecommunications",https://media.licdn.com/dms/image/C560BAQHrMexZYteoYA/company-logo_100_100/0/1674549809217?e=1717027200&v=beta&t=VZxWaKJaUE4-FXYrjzyv4G0HpsY19u26QLaYo3LiYF4,"PT Smartfren Telecom Tbk (IDX:FREN) is one of the fastest growing telecommunication companies in Indonesia. We are pioneers of 4G LTE internet services and VoLTE services. Together, we help Indonesia open opportunities to enter the digital era.
+
+As one of the Sinarmas business groups, Smartfren is the only telecommunications service provider company in Indonesia that operates fully on the 4G network. With a national network coverage area, and more than 43,000 4G BTS spread across over 285 cities throughout Indonesia,
+
+Smartfren has been asked to become the official telco partner for well-known global smartphone brands and a pioneer of various product innovations such as Voice-over-LTE services ( VoLTE) and Digital SIM (eSIM) in Indonesia.
+
+#Smartfren #100PersenUntukIndonesia #MenyatukanYangBerbeda","Working as Cloud Engineer to deliver In-house Delivery and partnership Cloud project
+To perform implementation of ICT Cloud products for enterprise customers and to perform technical support for the implemented solution as part of Day 1 and Day 2 role
+To provide support for pre-sales team for delivering consulting and solutioning service on ICT Cloud Product
+Working with As Technical Project Manager (TPM) to delivered Cloud Project based
+Conduct cloud implementation assessment and technical design for customer
+
+Requirements:
+Min. 3 years as Cloud Engineer using Azure, GCP, AWS or Alibaba both implementation and technical support
+Industry Certification: Professional certification for Cloud is a must (AWS,Azure, GCP, Alibaba)
+Has a solid knowledge and experience in public Cloud such as Azure, Google Cloud, AWS and Alibaba Cloud is must
+Able to design micro-service architecture while considering the Operation, Security, Availability and Reliability aspect
+Has a solid knowledge and experience Micro-services and Containerized Application : Docker/Container, Kubernetes (AKS), Nodes, Pods, Services etc
+Familiar with Active Directory Services
+Familiar with DB Managed Service Instance
+Experience with cloud/system monitoring tools – CloudNative, ELK, Datadog, etc
+Familiar with one of these programming language : Python, Java, Javascript, Ruby, PHP, Node.js, .Net, Go etc (is plus)
+Has technical hands on experience in DevOps, CI/CD & Automation Tools : Azure DevOps, Ansible, Chef, GitLab, GitHub, Jenkins, Puppet, Terraform etc. (is plus)"
+3830957732,RnD Software Engineer - Frontend,https://www.linkedin.com/jobs/view/3830957732,FORMULATRIX,https://www.linkedin.com/company/formulatrix/life," ",2 days ago,49,,On-site,,"1,001-5,000 employees · Biotechnology Research",https://media.licdn.com/dms/image/C4E0BAQFQ6UgC8CPkig/company-logo_100_100/0/1630582840661/formulatrix_logo?e=1717027200&v=beta&t=10gSgTtW87R5sCh0FY2BmGw4NI9gGyEzu7jBpk4Ykm0,"FORMULATRIX® supplies innovative software and robotic automation solutions to the life science industry including the leading pharmaceutical companies and academic research institutions around the world. We collaborate with researchers to simplify scientific workflows such as sample preparation and analysis by designing solutions without boundaries and bringing novel cutting-edge technology into the laboratory.
+
+We are committed to researchers, their labs, and to the scientific discoveries that will improve the lives of generations to come.","Headquartered in Dubai, UAE, FORMULATRIX is a fast-growing robotic automation equipment manufacturer and software solutions provider to leading pharmaceutical companies and academic research institutions including major Fortune 500 and Fortune 100 companies. The company has aggressively grown because of our industry-recognized patented technology and superior software delivery services.
+
+We are seeking hands-on, top-notch Frontend - Software Engineers who are experienced in leading a team and can work with React.
+
+Job Description
+Design, develop, and improve robotic systems software from the ground up.
+Use research and development skills to create prototypes which solve challenging problems in areas such as scheduling and synchronization, machine vision, and machine control, among others.
+Analyze challenges and propose options and timelines to get to their resolution.
+Collaborate with a global team of peers in software engineering as well as those in the mechanical and electrical side to devise such solutions in a timely manner.
+Deeply care for our customers by providing them with great support and intuitive applications which hide out all the complexities of the solutions.
+Stay abreast of new technologies in your field and adopt as needed.
+
+Requirements
+Candidate must possess at least Bachelor's Degree in Computer Science, Information Technology, Electronic Engineering, or equivalent professional experience in software development.
+At least 1 year(s) of experience in software development, software delivery, and post-implementation.
+Demonstrated good experience in React. Other flavors of Java Script, HTML, CSS such as Angular 2+, Vue, Express, Node are acceptable alternatives.
+Knowledge of C# or other object oriented languages is a plus.
+Familiar and used to best practices in programming.
+Committed to write good quality and high performance code.
+Have no color vision deficiency.
+Demonstrated good logical thinking as well as attention to details.
+A passion to build great solutions and impress both colleagues and customers.
+Have a ""Can Do"" attitude.
+Proactive, highly motivated, and strong team player with good ability to multi-task and re-prioritize as necessary.
+Good communication skills in English both oral and written.
+Applicants must be willing to work in Semarang.
+
+If you have any difficulties applying using this platform, you could submit your application with this way:
+Send your latest CV to forindojob@formulatrix.com with the words SEF (space) Your Name; e.g. ""SEF Adam Fisal"" in the subject line."
+3835248212,Senior Frontend Developer (Remote),https://www.linkedin.com/jobs/view/3835248212,Carepatron,https://www.linkedin.com/company/carepatron/life," ",1 day ago,100,,Remote,,11-50 employees,https://media.licdn.com/dms/image/D560BAQHDqS_4g-CNrg/company-logo_100_100/0/1691052619134/carepatron_logo?e=1717027200&v=beta&t=Zz0ssa03FIuNwhZAWgtfYTwX0tdkOtp3kIdw6BzbjgM,"We help small health practices do more of what they love.
+
+Carepatron is your Healthcare Workspace - Manage your clients, scheduling, and billing from one secure app.","World class international team
+Be part of a 100% remote team
+Work closely with design team
+
+Carepatron is a powerful, easy-to-use workspace that helps healthcare professionals and their clients achieve better health outcomes.
+
+At Carepatron, our mission is to accelerate the world's transition to digital healthcare. This purpose sits at the centre of everything we do. We support a global user community to succeed through better tools, information, and connections. Because when they succeed, they make a difference, and when millions of health people make a difference, the world is a better place!
+
+What does remote working mean at Carepatron?
+We believe the future is fully distributed where talented people do the best work of their lives, from anywhere in the world. A place where people develop world-class products while building lifetime friendships.
+
+What could your day look like?
+Collaborate with your team on Google Meet or slack at your daily standup
+Heaps of time to code uninterrupted before lunch
+Chat with colleagues across the globe
+Jump into a virtual huddle with our Design or Engineering leads to workshop solutions or answer your questions
+More dedicated uninterrupted time after lunch for focused work, a tech review, a design catch-up, or a peer review.
+
+What we're looking for:
+6+ years experience building production-level large scale web applications
+Advanced experience in modern frontend languages and frameworks (React.JS, TypeScript)
+In-depth understanding of HTML/CSS experience, including concepts like layout, specificity, cross browser compatibility, and accessibility
+Knowledge of CSS preprocessors (e.g., SASS, LESS) and build tools (e.g., Webpack, Gulp)
+Advanced level of English
+
+Why Carepatron?
+Join a fast-growing global start-up
+Be part of a work environment that genuinely encourages continuous improvement and lots of collaboration between product, design, and engineering
+Develop your skills by using the latest engineering and software delivery practices, at scale, on a global stage
+Work with the latest tech at Carepatron. C#, .NET, AWS, React, TypeScript, the list goes on!
+Contribute directly to our technology vision ""to accelerate the world's transition to digital health.""
+Let us support your growth with heaps of training and development resources."
+3752807348,Cross-platform Mobile developer,https://www.linkedin.com/jobs/view/3752807348,ProofTec,https://www.linkedin.com/company/prooftec/life," ",,0,,Hybrid,,1-10 employees,https://media.licdn.com/dms/image/C560BAQE5QUa1g8lF1w/company-logo_100_100/0/1630648122025/prooftec_logo?e=1717027200&v=beta&t=PPDG0Vh0r57nk2tpH-ASuYJRTO4a3HP7NIycmLUYeHg,"ProofTec – An automated damage detection technology platform that identifies, assesses and reports incremental changes in a vehicles exterior condition. A gantry or hand-held smartphone solution delivering greater transparency, trust, efficiency and cost recovery. ","Join Our Winning Team and Ignite Your Career!
+
+Ready to join a fast-growing industry leader and be part of an amazing team? We're seeking exceptional individuals who have their heart in the clouds and their head grounded in deploying applications with impact. At ProofTec, we prioritise your growth and development, offering comprehensive training and long-term career opportunities. Join us now and make a difference!
+
+Our Company:
+ProofTec is a leading Australian cloud native computer vision company, with an obsession to push the boundaries of what is possible. Our proprietary Artificial Intelligence platform is delivering value to customers in the automotive sector globally, by delivering fast, accurate and independent external vehicle condition assessments, analysis and remediation analysis.
+
+The Role:
+As a Cross-platform Mobile Developer at our company, your contributions will be critical to both the user experience and the performance of our AI systems. You will work to capture images with the app, do live image processing based on the prototypes from our experts and connect to our cloud native technologies based on AWS. You will work with a world class team of AI researchers and developers. The role can either be located in Australia or overseas remote. 
+
+Key Responsibilities:
+· Developing new apps and extend existing apps, as well as creating/refactoring components/libraries. (Our existing code base is mostly Java/Swift.)
+· Translating designs into code, while paying attention to detail.
+· Integrating with cloud systems.
+· Generating documentation for maintainability and issue tracking.
+· Ensuring robustness and speed of Web apps, including testing and bug fixing, as well as generating automated test cases.
+· Deploying on app stores.
+· Participating in code reviews.
+
+Qualifications:
+· Bachelor's degree in Computer Science or a related field (or equivalent work experience).
+· Good understanding of object-oriented design, data structures, and algorithms.
+· At least 2 years demonstrated experience in native development (e.g. Android Java or iOS Swift or both).
+· Ability to write maintainable/reusable code and documentation.
+· Good understanding of Software Testing, e.g. unit and integration testing.
+· Ability to communicate in English.
+· Ability to work as part of a team, but also independently.
+· Experience with Git version control or equivalent.
+· Ability to work in an agile team, with good oral and written communication skills in English.
+
+Great to have:
+· Experience with cross-platform/hybrid development, e.g. React Native.
+· Experience with AWS (e.g. Amplify/Cognito/S3) integration from mobile apps.
+· Experience in cybersecurity.
+· Experience in devops, CI/CD.
+ What We Offer:
+· Competitive salary and benefits package.
+· A collaborative and innovative work environment.
+· The chance to launch products and services with meaningful impact.
+· Join a team that values creativity, diversity, and inclusion.
+ Apply today to become part of our growing team!
+ProofTec is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive workplace for all employees. We encourage candidates from all backgrounds to apply and help us establish best practice deployments for cutting edge AI technology."
+3822832398,Data Engineer,https://www.linkedin.com/jobs/view/3822832398,Zurich Insurance,https://www.linkedin.com/company/zurich-insurance-company-ltd/life," ",2 weeks ago,100,,Full-time,,"10,001+ employees · Insurance",https://media.licdn.com/dms/image/D4E0BAQGTE1Sa3Gck_Q/company-logo_100_100/0/1688369998014/zurich_insurance_company_ltd_logo?e=1717027200&v=beta&t=vckPirDTbx6GdbS2YeMZjaKj21_TYstZC8TYysWyCUE,"Zurich is a leading multi-line insurer that serves its customers in global and local markets.
+
+With about 60,000 employees, it provides a wide range of property and casualty, and life insurance products and services in more than 210 countries and territories. Zurich’s customers include individuals, small businesses, and mid-sized and large companies, as well as multinational corporations. The Group is headquartered in Zurich, Switzerland, where it was founded in 1872.
+
+ONE TEAM, ONE PURPOSE
+
+We are Zurich, one global company, with one mission, one ambition, one set of shared values and a clear commitment to our stakeholders: our customers, our people, our shareholders, and the communities in which we live and work.
+
+To find out more, follow us on Twitter: @Zurich, like us on Facebook: Zurich, subscribe on YouTube: Zurich Insurance Group, follow us on Instagram: zurichinsurance or visit our website: www.zurich.com
+
+You can find Zurich's community guidelines on
+https://www.zurich.com/social-media","Job Summary
+
+Responsible for identifying, assessing, and designing specific solutions to address identified business challenges. They will plan and collaborate with organizational unit stakeholders through the lifecycle of a project to develop advanced analytics models and produce business insights.
+
+Job Qualifications
+
+3-5 years relevant experience
+Proficiency in ETL processes
+Strong knowledge in Azure data services, SQL, Python, Spark and database management systems
+Familiar with data visualization tools
+Strong analytical skills, organized, and attention to details
+
+Job Accountabilities - Key Accountabilities
+
+Designs, develops and validates prototype model built using a variety of modelling techniques. They present features, predictions and segments of models in graphical, tabular and text form to a variety of end users, from non-technical to very technical. They analyze key themes from a wide range of internal and external data sources in order to identify data industry developments as well as how different scenarios may impact upon the business, and provide recommendations based on this analysis. They contribute to the development of advanced analytics models and support the implementation, ensuring data solutions align with business objective. They discover, learn and apply new and existing analytical techniques and tools to new operational areas of organization.
+
+Why Zurich
+
+At Zurich, we like to think outside the box and challenge the status quo. We take an optimistic approach by focusing on the positives and constantly asking What can go right?
+
+We are an equal opportunity employer who knows that each employee is unique - that’s what makes our team so great!
+
+Join us as we constantly explore new ways to protect our customers and the planet . We’re proud to have earned Great Place To Work® Certification™. Our company culture is our top priority! #GPTWcertified
+
+ Location(s): ID - Head Office - MT Haryono 
+ Remote working: 
+ Schedule: Full Time 
+ Recruiter name: Cindy Larissa 
+ Closing date:"
+3831541679,AWS Cloud Engineer,https://www.linkedin.com/jobs/view/3831541679,"PT. Erajaya Swasembada, Tbk.",https://www.linkedin.com/company/erajayaswasembada/life," ",1 day ago,49,,On-site,,"10,001+ employees · Retail",https://media.licdn.com/dms/image/C560BAQEM7K4uDZIwqg/company-logo_100_100/0/1630651942048?e=1717027200&v=beta&t=j9JwmpN464oi5q-pzLxUzh47OPfA_M_SIDIQPVo31Qw,"Established in 1996, PT Erajaya Swasembada Tbk. (“Erajaya”) has grown beyond an integrated mobile telecommunication device importer, distributor and retailer, where the Company is also acknowledged as the largest and most trusted companies in its business in Indonesia.
+
+Erajaya engages in the distribution and retail of mobile telecommunication devices, such as mobile phones and tablets, subscriber identity module card (SIM Card), mobile network operator voucher top-up, accessories, and gadgets such as computers and other electronic devices.
+
+By the end of 2011, Erajaya executed initial public offering (IPO) corporate action by offering 31.7% of its shares. With ERAA ticker code, Erajaya is officially listed as Issuer at Indonesia Stock Exchange.
+
+In September 2012, PT Eralink International, one of Erajaya’s majority shareholders released another 8.3% shares ownership to public that brought final shares ownership owned by public to 40.03% as end of 2012.
+
+Erajaya has built strategic partnership with various distinguished global brands, in addition, the Company also ditributes Venera, a product of Erajaya. The Company, further, also cooperates with credible network operators in Indonesia for their products distribution.","Responsibilities
+Design, implement, and maintain AWS cloud solutions, ensuring scalability, security, and performance.
+Collaborate with cross SAP functional and BASIS teams to define infrastructure requirements and develop cloud-based solutions.
+Build and deploy cloud-based applications and services from the ground up.
+Monitor and optimize cloud infrastructure to ensure cost-effectiveness and high availability.
+Troubleshoot and resolve infrastructure issues, implementing preventive measures.
+Ensure compliance with security best practices and industry standards.
+Automate repetitive tasks and processes to improve efficiency.
+Stay up-to-date with AWS services and industry trends, making recommendations for improvements.
+Might require additional work hours on weekends during incidents
+
+Requirements
+Deep knowledge of the Cloud environments (AWS, Ali, etc) is a must.
+Deep understanding and experience with cloud security best practices and network configurations
+Experience developing and deploying Infrastructure as Code (IaC) such as Terraform / CloudFormation
+Minimum of 3 years of hands-on experience with AWS cloud services.
+In-depth knowledge and hands-on experience in Windows Server, Linux
+Basic understanding of IT infrastructure (compute, storage, network)
+Experience with SAP S/4HANA Architecture and Infrastructure is a plus.
+Network experience and expertise (routing, firewall policy making, load balancing)
+Excellent problem-solving skills and the ability to work effectively in a collaborative team environment.
+AWS certifications (e.g., AWS Certified Solutions Architect, AWS Certified DevOps Engineer) are a plus
+Advanced troubleshooting skills and problem solving abilities
+Documentation skills
+Experience in handling cases in English"
+3811240604,NodeJS Developer,https://www.linkedin.com/jobs/view/3811240604,Mitrais,https://www.linkedin.com/company/mitrais/life," ",4 weeks ago,100,,Hybrid,,"501-1,000 employees · IT Services and IT Consulting",https://media.licdn.com/dms/image/C510BAQEhZsUjQpb1jg/company-logo_100_100/0/1630620031684/mitrais_logo?e=1717027200&v=beta&t=cr3sp3Txn13BFtmsxfI4WbOv7NTFVsdje81TJ8t60FU,"Mitrais, a proud member of the CAC Holdings Group, operates from 4 development centers across Indonesia, with a rich history spanning 32 years. With a dedicated team of nearly 700 software engineers, we specialize in team augmentation, ensuring faster software deployment while maintaining cost-effectiveness and ISO 27001 certification for security compliance.
+
+Having successfully served 700+ global clients, Mitrais is recognized for its proven compatibility with Australian and Asian cultures. Our expertise extends to a wide array of technologies. Notably, we are market leaders in mining solutions and excel in cyber security, Robotic Process Automation (RPA), and Enterprise Architect (EA) services.","Build your Career with Mitrais!
+We're urgently looking for a great Node.js Developer responsible for managing the interchange of data between the server and the users.
+Our client is an Australian food industry startup company seeking to build their application in Node.js with React.js front end. To accomplish this they need a number of Software Engineers to join their team.
+Your primary focus will be the development of all server-side logic, definition, and maintenance of the central database, and ensuring high performance and responsiveness to requests from the front-end. You will also be responsible for integrating the front-end elements built by your co-workers into the application. Therefore, a basic understanding of front-end technologies is necessary as well.
+
+ What will you be doing?
+Integration of user-facing elements developed by front-end developers with server-side logic
+Writing reusable, testable, and efficient code
+Design and implementation of low-latency, high-availability, and performant applications
+Implementation of security and data protection
+Develop CI/CD pipelines to support your development efforts
+Manage change control within the product life cycle.
+Identify design improvements and value engineering opportunities.
+Attend design reviews and project technical progress meetings.
+
+What about you?
+Exceptional spoken English and communication skills
+At least 5+ years writing back-end code using NodeJS
+Highly familiar with best practices AWS API development using core services: EC2, Lambda, RDS, API Gateway, ELB
+Familiarity with CICD and workflow automation for developing APIs on AWS
+Strong proficiency with JavaScript and TypeScript
+Strong understanding of MVC design patterns and microservice architectures
+Mobile app development experience is a plus
+Experience delivering robust APIs using Express
+Understanding the nature of asynchronous programming and its quirks and workarounds
+Good understanding of server-side templating languages such as Jade
+Good understanding of server-side CSS preprocessors
+Basic understanding of front-end technologies, such as HTML5, and CSS3
+Understanding accessibility and security compliance
+User authentication and authorization between multiple systems, servers, and environments such as Oauth
+Integration of multiple data sources and databases into one system
+Understanding fundamental design principles behind a scalable application
+Understanding differences between multiple delivery platforms, such as mobile vs. desktop, and optimizing output to match the specific platform
+Creating database schemas that represent and support business processes
+Implementing automated testing platforms and unit tests
+Proficient understanding of code versioning tools, such as Git
+
+What can Mitrais offer you?
+A CAREER, not a JOB!
+Competitive salary
+Excellent working environment, with the possibility to relocate to our regional offices and work remotely
+Free English classes, English is our working language
+Lots of opportunities to improve your competencies on our technical boot camps, certification programs, and soft skills training courses
+Hackathons with big prizes!
+
+Learn about life at Mitrais from our current team by searching #mitraislife on your social media.
+
+Please note that all activities included in the recruitment processes are free of charge. Beware of online scams such as persons posing to represent the Mitrais Recruitment Team or other recruiting-related personnel by sending unsolicited text messages and emails asking you to provide personal information, transfer money, or do any other specific activities.
+
+To Apply!
+Simply click the apply button, complete the form and upload your latest CV in English! What are you waiting for?"
