@@ -266,7 +266,7 @@ func ClickJob(driver *selenium.WebDriver, jobName string) error {
 
 func extractAboutTheJob(driver *selenium.WebDriver, newJob *types.Job) error {
 	// Find the element containing the job details
-	aboutTheJob, err := (*driver).FindElement(selenium.ByCSSSelector, "#job-details > span")
+	aboutTheJob, err := (*driver).FindElement(selenium.ByCSSSelector, "#job-details > div")
 	if err != nil {
 		return err
 	}

@@ -1,0 +1,936 @@
+id,title,job_url,company,company_link,location,published_at,number_of_applicants_applied,employment_duration,work_location_type,work_experience_level,company_type,company_logo,company_description,about_the_job
+3812317684,Software Engineer,https://www.linkedin.com/jobs/view/3812317684,PLS,https://www.linkedin.com/company/pls-asia-software/life,Indonesia,,0,,,,,https://media.licdn.com/dms/image/D560BAQHT9QVNOaOgDA/company-logo_100_100/0/1697471294252?e=1721865600&v=beta&t=Go4upExrPPFgh7b7oLbKFeLe_otzB7Rlsi84bHnoNpk,,"PLS Pte Ltd is a dynamic company committed to delivering innovative solutions across diverse industries. Our vision is to lead globally by creating impactful solutions, while our mission is to provide exceptional value through expertise, collaboration, and creativity. We offer various services, including custom software solutions, cutting-edge technology, consulting, project management, and quality assurance. Our strengths lie in innovation, expertise, customer-centricity, and integrity. Join us to transform challenges into opportunities and drive growth together.
+
+The Role
+
+You Will Be Responsible For
+
+ Software Development: Design, develop, and maintain robust software solutions using C# API and JSON technologies.
+ Remote Collaboration: Thrive in a remote work environment, actively participating in virtual meetings, collaborating with cross-functional teams, and demonstrating strong communication skills.
+ Documentation: Create and maintain comprehensive technical documentation for software applications, ensuring clarity and accessibility.
+ Problem-Solving: Analyze user requirements and provide effective, scalable solutions to meet project needs.
+ Code Quality: Conduct regular code reviews to ensure high-quality, efficient, and maintainable code.
+
+Ideal Profile
+
+ Proven track record in software development with a minimum of 2 years of hands-on experience.
+ A degree in Computer Science, Software Engineering, or a related field.
+ Strong proficiency in C# API development and JSON. Experience with additional technologies is a plus.
+ Ability to excel in a remote work environment, demonstrating self-motivation and effective time management.
+ A proactive and analytical mindset with a focus on delivering effective solutions.
+ Excellent verbal and written communication skills to facilitate collaboration in a virtual setting.
+ Ability to work collaboratively within a team, fostering a positive and inclusive work culture.
+
+What's on Offer?"
+3714146391,Lead Software Engineer (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3714146391,Agoda,https://www.linkedin.com/company/agoda/life,"Bali, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1721865600&v=beta&t=V_9iYXOC4Z9RgfBtEEdqYoha7IVeGlPKyJA8fk129to,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team:
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Aerospike, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity:
+
+Agoda Platform team is looking for developers to work on mission critical systems that deals with the designing and development of a system that serves millions of users a day.
+
+What you’ll Need to Succeed:
+
+8+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala and Java
+A minimum of one year of experience with Scala
+You have RDBMS knowledge (SQL Server, Oracle, MySql or other)
+You have a Good command of the English language
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+
+It’s Great if you have:
+
+Knowledge in one or more of the following: NoSQL (especially, but not only Cassandra), Queueing system experience (Kafka, RabbitMQ, ActiveMQ, MSMQ), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3886633947,"Staff Data Engineer (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3886633947,,https://www.linkedin.com/company/agoda/life,"Bandung, East Java, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1721865600&v=beta&t=V_9iYXOC4Z9RgfBtEEdqYoha7IVeGlPKyJA8fk129to,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com
+…
+show more","About Agoda 
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+About Agoda
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world
+
+Get to Know Our Team
+
+The Data department oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+Why Agoda Data Applications Team?
+
+Our Data Engineering teams are at the intersection of business analytics, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, computation and data governance at tens of PB Scale.
+
+We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with data products/tools, shared frameworks and data services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world.
+
+We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to
+
+Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing Data systems
+Build, administer and scale data processing pipelines
+Be comfortable navigating the following technology stack: Scala, Spark, java, Golang, Python3, scripting (Bash/Python), Hadoop, SQL, S3 etc
+Improve scalability, stability, accuracy, speed and efficiency of our existing data systems
+Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality
+Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks 
+
+What You’ll Need To Succeed
+
+Bachelor’s degree in Computer Science /Information Systems/Engineering/related field
+5+ years of experience in Data engineering
+Good experience in Apache Spark
+Expert level understanding of JVM and either Java or Scala
+Experience debugging and reasoning about production issues is desirable
+A good understanding of data architecture principles preferred
+Any other experience with Big Data technologies / tools
+SQL experience
+Analytical problem-solving capabilities & experience
+Systems administration skills in Linux
+
+It’s great if you have
+
+Good understanding of Hadoop ecosystems
+Experience working with Open-source products
+Python/Shell scripting skills
+Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #budapest #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #osaka #malta #amsterdam #oslo #warsaw #krakow #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4 #bangalore #delhi #hyderabad #pune #singapore #beijing #shanghai #shenzhen #tokyo #seoul #hongkong #taipei #kualalumpur #jakarta #hochiminh #hochiminhcity #manila #instanbul #makati #dubai #riyadh #gurgaon #noida
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3780362852,Principal Software Engineer Back End (Bangkok based – Relocation provided),https://www.linkedin.com/jobs/view/3780362852,Agoda,https://www.linkedin.com/company/agoda/life,"Bali, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1721865600&v=beta&t=V_9iYXOC4Z9RgfBtEEdqYoha7IVeGlPKyJA8fk129to,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know Our Team
+
+In Agoda’s Back End Engineering department, we build the scalable, fault-tolerant systems and APIs that host our core business logic. Our systems cover all major areas of our business: inventory and pricing, product information, customer data, communications, partner data, booking systems, payments, FinTech and more. These mission-critical systems change frequently with dozens of releases per day, so we must employ state-of-the-art CI/CD and testing techniques in order to make sure everything works without any downtime. We also ensure that our systems are self-healing, responding gracefully to extreme loads or unexpected input. In order to accomplish this, we use state-of-the-art languages like Scala and Go, data technologies like Kafka and Spark, and agile development practices. Most importantly though, we hire great people from all around the world and empower them to be successful. Whether it’s building new projects like Flights and Packages or reimagining our existing business, you’ll make a big impact as part of the Back End Engineering team.
+
+The Opportunity
+
+You might call yourself “full stack” or “back end” or you might consider yourself an authority in a certain field, but you have a keen interest in how the different systems work together.
+
+We’d love to hear from you if you are skilled in any of the technologies we work with (note – we are not looking for you to have them all). We are interested in speaking to persons of any level from individuals just starting their IT careers to experts in their field, although this particular position is better suitable to veteran engineers, with expertise in certain technologies, and especially those that had lead projects, initiatives and/or teams.
+
+In This Role, You’ll Get to
+
+Think and own the full life cycle of our products, not just a single piece of code – from business requirements, technology selection, coding standards, agile development, unit and application testing, to CI/CD and proper monitoring
+Design, develop and maintain platforms across the back end area
+Improve scalability, stability, and efficiency of our existing systems
+Write great code and help others write great code
+Collaborate with other teams and departments
+
+What You’ll Need To Succeed
+
+12+ years’ experience under your belt developing performance-critical applications that run in a production environment using Scala, Java or C#
+Experience in leading projects, initiatives and/or teams, with full ownership of the systems involved
+Data platforms like SQL, Cassandra or Hadoop. You understand that different applications have different data requirements
+Good understanding of algorithms and data structures
+Strong coding ability
+You are passionate about the craft of software development and constantly work to improve your knowledge and skills
+Excellent verbal and written English communication skills
+
+It’s Great If You Have
+
+Experience with Scrum/Agile development methodologies
+Experience building large-scale distributed products
+Core engineering infrastructure tools like Git for source control, TeamCity for Continuous Integration and Puppet for deployment
+Hands-on experience working with technology like queueing systems (Kafka, RabbitMQ, ActiveMQ, MSMQ), Spark, Hadoop, NoSQL (Cassandra, MongoDB), Play framework, Akka library 
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador #IT #4 #5
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3866192036,"Principal Software Engineer, Full Stack (Bangkok based, relocation provided)",https://www.linkedin.com/jobs/view/3866192036,Agoda,https://www.linkedin.com/company/agoda/life,Jakarta Metropolitan Area,,0,,,,,https://media.licdn.com/dms/image/C4D0BAQGBa_7QNZNwpw/company-logo_100_100/0/1656643826660/agoda_logo?e=1721865600&v=beta&t=V_9iYXOC4Z9RgfBtEEdqYoha7IVeGlPKyJA8fk129to,"Agoda is transforming travel for millions of customers across the globe.
+
+Headquartered in Asia, Agoda is one of the world’s largest online travel platforms. Founded in 2005 and now part of Booking Holdings (Nasdaq:BKNG), Agoda has a network of over 2,900,000 properties worldwide. Our web and mobile products provide a first-rate reservation service in 38 languages that uniquely combines local knowledge and local connections to provide the best deals for business and leisure travelers.
+
+Agoda employs over 7,000 professionals from 90 nationalities in locations around the globe. In every department – from engineering to customer experience – we provide an environment rich with creativity, collaboration, and experimentation, and the tools to work faster and smarter.
+
+At Agoda, we believe our people are our strength. We work hard and have fun, and we choose people who are dedicated to making things great.
+
+For properties seeking partnership with Agoda, visit https://connect.agoda.com","About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+ Our Purpose –  Bridging the World Through Travel 
+
+We believe travel allows people to enjoy, learn and experience more of the amazing world we live in. It brings individuals and cultures closer together, fostering empathy, understanding and happiness.
+
+We are a skillful, driven and diverse team from across the globe, united by a passion to make an impact. Harnessing our innovative technologies and strong partnerships, we aim to make travel easy and rewarding for everyone.
+
+Get to Know our Team:
+
+The Full Stack Engineering Department builds the Agoda web and app products. We have several teams in front-end focusing on different aspects of our products including accommodations, flights, payments, marketing, post-booking services, and more. Agoda’s marketplace is the world. We build localized and optimized user experiences at scale on every major internet platform. These include our mobile websites, native apps, and desktop sites. We hire people from around the world who have a passion for using technology to create and implement the best user experiences. Our teams work on the full stack and build end-to-end systems including user interfaces, APIs, backend systems, and database systems. Our products are always evolving and under experimentation. We accomplish this by having an amazing degree of automation, CI/CD systems, and use a modularized approach. As we are data driven and measure our results, we continually innovate and improve our work. We are looking for the next great talent who strives to learn and grow and has a standard of excellence, strong sense of ownership, and great technical skills.
+
+The Opportunity:
+
+Principal Software Engineer plays a pivotal role in our technology organization, collaborating closely with individual contributors and senior leadership. Our Principal engineers are heavily involved in the hiring and mentoring process and the go-to experts who design and implement new systems and components. We are seeking individuals who are passionate about taking on greater responsibilities and driving significant architectural changes at Agoda. It’s expected that our Principal Software Engineers will lead Agoda forward technically by adopting new technologies and setting higher standards.
+
+In this Role, you’ll get to: 
+
+ Maintain ownership and responsibility of mission critical systems 
+Be hands on – build high volume platforms using cutting-edge technologies like React and GraphQL
+Mentor and coach other software engineers
+Be a major contributor to our agile and scrum practices
+Design and lead crucial technical projects and initiatives cross teams and departments
+Stay on the leading edge of technical know-how, industry trends and drive technical innovations
+
+What you’ll Need to Succeed:
+
+ 12+ years of experience building large-scale web applications 
+ Expertise in client-side technologies & frameworks (JavaScript/TypeScript, React) and modern server-side technologies (C#, .NET, Kotline, Java) 
+ Bachelor’s degree with a preference for Computer Science degree; a master’s degree is preferred. Alternatively, a minimum of 10 years of experience in the relevant field is acceptable 
+ Working experience with agile, analytics, A/B testing and/or feature flags, Continuous Delivery, Trunk-based Development 
+You love new technologies and approaches and want to use the best tools available. We want people who can help us continually evolve our stack
+Great communication and coordination skills
+Excellent analytical thinking and problem-solving skills
+You have a good command of the English language
+
+It’s Great if you have:
+
+ Knowledge in physical architecture at scale, building resilient, no single point of failures, highly available solutions 
+ Knowledge in one or more of the following: NoSQL technologies (Cassandra, ScyllaDB, ElasticSearch, Redis, DynamoDB, etc), Queueing system experience (Kafka, RabbitMQ, SQS, Azure Service Bus, etc.) 
+Working Experience with Containers and Dockerization, also K8S is a plus
+Knowledge and hands on experience in CI/CD solutions would be a plus
+Strong experience in all aspects of client-side performance optimization
+Extremely proficient in modern coding and design practices. For example, Clean Code, SOLID principals, and TDD
+Experience in multiple front-end platforms including iOS, Android, Web, and API services
+Have worked on an app or internet company that is at scale with large numbers of users and transactions per second
+Have experience in a data driven company with experience analyzing and working with Big Data
+Lead teams and greenfield projects solving large system problems
+Worked on global projects serving world markets with distributed data centers and localization of the front end and data
+
+#IT #4 #5
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #tokyo #osaka #kualalumpur #amsterdam #oslo #manila #warsaw #krakow #bucharest #moscow #saintpetersburg #capetown #johannesburg #seoul #barcelona #madrid #stockholm #zurich #taipei #bangkok #Phuket #istanbul #london #manchester #edinburgh #kiev #hcmc #hanoi #wroclaw #poznan #katowice #rio #salvador
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes."
+3814774966,IT DEVELOPER,https://www.linkedin.com/jobs/view/3814774966,Integrasi Logistik Cipta Solusi,https://www.linkedin.com/company/integrasi-logistik-cipta-solusi/life,"Jakarta, Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C560BAQFP69qZIkSztA/company-logo_100_100/0/1673054052901?e=1721865600&v=beta&t=LZcvcKlsMcgwW7zxNA_LPQm85wA1lj-o96XSFgx0LSI,"ILCS (Integrasi Logistik Cipta Solusi) is Indonesia leading Digital Seaport and Maritime Logistics Solution company. Subsidiary of PT Pelabuhan Indonesia (Persero). ILCS uniquely placed to undertake Port Logistics Modernisation with utilise Information and Communication Network along with Technologies and Port & Logistics stakeholders. ILCS has solution across 10 port in Indonesia and many to comes and several solution in Electronic Payment, Supply Chain Solution and ICT Implementation, many of which are in collaboration with Logistics, Port, Technology and Financial stakeholder with complementary capabilities.","Key Responsibilities
+
+Develop new web applications or customize existing applications 
+Learn new skills needed in the application development process 
+Doing problem solving with the team in a project. 
+
+Qualifications, Experience and Skills 
+
+Minimum S1 majoring in Informatics Engineering or Information Systems and other related fields, with 1-2 years work experience 
+Required skill(s): PHP / HTML / CSS / PLSQL / JAVASCRIPT / WSDL. 
+Have experience in Web Development using MVC Framework 
+At least have 1-2 years work experience in the same field. 
+Willing to Shifting 
+Have strong analytical thinking. 
+Have the ability to work in a team. 
+Have a desire to learn something new"
+3884169338,Fullstack Developer,https://www.linkedin.com/jobs/view/3884169338,FUSE GROUP,https://www.linkedin.com/company/fuse-group-indo/life,"Tanah Abang, Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C560BAQEm2lz6YmjqiA/company-logo_100_100/0/1630664191199/fuse_group_indo_logo?e=1721865600&v=beta&t=3zYAdWYYJQg0r0qu7ImOFdOU451csJ3u2nd-9biJR7I,"FUSE is an insurtech platform that connects various insurance products from many insurance companies with multiple distribution means, channels, or partners. We deploy the latest cutting edge technology to make insurance easy and affordable for anyone. Our platform support primarily 3 business models, namely Business-To-Agents/Brokers (B2A), Business-To-Customers (B2C), as well as Micro Insurance (B2B2C).
+
+Our FUSE Pro App is tailor-made for B2A business. This App enables anyone to become an independent insurance consultant to act like an expert; to instantly curate the most suitable and best insurance products for their customers. Our B2B2C model support digital small ticket size insurance products, making insurance affordable for everyone.
+
+FUSE is trusted by channel partners such as Tokopedia, Grab, 30+ insurance companies, along with 100,000+ registered partners. FUSE currently generates more than 2.5 million insurance policies each month.
+
+We have more than 400 teammates, with 24 branches, across 4 countries, we strive to be the #1 insurtech platform in SEA and make insurance available for everyone in the region.","We are currently building the #1 Insurtech in Southeast Asia that helps people to reach insurance in the most efficient way. Therefore we need talent with great potential like you to join this growing organization, learning the right skills and also building great teams to reach our goals.
+
+Responsibilities
+
+Maintained, analyzed, and developed a design system based on user requirements.
+Responsible for developing, improving, or maintaining our frontend and backend applications
+Developing features to enhance the user experience
+Effectively communicate and collaborate with others with our development team to ensure system consistency and to create a great user experience
+
+Qualifications
+
+ Strong understanding of PHP, C#, .Net, ASP.NET, SQL, Git, MySQL, HTML, CSS, JavaScript.
+Familiarity with database technology such as MySQL, Oracle, and MongoDB.
+Excellent verbal communication skills.
+Good problem-solving skills
+
+About FUSE
+
+Fuse is a breakthrough company in the insurance industry. We provide one app for various insurance product types from numerous well-known and trusted insurance companies. We have expanded our business not only in Indonesia but also China and Vietnam, and are planning on an even bigger expansion to grab markets from other Southeast Asia countries.
+
+Our vision is to deploy the latest cutting-edge technology that enables everyone to buy, claim, or sell all kinds of insurances easily and instantly.
+
+Our mission is to be an insurance technology/platform partner that allows all online/offline channel partners to sell multiple insurance products from multiple insurance companies online in real-time.
+
+Fuse is committed not only to make insurance easily available for everyone but also to spread awareness about the importance of having financial plans and protection through insurance.
+
+More About FUSE
+
+FUSE Group LinkedIn
+
+Instagram @lifeatfuse"
+3903658856,Dotnet Developer,https://www.linkedin.com/jobs/view/3903658856,Binar Academy,https://www.linkedin.com/company/binar-academy/life,Jakarta Metropolitan Area,,13,,,,,https://media.licdn.com/dms/image/C560BAQEBEZeoowry3A/company-logo_100_100/0/1657875033201/binar_academy_logo?e=1721865600&v=beta&t=ecdp3qVUusf5ULc0YiYeJDO77_zhzxL0SxzJdYtmKOc,"BINAR was born in 2017 to advance Indonesia’s technology ecosystem. Our mission is to solve digital talent gap by upskilling and job matching.
+
+We support people to build a career in digital industry or upskilling into digital related roles with the knowledge and skills needed to thrive through a structured learning journey and multiple learning styles to ensure each learner can reach mastery through their own preferred way.
+
+Our upskilling programs are designed to provide learners with first-hand exposure to the real world and prepare them with skills critically needed by the industries in this fast-changing digital era.
+
+Also, we help students and companies to connect and build great teams.
+Fueled by industry change, BINAR for Business helps companies achieve critical business outcomes and stay competitive by offering relevant and personalized learning experiences.
+
+Advance your career, show off your skills, grow your business and get ready to #SelangkahDiDepan with BINAR.
+
+Learn more about us:
+Website: www.binaracademy.com
+Instagram: @academybinar
+Youtube: https://www.youtube.com/binaracademy
+
+BINAR Apps is available on the Google Play store and iOS. Download BINAR app on:
+- Apple Store: https://bit.ly/BinarAppsAppStore
+- Google Play Store: https://bit.ly/BinarAppsPlayStore","Binar Academy aims to unlock and channel human potential so we can help the world turn into a better place. One of the ways we strive to do that is to channel potential talents to impactful opportunities using our very own job connector, Binar Job Connect.
+
+Binar Job Connect has connected up to 250 talents and candidates; whether it be young and aspirational fresh graduates to tech-savvy team leaders, individuals who decided to start from scratch, and junior engineers to skilled product managers to our experienced hiring partners. Binar Job Connect provides various options for employment, as we intend that everyone processed by us can choose the best career track for them.
+
+We are currently looking for a Dotnet Developer for our hiring partners: Adins and Devshore Partners
+
+Requirements:
+Bachelor’s Degree in Computer Science / Information System with GPA > 3,00
+Have experience with ASP.NET, C# .NET, SQL Server is preferred
+In-depth knowledge of programming for diverse operating systems and platforms using development tools
+Excellent understanding of software design and programming principles
+Strong passion on IT industry
+Understand OOP Concepts is preferred
+A team player with excellent communication skills
+Self-motivated and good attitude
+Have curiosity to explore and learn new things
+Fresh graduates and High School graduate are welcome to apply
+
+Job Descriptions:
+Developing and implementing web applications
+Optimizing web applications
+Write clean, testable and maintainable code
+Perform unit and integration testing before launch
+Conduct functional and non-functional testing
+
+We look forward to seeing your CV!"
+3904274542,Software Engineer (Backend) - Consumer Lending,https://www.linkedin.com/jobs/view/3904274542,GoTo Financial,https://www.linkedin.com/company/gotofinancial/life,"Jakarta, Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C560BAQHPU9PayrTw7w/company-logo_100_100/0/1630657318517/gotofinancial_logo?e=1721865600&v=beta&t=gX5gaOIsbW9V1cdUh2UtDlA57xdECkn84Xw_SlW532o,"We are GoTo's fintech pillar. Together with @Gojek and @Tokopedia, we are a part of @GoToGroup - Indonesia’s largest technology ecosystem and #TIME100 most influential companies in 2022.
+
+With operations in Indonesia, India, Singapore and Vietnam, together we are accelerating financial inclusion through our leading financial services and merchants solutions. The brand’s trusted and inclusive ecosystem of products is built to open new growth opportunities and empower everyone to realize their dream of a better life in the rapidly expanding digital economy.
+
+Our consumer services include GoPay and GoPayLater, a leading digital wallet and financial services platform. GoTo Financial also serves businesses of all sizes, from Micro, Small and Medium Enterprises (MSMEs) to startups and large corporations, through Midtrans - a leading payment gateway, Moka and GoBiz Plus - the region’s largest POS networks, and GoBiz and Selly - platforms that enable online efficiency and competitiveness.
+
+Read more about #GoToFinancial #unlockingpotential on https://gotofinancial.com/
+
+We are #hiring! Check https://www.gotofinancial.com/en/join-us
+
+============
+
+*IMPORTANT*
+GoTo Financial is affiliated to the GoTo Group companies, and all authentic jobs/open positions listed by GoTo Financial can ONLY be accessed via our official channels -- GoTo Financial on LinkedIn, GoTo Financial on Glassdoor, and https://gotofinancial.com/en/join-us. In case you are contacted by our Talent Acquisition team, please ensure that the communication is coming from a valid GoTo Financial domain - *****@gopay.co.id. If you are contacted by any third party outside of the authenticated channels highlighted above, please write to us at ethics@gotocompany.com to validate the job/open position. This is to avoid any potential instances of fraud, and to ensure your safety and security during the job application process.","About The Role
+
+We are looking for an experienced Software Engineer to join our engineering team at GoTo Financial. You will be responsible for designing and building high-performance fintech applications. As a senior engineer, you will work on our flagship products across Goto, including Gojek, GoPay, and Tokopedia, ensuring our millions of users get the best experience.
+
+What You Will Do
+
+Responsible for developing Java backend applications for the company, with proficiency in Java language and expertise in mainstream frameworks such as Spring, Spring Boot, MyBatis and MySQL
+Contribute to the full lifecycle of the Middle Platform's core system construction, including requirement analysis, solution design, and iterative system optimization
+
+What You Will Need
+
+Bachelor's degree or above in Computer Science or a related major
+4+ years of Java development experience, those with large-scale project development experience are preferred
+Familiar with mainstream frameworks like Spring, Spring Boot, and MyBatis
+Familiar with Linux operating systems, understand database principles, and proficient in using databases like MySQL and Oracle
+Good coding style and code specifications, and be able to independently complete project development
+Good communication skills and teamwork spirit, and be able to collaborate effectively with other developers
+knowledge of container orchestration technologies like Docker and Kubernetes, and be able to use them for application deployment and management.
+
+About The Team
+
+Our team works to provide responsible and sustainable financial services to millions of Indonesians. Partnering with other teams in Tokopedia and Gojek, we aim to build the best experience for our users looking for a convenient and safe way to access credit. Though we’re spread across Indonesia, India, and Singapore, we enjoy collaborative development with fast feedback cycles and prefer making pragmatic decisions despite working under many business and regulatory constraints. We work in a highly supportive work environment where we never hesitate to help each other out, unblock barriers, and have fun along the way. We love bonding over our catch-up sessions, where we learn about each other's cultures.
+
+About GoTo Group
+
+GoTo Group is the largest digital ecosystem in Indonesia with its mission to “Empower Progress’ by offering technological infrastructure and solutions for everyone to access and thrive in the digital economy. The GoTo ecosystem consists of on-demand transportation services, food and grocery delivery, logistics and fulfillment, as well as financial and payment services through the Gojek and GoTo Financial platforms.It is the first platform in Southeast Asia that hosts these crucial cases in a single ecosystem, capturing the majority of Indonesia’s vast consumer household.
+
+About Gojek
+
+Gojek is Southeast Asia’s leading on-demand platform and pioneer of the multi-service ecosystem with over 2.5 million driver partners across the regions offering a wide range of services such as transportation, food delivery, logistics and more. With its mission to create impact at scale, Gojek is committed to resolving consumer problems and raising standards of living by connecting consumers to the best providers of goods and services in the market.
+
+About GoTo Financial
+
+GoTo Financial accelerates financial inclusion through its leading financial services and merchants solutions. Its consumer services include GoPay and GoPayLater and serve businesses of all sizes through Midtrans, Moka, GoBiz Plus, GoBiz, and Selly. With its trusted and inclusive ecosystem of products, GoTo Financial is open to new growth opportunities and aims to empower everyone to Make It Happen, Make It Together, Make It Last.
+
+GoTo and its business units, including Gojek, GoToFinancial and GoToLogistics (""GoTo"") only post job opportunities on our official channels on our respective company websites and on LinkedIn. GoTo is not liable for any job postings or job offers that did not originate from us. You should conduct your own due diligence to prevent being victims of any fake job scams, if they did not originate from GoTo's official recruitment channels."
+3765737223,Front-end Developer (Web),https://www.linkedin.com/jobs/view/3765737223,Sagara Technology,https://www.linkedin.com/company/sagara-asia/life,"Bandung, East Java, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C4E0BAQG4P7fOuax6oQ/company-logo_100_100/0/1631321068847?e=1721865600&v=beta&t=SNeS0aV9Be3kcT5AK2Mlv2e8Io0bWBPkR4x5EiUyRBg,"Sagara Technology is an industry-leading software development proficient in delivering web and mobile IT solutions, outsourced product engineering services, and a digital marketing agency to help enterprises reinvent their objectives for the digital age.
+
+Nine years of implementing more than 150 projects, this experience provides Sagara with a great basis for a thorough understanding of processes at all project development stages. Sagara fulfills to establish complete and stable products of any complexity on the market, irrespective of its purpose.
+
+Indonesia: PT. Sagara Asia Teknologi
+Singapore: Sagara Technology Singapore Pte. Ltd","Use markup languages like HTML to create user-friendly web pages 
+Maintain and improve website 
+Optimize applications for maximum speed 
+Design mobile-based features 
+Collaborate with back-end developers and web designers to improve usability 
+Get feedback from, and build solutions for, users and customers 
+Write functional requirement documents and guides 
+Create quality mockups and prototypes 
+Help back-end developers with coding and troubleshooting 
+Ensure high quality graphic standards and brand consistency 
+Stay up-to-date on emerging technologies"
+3901997854,Java Developer (Technical Consultant),https://www.linkedin.com/jobs/view/3901997854,Verint,https://www.linkedin.com/company/verint/life,Jakarta Metropolitan Area,,36,,,,,https://media.licdn.com/dms/image/D4E0BAQGnCwhFldNSjw/company-logo_100_100/0/1689013379807/verint_logo?e=1721865600&v=beta&t=NQ_ufbRjsIgjljpF9yde3HgdhckYn7Fkp1tVj5GT35U,"Verint® helps the world’s most iconic brands build enduring customer relationships by connecting work, data, and experiences across the enterprise. With this approach, brands can navigate and thrive as they adapt to the future of work, eliminate the inefficiencies created by organizational and data silos, and consistently deliver differentiated experiences at scale across every interaction.
+
+Our solutions help brands close the gap created when they lack the resources required to deliver experiences that fulfill customer expectations. Closing this Engagement Capacity Gap™ helps them build lasting relationships with customers and drive real business results.
+
+The Verint Customer Engagement Platform draws on the latest advancements in artificial intelligence and analytics, open integration, and the science of customer engagement to meet ever-increasing, ever-shifting consumer interactions and demands. We help our customers to drive even greater value from their technology investments by working closely with a broad ecosystem of solutions and partners.
+
+With Verint, brands can finally unlock the potential of customer engagement across every area of the business to deliver consistently differentiated experiences to their customers and employees, and do so at scale to realize tangible business results.
+
+Global Presence
+• Headquartered in Melville, N.Y., with 40+ offices worldwide
+• Powered by 4,500 dedicated professionals and a global partner network
+
+Closing the Engagement Capacity Gap
+
+Brands today are challenged to deliver quality customer experiences across dozens of engagement channels, hundreds of customer journeys, and millions of interactions – all with the same team and resources. This results in an Engagement Capacity Gap.
+
+Verint solutions are uniquely geared toward closing this gap.
+
+More than 10,000 organizations in over 175 countries—including more than 85 percent of the Fortune 100 — rely on Verint.
+
+
+To learn more, visit: www.verint.com","Experience
+
+Bachelor's degree in Computer Science or equivalent
+Min. 3 years hand-on experience with Java Spring Boot Framework and API for integration
+Good ability in English (Oral & Written)
+For Indonesian Citizen Only (WNI)
+
+Responsibility
+  Participate in analysis & design sessions often involving architect group and product management team
+Develop high quality, robust and scalable API and adaptors to external system within agreed timescale
+Communicating status, issues, and risk to technical leader"
+3790100167,Site Reliability Engineer (Marketplace) - Sea Labs,https://www.linkedin.com/jobs/view/3790100167,Sea,https://www.linkedin.com/company/seagrp/life,"Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C560BAQEAIrDkWI_p6g/company-logo_100_100/0/1631341864429?e=1721865600&v=beta&t=guW6dUGwOUqas_A4h9KWZAJMcu79JIKdPb5HK9Mhrn8,"Sea is the leading consumer internet company in Southeast Asia and Taiwan. Our mission is to better the lives of the consumers and small businesses of our region with technology.
+
+Our businesses include:
+
+Shopee, our region’s largest and most popular e-commerce platform. Launched in 2015, Shopee was designed to be mobile-first and highly social, offering buyers and sellers a trusted and enjoyable shopping experience. In 2018, Shopee recorded over 603 million orders, and GMV of $10.3 billion. Shopee was also the most downloaded shopping app in Southeast Asia and in Taiwan.
+
+Garena, a global leading games company. Garena is the developer of Free Fire, the global smash hit mobile battle royale game with over 450 million registered users and 50 million peak daily active users as of May 2019, making it one of the most popular games in the world. Garena is also the largest games publisher in the region, bringing AAA mobile and PC titles such as Arena of Valor, League of Legends, and Speed Drifters to gamers in Southeast Asia. Garena also leads the growth of esports in our region. Its annual flagship event, Garena World, is the largest and most influential esports event in Southeast Asia.
+
+SeaMoney, a leading digital payments and financial services provider in Southeast Asia. SeaMoney’s offerings include mobile wallet services, under the AirPay and ShopeePay brands, which provide users with easy access to digital payment services.
+
+Sea is headquartered in Singapore, and listed on the New York Stock Exchange under the ticker symbol ‘SE’. Our IPO in October 2017 was the largest US public listing ever by a Southeast Asian technology company.","Job Description:
+
+Deep dive into development lines, learn and understand the mechanism of every application component, and promote product scalability, stability, and performance
+Set up, manage, and maintain Shopee product/middleware/big-data applications and services
+Perform regular and ad-hoc server-side deployments, make improvements of the performance, and troubleshoot
+Design and develop automated technical operation platform
+Manage Capacity and Resource
+Responsible for the full-chain stress test to enhance the performance and remove redundancy of applications
+Prepare routine operation documentation
+
+
+Requirements:
+
+Bachelor's degree or above in Computer Science, Engineering, Information Systems or related fields
+More than 2 years of relevant experience (candidates with no working experience are welcomed to apply)
+Extensive and hands-on knowledge with Linux operating systems (Ubuntu, CentOS, etc.)
+Highly familiar with Computer Network (TCP/IP, DNS, etc.), Computer Organisations, and OS
+Hands-on experience with at least one of the programming languages: Bash, Python, Go
+Strong analytical and problem-solving skills with the ability to thrive in a dynamic work environment
+Passionate and possess a strong sense of responsibility
+Fast learning ability and a good team player
+Agile and detail-oriented
+
+
+Skills below are optional but preferred:
+
+Experience with automation tools like Ansible, SaltStack
+Experience with monitoring tools like Prometheus, Zabbix, Grafana etc 
+Experience with load balancing tools like LVS, Nginx, Openresty or HAProxy 
+Experience with container technology such as Docker, Kubernetes
+Experience with High Availability system design and Server Deployment Process
+Experience with SRE
+Experience with Ops Paas platform or Ops automation platform (ie:CMDB)"
+3869494701,Software Developer (Project Based),https://www.linkedin.com/jobs/view/3869494701,Lintasarta,https://www.linkedin.com/company/lintasarta/life,"Jakarta, Indonesia",,100,,,,,https://media.licdn.com/dms/image/C4D0BAQF3SGsOQnRjVg/company-logo_100_100/0/1630536135163/pt_aplikanusa_lintasarta_logo?e=1721865600&v=beta&t=Iz4qjPP9Lu4apApgQ_gvbkRGmkazKo25ncsPDCmwOMw,"Lintasarta is an Information and Communication Technology (ICT) total solutions company founded in 1988. We have enabled companies to grow beyond their capabilities regarding digital transformation. For over three decades, we have become a pioneer in many services for all industry segments, including finance, resources, government, manufacturing, services, trading/distribution, etc.
+
+We are proud to serve more than 2.400 corporate clients and we will continue evolving to keep delivering services and solutions in each industry. We are supported by certified experts and local support that encourage our growth to enhance businesses and government performance in accelerating digital transformation.
+
+The challenge upon us is unforeseeable, but our commitment to bring connectivity and empower people and the nation remains steady. Lintasarta #EmpoweringYourFuture","Job Qualification:
+Have experience min. 3 years in build development system, design, analyst
+Have experience with stack such as Java
+Have experience using Spring, Springcloud, SpringBoot, SpringMVC for framework
+Have experience using mysql\oracle for databases
+Have in-depth experience in using and optimizing various open source for Backend
+Have good knowledge about animation for front-end
+Placement: DKI Jakarta"
+3889717718,Software Engineer (Backend) - Intern,https://www.linkedin.com/jobs/view/3889717718,Peakflo (YC W22),https://www.linkedin.com/company/peakflo/life,Indonesia,,0,,,,,https://media.licdn.com/dms/image/D4D0BAQFRxgQs49c2Dg/company-logo_100_100/0/1704179942629/peakflo_logo?e=1721865600&v=beta&t=rbGNRJZSeuco9Ciw46iyZ-YEQjukwRLBIe_2q7FqsdI,"Peakflo with its simple API and one-click ERP integrations, allows businesses to streamline their invoice-to-cash and procure-to-pay processes. 100+ finance teams, from scale-ups to enterprises, use Peakflo each to:
+
+✅ Save 2000 man-hours/month on finance ops
+✅ Get paid faster on customer invoices by 15-25 days
+✅ Cut vendor bill payment time by 50%
+✅ Automate three-way matching","Peakflo is a B2B Fintech SaaS startup part of YCombinator W22, that just raised $4.1M in seed funding and was picked by Techcrunch as their top 10 favorites out of a cohort of 400 and also in a TechCrunch exclusive
+
+🚀 Who We Are And What We’re Building
+
+Peakflo is a 2021 founded, Singapore headquartered B2B Fintech SaaS startup
+
+Finance operations at any high-growth SMB or startup is plagued with resource-intensive customer collections and vendor payment processes. Teams spend hundreds of hours in manual processes and thousands of dollars on transaction fees each month
+
+Peakflo has 2 key solutions: one is an Accounts Receivables Automation SaaS and the other is an Accounts Payable Automation SaaS, both targeted at startups and SMEs
+
+Peakflo With Its Simple API And One-click Accounting Software Integrations, Allows Businesses To Streamline Their Customer Collections And Vendor Payments. More Than 100 Companies, Ranging From Early-stage Startups To Unicorns In SE Asia, Use Peakflo Each Week To
+
+✅Save 100 hours/month on finance ops ⏳
+
+✅Get paid faster on customer invoices by 10-20 days 📈
+
+✅Streamline vendor payments and save 50-90% on fees 💰
+
+⚙️ Engineering at Peakflo
+
+We are looking for quick-thinking, problem-solving frontend engineers to build the next generation of fintech products. Our SaaS product is built using typescript, next.js, react.js and wordpress.
+
+You should apply if you are interested in pixel-perfection and frontends; if you are looking to join a high-growth high-pace startup with great engineering culture; if you want to work in a passionate high-skilled team.
+
+💪 What you’ll do
+
+ Work directly with the CTO & Founder to help shape our product and culture. 
+ Design and build new features, simplify existing services, and scale our systems as we rapidly grow and evolve. 
+ Build beautiful pixel perfect frontends. 
+ Write sustainable, testable, high-quality, high-performance code. 
+ Write scalable, observable, and fault-tolerant features. 
+ Work with our technology stack: Typescript, firebase, GCP, cypress, jest, github, github actions. 
+ Collaborate with teammates through planning, pair programming, code review, and testing. 
+ Partner with members of a cross-functional team and other stakeholders to contribute to setting the direction of our product: learn about our business problems, explore solutions, weigh design tradeoffs, write effective user stories, and prioritise them to deliver maximum value in a sustainable, incremental fashion. 
+
+🕵️‍♀️ Who we’re looking for
+
+ You are excited about building B2B fintech applications
+ You are interested in building complex integrations with 3rd party finance solutions. 
+ You are excited about ensuring that all of our systems—software and human—scale smoothly. 
+ You work transparently and collaboratively within a distributed team. 
+
+💻 What We’re Looking For
+
+ Have experience with Typescript, node.js
+ CS education
+ You enthusiastically approach everything from backend system architecture and API design to HTML/CSS with the same level of respect and intention. You don’t need to be an expert in everything; [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) folks with an emphasis on frontend skills are ideal for this role. 
+ You write code that’s easily readable, testable, and maintainable, with an eye towards baking observability in from the start. 
+
+➕ We’re Particularly Interested In People Who
+
+ Hands-on experience with async backend jobs
+ Strive for continuous learning and improvement for themselves and their teams. 
+ Passionate about sharing knowledge
+ Favor regular, incremental delivery over perfection and have experience balancing high quality with incremental delivery. 
+ Brings strong communication and teamwork skills. 
+
+Benefits
+
+🏡 Remote - We are building a remote friendly culture centered around trust and meritocracy"
+3879286801,Cloud Infrastructure Engineer,https://www.linkedin.com/jobs/view/3879286801,DKATALIS,https://www.linkedin.com/company/dkatalis/life,"Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C4E0BAQEQPE6kBmqrzA/company-logo_100_100/0/1630627927496/dkatalis_logo?e=1721865600&v=beta&t=5Pe9S2uOg-PSzXqe8_hQXCXnAlR7UQCj4lgpLWzkTPE,"DKatalis is a technology company aiming to co-create scalable digital solutions with customers and ecosystem partners. Founded in 2019, DKatalis is collaborating from all around the world, with hubs operating in Jakarta, Singapore and India.
+
+We have created the Jago App to solve financial literacy, AMAAN App to empower women entrepreneurs, and People Xperience App to empower organizations to adapt with rapid changes.","About DKatalis
+DKatalis is a financial technology company with multiple offices in the APAC region. In our quest to build a better financial world, one of our key goals is to create an ecosystem linked financial services business.
+DKatalis is built and backed by experienced and successful entrepreneurs, bankers, and investors in Singapore and Indonesia who have more than 30 years of financial domain experience and are from top-tier schools like Stanford, Cambridge London Business School, JNU with more than 30 years of building financial services/banking experience from Bank BTPN, Danamon, Citibank, McKinsey & Co, Northstar, Farallon Capital, and HSBC.
+We’re looking for a Senior Cloud Infrastructure Engineer to join our team and help build a stable and scale our infrastructure on Google Cloud Platform. If you’re looking to be a part of a team who tackle real-world problems, DKatalis might just be the place for you! Work alongside world-class talents and join us as we use technology to make a change in the financial world.
+Cloud Infrastructure at DKatalis:
+The Cloud Infrastructure Team at Dakalis is a cross cutting engineering team with a mission to grow, support and deliver an agile, secure and scalable cloud infrastructure that powers Bank Jago’s digital banking platform.
+Embracing and adopting modern Cloud Native and Infrastructure as Code as fore front practices, scale up the management and simplification of a complex cloud infrastructure with the goal of scaling a platform that is experiencing rapid growth in the millions of transactions and customers.
+Technologies We Use:
+Cloud Infra: Google Cloud, Kubernetes, Docker
+Devops: Gitlab, Terraform, Ansible, Sonarqube, Sonatype Nexus, Vault
+Datastore and Service Bus: Redis, Mongo, Kafka
+Monitoring: Dynatrace, Prometheus, Grafana, OpenSearch, GCP Monitoring, Pagerduty
+Role and Responsibilities:
+Possess deep knowledge and understanding of Kubernetes and Cloud infrastructure platforms such as GCP and AWS
+5+ years of experience managing technical projects within infrastructure and cloud domains.
+Experience automating infrastructure provisioning, using continuous integration/delivery tools
+Experience in application containerization and deploying container orchestration technologies such as Google Kubernetes Engine (GKE).
+Ability to balance doing things right with fixing things quickly. Flexible and pragmatic, while working towards improving the long-term health of the system.
+You have a strong systems experience and have an analytical approach to identifying problem components based on data points.
+Be passionate about security compliance, zero downtime infrastructure and highly scalable environments
+Be willing to coach, mentor and grow a team of talented cloud infrastructure engineers
+Have good communication skills and be comfortable working with product owners and domain experts to understand requirements
+Oversee end-to-end Platform architecture and roadmap focused on best-practice approaches to design, security, testing, and performance
+Comfortable working cross-functionally to ensure success of the infrastructure and operations. You will be closely collaborating with other engineering and product teams to ensure that expected system behavior is understood and monitoring exists to detect anomalies.
+Lead in-depth technical and data analysis to gauge service trends and drive improvements.
+You are comfortable with on-call responsibility and are able to manage a crisis working with the broader team, communicating progress and challenges during the crisis.
+Participate in continuous improvement and execution of quality and timely major incident root cause analysis and blameless post-mortem activities to ensure we take action to avoid similar problems in the future.
+Requirements:
+You are either a Sysadmin or Infrastructure engineer ideally strong in Linux systems, networking, monitoring and automation; preferably have experience working on distributed systems at scale.
+At least 5 years of hands-on-experience in architecting, designing, developing and implementing cloud solutions on Google Cloud Platform (GCE, GKE, GAE, GCS, Cloud SQL, VPC, Resource Manager, StackDriver, Cloud CDN, Cloud IAM)
+Scripting - Terraform, Bash, Shell, Python (bonus)
+Configuration Management - Chef, Puppet, Ansible etc
+Experience with - Docker, Kubernetes, Gitlab, ELK
+Exposure to relational, no-sql databases and caching solutions - Mongodb, Redis
+Degree in Computer Science, Engineering, or equivalent experience.
+Capable of working in a complex, fast paced environment and ability to maintain calm during stressful situations"
+3841007006,Software Engineer - Backend (Hybrid),https://www.linkedin.com/jobs/view/3841007006,Flip,https://www.linkedin.com/company/flip.id/life,Jakarta Metropolitan Area,,0,,,,,https://media.licdn.com/dms/image/C4E0BAQH_rOf9zXyMDQ/company-logo_100_100/0/1631306719158?e=1721865600&v=beta&t=2httQmCqmoLsKvtMr1EUqxZ6ggvdjO5ZXmpujOECkqk,"We started in 2015 with a belief that fairness should be one thing that can be experienced by everyone. With this thought we created a free interbank transfer service which anyone could use.
+
+Hereinafter, we build more and more to help Indonesia move money, be it for individuals and businesses. We continue to innovate in providing fair financial solutions so that everyone everywhere can do various kinds of money transactions with far better experience, seamlessly, swiftly, and securely.
+
+To build better and better experiences, we’ll need enormous support from determined talent like you. Join our hyper growing team at https://flip.id/career
+
+===================
+
+To learn more about Flip, visit our website: https://flip.id
+
+Connect with us on our social media:
+Instagram: https://instagram/flip_id
+Twitter: https://www.twitter.com/flip_id
+Facebook: https://www.facebook.com/HaiFlip","We are looking for Software Engineer (Backend). As a software engineer, you’ll be the brain behind crafting, developing, testing, going live, and maintaining the system. You are passionate in understanding the business context for features built to drive better customer experience and adoption.
+
+About Flip
+
+Rafi, Luqman, and Anjar, who were college friends in Universitas Indonesia, started Flip as a project in 2015 to transfer payments to each other at a fraction of what banks would charge them. They are pioneers in the Indonesian market, with their technology now helping millions of Indonesians, both individuals and businesses, carry out bank-to-bank money transfers through a reliable and seamless app.
+
+After seven years of operations, Flip has helped Indonesians transfer money worth several trillions of rupiah and has received double-digit funding from respectable investors such as Sequoia India, Insight Partner, and Insignia. Flip’s ultimate mission is to give Indonesians access to one of the most progressive and fairest financial services in the world.
+
+At Flip, we always strive to provide the fairest place for you to work, learn, and grow with talented and fun people in various opportunities to advance your career and get fair rewards. We believe that we have to treat employees, customers, and all stakeholders fairly and respectfully. Fair treatment for employees means we establish clear goals, facilitate our employees to achieve them, and value their contribution to the company with equitable benefits.
+
+About The Role
+
+As a software engineer, you’ll be the brain behind crafting, developing, testing, going live, and maintaining the system. You are passionate in understanding the business context for features built to drive better customer experience and adoption.
+
+What You'll Do
+
+Work cross-functionally with the Product, Design, Operations, and Backend teams across the squads to ship world-class products and features.
+Write code that's clear, concise, performant, tested, and easily understood by others.
+Partner with the product management team to execute the feature roadmap.
+Work with the overall backend teams to execute the engineering roadmap.
+Help debug production issues across services and levels of the stack.
+
+
+What You'll Need
+
+Have a solid background in common programming problems and solutions.
+Knowledge and experience in PHP or Go, Yii2 experience is a plus.
+Experience in working with large data set and/or high concurrency system is a plus.
+Solid understanding of algorithms, algorithmic complexities, OOP, design patterns, and clean code.
+Ability to plan, prioritize, estimate, and execute a task with a good degree of predictability.
+Ability to scope, review and refine user stories and/or tasks for technical completeness and to alleviate dependency risk.
+
+
+P.S. if you experience problems when submitting your CV through this platform, you can send it directly to career@flip.id"
+3908434435,Dotnet Developer,https://www.linkedin.com/jobs/view/3908434435,PT Berca Hardayaperkasa,https://www.linkedin.com/company/berca-hardayaperkasa/life,"Jakarta, Indonesia",,34,,,,,https://media.licdn.com/dms/image/C510BAQH0tl0DagpOig/company-logo_100_100/0/1630614854525/berca_hardayaperkasa_logo?e=1721865600&v=beta&t=DLeveruBPD6qWmyw4seX7htTcpxwTTPq8lTz02WBCP0,"Since its establishment in 1990, PT. Berca Hardayaperkasa (BHp) has been one of the leading providers of Enterprise Information & Communication Technology (IT), Communication (Telecommunication Measurement & Infrastructure / TMI & Network Service Provider / NSP) and Test & Measurement (T&M) solutions in Indonesia. BHp is also supported by other principals and has continued to excel in providing efficient ICT solutions, from hardware system to total solutions and services, to over 500 corporations of various industry disciplines nationwide.
+
+
+
+In the last 5 years BHp has registered extraordinary growth with the establishment of strategic business units Berca Consulting Service, Berca Cakra Teknologi (with its own computer brand Relion), Berca Sistem Integrator, Berca Consulting Services, Berca TMI (Telecommunication Measurement & Infrastructure) and Berca Jasatel (Integrated Services of Telematic).
+
+Based in Jakarta with representative offices in Bandung, Surabaya, Balikpapan, Batam, Yogyakarta, Riau and will open soon at Bali & Solo, BHp's core business activities are to provide computing system, IT consulting services, communication technology & services, and T&M products and services to corporations.
+
+Today BHp is employing more than 500 ICT Professionals, satisfying the increasingly complex demands of diverse industries, which include manufacturing, retail & distribution, communication, financial service, earth resources, utilities and government related sectors.
+
+PT. Berca Hardayaperkasa,
+Helps you initiate, create and facilitate your changes required, Not only in technology way!! Learn and discover what we mean by 'Beyond Technology!!'
+…
+show more","Job Description: 
+• Create and develop web and desktop applications according to external and internal needs
+• Make Technical Documentation after Go Live
+• Perform testing and debugging to ensure the integrity and reliability of the system or application
+• Maintenance database, web server
+• Mostly coordinate with clients about their needs (Client Oriented) with both Bahasa Indonesia and English
+ Job Qualification:
+• At least 1 year experience in designing and developing application
+• Having good knowledge in C#, .Net framework, Laravel/Codeigniter, React Native/Flutter, ReactJS 
+• Having good technical knowledge in ERP (Peoplesoft/SAP/Microsoft Dynamic) is a point plus
+• Fast learner, able to work in team & independently
+• Having good communication and strong analytical skills
+• Willing to travel and mobile if needed"
+3879704106,Junior Fullstack Developer,https://www.linkedin.com/jobs/view/3879704106,Zi.Care,https://www.linkedin.com/company/zicare/life,"Jakarta, Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/C4E0BAQFpDHWCdX5WoQ/company-logo_100_100/0/1630631990440/zicare_logo?e=1721865600&v=beta&t=wJNVYheOQF62pLX2Uc5cIxW6n1aIWjtH9prevy-qLPQ,"Digitizing Healthcare
+
+Zi.Care adalah solusi Sistem Informasi dan manajemen pelayanan kesehatan terkini yang dikembangkan oleh PT. Jejaring Tiga Artha.
+
+Zi.Care dikembangkan secara langsung melalui riset dan pengalaman founders di rumah sakit rujukan nasional untuk menciptakan sebuah sistem informasi kesehatan yang memiliki standar tinggi.
+
+Visi kami adalah memimpin inovasi dalam industri kesehatan dengan pendekatan holistik dalam riset dan pengembangan, sistem kami akan memberikan pengalaman unik bagi pengguna dan disaat yang sama menciptakan ekosistem dan optimalisasi keuntungan bagi seluruh stakeholder industri kesehatan.
+…
+show more","Company Description: Zi.Care adalah solusi Sistem Informasi dan manajemen pelayanan kesehatan terkini yang dikembangkan oleh PT. Jejaring Tiga Artha. Zi.Care dikembangkan secara langsung melalui riset dan pengalaman founders di rumah sakit rujukan nasional untuk menciptakan sebuah sistem informasi kesehatan yang memiliki standar tinggi. Visi kami adalah memimpin inovasi dalam industri kesehatan dengan pendekatan holistik dalam riset dan pengembangan, sistem kami akan memberikan pengalaman unik bagi pengguna dan disaat yang sama menciptakan ekosistem dan optimalisasi keuntungan bagi seluruh stakeholder industri kesehatan. Job Description:
+
+Junior Fullstack Developer"
+3846668346,SE - AML & ABC Control and Reporting (Sharia),https://www.linkedin.com/jobs/view/3846668346,Prudential Indonesia (PT Prudential Life Assurance),https://www.linkedin.com/company/prudential-indonesia-pt-prudential-life-assurance-/life,"Jakarta, Jakarta, Indonesia",,100,,,,,https://media.licdn.com/dms/image/C510BAQHlHbrkp6AbPg/company-logo_100_100/0/1630608436677/prudential_indonesia_pt_prudential_life_assurance__logo?e=1721865600&v=beta&t=_PhoJWP_kUzEJaLdoNVAIo_ae1G043vySglzDIdwpFU,"Listening. Understanding. Delivering.
+
+At Prudential Indonesia we deliver excellence by consistently innovating, creating new opportunities and growing our business to cater all of our customers' needs.
+
+With a vision of becoming truly world class, Prudential Indonesia provides quality services and proven track record of market leadership in the country.
+
+Working at Prudential Indonesia gives you many opportunities to develop yourself and explore what you’re really capable of, as well as the perfect environment to collaborate, listen and care for others.
+
+Ask around. The more you find out about us, the more you’ll learn that we’re an insurance company that understands you.
+
+We are here to listen.
+…
+show more","Prudential’s purpose is to be partners for every life and protectors for every future. Our purpose encourages everything we do by creating a culture in which diversity is celebrated and inclusion assured, for our people, customers, and partners. We provide a platform for our people to do their best work and make an impact to the business, and we support our people’s career ambitions. We pledge to make Prudential a place where you can Connect, Grow, and Succeed.
+
+Main Responsibilities
+
+Assist the Manager, (Head of) AML & ABC by establishing adequate control to mitigate money laundering, bribery, and corruption-related risk exposure.
+Prepare and handle AML & ABC related reporting to regulators and other stakeholders.
+Provide data, analysis, and evaluation report to support the (Head of) AML & ABC in overseeing overall AML & ABC implementation program.
+Perform other ad-hoc AML related tasks.
+
+
+Qualification
+
+Job Specification:
+
+Bachelor’s degree from any major.
+Good proficiency in English communication (both oral or writing), and presentation Skill.
+Good sensibility on Risk & Control.
+Able to work with tight deadlines and pressure.
+Result-oriented. 
+
+
+Experience
+
+Min. 2 – 3 years’ experience working in Financial Services Industry (e.g Bank, Insurance, Capital Market) as Compliance or Anti-Money Laundering team.
+Familiar with AML-related reporting, practice and regulations in insurance or any other financial industry.
+Familiar with the Anti-Bribery and Corruption concept and practice.
+
+
+Knowledge & Skill
+
+Good Computer literate: Microsoft Visio, Excel, PowerPoint, and Word.
+Detail-Oriented.
+Good Communication Skill.
+Capable of working independently but able to become a team player with a positive attitude.
+Knowing Life Insurance business process and its product is a plus.
+
+
+Prudential is an equal opportunity employer. We provide equality of opportunity of benefits for all who apply and who perform work for our organisation irrespective of sex, race, age, ethnic origin, educational, social and cultural background, marital status, pregnancy and maternity, religion or belief, disability or part-time / fixed-term work, or any other status protected by applicable law. We encourage the same standards from our recruitment and third-party suppliers taking into account the context of grade, job and location. We also allow for reasonable adjustments to support people with individual physical or mental health requirements."
+3871463449,Frontend Developer,https://www.linkedin.com/jobs/view/3871463449,Wipro,https://www.linkedin.com/company/wipro/life,"Jakarta, Indonesia",,100,,,,,https://media.licdn.com/dms/image/D4E0BAQEkfMUEE4caDQ/company-logo_100_100/0/1698887191930?e=1721865600&v=beta&t=kPkiXL-AfYMjGpAGHzQVPh0kRZm_UPRsXbo3rV4Zkz8,"Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting company focused on building innovative solutions that address clients’ most complex digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, engineering, and operations, we help clients realize their boldest ambitions and build future-ready, sustainable businesses. With nearly 245,000 employees and business partners across 65 countries, we deliver on the promise of helping our clients, colleagues, and communities thrive in an ever-changing world.
+Wipro is an Equal Employment Opportunity employer and makes all employment and employment-related decisions without regard to a person's race, sex, national origin, ancestry, disability, sexual orientation, or any other status protected by applicable law.","Front-End Developer Skills and Requirements – 3-8years
+Proficiency in CSS, HTML and JavaScript
+Experience with CSS preprocessors such as Sass or Less
+Ability to work with frontend libraries like bootstrap, ag grid
+Responsive design and mobile development
+Strong problem-solving and debugging skills
+Knowledge and expertise in front-end frameworks and libraries such as React, Angular.
+Comfortable in working with branches, merging code, and resolving conflicts.
+Strong communication skills in order to work with designers, back-end developers, and other members.
+Knowledge of browser developer tools such as Chrome DevTools
+Should be able to write code that works across browsers and solve any issues that may arise."
+3633356022,Front-End Software Engineer,https://www.linkedin.com/jobs/view/3633356022,Mekari,https://www.linkedin.com/company/mekari/life,"Jakarta, Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/D560BAQEy-QSiDSQhLQ/company-logo_100_100/0/1689148487268/mekari_logo?e=1721865600&v=beta&t=xvZ6Jeh10sw_Acs2w_cFnhQE2bYiFP3ikZSeWi-utlc,"Mekari is the #1 Software-as-a-Service (SaaS) company in Indonesia, aiming to empower the progress of businesses and professionals across various industries.
+
+Our innovative cloud-based technology solution in HR (Mekari Talenta), Accounting (Mekari Jurnal), Sales (Mekari Qontak), Tax (Mekari Klikpajak), Electronic Signature (Mekari Sign), and Benefits (Mekari Flex) have been used by tens thousands of businesses in Indonesia.
+
+To reach millions, we need more people like you —those eager to innovate, lead, and win with us.","Mekari is Indonesia's no. 1 Software-as-a-Service (SaaS) company. Our mission is to empower businesses and professionals to progress effortlessly. Our products (Mekari Talenta, Mekari Jurnal, Mekari KlikPajak, & Mekari Qontak) have been used by tens of thousands of businesses in Indonesia.
+
+To reach millions, we need more people like you: entrepreneurs, builders, owners inside the company who are eager to grow at scale. Join us to empower more businesses with technology.
+
+Essential Technical Skills
+
+Extensive experience in frontend development using Vue.js (Strong web design skills preferred)
+At least 2 years of experience in building and deploying web applications using MVC, MVVM etc.(MVW) architecture using Vue.js.
+Familiarity with tools such as Babeljs, WebPack Configuration module, etc.
+Familiarity working with web frameworks such as Yii2/Laravel in PHP, or Ruby on Rails.
+Proficient understanding of code versioning tools (like Git or SVN)
+
+Essential Soft Skills
+
+Worked in startups like environments with high levels of ownership and commitment
+Have a penchant for solving complex and interesting problems
+The ability to do deep problem solving and build elegant, maintainable solutions to complex problems
+Collaborate with a team to define, design, and ship new features in a well-defined time period.
+
+Desirable
+
+Experience working with remote design teams across the globe
+Past experience with Test Driven Development (TDD) process for software development
+
+What You Will Get
+
+ Competitive salary + daily allowance.
+ Premium private health insurance (outpatient, inpatient, maternity, dental).
+ Early access to salary + flex installment (employee loan) via Mekari Flex.
+ Allowance for sports activities and glasses/contact lenses.
+ Flexible working hours and remote work culture with free co-working space services.
+ Annual and unpaid leaves from day 1 of join date + unlimited sick leave with doctor note.
+ Notebook Ownership Program.
+ Strategic office location, accessible by MRT.
+ Friendly and dynamic work environment.
+ Opportunity to take part in growing Indonesia's no. 1 SaaS company
+
+Our team will review your application and will be in touch if your application is shortlisted to the next stage. If you do not hear from us in 30 days, we will keep your resume on file in case a relevant opportunity opens up.
+
+Don't forget to check our Recruitment FAQ at bit.ly/RecruitmentFAQ-Mekari [ENG] or bit.ly/RekrutmenMekari-FAQ [INA] to find the answers to commonly-asked questions regarding our recruitment process.
+
+We wish you the best. Hope to see you around soon!"
+3883862178,Software Engineer (Financial Service),https://www.linkedin.com/jobs/view/3883862178,Mekari,https://www.linkedin.com/company/mekari/life,"Jakarta, Jakarta, Indonesia",,0,,,,,https://media.licdn.com/dms/image/D560BAQEy-QSiDSQhLQ/company-logo_100_100/0/1689148487268/mekari_logo?e=1721865600&v=beta&t=xvZ6Jeh10sw_Acs2w_cFnhQE2bYiFP3ikZSeWi-utlc,"Mekari is the #1 Software-as-a-Service (SaaS) company in Indonesia, aiming to empower the progress of businesses and professionals across various industries.
+
+Our innovative cloud-based technology solution in HR (Mekari Talenta), Accounting (Mekari Jurnal), Sales (Mekari Qontak), Tax (Mekari Klikpajak), Electronic Signature (Mekari Sign), and Benefits (Mekari Flex) have been used by tens thousands of businesses in Indonesia.
+
+To reach millions, we need more people like you —those eager to innovate, lead, and win with us.","Mekari is Indonesia's no. 1 Software-as-a-Service (SaaS) company. Our mission is to empower businesses and professionals to progress effortlessly. Our products (Mekari Talenta, Mekari Jurnal, Mekari KlikPajak, & Mekari Qontak) have been used by tens of thousands of businesses in Indonesia.
+
+To reach millions, we need more people like you: entrepreneurs, builders, owners inside the company who are eager to grow at scale. Join us to empower more businesses with technology.
+
+Job Descriptions
+
+Maintain high levels of customer engagement (including on-site meetings) with a focus on customer satisfaction and loyalty
+You will work with your accounts proactively to drive product adoption as well as act as the voice of clients
+Proactively spot and correct any issues that could affect customer satisfaction or retention
+Facilitate periodic reviews with customers, determining new requirements and further success through engaging and consultative discussions
+Continually gather feedback from our clients, then work directly with our product team to provide input on the product roadmap
+
+Technical Requirements
+
+Good knowledge of Ruby. Experience with Ruby frameworks (e.g. Rails, Sinatra) is a plus.
+Understand basic Javascript. Experience with Javascript frameworks (e.g. VueJs, ReactJs) is a plus.
+Familiarity with relational databases concepts (SQL syntax, indexing, structures, and query optimization).
+Understand programming practices such as separation of concerns, unit testing, and writing self-documenting code.
+Familiarity with version control systems such as Git or Mercury.
+Have some experience in deploying an app to the production environment
+
+Soft Skill Requirements
+
+Integrity and humility is a must
+Passionate about problem-solving and software engineering
+Possess excellent teamwork skill
+Good communication skills with technical and non-technical team members
+Love to learn new things and share them with others
+
+You Will Impress Us If You Are
+
+Experienced with containers and orchestration (e.g. Docker & Kubernetes)
+Experienced in building a high performance & highly available web application
+Experienced in mentoring more junior developers
+Maintain an open-source project or is an open-source contributor
+
+What You Will Get
+
+ Competitive salary + daily allowance.
+ Premium private health insurance (outpatient, inpatient, maternity, dental).
+ Early access to salary + flex installment (employee loan) via Mekari Flex.
+ Allowance for sports activities and glasses/contact lenses.
+ Flexible working hours and remote work culture with free co-working space services.
+ Annual and unpaid leaves from day 1 of join date + unlimited sick leave with doctor note.
+ Notebook Ownership Program.
+ Strategic office location, accessible by MRT.
+ Friendly and dynamic work environment.
+ Opportunity to take part in growing Indonesia's no. 1 SaaS company
+
+Our team will review your application and will be in touch if your application is shortlisted to the next stage. If you do not hear from us in 30 days, we will keep your resume on file in case a relevant opportunity opens up.
+
+Don't forget to check our Recruitment FAQ at bit.ly/RecruitmentFAQ-Mekari [ENG] or bit.ly/RekrutmenMekari-FAQ [INA] to find the answers to commonly-asked questions regarding our recruitment process.
+
+We wish you the best. Hope to see you around soon!"
+3908058097,Senior Frontend Developer,https://www.linkedin.com/jobs/view/3908058097,PT Integra Pratama,https://www.linkedin.com/company/pt-integra-pratama/life,"West Jakarta, Jakarta, Indonesia",,13,,,,,"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7","PT Integra Pratama is an information technology and services company based out of Jakarta, Indonesia in operation since 2002 as a privately held company. We are one of the leading partners in the fast-growing market of Indonesia in extending solution and services for digital and conventional payment business.","Responsibilities :
+* Develop new user-facing features.
+* Build reusable code and libraries for future use.
+* Ensure the technical feasibility of UI/UX designs.
+* Optimize application for maximum speed and scalability.
+* Assure that all user input is validated before submitting to back-end.
+* Collaborate with other team members and stakeholders.
+* Be able to do testing, debugging, and problem-solving
+
+Requirements :
+* Have an Excellent Fundamental on either Java, Golang or JS
+* Have a good Understanding on several Programming Principles s.a S.O.L.I.D, Dependency
+Injection, Clean Architecture.
+* Have a deep knowledge on Framework Spring, Springboot, Spring AOP, Spring JPA
+* Understand how to Secure the BE/API using several method s.a basik Auth, bearer Token or
+Active Directory
+* Understand how to Integrate the BE with any form of Integration (Sync: REST, Async: JMS,
+Message Broker)
+* Understand on how the Dependency Manager such as Maven/Gradle works.
+* Understand how to use Git base Version Control, and branches strategy s.a Git Flow or Trunk
+Based
+* Strong proficiency in JavaScript, Asynchronous JS sa: Callback, Async Await, and Promise.
+* Strong proficiency in TypeScript, including type definitions, interfaces, and generics.
+* Deep understanding of React fundamentals such as JSX, components, state, and props.
+* Experience with React lifecycle methods, hooks, and context API.
+* Experience in integrating with RESTful APls and understanding of HTTP protocols, AJAX, and JSON"
+3902618498,Database Engineer,https://www.linkedin.com/jobs/view/3902618498,PHINCON,https://www.linkedin.com/company/phintraco-consulting/life,"Jakarta, Indonesia",,100,,,,,https://media.licdn.com/dms/image/C560BAQGlo4pZo6rcaQ/company-logo_100_100/0/1631379820861?e=1721865600&v=beta&t=_kf79s2sIvz31p5ApINXJP9P1dRKGQE9klLz6QL9yPY,"Phincon (Phintraco Consulting), a company member of Phintraco Group, is an Information Technology (IT) consulting and services company.
+
+Established in 2008, we are focusing on providing customers with all spectrums of Customer Relationship Management (CRM), Middleware, HR, Big Data, RPA, and ERP solutions.
+…
+show more","• Candidate must be possess at least bachelor degree majoring Information Technology/ Information System with minimum GPA 3.00 of 4.00
+• Having minimum 1 year experiences in reporting, dashboard and databases.
+• Good analytical thinking and problem solving; initiative or high energy; good interpersonal skill.
+• Have knowledge about dashboard reporting and contact center solution.
+• Good written and verbal communication skills.
+• Ability to work collaboratively with other departments and thrive in a fast-paced and dynamic environment
+• Must have 1+ year of experience working with BI tools like Tableau, Google Data Studio, Microstrategy or Microsoft Power BI, etc.
+• Experience with SQL query.
+• Proficient with the Microsoft Office suite of tools (Word, Excel, PowerPoint, and Visio).
+• Good in Problem Solving and Critical Thinking.
+• Strong foundation in reporting, statistical methods, database and can analyze trend and give insight from dashboard.
+• English is a plus."
+3901021747,Database Engineer,https://www.linkedin.com/jobs/view/3901021747,PHINCON,https://www.linkedin.com/company/phintraco-consulting/life,"Jakarta, Indonesia",,100,,,,,https://media.licdn.com/dms/image/C560BAQGlo4pZo6rcaQ/company-logo_100_100/0/1631379820861?e=1721865600&v=beta&t=_kf79s2sIvz31p5ApINXJP9P1dRKGQE9klLz6QL9yPY,"Phincon (Phintraco Consulting), a company member of Phintraco Group, is an Information Technology (IT) consulting and services company.
+
+Established in 2008, we are focusing on providing customers with all spectrums of Customer Relationship Management (CRM), Middleware, HR, Big Data, RPA, and ERP solutions.","• Candidate must be possess at least bachelor degree majoring Information Technology/ Information System with minimum GPA 3.00 of 4.00
+• Having minimum 1 year experiences in reporting, dashboard and databases.
+• Good analytical thinking and problem solving; initiative or high energy; good interpersonal skill.
+• Have knowledge about dashboard reporting and contact center solution.
+• Good written and verbal communication skills.
+• Ability to work collaboratively with other departments and thrive in a fast-paced and dynamic environment
+• Must have 1+ year of experience working with BI tools like Tableau, Google Data Studio, Microstrategy or Microsoft Power BI, etc.
+• Experience with SQL query.
+• Proficient with the Microsoft Office suite of tools (Word, Excel, PowerPoint, and Visio).
+• Good in Problem Solving and Critical Thinking.
+• Strong foundation in reporting, statistical methods, database and can analyze trend and give insight from dashboard.
+• English is a plus."

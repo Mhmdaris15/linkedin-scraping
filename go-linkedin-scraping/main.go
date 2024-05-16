@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"go-linkedin-scraping/utils"
 	"log"
 	"runtime"
@@ -73,57 +74,57 @@ func main() {
 	// Number of instances/drivers you want to run concurrently
 
 	// Run the server
-	err := r.Run(":3001")
-	if err != nil {
-		log.Printf("Error when running server: %s", err.Error())
-	}
-	// Number of instances/drivers you want to run concurrently
-	// numInstances := 2
-
-	// // Create 3 array of job name to search
-	// jobNames := [2]string{"IT Support", "Software Engineer"}
-
-	// // Ask driver to login or use existing cookies
-	// var loginOrUseExistingCookies string
-	// log.Print("Login or use existing cookies? (y for login, n for use existing cookies): ")
-	// _, err = fmt.Scanln(&loginOrUseExistingCookies)
+	// err := r.Run(":3001")
 	// if err != nil {
-	// 	log.Fatal("Error:", err)
+	// 	log.Printf("Error when running server: %s", err.Error())
 	// }
+	// Number of instances/drivers you want to run concurrently
+	numInstances := 1
 
-	// if loginOrUseExistingCookies == "y" {
-	// 	isLogin = true
-	// } else {
-	// 	// Load cookies from JSON file
-	// 	isLogin = false
-	// }
+	// Create 3 array of job name to search
+	jobNames := [1]string{"Software Engineer"}
 
-	// // Create a WaitGroup to wait for all Goroutines to finish
-	// var wg sync.WaitGroup
+	// Ask driver to login or use existing cookies
+	var loginOrUseExistingCookies string
+	log.Print("Login or use existing cookies? (y for login, n for use existing cookies): ")
+	_, err := fmt.Scanln(&loginOrUseExistingCookies)
+	if err != nil {
+		log.Fatal("Error:", err)
+	}
 
-	// // Connect to MongoDB with goroutine
-	// wg.Add(1)
-	// go func() {
-	// 	defer wg.Done()
-	// 	utils.ConnectDB()
-	// }()
+	if loginOrUseExistingCookies == "y" {
+		isLogin = true
+	} else {
+		// Load cookies from JSON file
+		isLogin = false
+	}
 
-	// // Loop to create and run the specified number of instances
-	// for i := 0; i < numInstances; i++ {
-	// 	wg.Add(1) // Increment the WaitGroup counter for each Goroutine
+	// Create a WaitGroup to wait for all Goroutines to finish
+	var wg sync.WaitGroup
 
-	// 	// Goroutine to run each instance
-	// 	go func(instanceID int) {
-	// 		// Defer the WaitGroup Done method to decrement the counter when the Goroutine completes
-	// 		defer wg.Done()
+	// Connect to MongoDB with goroutine
+	wg.Add(1)
+	go func() {
+		defer wg.Done()
+		utils.ConnectDB()
+	}()
 
-	// 		// Your scraping code for each instance
-	// 		Scrape(instanceID, jobNames[instanceID])
-	// 	}(i)
-	// }
+	// Loop to create and run the specified number of instances
+	for i := 0; i < numInstances; i++ {
+		wg.Add(1) // Increment the WaitGroup counter for each Goroutine
 
-	// // Wait for all Goroutines to finish
-	// wg.Wait()
+		// Goroutine to run each instance
+		go func(instanceID int) {
+			// Defer the WaitGroup Done method to decrement the counter when the Goroutine completes
+			defer wg.Done()
+
+			// Your scraping code for each instance
+			Scrape(instanceID, jobNames[instanceID])
+		}(i)
+	}
+
+	// Wait for all Goroutines to finish
+	wg.Wait()
 }
 
 func Scrape(instanceID int, jobName string) {
